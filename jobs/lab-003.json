@@ -1,0 +1,25 @@
+{
+  "id": "lab-003",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41722279907,
+  "artifact_sha256": "3719c64bef3077c8ac7390c012ab2ba72722ba537069d782cf5565db03265cbe",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "capture",
+    "collect"
+  ],
+  "captures": [
+    "settings",
+    "qs",
+    "shade",
+    "power",
+    "myfiles"
+  ],
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "confirm": false
+}
