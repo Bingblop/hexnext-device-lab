@@ -18,3 +18,5 @@
 [18:58:25] preview power: the hook was not on screen (try 2)
 [18:58:28] capture light myfiles
 [18:58:43] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
+[18:59:24] job lab-003 pushed
+[18:59:54] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
