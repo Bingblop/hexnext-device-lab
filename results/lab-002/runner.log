@@ -1,0 +1,24 @@
+[15:53:31] job lab-002
+[15:53:36] install: downloaded artifact 13268957961 through the API
+[15:53:36] install: run 41711469374 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[15:53:37] restarting Shizuku as root
+[15:53:45] scan
+[15:53:53] apply (confirm=false)
+[16:08:57] job lab-002
+[16:09:32] install: downloaded artifact 13268957961 through the API
+[16:09:32] install: run 41711469374 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[16:09:33] restarting Shizuku as root
+[16:09:41] scan
+[16:09:52] apply (confirm=false)
+[16:12:51] capture dark settings
+[16:13:11] capture dark qs
+[16:13:27] capture dark shade
+[16:13:50] capture dark power
+[16:14:04] power: no power button found in the quick panel
+[16:14:11] capture dark myfiles
+[16:14:29] capture light settings
+[16:14:48] capture light qs
+[16:15:04] capture light shade
+[16:16:10] capture light power
+[16:16:27] capture light myfiles
+[16:16:43] collect (claude/project-thread-rje8bm)
