@@ -15,3 +15,5 @@
 [14:42:43] capture light app:com.samsung.android.lool
 [14:42:43] capture: com.samsung.android.lool did not open; its activities are in activities-com.samsung.android.lool.txt
 [14:42:58] arsc: com.samsung.android.lool 2660 KB
+[14:43:02] job lab-027 pushed
+[14:43:33] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
