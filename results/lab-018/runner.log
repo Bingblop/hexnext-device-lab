@@ -10,3 +10,5 @@
 [02:21:13] capture dark qs
 [02:22:11] preview qs: the hook was not on screen (try 1)
 [02:22:20] capture dark power
+[02:24:27] job lab-018: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-018
+[02:25:02] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
