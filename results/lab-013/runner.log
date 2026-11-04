@@ -20,3 +20,6 @@
 [23:36:32] scan
 [23:38:40] apply (confirm=true)
 [23:42:23] soft reboot; remaining steps: shizuku waitrestore overlaystate capture (unlock the phone when it comes back)
+[23:42:57] job lab-013
+[23:42:57] restarting Shizuku as root
+[23:43:05] waiting for Hex Next to restore the theme

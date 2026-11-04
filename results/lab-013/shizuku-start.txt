@@ -19,11 +19,9 @@ info: cgroup after switch: 0::/
 info: switching mount namespace to init...
 info: starter begin
 info: checking for existing server processes...
-info: found active server process 27321
-info: killed process 27321
-info: cleanly terminated 1 existing process(es)
+info: no existing server process running
 info: apk path is /data/app/~~C5JHw39l02NfD0SEJTMR0Q==/moe.shizuku.privileged.api-4W7ilo5g9S8O7csbWZyztQ==/base.apk
 info: starting server...
-info: shizuku_server pid is 11912
+info: shizuku_server pid is 31314
 info: the server is still running 3000 ms after it was started
 info: shizuku_starter exit with 0

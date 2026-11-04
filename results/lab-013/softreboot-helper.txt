@@ -1,2 +1,1 @@
-Failed to write while dumping service window: Broken pipe
 Starting service: Intent { act=com.termux.RUN_COMMAND cmp=com.termux/.app.RunCommandService (has extras) }
