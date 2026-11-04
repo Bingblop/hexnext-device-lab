@@ -1,0 +1,9 @@
+{"cmd":"remove","ok":false,"detail":"Shizuku not ready: PermissionNeeded","at":1793833121230}
+{"cmd":"scan","ok":false,"detail":"Shizuku not ready: PermissionNeeded","at":1793833381411}
+{"cmd":"apply","ok":false,"detail":"Shizuku not ready: PermissionNeeded","at":1793833442587}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793833519688}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793833540402}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793833562894}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=false","at":1793833584356}
+{"cmd":"remove","ok":false,"detail":"Shizuku not ready: PermissionNeeded","at":1793833650006}
+{"cmd":"apply","ok":false,"detail":"Shizuku not ready: PermissionNeeded","at":1793833738652}
