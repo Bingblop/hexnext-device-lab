@@ -8,3 +8,5 @@
 [01:56:40] capture dark dialogs
 [01:57:00] capture dark settings
 [01:57:19] capture dark power
+[01:57:47] job lab-017 pushed
+[01:58:18] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
