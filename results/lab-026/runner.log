@@ -72,3 +72,5 @@
 [13:51:03] arsc: com.samsung.android.email.provider 3564 KB
 [13:51:09] arsc: com.sec.android.app.music 2264 KB
 [13:51:23] arsc: com.samsung.android.app.notes 5084 KB
+[13:57:07] job lab-026: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-026
+[13:57:39] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
