@@ -2,7 +2,7 @@
 Activity Resolver Table:
   Schemes:
       http:
-        82414a1 com.samsung.android.themestore/.ui.main.MainActivity filter ef36687
+        3e0385f com.samsung.android.themestore/.ui.main.MainActivity filter 6da5b75
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -10,7 +10,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/MainPage}"
-        85e795 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter e61b49b
+        5165ef3 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter aed3629
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -18,7 +18,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ProductDetail}"
-        85e795 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter f835038
+        5165ef3 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter a36bdae
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -26,7 +26,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "www.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /global/themestore/}"
-        aa6811 com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 91cff77
+        9adf74f com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter fa0be5
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -34,7 +34,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/MyTheme}"
-        2d81c13 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter 9690849
+        448161 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter 72b8147
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -42,7 +42,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/NormalCategoryList}"
-        3b4f54e com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter c019f7c
+        2d3dd74 com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter b61b312
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -50,7 +50,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/CategoryList}"
-        130e005 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter 4d4fa8b
+        f14eae3 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter 262fb99
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -58,7 +58,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ProductSetList}"
-        5873768 com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter f766026
+        e23ee5e com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter 179670c
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -66,7 +66,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ChartProductList}"
-        a16b467 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter 6e00abd
+        d5eb855 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter a62d35b
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -74,7 +74,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/RecommendProductList}"
-        bd858b2 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter 9978b80
+        bdbe7f8 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter 5896b36
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -82,7 +82,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/LocalProductDetail}"
-        70795b9 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 71bc95f
+        bf14a37 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 5469d0d
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -90,7 +90,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ReceiptDetail}"
-        ca9dfac com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter 8ee4c0a
+        7f904c2 com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter c9fbe10
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -98,7 +98,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/AnnouncementDetail}"
-        25d9c7b com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter 83942f1
+        c4cfd09 com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter 159492f
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -106,7 +106,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/About}"
-        a2d1ed6 com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter a0e1d2d
+        aaab3c com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 1bb494b
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -114,7 +114,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Settings}"
-        2b45262 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter f64d4b0
+        8153f28 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter 3e10de6
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -122,7 +122,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/WishList}"
-        6dc5f29 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter f6fc84f
+        ef32f27 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter 4a5e37d
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -130,7 +130,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/FollowingSellerList}"
-        dba8bdc com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 6b9cbba
+        5a02272 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 766cb40
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -138,7 +138,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/SellerList}"
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 728e986
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter 68d5b6c
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -146,7 +146,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Search}"
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 2ea7a74
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter f2d8dca
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -154,7 +154,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Categories}"
-        8ddab9d com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 35debe3
+        bd51b3b com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 1fbbfb1
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -162,7 +162,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/SellerProductList}"
-        16ec9e0 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter f7da35e
+        7ebc96 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter 835ac04
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -171,7 +171,7 @@ Activity Resolver Table:
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ParentalAgree}"
       https:
-        82414a1 com.samsung.android.themestore/.ui.main.MainActivity filter ef36687
+        3e0385f com.samsung.android.themestore/.ui.main.MainActivity filter 6da5b75
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -179,7 +179,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/MainPage}"
-        85e795 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter e61b49b
+        5165ef3 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter aed3629
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -187,7 +187,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ProductDetail}"
-        85e795 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter f835038
+        5165ef3 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter a36bdae
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -195,7 +195,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "www.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /global/themestore/}"
-        aa6811 com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 91cff77
+        9adf74f com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter fa0be5
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -203,7 +203,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/MyTheme}"
-        2d81c13 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter 9690849
+        448161 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter 72b8147
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -211,7 +211,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/NormalCategoryList}"
-        3b4f54e com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter c019f7c
+        2d3dd74 com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter b61b312
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -219,7 +219,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/CategoryList}"
-        130e005 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter 4d4fa8b
+        f14eae3 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter 262fb99
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -227,7 +227,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ProductSetList}"
-        5873768 com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter f766026
+        e23ee5e com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter 179670c
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -235,7 +235,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ChartProductList}"
-        a16b467 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter 6e00abd
+        d5eb855 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter a62d35b
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -243,7 +243,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/RecommendProductList}"
-        bd858b2 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter 9978b80
+        bdbe7f8 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter 5896b36
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -251,7 +251,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/LocalProductDetail}"
-        70795b9 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 71bc95f
+        bf14a37 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 5469d0d
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -259,7 +259,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ReceiptDetail}"
-        ca9dfac com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter 8ee4c0a
+        7f904c2 com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter c9fbe10
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -267,7 +267,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/AnnouncementDetail}"
-        25d9c7b com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter 83942f1
+        c4cfd09 com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter 159492f
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -275,7 +275,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/About}"
-        a2d1ed6 com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter a0e1d2d
+        aaab3c com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 1bb494b
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -283,7 +283,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Settings}"
-        2b45262 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter f64d4b0
+        8153f28 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter 3e10de6
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -291,7 +291,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/WishList}"
-        6dc5f29 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter f6fc84f
+        ef32f27 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter 4a5e37d
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -299,7 +299,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/FollowingSellerList}"
-        dba8bdc com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 6b9cbba
+        5a02272 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 766cb40
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -307,7 +307,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/SellerList}"
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 728e986
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter 68d5b6c
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -315,7 +315,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Search}"
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 2ea7a74
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter f2d8dca
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -323,7 +323,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/Categories}"
-        8ddab9d com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 35debe3
+        bd51b3b com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 1fbbfb1
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -331,7 +331,7 @@ Activity Resolver Table:
           Scheme: "https"
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/SellerProductList}"
-        16ec9e0 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter f7da35e
+        7ebc96 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter 835ac04
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -340,121 +340,121 @@ Activity Resolver Table:
           Authority: "apps.samsung.com": -1
           Path: "PatternMatcher{PREFIX: /theme/ParentalAgree}"
       themestore:
-        82414a1 com.samsung.android.themestore/.ui.main.MainActivity filter b2c06c6
+        3e0385f com.samsung.android.themestore/.ui.main.MainActivity filter 1f22ac
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "MainPage": -1
-        85e795 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter 7d130aa
+        5165ef3 com.samsung.android.themestore/.ui.detailPage.main.ActivityDetailPage filter e66a7b0
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "ProductDetail": -1
-        aa6811 com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 269ad76
+        9adf74f com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 6868edc
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "MyTheme": -1
-        2d81c13 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter 843ee50
+        448161 com.samsung.android.themestore/.ui.productList.category.ActivityCategoryProductList filter e9cd486
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "NormalCategoryList": -1
-        3b4f54e com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter f1e666f
+        2d3dd74 com.samsung.android.themestore/.ui.productList.categorySet.ActivityCategorySetProductList filter d66d29d
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "CategoryList": -1
-        130e005 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter eef185a
+        f14eae3 com.samsung.android.themestore/.ui.productList.curatedProductSet.ActivityCuratedProductList filter a0b5ce0
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "ProductSetList": -1
-        5873768 com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter fe47781
+        e23ee5e com.samsung.android.themestore/.ui.main.entryStore.popularProduct.ActivityPopularProductList filter 2a1523f
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "ChartProductList": -1
-        a16b467 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter 54c6214
+        d5eb855 com.samsung.android.themestore/.ui.productList.recommended.ActivityRcdProductList filter 43c926a
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "RecommendProductList": -1
-        bd858b2 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter 1d03003
+        bdbe7f8 com.samsung.android.themestore/.ui.detailPage.main.ActivityMyDeviceDetail filter f1f84d1
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "LocalProductDetail": -1
-        70795b9 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 3ef4dfe
+        bf14a37 com.samsung.android.themestore/.ui.purchaseReceipt.ActivityPurchasedReceipt filter 7e38ba4
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "ReceiptDetail": -1
-        ca9dfac com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter 182d475
+        7f904c2 com.samsung.android.themestore/.ui.announcement.ActivityAnnouncementDetail filter 48652d3
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "AnnouncementDetail": -1
-        25d9c7b com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter 9ab4a98
+        c4cfd09 com.samsung.android.themestore/.ui.setting.about.ActivityAbout filter fd6ab0e
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "About": -1
-        a2d1ed6 com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 4567844
+        aaab3c com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 8d66a1a
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "Settings": -1
-        2b45262 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter 1ad1ff3
+        8153f28 com.samsung.android.themestore/.ui.wishList.ActivityWishList filter b3a4441
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "WishList": -1
-        6dc5f29 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter 38932ae
+        ef32f27 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerFollowingList filter 51325d4
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "FollowingSellerList": -1
-        dba8bdc com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 732c4e5
+        5a02272 com.samsung.android.themestore/.ui.seller.selllerList.ActivitySellerList filter 5d996c3
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "SellerList": -1
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 3cfca61
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter e34dc1f
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "Search": -1
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter 7367247
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter d930535
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "Categories": -1
-        8ddab9d com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 91a1812
+        bd51b3b com.samsung.android.themestore/.ui.seller.sellerProductList.ActivitySellerProductList filter 2aac258
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
           Scheme: "themestore"
           Authority: "SellerProductList": -1
-        16ec9e0 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter ee6499
+        7ebc96 com.samsung.android.themestore/.ui.up.ActivityOrganizerConfirm filter 5703017
           Action: "android.intent.action.VIEW"
           Category: "android.intent.category.DEFAULT"
           Category: "android.intent.category.BROWSABLE"
@@ -463,187 +463,187 @@ Activity Resolver Table:
 
   Non-Data Actions:
       com.samsung.android.action.THEME_SERVICE_LAUNCH:
-        82414a1 com.samsung.android.themestore/.ui.main.MainActivity filter a49f9b4
+        3e0385f com.samsung.android.themestore/.ui.main.MainActivity filter 454c70a
           Action: "com.samsung.android.action.THEME_SERVICE_LAUNCH"
           Category: "android.intent.category.DEFAULT"
       com.samsung.android.themestore.activity.LauncherfromSetting:
-        5b9b6d9 com.samsung.android.themestore/.activity.LauncherfromSetting filter a9f289e
+        922d457 com.samsung.android.themestore/.activity.LauncherfromSetting filter 2d11b44
           Action: "com.samsung.android.themestore.activity.LauncherfromSetting"
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
       android.intent.action.MAIN:
-        cc59dd com.samsung.android.themestore/.activity.LauncherFromFinder filter 851c952
+        879fb7b com.samsung.android.themestore/.activity.LauncherFromFinder filter 2b1bd98
           Action: "android.intent.action.MAIN"
           Category: "com.samsung.android.scs.ai.search.category.SEARCHABLE_ACTIVITY"
           Category: "com.samsung.android.smartsuggestions.search.category.SEARCHABLE_ACTIVITY"
-        c589f7f com.samsung.android.themestore/.activity.Launcher filter d8ecb4c
+        3ef842d com.samsung.android.themestore/.activity.Launcher filter f0f2d62
           Action: "android.intent.action.MAIN"
           Category: "android.intent.category.LAUNCHER"
       com.sec.android.intent.action.SEC_APPLICATION_SETTINGS:
-        a2d1ed6 com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 41f8557
+        aaab3c com.samsung.android.themestore/.ui.setting.main.ActivitySetting filter 53f60c5
           Action: "com.sec.android.intent.action.SEC_APPLICATION_SETTINGS"
           Category: "com.sec.android.intent.category.SEC_APPLICATION_SETTINGS"
       com.android.settings.MANUFACTURER_APPLICATION_SETTING:
-        d95e423 com.samsung.android.themestore/.activity.LauncherfromSettingForOwner filter a66fd20
+        90239f1 com.samsung.android.themestore/.activity.LauncherfromSettingForOwner filter 50049d6
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
           Action: "com.samsung.android.themestore.activity.LauncherfromSettingForOwner"
-        5b9b6d9 com.samsung.android.themestore/.activity.LauncherfromSetting filter a9f289e
+        922d457 com.samsung.android.themestore/.activity.LauncherfromSetting filter 2d11b44
           Action: "com.samsung.android.themestore.activity.LauncherfromSetting"
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
-        9bc744d com.samsung.android.themestore/.activity.LauncherfromSettingForGuest filter 13b2b02
+        67cb96b com.samsung.android.themestore/.activity.LauncherfromSettingForGuest filter 75bbcc8
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
           Action: "com.samsung.android.themestore.activity.LauncherfromSettingForGuest"
       com.samsung.android.themestore.activity.LauncherfromSettingForGuest:
-        9bc744d com.samsung.android.themestore/.activity.LauncherfromSettingForGuest filter 13b2b02
+        67cb96b com.samsung.android.themestore/.activity.LauncherfromSettingForGuest filter 75bbcc8
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
           Action: "com.samsung.android.themestore.activity.LauncherfromSettingForGuest"
       com.samsung.android.themestore.activity.LauncherfromSettingForOwner:
-        d95e423 com.samsung.android.themestore/.activity.LauncherfromSettingForOwner filter a66fd20
+        90239f1 com.samsung.android.themestore/.activity.LauncherfromSettingForOwner filter 50049d6
           Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
           Action: "com.samsung.android.themestore.activity.LauncherfromSettingForOwner"
       com.samsung.android.action.themelaunch:
-        aa6811 com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 43937e4
+        9adf74f com.samsung.android.themestore/.ui.myStuff.main.ActivityMyDeviceMain filter 23506ba
           Action: "com.samsung.android.action.themelaunch"
           Category: "android.intent.category.DEFAULT"
           mPriority=1, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
       android.intent.action.SEARCH:
-        50a9a6b com.samsung.android.themestore/.ui.search.ActivitySearch filter a5289c8
+        c323a79 com.samsung.android.themestore/.ui.search.ActivitySearch filter 1c9f3be
           Action: "android.intent.action.SEARCH"
 
 Receiver Resolver Table:
   Non-Data Actions:
       com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE:
-        caaf45b com.samsung.android.themestore/.receiver.SetupWizardCompletedReceiver filter 49ff4f8
+        559b3e9 com.samsung.android.themestore/.receiver.SetupWizardCompletedReceiver filter b38c86e
           Action: "com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE"
           Action: "com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE"
           mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
       f66ce5314886bc18:
-        ca5b60d com.samsung.android.themestore/.receiver.SppReceiver filter b14a9c2
+        9bf492b com.samsung.android.themestore/.receiver.SppReceiver filter ff7188
           Action: "f66ce5314886bc18"
           Action: "com.sec.spp.RegistrationChangedAction"
           Action: "com.sec.spp.NotificationAckResultAction"
       androidx.profileinstaller.action.SAVE_PROFILE:
-        fe96d1f com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter b5412ca
+        2e69ecd com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter ac9fad0
           Action: "androidx.profileinstaller.action.SAVE_PROFILE"
       com.samsung.android.sdk.smp.pushTokenChanged:
-        d04a609 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 987a00e
+        2674d07 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 9de1e34
           Action: "com.samsung.android.sdk.smp.pushTokenChanged"
           Action: "com.samsung.android.sdk.smp.smpInitResult"
           Action: "com.samsung.android.sdk.smp.smpInitializeResult"
           Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
       com.samsung.android.sdk.smp.smpInitResult:
-        d04a609 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 987a00e
+        2674d07 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 9de1e34
           Action: "com.samsung.android.sdk.smp.pushTokenChanged"
           Action: "com.samsung.android.sdk.smp.smpInitResult"
           Action: "com.samsung.android.sdk.smp.smpInitializeResult"
           Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
       com.sec.spp.RegistrationChangedAction:
-        ca5b60d com.samsung.android.themestore/.receiver.SppReceiver filter b14a9c2
+        9bf492b com.samsung.android.themestore/.receiver.SppReceiver filter ff7188
           Action: "f66ce5314886bc18"
           Action: "com.sec.spp.RegistrationChangedAction"
           Action: "com.sec.spp.NotificationAckResultAction"
       com.samsung.android.sdk.smp.smpInitializeResult:
-        d04a609 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 987a00e
+        2674d07 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 9de1e34
           Action: "com.samsung.android.sdk.smp.pushTokenChanged"
           Action: "com.samsung.android.sdk.smp.smpInitResult"
           Action: "com.samsung.android.sdk.smp.smpInitializeResult"
           Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
       com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED:
-        44899c5 com.samsung.android.themestore/.receiver.SamsungAccountReceiver filter 521af1a
+        ea1b2a3 com.samsung.android.themestore/.receiver.SamsungAccountReceiver filter c58e9a0
           Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
           Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
       android.intent.action.SIM_STATE_CHANGED:
-        11a7b37 com.samsung.android.themestore/.receiver.ConfigurationChangedReceiver filter d5b68a4
+        710a5a5 com.samsung.android.themestore/.receiver.ConfigurationChangedReceiver filter 72cfd7a
           Action: "android.intent.action.SIM_STATE_CHANGED"
           Action: "android.intent.action.LOCALE_CHANGED"
       android.intent.action.LOCALE_CHANGED:
-        11a7b37 com.samsung.android.themestore/.receiver.ConfigurationChangedReceiver filter d5b68a4
+        710a5a5 com.samsung.android.themestore/.receiver.ConfigurationChangedReceiver filter 72cfd7a
           Action: "android.intent.action.SIM_STATE_CHANGED"
           Action: "android.intent.action.LOCALE_CHANGED"
       mate.intent.action.THEME_NOTIFICATION_CONTENT:
-        48f0dd1 com.samsung.android.themestore/.receiver.CoverReceiver filter 7c4c036
+        7530b0f com.samsung.android.themestore/.receiver.CoverReceiver filter 854779c
           Action: "mate.intent.action.THEME_NOTIFICATION_CONTENT"
       com.samsung.sea.rm.DEMO_RESET_STARTED:
-        d4aa027 com.samsung.android.themestore/.receiver.DemoResetBroadcastReceiver filter abc42d4
+        e2f4215 com.samsung.android.themestore/.receiver.DemoResetBroadcastReceiver filter 17fb92a
           Action: "com.samsung.sea.rm.DEMO_RESET_STARTED"
       androidx.profileinstaller.action.INSTALL_PROFILE:
-        fe96d1f com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter a9d186c
+        2e69ecd com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter 224382
           Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
       com.google.android.c2dm.intent.RECEIVE:
-        2a62379 com.samsung.android.themestore/com.google.firebase.iid.FirebaseInstanceIdReceiver filter 82228be
+        69785f7 com.samsung.android.themestore/com.google.firebase.iid.FirebaseInstanceIdReceiver filter d5f7c64
           Action: "com.google.android.c2dm.intent.RECEIVE"
       com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE:
-        caaf45b com.samsung.android.themestore/.receiver.SetupWizardCompletedReceiver filter 49ff4f8
+        559b3e9 com.samsung.android.themestore/.receiver.SetupWizardCompletedReceiver filter b38c86e
           Action: "com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE"
           Action: "com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE"
           mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
       com.sec.spp.NotificationAckResultAction:
-        ca5b60d com.samsung.android.themestore/.receiver.SppReceiver filter b14a9c2
+        9bf492b com.samsung.android.themestore/.receiver.SppReceiver filter ff7188
           Action: "f66ce5314886bc18"
           Action: "com.sec.spp.RegistrationChangedAction"
           Action: "com.sec.spp.NotificationAckResultAction"
       com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED:
-        44899c5 com.samsung.android.themestore/.receiver.SamsungAccountReceiver filter 521af1a
+        ea1b2a3 com.samsung.android.themestore/.receiver.SamsungAccountReceiver filter c58e9a0
           Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
           Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
       androidx.profileinstaller.action.SKIP_FILE:
-        fe96d1f com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter 1dc7e35
+        2e69ecd com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter 7b48a93
           Action: "androidx.profileinstaller.action.SKIP_FILE"
       androidx.profileinstaller.action.BENCHMARK_OPERATION:
-        fe96d1f com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter 2c1bc3b
+        2e69ecd com.samsung.android.themestore/androidx.profileinstaller.ProfileInstallReceiver filter f4b5ac9
           Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
       android.intent.action.BOOT_COMPLETED:
-        3b7b155 com.samsung.android.themestore/.receiver.BootCompletedReceiver filter 9fc976a
+        d3db6b3 com.samsung.android.themestore/.receiver.BootCompletedReceiver filter 2638470
           Action: "android.intent.action.BOOT_COMPLETED"
           mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
-        19193d3 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpReceiver filter e386b10
+        88af721 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpReceiver filter efd7746
           Action: "android.intent.action.BOOT_COMPLETED"
-        27d3c7d com.samsung.android.themestore/androidx.work.impl.background.systemalarm.RescheduleReceiver filter d6f0772
+        e48d31b com.samsung.android.themestore/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 7364cb8
           Action: "android.intent.action.BOOT_COMPLETED"
       com.samsung.android.intent.action.REQUEST_BACKUP_GALAXYTHEMES:
-        41e0d41 com.samsung.android.themestore/.receiver.SmartSwitchReceiver filter a1ba2e6
+        92d5ff com.samsung.android.themestore/.receiver.SmartSwitchReceiver filter df2ffcc
           Action: "com.samsung.android.intent.action.REQUEST_BACKUP_GALAXYTHEMES"
           Action: "com.samsung.android.intent.action.REQUEST_RESTORE_GALAXYTHEMES"
       com.samsung.android.organizer.confirm:
-        acdaa4b com.samsung.android.themestore/.receiver.OrganizerConfirmReceiver filter 4768c28
+        aca6959 com.samsung.android.themestore/.receiver.OrganizerConfirmReceiver filter 81e291e
           Action: "com.samsung.android.organizer.confirm"
       com.samsung.android.intent.action.REQUEST_RESTORE_GALAXYTHEMES:
-        41e0d41 com.samsung.android.themestore/.receiver.SmartSwitchReceiver filter a1ba2e6
+        92d5ff com.samsung.android.themestore/.receiver.SmartSwitchReceiver filter df2ffcc
           Action: "com.samsung.android.intent.action.REQUEST_BACKUP_GALAXYTHEMES"
           Action: "com.samsung.android.intent.action.REQUEST_RESTORE_GALAXYTHEMES"
       com.samsung.android.sdk.smp.pushRegistrationResult:
-        d04a609 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 987a00e
+        2674d07 com.samsung.android.themestore/.receiver.SmpEventReceiver filter 9de1e34
           Action: "com.samsung.android.sdk.smp.pushTokenChanged"
           Action: "com.samsung.android.sdk.smp.smpInitResult"
           Action: "com.samsung.android.sdk.smp.smpInitializeResult"
           Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
       androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
-        b717c3 com.samsung.android.themestore/androidx.work.impl.diagnostics.DiagnosticsReceiver filter b04b840
+        bceea91 com.samsung.android.themestore/androidx.work.impl.diagnostics.DiagnosticsReceiver filter fb83df6
           Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
       com.sec.android.app.samsungapps.intent.action.CHANGED_SETTING:
-        a579a2f com.samsung.android.themestore/.receiver.GalaxyStoreReceiver filter 7a1283c
+        fee45d com.samsung.android.themestore/.receiver.GalaxyStoreReceiver filter 309c1d2
           Action: "com.sec.android.app.samsungapps.intent.action.CHANGED_SETTING"
       android.intent.action.MY_PACKAGE_REPLACED:
-        8f9633f com.samsung.android.themestore/.receiver.MyPackageReplaced filter 26a40c
+        85ba5ed com.samsung.android.themestore/.receiver.MyPackageReplaced filter de20c22
           Action: "android.intent.action.MY_PACKAGE_REPLACED"
 
 Service Resolver Table:
   Non-Data Actions:
       com.google.firebase.iid.TOKEN_REFRESHED:
-        9089196 com.samsung.android.themestore/.manager.smp.SmpFcmEventService filter 505e117
+        21bf3fc com.samsung.android.themestore/.manager.smp.SmpFcmEventService filter b25da85
           Action: "com.google.firebase.iid.TOKEN_REFRESHED"
           Action: "com.google.firebase.MESSAGING_EVENT"
       com.google.firebase.MESSAGING_EVENT:
-        9089196 com.samsung.android.themestore/.manager.smp.SmpFcmEventService filter 505e117
+        21bf3fc com.samsung.android.themestore/.manager.smp.SmpFcmEventService filter b25da85
           Action: "com.google.firebase.iid.TOKEN_REFRESHED"
           Action: "com.google.firebase.MESSAGING_EVENT"
-        ce00904 com.samsung.android.themestore/com.google.firebase.messaging.FirebaseMessagingService filter b3b3eed
+        f90c0da com.samsung.android.themestore/com.google.firebase.messaging.FirebaseMessagingService filter e00b90b
           Action: "com.google.firebase.MESSAGING_EVENT"
           mPriority=-500, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
 
 Provider Resolver Table:
   Non-Data Actions:
       android.content.action.SEARCH_INDEXABLES_PROVIDER:
-        4794f58 com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider filter 3e3c8b1
+        93515ce com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider filter 3933cef
           Action: "android.content.action.SEARCH_INDEXABLES_PROVIDER"
 
 Domain verification status:
@@ -655,55 +655,55 @@ Domain verification status:
           apps.samsung.com
 
 Permissions:
-  Permission [com.samsung.android.themestore.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (43f3dac):
+  Permission [com.samsung.android.themestore.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (d3175e3):
     sourcePackage=com.samsung.android.themestore
     uid=10155 gids=[] type=0 prot=signature
-    perm=PermissionInfo{7865a5f com.samsung.android.themestore.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    perm=PermissionInfo{8c8be0 com.samsung.android.themestore.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
     flags=0x0
 
 Registered ContentProviders:
   com.samsung.android.themestore/androidx.core.content.FileProvider:
-    Provider{8379cac com.samsung.android.themestore/androidx.core.content.FileProvider}
+    Provider{db5fe99 com.samsung.android.themestore/androidx.core.content.FileProvider}
   com.samsung.android.themestore/.provider.FinderProvider:
-    Provider{a724d75 com.samsung.android.themestore/.provider.FinderProvider}
+    Provider{d66355e com.samsung.android.themestore/.provider.FinderProvider}
   com.samsung.android.themestore/com.google.firebase.provider.FirebaseInitProvider:
-    Provider{3c2d10a com.samsung.android.themestore/com.google.firebase.provider.FirebaseInitProvider}
+    Provider{d7b8d3f com.samsung.android.themestore/com.google.firebase.provider.FirebaseInitProvider}
   com.samsung.android.themestore/.provider.AppInfoProvider:
-    Provider{d603d7b com.samsung.android.themestore/.provider.AppInfoProvider}
+    Provider{5e860c com.samsung.android.themestore/.provider.AppInfoProvider}
   com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider:
-    Provider{4794f58 com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider}
+    Provider{93515ce com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider}
   com.samsung.android.themestore/androidx.startup.InitializationProvider:
-    Provider{cd7d798 com.samsung.android.themestore/androidx.startup.InitializationProvider}
+    Provider{e5eeb55 com.samsung.android.themestore/androidx.startup.InitializationProvider}
 
 ContentProvider Authorities:
   [com.samsung.android.themestore.fileprovider]:
-    Provider{8379cac com.samsung.android.themestore/androidx.core.content.FileProvider}
-      applicationInfo=ApplicationInfo{2bfda75 com.samsung.android.themestore}
+    Provider{db5fe99 com.samsung.android.themestore/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{2dc496a com.samsung.android.themestore}
   [com.samsung.android.themestore.androidx-startup]:
-    Provider{cd7d798 com.samsung.android.themestore/androidx.startup.InitializationProvider}
-      applicationInfo=ApplicationInfo{bbdda0a com.samsung.android.themestore}
+    Provider{e5eeb55 com.samsung.android.themestore/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{825be5b com.samsung.android.themestore}
   [com.samsung.android.themestore.provider.finder]:
-    Provider{a724d75 com.samsung.android.themestore/.provider.FinderProvider}
-      applicationInfo=ApplicationInfo{601127b com.samsung.android.themestore}
+    Provider{d66355e com.samsung.android.themestore/.provider.FinderProvider}
+      applicationInfo=ApplicationInfo{d73f6f8 com.samsung.android.themestore}
   [com.samsung.android.themestore.provider.appinfo]:
-    Provider{d603d7b com.samsung.android.themestore/.provider.AppInfoProvider}
-      applicationInfo=ApplicationInfo{8388898 com.samsung.android.themestore}
+    Provider{5e860c com.samsung.android.themestore/.provider.AppInfoProvider}
+      applicationInfo=ApplicationInfo{b6fe7d1 com.samsung.android.themestore}
   [com.samsung.android.themestore.firebaseinitprovider]:
-    Provider{3c2d10a com.samsung.android.themestore/com.google.firebase.provider.FirebaseInitProvider}
-      applicationInfo=ApplicationInfo{740a8f1 com.samsung.android.themestore}
+    Provider{d7b8d3f com.samsung.android.themestore/com.google.firebase.provider.FirebaseInitProvider}
+      applicationInfo=ApplicationInfo{3ed9236 com.samsung.android.themestore}
   [com.samsung.android.themestore.search]:
-    Provider{4794f58 com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider}
-      applicationInfo=ApplicationInfo{5678cd6 com.samsung.android.themestore}
+    Provider{93515ce com.samsung.android.themestore/.provider.SettingsSearchIndexablesProvider}
+      applicationInfo=ApplicationInfo{a77e537 com.samsung.android.themestore}
 
 Key Set Manager:
   [com.samsung.android.themestore]
       Signing KeySets: 8
 
 Packages:
-  Package [com.samsung.android.themestore] (d845b57):
+  Package [com.samsung.android.themestore] (c6d8aa4):
     appId=10155
     pccId=-1
-    pkg=Package{ff601b0 com.samsung.android.themestore}
+    pkg=Package{9ba300d com.samsung.android.themestore}
     codePath=/data/app/~~IerNIGMHENb-OlC-IecDuw==/com.samsung.android.themestore-6r5Csn6nwcc6Dz26maoT8g==
     resourcePath=/data/app/~~IerNIGMHENb-OlC-IecDuw==/com.samsung.android.themestore-6r5Csn6nwcc6Dz26maoT8g==
     legacyNativeLibraryDir=/data/app/~~IerNIGMHENb-OlC-IecDuw==/com.samsung.android.themestore-6r5Csn6nwcc6Dz26maoT8g==/lib
@@ -743,7 +743,7 @@ Packages:
     packageSource=0
     appMetadataFilePath=null
     appMetadataSource=0
-    signatures=PackageSignatures{e628829 version:3, signatures:[79998d13], past signatures:[]}
+    signatures=PackageSignatures{5f89bc2 version:3, signatures:[79998d13], past signatures:[]}
     installPermissionsFixed=false
     pkgFlags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA UPDATED_SYSTEM_APP LARGE_HEAP ]
     privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE HAS_DOMAIN_URLS PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
@@ -877,7 +877,6 @@ Packages:
       overlay paths:
         /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
         /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
-        /data/resource-cache/com.android.shell-HexNext_android-SpnV.frro
       legacy overlay paths:
         /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
         /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
@@ -902,10 +901,10 @@ Packages:
         androidx.work.impl.background.systemjob.SystemJobService
 
 Hidden system packages:
-  Package [com.samsung.android.themestore] (e26a7ae):
+  Package [com.samsung.android.themestore] (45b9dd3):
     appId=10155
     pccId=-1
-    pkg=Package{c20994f com.samsung.android.themestore}
+    pkg=Package{94aad10 com.samsung.android.themestore}
     codePath=/system/priv-app/ThemeStore
     resourcePath=/system/priv-app/ThemeStore
     legacyNativeLibraryDir=/system/priv-app/ThemeStore/lib
@@ -941,7 +940,7 @@ Hidden system packages:
     packageSource=0
     appMetadataFilePath=null
     appMetadataSource=0
-    signatures=PackageSignatures{ab188dc version:0, signatures:[], past signatures:[]}
+    signatures=PackageSignatures{fe6c009 version:0, signatures:[], past signatures:[]}
     installPermissionsFixed=false
     pkgFlags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
     privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE HAS_DOMAIN_URLS PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
@@ -1128,7 +1127,7 @@ Queries:
       com.samsung.android.themestore
   queryable via interaction:
     User 0:
-      [com.sec.automation,com.samsung.oda.agent,com.sec.android.app.SecSetupWizard,com.samsung.android.camerasdkservice,com.sec.app.RilErrorNotifier,com.samsung.android.app.dressroom,com.samsung.ts43authservice,com.samsung.android.providers.factory,com.samsung.accessibility,com.android.localtransport,com.qualcomm.qti.services.systemhelper,com.sec.android.app.servicemodeapp,com.samsung.android.dqagent,com.sec.android.CcInfo,com.sec.android.sdhms,com.sec.epdg,com.android.keychain,com.sec.android.iaft,com.android.server.telecom,com.samsung.drm,com.samsung.android.provider.filterprovider,com.samsung.android.lool,com.sec.android.app.parser,com.samsung.android.moaiapc,com.samsung.android.mdecservice,com.sec.sve,com.sec.android.app.factorykeystring,com.qti.snapdragon.qdcm_ff,com.android.location.fused,com.sec.android.app.wlantest,com.sec.android.diagmonagent,com.samsung.android.app.esimkeystring,com.samsung.android.smartface,com.samsung.gpuwatchapp,com.samsung.android.svcagent,com.android.providers.settings,com.samsung.SMT,com.sec.usbsettings,com.samsung.sdm,com.sec.imsservice,com.samsung.android.brightnessbackupservice,com.samsung.android.dck.timesync,com.samsung.android.motionphoto.app,com.sec.android.app.RilPhoneNumberService,com.samsung.android.globalpostprocmgr,com.samsung.sait.sohservice,com.samsung.android.biometrics.app.setting,com.samsung.android.emergency,com.samsung.android.vexfwk.service,com.samsung.unifiedtp,com.samsung.android.bixby.wakeup,com.sec.facatfunction,com.android.dynsystem,com.samsung.android.wifi.intelligence,com.android.inputdevices,com.samsung.android.photoremasterservice,com.samsung.android.themecenter,com.samsung.android.knox.attestation,com.sec.android.app.hwmoduletest,com.android.settings,com.sec.android.app.personalization,com.samsung.android.sead,android,com.samsung.euicc,com.samsung.oda.service,com.samsung.InputEventApp]:
+      [com.android.inputdevices,com.sec.usbsettings,com.samsung.sait.sohservice,com.samsung.sdm,com.sec.android.app.servicemodeapp,com.sec.android.app.SecSetupWizard,com.samsung.oda.service,com.samsung.InputEventApp,com.samsung.android.emergency,com.samsung.SMT,com.android.keychain,com.sec.android.app.hwmoduletest,com.samsung.drm,com.samsung.android.globalpostprocmgr,com.android.location.fused,com.samsung.euicc,com.qti.snapdragon.qdcm_ff,com.qualcomm.qti.services.systemhelper,com.samsung.android.biometrics.app.setting,com.samsung.android.wifi.intelligence,com.android.settings,com.sec.app.RilErrorNotifier,com.samsung.android.providers.factory,com.sec.android.iaft,com.android.localtransport,com.sec.android.CcInfo,com.samsung.android.dqagent,com.sec.automation,com.samsung.android.photoremasterservice,com.samsung.android.vexfwk.service,com.samsung.android.sead,com.samsung.unifiedtp,com.samsung.android.camerasdkservice,com.samsung.oda.agent,com.samsung.android.smartface,com.android.server.telecom,com.samsung.android.lool,com.samsung.android.themecenter,com.sec.facatfunction,com.samsung.android.dck.timesync,com.samsung.ts43authservice,com.samsung.android.svcagent,com.samsung.accessibility,com.sec.android.sdhms,com.samsung.android.moaiapc,com.samsung.android.app.dressroom,com.samsung.android.knox.attestation,com.samsung.android.mdecservice,com.sec.android.app.factorykeystring,com.samsung.android.brightnessbackupservice,com.sec.epdg,com.samsung.android.provider.filterprovider,com.sec.imsservice,com.android.providers.settings,com.sec.android.diagmonagent,com.sec.android.app.personalization,com.samsung.android.app.esimkeystring,com.samsung.android.bixby.wakeup,com.sec.android.app.wlantest,com.samsung.android.motionphoto.app,com.sec.android.app.parser,android,com.sec.sve,com.sec.android.app.RilPhoneNumberService,com.android.dynsystem,com.samsung.gpuwatchapp]:
         com.samsung.android.themestore
       com.google.android.gms:
         com.samsung.android.themestore
@@ -1338,20 +1337,20 @@ Profile utilization state:
         [                                            ]
 == jobs
     <0>com.samsung.android.themestore::timeout-reg:
-      expirationTime=86428246, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
+      expirationTime=88568736, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
     <0>com.samsung.android.themestore::.schedulePersisted():
-      expirationTime=86413608, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
+      expirationTime=88562196, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
     <0>com.samsung.android.themestore::anr:
-      expirationTime=86413608, windowSizeMs=21600000, countLimit=3, countInWindow=0, inQuotaTime=0
+      expirationTime=88562196, windowSizeMs=21600000, countLimit=3, countInWindow=0, inQuotaTime=0
     <0>com.samsung.android.themestore::timeout-total:
-      expirationTime=86413608, windowSizeMs=86400000, countLimit=10, countInWindow=0, inQuotaTime=0
+      expirationTime=88562196, windowSizeMs=86400000, countLimit=10, countInWindow=0, inQuotaTime=0
     <0>com.google.android.ext.services::timeout-reg:
-      expirationTime=86429710, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
+      expirationTime=88568321, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
     <0>com.google.android.ext.services::.schedulePersisted():
-      expirationTime=86429701, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
+      expirationTime=88568225, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
     <0>com.google.android.ext.services::anr:
 --
-  JOB androidx.work.systemjobscheduler:u0a155/887: 5e59084 #AutoSelfUpgradeWorker#@androidx.work.systemjobscheduler@com.samsung.android.themestore/androidx.work.impl.background.systemjob.SystemJobService
+  JOB androidx.work.systemjobscheduler:u0a155/890: 8038788 #AutoSelfUpgradeWorker#@androidx.work.systemjobscheduler@com.samsung.android.themestore/androidx.work.impl.background.systemjob.SystemJobService
     u0a155 tag=*job*r/#AutoSelfUpgradeWorker#@androidx.work.systemjobscheduler@com.samsung.android.themestore/androidx.work.impl.background.systemjob.SystemJobService
     Source: uid=u0a155 user=0 pkg=com.samsung.android.themestore
     JobInfo:
@@ -1361,9 +1360,9 @@ Profile utilization state:
       Has media backup exemption=false 
       Extras: mParcelledData.dataSize=248
       Network type: NetworkRequest [ NONE id=0, [ Capabilities: NOT_METERED&INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 10155 UnderlyingNetworks: Null] ]
-      Minimum latency: +5h29m37s410ms
+      Minimum latency: +4h53m56s827ms
 --
-  JOB #u0a155/9000012: 2fde429 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService
+  JOB #u0a155/9000012: 6f969e8 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService
     u0a155 tag=*job*r/com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService
     Source: uid=u0a155 user=0 pkg=com.samsung.android.themestore
     JobInfo:
@@ -1375,7 +1374,7 @@ Profile utilization state:
       Has early constraint
       Has late constraint
 --
-  JOB #u0a155/20180425: c4f5004 com.samsung.android.themestore/.manager.periodicJobSchedulingService.PeriodicJobSchedulingService
+  JOB #u0a155/20180425: b193b3c com.samsung.android.themestore/.manager.periodicJobSchedulingService.PeriodicJobSchedulingService
     u0a155 tag=*job*r/com.samsung.android.themestore/.manager.periodicJobSchedulingService.PeriodicJobSchedulingService
     Source: uid=u0a155 user=0 pkg=com.samsung.android.themestore
     JobInfo:
@@ -1387,29 +1386,29 @@ Profile utilization state:
       Has media backup exemption=false 
       Backoff: policy=1 initial=+30s0ms
 --
-    JobStatus{2fde429 #u0a155/9000012 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService u=0 s=10155 TIME=-35m12s251ms:-35m12s251ms satisfied:0xc3300000 unsatisfied:0x400000}: 21628326
-    JobStatus{3c06ff8 #u0a276/10573 com.android.vending/com.google.android.finsky.scheduler.process.backgroundimpl.PhoneskyJobServiceBackground u=0 s=10276 TIME=none:+4h29m41s230ms NET READY}: 21631382
-    JobStatus{e393272 #u0a473/1003 com.google.android.apps.magazines/com.google.apps.dots.android.newsstand.appwidget.NewsWidgetJobService u=0 s=10473 TIME=none:-35m14s893ms READY}: 21625684
-    JobStatus{ced1446 androidx.work.systemjobscheduler:u0a550/866 #directory_auto_cleaner_work#@androidx.work.systemjobscheduler@com.google.android.inputmethod.latin/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10550 BATNOTLOW IDLE satisfied:0x3700002 unsatisfied:0x4}: 21618881
-    JobStatus{cd62ed2 androidx.work.systemjobscheduler:u0a134/26951 #HintsWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 BATNOTLOW IDLE satisfied:0x3700002 unsatisfied:0x4}: 21618883
-    JobStatus{1d8e184 #1000/237039804 android/com.android.server.notification.NotificationHistoryJobService u=0 s=1000 TIME=-35m27s1ms:-15m27s1ms PERIODIC READY}: 21613576
-    JobStatus{e42a471 #u0a127/27356415 com.samsung.android.dialer/com.samsung.android.dialtacts.model.usagereportservice.UsageReportServiceModel$UsageReportJobIntentService u=0 s=10127 TIME=none:-35m13s27ms READY}: 21627550
+    JobStatus{6f969e8 #u0a155/9000012 com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService u=0 s=10155 TIME=-30s685ms:-30s685ms satisfied:0xc3300000 unsatisfied:0x400000}: 23768795
+    JobStatus{2ccb0d6 androidx.work.systemjobscheduler:u0a275/1908 #WorkQueueWorkerShim#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 IDLE satisfied:0x3700000 unsatisfied:0x4}: 23769000
+    JobStatus{abb0462 androidx.work.systemjobscheduler:u0a275/1931 #WorkQueueWorkerShim#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 IDLE satisfied:0x3700000 unsatisfied:0x4}: 23769002
+    JobStatus{b61ab55 androidx.work.systemjobscheduler:u0a275/1939 #WorkQueueWorkerShim#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 IDLE satisfied:0x3700000 unsatisfied:0x4}: 23769009
+    JobStatus{7f97d79 androidx.work.systemjobscheduler:u0a275/1965 #WorkQueueWorkerShim#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 IDLE satisfied:0x3700000 unsatisfied:0x4}: 23769021
+    JobStatus{f0f78ed androidx.work.systemjobscheduler:u0a275/2104 #BlockedNumbersJob#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 URIS=[android.app.job.JobInfo$TriggerContentUri@7eb80fc4] satisfied:0x3700000 unsatisfied:0x4000000}: 23769025
+    JobStatus{cf0460f androidx.work.systemjobscheduler:u0a275/2116 #TikTokWorker#com.google.android.apps.messaging.shared.contacts.sync.incremental.ContactsChangeWorker#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 URIS=[android.app.job.JobInfo$TriggerContentUri@8b744afb, android.app.job.JobInfo$TriggerContentUri@b2806828] satisfied:0x3700000 unsatisfied:0x4000000}: 23769026
 --
-    JobStatus{5e59084 androidx.work.systemjobscheduler:u0a155/887 #AutoSelfUpgradeWorker#@androidx.work.systemjobscheduler@com.samsung.android.themestore/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10155 TIME=+4h54m25s90ms:none NET BATNOTLOW STORENOTLOW satisfied:0x1330000a unsatisfied:0x80400000}: 41405668
-    JobStatus{dcdb0be androidx.work.systemjobscheduler:u0a134/13805 #SynonymDownloadWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 TIME=+2d8h31m20s19ms:none BATNOTLOW satisfied:0x3700002 unsatisfied:0x80000000}: 227220597
-    JobStatus{43b29c7 androidx.work.systemjobscheduler:u0a346/1638 #TelemetryFlushWorker#@androidx.work.systemjobscheduler@com.samsung.android.agent.storage/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10346 TIME=+3h14m46s276ms:none NET BATNOTLOW satisfied:0x13700002 unsatisfied:0x80000000}: 35426854
-    JobStatus{d7e4297 #1000/8452948 android/com.samsung.android.server.pm.rescueparty.SystemFileBackupManager$BackupJobService u=0 s=1000 TIME=-35m27s598ms:+23h24m32s402ms CHARGING IDLE PERIODIC satisfied:0x83600003 unsatisfied:0x4}: 43212980
-    JobStatus{6535716 #u0a473/266 com.google.android.apps.magazines/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10473 TIME=+1d23h15m24s827ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 193865405
-    JobStatus{2980f99 SyncManager:1000/8 @SyncManager@com.samsung.android.email.provider/com.samsung.android.email:android u=0 s=10576 TIME=-34m20s357ms:-29m20s357ms NET STORENOTLOW PERIODIC PERSISTED READY}: 21680221
-    JobStatus{caa1b5a androidx.work.systemjobscheduler:u0a266/556 #DeprovisionWorker#@androidx.work.systemjobscheduler@com.google.android.apps.carrier.carrierwifi/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10266 TIME=+29d23h24m50s765ms:none CHARGING STORENOTLOW satisfied:0x370000b unsatisfied:0x80000000}: 2613631343
+    JobStatus{b193b3c #u0a155/20180425 com.samsung.android.themestore/.manager.periodicJobSchedulingService.PeriodicJobSchedulingService u=0 s=10155 TIME=-38s53ms:+23h22m43s481ms PERIODIC PERSISTED satisfied:0x83300000 unsatisfied:0x400000}: 43712577
+    JobStatus{9c1008 #u0a264/452416931 com.google.android.as/com.google.android.apps.miphone.aiai.echo.scheduler.EchoJobService u=0 s=10264 TIME=-34s298ms:+23h59m25s702ms IDLE PERIODIC satisfied:0x83700000 unsatisfied:0x4}: 45365182
+    JobStatus{dc45367 androidx.work.systemjobscheduler:u0a358/887 #BloodPressureAiBriefWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+43m47s97ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 26426577
+    JobStatus{6bc724d androidx.work.systemjobscheduler:u0a358/888 #DataDisposerWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+43m47s262ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 26426742
+    JobStatus{3bfe228 androidx.work.systemjobscheduler:u0a358/1017 #UpdatePeriodPredictionWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+7h40m46s718ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 51446198
+    JobStatus{3407f03 androidx.work.systemjobscheduler:u0a285/240 #TaskAppSearchWorker#@androidx.work.systemjobscheduler@com.google.android.calendar/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10285 TIME=+8h29m34s181ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 54373661
+    JobStatus{1702ef3 SyncManager:1000/36 @SyncManager@com.samsung.android.memo/com.osp.app.signin:android u=0 s=5009 TIME=+17h2m18s262ms:+18h14m18s262ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0x13700008 unsatisfied:0x80000000}: 85137742
 --
-    JobStatus{c4f5004 #u0a155/20180425 com.samsung.android.themestore/.manager.periodicJobSchedulingService.PeriodicJobSchedulingService u=0 s=10155 TIME=-35m28s221ms:+23h23m43s201ms PERIODIC PERSISTED satisfied:0x83300000 unsatisfied:0x400000}: 43175924
-    JobStatus{852b5d8 androidx.work.systemjobscheduler:u0a332/1353 #SearchResetWorker#@androidx.work.systemjobscheduler@com.google.android.providers.media.module/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10332 TIME=+10h43m3s192ms:none CHARGING IDLE satisfied:0x3700003 unsatisfied:0x80000004}: 62323771
-    JobStatus{c3df198 androidx.work.systemjobscheduler:u0a279/8060 #TikTokWorker#com.google.apps.tiktok.sync.impl.workmanager.SyncPeriodicWorker#@androidx.work.systemjobscheduler@com.google.android.googlequicksearchbox/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10279 TIME=+5h42m40s741ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 44301320
-    JobStatus{da182a4 #u0a229/8999981 com.samsung.android.simagent/.push.RefreshPushTokenScheduler u=0 s=10229 TIME=-35m12s661ms:+39d23h24m47s339ms PERIODIC READY}: 1728027918
-    JobStatus{1c1caba SyncManager:1000/51 @SyncManager@com.google.android.apps.docs.editors.trix/com.google:android u=0 s=10428 TIME=+4d9h13m2s143ms:+4d14h51m10s993ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0x13300008 unsatisfied:0x80400000}: 402522722
-    JobStatus{beb7e0c #u0a229/500 com.samsung.android.simagent/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10229 TIME=+4d2h2m15s764ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 376676343
-    JobStatus{f6b86a5 #1000/904642 com.sec.android.diagmonagent/.dma.aperf.rest.APerfJobService u=0 s=1000 TIME=+22h56m38s299ms:none NET satisfied:0x13600000 unsatisfied:0x80000000}: 106338878
+    JobStatus{8038788 androidx.work.systemjobscheduler:u0a155/890 #AutoSelfUpgradeWorker#@androidx.work.systemjobscheduler@com.samsung.android.themestore/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10155 TIME=+4h53m26s120ms:none NET BATNOTLOW STORENOTLOW satisfied:0x1330000a unsatisfied:0x80400000}: 41405601
+    JobStatus{cef9931 androidx.work.systemjobscheduler:u0a134/29325 #ExactAlarmWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 TIME=+23h59m26s85ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 110465566
+    JobStatus{74f2ea1 androidx.work.systemjobscheduler:u0a275/2118 #GnpWorker#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 TIME=+1d0h29m37s413ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 111976894
+    JobStatus{58be0a androidx.work.systemjobscheduler:u0a275/1878 #GnpWorker#@androidx.work.systemjobscheduler@com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10275 TIME=+1d0h30m42s103ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 112041584
+    JobStatus{7ad1d2e androidx.work.systemjobscheduler:u0a264/85 #Mobserve.GarbageCollectionWorker.Periodic#@androidx.work.systemjobscheduler@com.google.android.as/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10264 TIME=+2h56m11s357ms:none BATNOTLOW satisfied:0x3700002 unsatisfied:0x80000000}: 34370838
+    JobStatus{828a12 HC_DATA_QUALITY_TELEMETRY_JOBS_NAMESPACE:1000/230032404 @HC_DATA_QUALITY_TELEMETRY_JOBS_NAMESPACE@android/com.android.server.healthconnect.telemetry.TelemetryJobService u=0 s=1000 TIME=+5d23h59m25s524ms:+6d23h59m25s524ms CHARGING IDLE PERIODIC satisfied:0x3600002 unsatisfied:0x80000005}: 563765005
+    JobStatus{f7424b0 #u0a229/505 com.samsung.android.simagent/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10229 TIME=-1s69ms:none READY}: 23798412
 --
       u0a155 com.samsung.android.themestore
       u0a48 com.samsung.android.app.aodservice
@@ -1428,48 +1427,48 @@ Profile utilization state:
     10119:com.osp.app.signin=false
 --
     ##u0a155/20180425 from u0a155 idle: com.samsung.android.themestore [RUN_ANY_IN_BACKGROUND disallowed] WAITING
-    #androidx.work.systemjobscheduler:u0a155/887 from u0a155 idle: com.samsung.android.themestore [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #androidx.work.systemjobscheduler:u0a155/890 from u0a155 idle: com.samsung.android.themestore [RUN_ANY_IN_BACKGROUND disallowed] WAITING
     ##u0a155/9000012 from u0a155 idle: com.samsung.android.themestore [RUN_ANY_IN_BACKGROUND disallowed] WAITING
-    ##u0a137/51 from u0a137 idle: com.sec.android.app.myfiles [RUN_ANY_IN_BACKGROUND disallowed] WAITING
-    ##u0a137/57 from u0a137 idle: com.sec.android.app.myfiles [RUN_ANY_IN_BACKGROUND disallowed] WAITING
-    #androidx.work.systemjobscheduler:u0a134/29272 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
-    #androidx.work.systemjobscheduler:u0a134/29315 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
-    #androidx.work.systemjobscheduler:u0a134/29268 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##u0a137/57 from u0a137 idle, exempted: com.sec.android.app.myfiles [RUN_ANY_IN_BACKGROUND disallowed] RUNNABLE
+    ##u0a137/51 from u0a137 idle, exempted: com.sec.android.app.myfiles [RUN_ANY_IN_BACKGROUND disallowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/22003 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/29336 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/29356 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
     #androidx.work.systemjobscheduler:u0a134/13805 from u0a134 active, exempted: com.samsung.android.smartsuggestions [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
 --
     ##u0a155/20180425 from u0a155: com.samsung.android.themestore RUNNABLE
-    #androidx.work.systemjobscheduler:u0a155/887 from u0a155: com.samsung.android.themestore RUNNABLE
+    #androidx.work.systemjobscheduler:u0a155/890 from u0a155: com.samsung.android.themestore RUNNABLE
     ##u0a155/9000012 from u0a155: com.samsung.android.themestore RUNNABLE
-    ##u0a137/51 from u0a137: com.sec.android.app.myfiles RUNNABLE
     ##u0a137/57 from u0a137: com.sec.android.app.myfiles RUNNABLE
-    #androidx.work.systemjobscheduler:u0a134/29272 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
-    #androidx.work.systemjobscheduler:u0a134/29315 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
-    #androidx.work.systemjobscheduler:u0a134/29268 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
+    ##u0a137/51 from u0a137: com.sec.android.app.myfiles RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/22003 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/29336 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
+    #androidx.work.systemjobscheduler:u0a134/29356 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
     #androidx.work.systemjobscheduler:u0a134/13805 from u0a134: com.samsung.android.smartsuggestions RUNNABLE
 --
-      System installers={0->{com.samsung.android.themestore, com.sec.android.app.samsungapps, com.android.vending, com.samsung.android.app.watchmanager, com.android.webapp.service, com.samsung.accessory.budsunitemgr, com.google.android.packageinstaller, com.samsung.android.goodlock, com.sec.android.app.sbrowser, com.samsung.wearable.watchuniteplugin, com.samsung.android.scloud, com.android.settings, com.android.shell}}
+      System installers={0->{com.samsung.android.themestore, com.sec.android.app.samsungapps, com.android.vending, com.samsung.android.app.watchmanager, com.android.webapp.service, com.samsung.accessory.budsunitemgr, com.google.android.packageinstaller, com.samsung.android.goodlock, com.sec.android.app.sbrowser, com.samsung.wearable.watchuniteplugin, com.samsung.android.scloud, com.android.settings, com.android.shell, com.sec.enterprise.knox.cloudmdm.smdms}}
     
-    #androidx.work.systemjobscheduler:u0a550/870 from u0a550
+    #androidx.work.systemjobscheduler:u0a550/877 from u0a550
       EXEMPTED, within regular quota, 1200000ms remaining in quota
-    #androidx.work.systemjobscheduler:u0a550/869 from u0a550
+    #androidx.work.systemjobscheduler:u0a550/875 from u0a550
       EXEMPTED, within regular quota, 1200000ms remaining in quota
-    #androidx.work.systemjobscheduler:u0a550/868 from u0a550
+    #androidx.work.systemjobscheduler:u0a550/880 from u0a550
 --
       <0>com.samsung.android.themestore
-        EXEMPTED: expirationTime=86428090, allowedTimePerPeriodMs=2400000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
+        EXEMPTED: expirationTime=88568516, allowedTimePerPeriodMs=2400000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
+      <0>com.google.android.ext.services
+        EXEMPTED: expirationTime=88570384, allowedTimePerPeriodMs=1200000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
       <0>com.google.android.googlequicksearchbox
-        EXEMPTED: expirationTime=86422206, allowedTimePerPeriodMs=1200000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
+        EXEMPTED: expirationTime=88566416, allowedTimePerPeriodMs=1200000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
       <0>com.samsung.android.calendar
-        EXEMPTED: expirationTime=86428929, allowedTimePerPeriodMs=1200000, windowSizeMs=2400000, jobCountLimit=75, sessionCountLimit=75, executionTimeInWindow=0, bgJobCountInWindow=0, executionTimeInMaxPeriod=0, bgJobCountInMaxPeriod=0, sessionCountInWindow=0, inQuotaTime=0, rateLimitJobCountExpirationTime=0, rateLimitJobCountWindow=0, rateLimitSessionCountExpirationTime=0, rateLimitSessionCountWindow=0
-      <0>com.osp.app.signin
 --
       <0>com.samsung.android.themestore: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.google.android.ext.services: ShrinkableDebits { debit tally: 0, bucket: 6 }
       <0>com.google.android.googlequicksearchbox: ShrinkableDebits { debit tally: 0, bucket: 6 }
       <0>com.samsung.android.calendar: ShrinkableDebits { debit tally: 0, bucket: 6 }
       <0>com.osp.app.signin: ShrinkableDebits { debit tally: 0, bucket: 6 }
       <0>com.google.android.apps.docs.editors.docs: ShrinkableDebits { debit tally: 0, bucket: 6 }
       <0>com.teslacoilsw.launcher: ShrinkableDebits { debit tally: 0, bucket: 6 }
-      <0>com.samsung.android.incallui: ShrinkableDebits { debit tally: 0, bucket: 6 }
 --
   0-ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.manager.periodicJobSchedulingService.PeriodicJobSchedulingService}: com.samsung.android.themestore
   0-ComponentInfo{com.google.android.providers.media.module/com.android.providers.media.stableuris.job.StableUriIdleMaintenanceService}: com.google.android.providers.media.module
@@ -1490,18 +1489,18 @@ Profile utilization state:
   0-ComponentInfo{com.samsung.android.themestore/com.samsung.android.sdk.smp.SmpJobService}: com.samsung.android.themestore
   0-ComponentInfo{com.samsung.android.app.smartcapture/androidx.work.impl.background.systemjob.SystemJobService}: com.samsung.android.app.smartcapture
   0-ComponentInfo{com.google.android.apps.docs/androidx.work.impl.background.systemjob.SystemJobService}: com.google.android.apps.docs
+  0-ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.dialtacts.model.usagereportservice.UsageReportServiceModel$UsageReportJobIntentService}: com.samsung.android.app.contacts
   0-ComponentInfo{android/com.android.server.MountServiceIdler}: system
 
 UidRestrictController:
-  Restricted uids: 
 --
   10155: {com.samsung.android.themestore}
-  10156: {com.sec.android.app.launcher}
   10159: {com.samsung.videoscan}
   10174: {com.google.android.captiveportallogin}
-  10177: {com.sec.android.app.chromecustomizations}
   10188: {com.samsung.android.gru}
-  10194: {com.samsung.android.honeyboard}
+  10216: {com.sec.android.app.sbrowser}
+  10225: {com.sec.android.daemonapp}
+  10229: {com.samsung.android.simagent}
 == alarms
       u0a295 com.google.android.youtube
       u0a431 com.google.android.apps.labs.language.tailwind

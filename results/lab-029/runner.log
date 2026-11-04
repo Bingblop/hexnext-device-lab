@@ -10,3 +10,6 @@
 [16:32:14] overlay state 2
 [16:32:25] boot log 2
 [16:32:26] soft reboot; remaining steps: overlaystate bootlog pkginfo (unlock the phone when it comes back)
+[16:33:03] job lab-029
+[16:33:03] overlay state 3
+[16:33:12] boot log 3
