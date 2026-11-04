@@ -1,0 +1,43 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "lookup",
+    "capture"
+  ],
+  "confirm": true,
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "captures": [
+    "keyboard",
+    "dialogs",
+    "settings"
+  ],
+  "lookups": [
+    "com.samsung.android.honeyboard:color/keyboard_background_dark",
+    "com.samsung.android.honeyboard:color/text_key_background_dark",
+    "com.samsung.android.honeyboard:color/function_key_background_dark",
+    "com.samsung.android.honeyboard:color/text_key_main_label_dark",
+    "com.samsung.android.honeyboard:drawable/key_bg",
+    "com.samsung.android.honeyboard:drawable/keyboard_background_image"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true,
+    "overridden": [
+      "com.samsung.android.honeyboard:color/keyboard_background_dark",
+      "com.samsung.android.honeyboard:color/text_key_background_dark",
+      "com.samsung.android.honeyboard:color/function_key_background_dark"
+    ]
+  },
+  "id": "lab-024",
+  "suite": "keyboard",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41863931403,
+  "artifact_sha256": "b0b090cae132ccaac532410e1871a88cf1aef3704715c832c1e58db50819d7c6",
+  "pack": "apatite"
+}
