@@ -1,0 +1,6 @@
+com.android.settings:drawable/sesl_dialog_background = res/drawable/sesl_dialog_background.xml
+android:drawable/dialog_background_material = res/drawable/dialog_background_material.xml
+com.android.settings:drawable/sesl_menu_popup_background_dark = res/drawable/sesl_menu_popup_background_dark.xml
+com.android.settings:color/sesl_dialog_window_background_color_material_dark = @2131103057 -> #ff252528
+com.android.settings:color/sesl_dialog_title_text_color_dark = @2131103054 -> #fffcfcff
+com.android.settings:color/sesl_dialog_button_text_color_dark = @2131103054 -> #fffcfcff

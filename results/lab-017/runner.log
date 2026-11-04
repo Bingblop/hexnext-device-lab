@@ -1,0 +1,10 @@
+[01:53:55] job lab-017
+[01:54:03] install: downloaded artifact 13301917982 through the API
+[01:54:03] install: run 41786997717 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[01:54:04] restarting Shizuku as root
+[01:54:12] scan
+[01:54:56] apply (confirm=true)
+[01:56:34] lookup 1
+[01:56:40] capture dark dialogs
+[01:57:00] capture dark settings
+[01:57:19] capture dark power
