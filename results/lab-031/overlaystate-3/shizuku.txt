@@ -1,0 +1,3 @@
+6044 23599
+u0_a441       6044  1871   15698916 193116 get_signal          0 S moe.shizuku.privileged.api
+system       23599     1   14450276 174312 do_epoll_wait       0 S shizuku_server

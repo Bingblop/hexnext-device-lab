@@ -1,0 +1,23 @@
+[18:18:36] job lab-031
+[18:18:39] install: downloaded artifact 13371011278 through the API
+[18:18:39] install: run 41927096847 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[18:18:39] install: keeping the running Shizuku
+[18:18:51] shizuku1000: server running as UID 1000 (starter)
+[18:18:51] overlay state 1
+[18:18:55] remove
+[18:19:20] overlay state 2
+[18:19:25] scan
+[18:19:38] apply (confirm=true)
+[18:22:09] overlay state 3
+[18:22:16] lookup 1
+[18:22:21] capture dark settings
+[18:22:40] capture dark power
+[18:22:46] power: no power button found in the quick panel
+[18:22:58] capture light settings
+[18:23:17] capture light power
+[18:23:37] remove
+[18:24:03] overlay state 4
+[18:24:23] apply (confirm=true)
+[18:26:54] overlay state 5
+[18:26:59] boot log 1
+[18:27:00] soft reboot; remaining steps: overlaystate bootlog shizuku1000 waitrestore overlaystate shizuku (unlock the phone when it comes back)
