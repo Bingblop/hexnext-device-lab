@@ -1,0 +1,19 @@
+[10:32:26] job lab-023
+[10:32:28] install: downloaded artifact 13333987498 through the API
+[10:32:29] install: run 41848154605 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[10:32:30] restarting Shizuku as root
+[10:32:38] pack apatite
+[10:32:43] scan
+[10:33:07] apply (confirm=true)
+[10:48:54] lookup 1
+[10:48:56] capture: the phone is locked; unlock it and keep it awake
+[10:48:59] capture dark keyboard
+[10:49:59] preview keyboard: the hook was not on screen (try 1)
+[10:50:05] preview keyboard: the hook was not on screen (try 2)
+[10:50:09] capture dark settings
+[10:50:28] preview settings: the hook was not on screen (try 1)
+[10:50:34] preview settings: the hook was not on screen (try 2)
+[10:50:37] capture dark dialogs
+[10:50:49] capture dark qs
+[10:51:01] preview qs: the hook was not on screen (try 1)
+[10:51:08] preview qs: the hook was not on screen (try 2)

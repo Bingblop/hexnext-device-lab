@@ -1,0 +1,5 @@
+{"timestamp":1793807238624,"level":"INFO","target":"","message":"Applying theme \"Hex Next\" (default)","data":{}}
+{"timestamp":1793807238643,"level":"INFO","target":"","message":"Theme pack: Apatite (apatite)","data":{}}
+{"timestamp":1793807240559,"level":"WARN","target":"","message":"android: 25 unreadable value lines skipped.","data":{}}
+{"timestamp":1793807240559,"level":"WARN","target":"","message":"com.android.systemui: 36 unreadable value lines skipped.","data":{}}
+{"timestamp":1793807240559,"level":"INFO","target":"","message":"Device snapshot: One UI 9.0 (SDK 37), 60 targets, 65 system shades","data":{}}

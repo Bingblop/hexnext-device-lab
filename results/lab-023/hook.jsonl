@@ -1,0 +1,9 @@
+{"cmd":"pack","ok":true,"detail":"selected=apatite","at":1793806362331}
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0","at":1793806386359}
+{"cmd":"apply","ok":false,"detail":"timed out after 900s"}
+{"cmd":"preview","ok":false,"detail":"timed out after 45s"}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=true","at":1793807404444}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793807427000}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793807433274}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793807460433}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793807466683}

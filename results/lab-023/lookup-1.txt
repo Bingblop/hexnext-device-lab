@@ -1,0 +1,4 @@
+com.samsung.android.honeyboard:drawable/key_bg = frro://data/resource-cache/com.android.shell-HexNext_com_samsung_android_honeyboard-PdfE.frro?offset=16&size=1936
+com.samsung.android.honeyboard:drawable/keyboard_background_image = res/EMX.xml
+com.samsung.android.honeyboard:drawable/normal_key_background_image_open_theme = frro://data/resource-cache/com.android.shell-HexNext_com_samsung_android_honeyboard-PdfE.frro?offset=7848&size=1936
+com.samsung.android.honeyboard:color/function_key_background_dark = #ff3b494c
