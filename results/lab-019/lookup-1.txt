@@ -1,0 +1,6 @@
+com.android.settings:drawable/sesl_dialog_background = frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-f6tB.frro?offset=377698&size=5265
+android:drawable/dialog_background_material = frro://data/resource-cache/com.android.shell-HexNext_android-Qn5p.frro?offset=9958&size=5265
+com.android.settings:drawable/sesl_menu_popup_background_dark = frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-f6tB.frro?offset=404070&size=2807
+com.android.systemui:drawable/ic_global_actions_power_off = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-l65N.frro?offset=27396&size=3147
+com.android.systemui:drawable/ic_deviceoption_poweroff = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-l65N.frro?offset=16&size=3147
+android:drawable/tw_ic_do_poweroff = frro://data/resource-cache/com.android.shell-HexNext_android-Qn5p.frro?offset=119267&size=3147

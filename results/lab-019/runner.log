@@ -1,0 +1,13 @@
+[05:18:52] job lab-019
+[05:18:54] install: downloaded artifact 13305035810 through the API
+[05:18:55] install: run 41792427833 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[05:18:56] restarting Shizuku as root
+[05:19:04] scan
+[05:19:24] apply (confirm=true)
+[05:35:08] lookup 1
+[05:35:14] capture dark dialogs
+[05:35:35] capture dark settings
+[05:36:34] preview settings: the hook was not on screen (try 1)
+[05:36:43] capture dark qs
+[05:36:56] capture dark power
+[05:37:17] soft reboot; remaining steps: shizuku waitrestore lookup capture (unlock the phone when it comes back)
