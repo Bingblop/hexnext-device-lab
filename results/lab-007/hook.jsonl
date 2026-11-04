@@ -1,0 +1,13 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0","at":1793755434635}
+{"cmd":"apply","ok":true,"detail":"status=finished error=","at":1793755626557}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793755678002}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793755691709}
+{"cmd":"preview","ok":true,"detail":"tab=NOTIFICATIONS dark=true","at":1793755714598}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793755733306}
+{"cmd":"preview","ok":true,"detail":"tab=MY_FILES dark=true","at":1793755747007}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793755787104}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793755800786}
+{"cmd":"preview","ok":true,"detail":"tab=NOTIFICATIONS dark=true","at":1793755823450}
+{"cmd":"preview","ok":false,"detail":"timed out after 45s"}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793755892172}
+{"cmd":"preview","ok":true,"detail":"tab=MY_FILES dark=true","at":1793755906081}
