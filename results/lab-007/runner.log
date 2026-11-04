@@ -25,3 +25,4 @@
 [20:33:32] capture dark myfiles
 [20:33:47] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
 [20:33:47] dumps
+[20:33:48] job lab-007: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-007
