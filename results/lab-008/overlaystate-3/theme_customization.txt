@@ -1,0 +1,1 @@
+{"_applied_timestamp":1793756730099,"android.theme.customization.color_index":"0","android.theme.customization.system_palette":"ffadb138","android.theme.customization.accent_color":"ffadb138","android.theme.customization.color_source":"preset","android.theme.customization.theme_style":"TONAL_SPOT"}
