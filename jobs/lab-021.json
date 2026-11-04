@@ -1,0 +1,41 @@
+{
+  "id": "lab-021",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41837341893,
+  "artifact_sha256": "9db84c18bc4d4de8b042e82f9ccca938f8268a316ec59bda874f0f379673c992",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "lookup",
+    "capture",
+    "arsc"
+  ],
+  "captures": [
+    "keyboard",
+    "qs"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true,
+  "lookups": [
+    "com.samsung.android.honeyboard:color/keyboard_background_dark",
+    "com.samsung.android.honeyboard:color/keyboard_background_dark_solid",
+    "com.samsung.android.honeyboard:color/text_key_background_dark",
+    "com.samsung.android.honeyboard:color/text_key_background_dark_solid",
+    "com.samsung.android.honeyboard:color/function_key_background_dark",
+    "com.samsung.android.honeyboard:color/function_key_background_dark_solid",
+    "com.samsung.android.honeyboard:color/function_key_main_label_dark",
+    "com.samsung.android.honeyboard:drawable/key_bg",
+    "com.samsung.android.honeyboard:drawable/keyboard_background_image",
+    "com.samsung.android.honeyboard:color/keyboard_background_color_open_theme"
+  ],
+  "arsc": [
+    "com.samsung.android.honeyboard",
+    "com.google.android.gm",
+    "com.google.android.googlequicksearchbox",
+    "com.android.chrome",
+    "com.google.android.inputmethod.latin"
+  ]
+}
