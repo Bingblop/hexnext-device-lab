@@ -1,0 +1,10 @@
+com.samsung.android.honeyboard:color/keyboard_background_dark = @2131099664 -> #ff010102
+com.samsung.android.honeyboard:color/keyboard_background_dark_solid = @2131099664 -> #ff010102
+com.samsung.android.honeyboard:color/text_key_background_dark = @2131099694 -> #ff3a3a3d
+com.samsung.android.honeyboard:color/text_key_background_dark_solid = @2131103865 -> #0
+com.samsung.android.honeyboard:color/function_key_background_dark = @2131099667 -> #ff17171a
+com.samsung.android.honeyboard:color/function_key_background_dark_solid = @2131103865 -> #0
+com.samsung.android.honeyboard:color/function_key_main_label_dark = @2131099766 -> #fffafaff
+com.samsung.android.honeyboard:drawable/key_bg = res/bBg.xml
+com.samsung.android.honeyboard:drawable/keyboard_background_image = res/EMX.xml
+com.samsung.android.honeyboard:color/keyboard_background_color_open_theme = #ff000000

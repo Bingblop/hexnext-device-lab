@@ -1,0 +1,14 @@
+[08:47:58] job lab-021
+[08:48:01] install: downloaded artifact 13328092969 through the API
+[08:48:01] install: run 41837341893 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[08:48:02] restarting Shizuku as root
+[08:48:10] scan
+[08:48:23] apply (confirm=true)
+[08:53:00] lookup 1
+[08:53:05] capture dark keyboard
+[08:53:27] capture dark qs
+[08:53:42] arsc: com.samsung.android.honeyboard not installed
+[08:53:43] arsc: com.google.android.gm 892 KB
+[08:54:03] arsc: com.google.android.googlequicksearchbox 20200 KB
+[08:54:03] arsc: com.android.chrome 316 KB
+[08:54:13] arsc: com.google.android.inputmethod.latin 5768 KB
