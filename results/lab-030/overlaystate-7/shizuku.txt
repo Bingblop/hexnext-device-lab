@@ -1,0 +1,3 @@
+531 7264
+system         531     1   14733572 173124 do_epoll_wait       0 S shizuku_server
+u0_a441       7264 17788   15808104 201968 do_epoll_wait       0 S moe.shizuku.privileged.api
