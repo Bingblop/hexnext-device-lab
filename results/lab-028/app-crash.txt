@@ -1,0 +1,9 @@
+time=1793776884180 thread=DefaultDispatcher-worker-1 version=2.2.0-owner
+java.lang.NullPointerException: Attempt to invoke virtual method 'void java.util.concurrent.CountDownLatch.countDown()' on a null object reference
+	at k6.y4.o(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:1385)
+	at w6.a.j(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:8)
+	at p7.e0.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:117)
+	at l.h.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:17)
+	at w7.k.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:3)
+	at w7.a.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:90)
+	Suppressed: u7.f: [m1{Cancelling}@b30a69f, Dispatchers.IO]
