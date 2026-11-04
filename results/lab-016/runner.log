@@ -1,0 +1,8 @@
+[01:18:40] job lab-016
+[01:18:51] install: downloaded artifact 13301230254 through the API
+[01:18:52] install: run 41782595725 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[01:18:53] restarting Shizuku as root
+[01:19:01] scan
+[01:19:26] apply (confirm=true)
+[01:20:52] lookup 1
+[01:20:53] soft reboot; remaining steps: shizuku waitrestore overlaystate lookup capture (unlock the phone when it comes back)

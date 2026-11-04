@@ -1,0 +1,14 @@
+com.android.settings:color/sesl_dialog_window_background_color_material_dark = @2131103057 -> #ff252528
+com.android.settings:color/sesl_dialog_blur_background_color = #d000000
+com.android.settings:color/sesl_dialog_title_text_color_dark = @2131103054 -> #fffcfcff
+com.android.settings:color/sesl_dialog_body_text_color_dark = @2131103056 -> #ffe9e9ec
+com.android.settings:color/sesl_dialog_button_text_color_dark = @2131103054 -> #fffcfcff
+com.android.settings:color/sec_dialog_background_color = #1affffff
+com.android.settings:color/basic_token_component_dialog_surface_container_dark = @2131099834 -> #ff636368
+com.android.settings:color/dialog_title_text_color = #ff010101
+com.android.settings:color/dialog_body_text_color = #ff252525
+android:color/tw_dialog_window_background_color_material_dark = #ff252528
+android:color/sem_dialog_panel_bg_color_blur = #d000000
+android:color/sem_dialog_middle_panel_bg_color = #1affffff
+android:color/tw_dialog_button_text_color_material_dark = #fffafaff
+android:color/tw_dialog_title_text_color_material_dark = #fffafaff
