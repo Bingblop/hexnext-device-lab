@@ -12,3 +12,5 @@
 [12:30:24] capture light keyboard
 [12:30:46] capture light dialogs
 [12:31:07] capture light settings
+[12:31:30] job lab-025 pushed
+[12:32:00] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
