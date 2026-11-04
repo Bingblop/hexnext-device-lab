@@ -1,0 +1,14 @@
+[11:31:24] job lab-024
+[11:31:27] install: downloaded artifact 13340999702 through the API
+[11:31:28] install: run 41863931403 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[11:31:44] restarting Shizuku as root
+[11:31:52] pack apatite
+[11:31:54] scan
+[11:32:19] apply (confirm=true)
+[11:34:07] lookup 1
+[11:34:12] capture dark keyboard
+[11:34:34] capture dark dialogs
+[11:34:54] capture dark settings
+[11:35:16] capture light keyboard
+[11:35:39] capture light dialogs
+[11:35:59] capture light settings
