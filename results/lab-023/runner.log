@@ -17,3 +17,5 @@
 [10:50:49] capture dark qs
 [10:51:01] preview qs: the hook was not on screen (try 1)
 [10:51:08] preview qs: the hook was not on screen (try 2)
+[10:52:31] job lab-023 pushed
+[10:54:24] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
