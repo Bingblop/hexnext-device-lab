@@ -1,0 +1,5 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0","at":1793798515006}
+{"cmd":"apply","ok":false,"detail":"no apply report (refused or not started; pack=willemite)","at":1793798763741}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793798836067}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793798850755}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793798870488}

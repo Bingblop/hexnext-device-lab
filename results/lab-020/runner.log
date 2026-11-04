@@ -1,0 +1,12 @@
+[08:21:21] job lab-020
+[08:21:24] install: downloaded artifact 13325987419 through the API
+[08:21:24] install: run 41834301393 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[08:21:25] restarting Shizuku as root
+[08:21:33] scan
+[08:21:56] apply (confirm=true)
+[08:26:35] lookup 1
+[08:26:40] capture dark dialogs
+[08:27:01] capture dark settings
+[08:27:20] capture dark qs
+[08:27:34] capture dark power
+[08:27:55] soft reboot; remaining steps: shizuku waitrestore lookup capture (unlock the phone when it comes back)
