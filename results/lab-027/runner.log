@@ -1,0 +1,17 @@
+[14:40:37] job lab-027
+[14:40:40] install: downloaded artifact 13355449208 through the API
+[14:40:41] install: run 41895429633 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[14:40:42] restarting Shizuku as root
+[14:40:55] capture light power
+[14:41:15] capture light app:com.android.chrome
+[14:41:26] capture light app:com.google.android.apps.docs
+[14:41:36] capture light app:com.google.android.apps.messaging
+[14:41:45] capture light app:com.google.android.calculator
+[14:41:55] capture light app:com.google.android.calendar
+[14:42:04] capture light app:com.google.android.deskclock
+[14:42:15] capture light app:com.google.android.gm
+[14:42:25] capture light app:com.samsung.android.calendar
+[14:42:34] capture light app:com.samsung.android.email.provider
+[14:42:43] capture light app:com.samsung.android.lool
+[14:42:43] capture: com.samsung.android.lool did not open; its activities are in activities-com.samsung.android.lool.txt
+[14:42:58] arsc: com.samsung.android.lool 2660 KB

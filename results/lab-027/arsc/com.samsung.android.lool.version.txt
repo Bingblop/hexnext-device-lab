@@ -1,0 +1,2 @@
+    versionCode=1389300000 minSdk=37 targetSdk=37
+    versionName=13.8.93.0
