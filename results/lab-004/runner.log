@@ -1,0 +1,18 @@
+[19:23:20] job lab-004
+[19:23:25] install: downloaded artifact 13283512716 through the API
+[19:23:26] install: run 41744033939 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[19:23:26] restarting Shizuku as root
+[19:23:35] scan
+[19:23:47] apply (confirm=false)
+[19:27:29] capture dark settings
+[19:27:49] capture dark qs
+[19:28:44] preview qs: the hook was not on screen (try 1)
+[19:28:52] capture dark shade
+[19:29:13] capture dark power
+[19:29:33] capture dark myfiles
+[19:29:49] capture light settings
+[19:30:08] capture light qs
+[19:30:23] capture light shade
+[19:30:46] capture light power
+[19:31:06] capture light myfiles
+[19:31:21] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)

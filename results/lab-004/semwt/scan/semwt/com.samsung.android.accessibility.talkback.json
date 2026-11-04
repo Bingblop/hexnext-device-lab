@@ -1,0 +1,375 @@
+{
+  "overlayId": "android:SemWT_com.samsung.android.accessibility.talkback",
+  "target": "com.samsung.android.accessibility.talkback",
+  "state": "STATE_ENABLED",
+  "priority": 2147483647,
+  "entries": [
+    {
+      "resId": "0x7f05013a",
+      "name": "color\/sesl_action_bar_background_color_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f05013b",
+      "name": "color\/sesl_action_bar_background_color_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f05013e",
+      "name": "color\/sesl_action_bar_text_color_menu_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f05013f",
+      "name": "color\/sesl_action_bar_text_color_subtitle_dark",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f050140",
+      "name": "color\/sesl_action_bar_text_color_subtitle_light",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f050141",
+      "name": "color\/sesl_action_bar_text_color_title_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f050142",
+      "name": "color\/sesl_action_bar_text_color_title_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f05014e",
+      "name": "color\/sesl_background_color_light",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f050157",
+      "name": "color\/sesl_btn_background_color_light",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0501d3",
+      "name": "color\/sesl_list_subheader_text_color",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0501d4",
+      "name": "color\/sesl_list_subheader_text_color_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0501d5",
+      "name": "color\/sesl_loading_progress_color1",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0501d6",
+      "name": "color\/sesl_loading_progress_color2",
+      "kind": "color",
+      "default": "0x99c498ef",
+      "night": "0x99c498ef"
+    },
+    {
+      "resId": "0x7f0501db",
+      "name": "color\/sesl_menu_popup_background_stroke_color",
+      "kind": "color",
+      "default": "0xffcdc2d7",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0501eb",
+      "name": "color\/sesl_primary_color_dark",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0501ec",
+      "name": "color\/sesl_primary_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0501ed",
+      "name": "color\/sesl_primary_dark_color_dark",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0501ee",
+      "name": "color\/sesl_primary_dark_color_light",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0501f4",
+      "name": "color\/sesl_progress_control_color_activated_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0501f7",
+      "name": "color\/sesl_progress_control_color_normal_light",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f0501fe",
+      "name": "color\/sesl_round_and_bgcolor_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f0501ff",
+      "name": "color\/sesl_round_and_bgcolor_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f050219",
+      "name": "color\/sesl_search_view_hint_text_color",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f05021b",
+      "name": "color\/sesl_search_view_icon_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f05021e",
+      "name": "color\/sesl_search_view_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f050225",
+      "name": "color\/sesl_seekbar_control_color_activated",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f050226",
+      "name": "color\/sesl_seekbar_control_color_default",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f050227",
+      "name": "color\/sesl_seekbar_control_color_default_dark",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f05022b",
+      "name": "color\/sesl_seekbar_level_control_color_default",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f050252",
+      "name": "color\/sesl_switch_thumb_off_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f050253",
+      "name": "color\/sesl_switch_thumb_off_disabled_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f050259",
+      "name": "color\/sesl_switch_thumb_on_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f05025a",
+      "name": "color\/sesl_switch_thumb_on_disabled_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f05025c",
+      "name": "color\/sesl_switch_thumb_on_disabled_stroke_color",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f05025e",
+      "name": "color\/sesl_switch_thumb_on_stroke_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f050263",
+      "name": "color\/sesl_switch_track_on_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f050264",
+      "name": "color\/sesl_switch_track_on_disabled_color",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f050265",
+      "name": "color\/sesl_switchbar_off_background_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f050266",
+      "name": "color\/sesl_switchbar_off_background_color_light",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f050269",
+      "name": "color\/sesl_switchbar_on_background_color_dark",
+      "kind": "color",
+      "default": "0x1a611ba8",
+      "night": "0x1ad8bbf4"
+    },
+    {
+      "resId": "0x7f05026a",
+      "name": "color\/sesl_switchbar_on_background_color_light",
+      "kind": "color",
+      "default": "0x1a611ba8",
+      "night": "0x1ad8bbf4"
+    },
+    {
+      "resId": "0x7f05026b",
+      "name": "color\/sesl_switchbar_on_text_color_light",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f050279",
+      "name": "color\/sesl_thumb_control_color_activated",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f05027a",
+      "name": "color\/sesl_thumb_control_fill_color_activated",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f05027e",
+      "name": "color\/sesl_tick_mark_seekbar_level",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    }
+  ],
+  "missing": [
+    "com.samsung.android.accessibility.talkback:color\/picker_app_list_no_results_found_color",
+    "com.samsung.android.accessibility.talkback:color\/sesl_action_bar_text_color_menu_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_app_picker_list_action_icon_tint_color",
+    "com.samsung.android.accessibility.talkback:color\/sesl_background_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_background_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_background_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_background_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_background_for_theme",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_background_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_icon_text_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_icon_text_for_theme",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_floating_icon_text_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_icon_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_icon_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_text_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_text_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_text_text_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_bottom_navigation_text_text_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_btn_background_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_color_picker_tab_selected_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_color_picker_tab_selected_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_saturday_text_color_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_saturday_week_text_color_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_selected_day_number_text_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_selected_day_number_text_color_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_sunday_number_text_color_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_sunday_text_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_date_picker_sunday_text_color_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_extended_appbar_subtitle_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_extended_appbar_subtitle_light",
+    "com.samsung.android.accessibility.talkback:color\/sesl_menu_popup_background_stroke_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_number_picker_text_color_scroll",
+    "com.samsung.android.accessibility.talkback:color\/sesl_progress_control_color_activated_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_progress_control_color_normal_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_search_view_hint_text_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_search_view_icon_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_search_view_text_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_simple_month_view_selected_day_color",
+    "com.samsung.android.accessibility.talkback:color\/sesl_swipe_refresh_color1",
+    "com.samsung.android.accessibility.talkback:color\/sesl_swipe_refresh_color2",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switch_thumb_off_disabled_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switch_thumb_on_disabled_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switch_thumb_on_disabled_stroke_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switch_thumb_on_stroke_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switch_track_on_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_switchbar_on_text_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_tablayout_selected_indicator_color",
+    "com.samsung.android.accessibility.talkback:color\/sesl_tablayout_selected_text_color",
+    "com.samsung.android.accessibility.talkback:color\/sesl_tablayout_subtab_background_stroke_color_dark",
+    "com.samsung.android.accessibility.talkback:color\/sesl_tablayout_subtab_background_stroke_color_light"
+  ]
+}

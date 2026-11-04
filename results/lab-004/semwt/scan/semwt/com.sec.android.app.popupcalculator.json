@@ -1,0 +1,530 @@
+{
+  "overlayId": "android:SemWT_com.sec.android.app.popupcalculator",
+  "target": "com.sec.android.app.popupcalculator",
+  "state": "STATE_ENABLED",
+  "priority": 2147483647,
+  "entries": [
+    {
+      "resId": "0x7f06001b",
+      "name": "color\/action_bar_title_bg",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f06001c",
+      "name": "color\/actionbar_color_bg",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f06001d",
+      "name": "color\/actionbar_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060021",
+      "name": "color\/back_actionbar_tint",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060022",
+      "name": "color\/back_key",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060023",
+      "name": "color\/back_key_unit_converter",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060029",
+      "name": "color\/border_tab_layout_selected",
+      "kind": "color",
+      "default": "0x1a611ba8",
+      "night": "0x1ad8bbf4"
+    },
+    {
+      "resId": "0x7f060034",
+      "name": "color\/calc_cursor",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f060035",
+      "name": "color\/calc_cursor_scientific",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f060036",
+      "name": "color\/calc_edit_bg",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f060039",
+      "name": "color\/calc_keypad_number_button_bg",
+      "kind": "color",
+      "default": "0x1ac498ef",
+      "night": "0x1ac498ef"
+    },
+    {
+      "resId": "0x7f06003a",
+      "name": "color\/calc_keypad_operation_button_bg",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f06003b",
+      "name": "color\/calc_keypad_scientific_button_bg",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f06003c",
+      "name": "color\/calc_keypad_symbol_button_bg",
+      "kind": "color",
+      "default": "0x1ac498ef",
+      "night": "0x1ac498ef"
+    },
+    {
+      "resId": "0x7f06003d",
+      "name": "color\/calc_tab_title_default",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f06003e",
+      "name": "color\/calc_tab_title_selected",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060048",
+      "name": "color\/colorPrimaryDark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f06004b",
+      "name": "color\/converter_area_text",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06004c",
+      "name": "color\/converter_btn_cursor_up",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06004d",
+      "name": "color\/converter_cursor",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f060052",
+      "name": "color\/converter_keypad_symbol_button_bg",
+      "kind": "color",
+      "default": "0x1ac498ef",
+      "night": "0x1ac498ef"
+    },
+    {
+      "resId": "0x7f060053",
+      "name": "color\/converter_list_item_text",
+      "kind": "color",
+      "default": "0xcc8126dc",
+      "night": "0xccd8bbf4"
+    },
+    {
+      "resId": "0x7f060054",
+      "name": "color\/converter_list_item_unit_text",
+      "kind": "color",
+      "default": "0xcc8126dc",
+      "night": "0xccd8bbf4"
+    },
+    {
+      "resId": "0x7f060055",
+      "name": "color\/converter_list_item_value_text",
+      "kind": "color",
+      "default": "0xcc8126dc",
+      "night": "0xccd8bbf4"
+    },
+    {
+      "resId": "0x7f060056",
+      "name": "color\/converter_result_text_color",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005a",
+      "name": "color\/converter_spinner_select",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005b",
+      "name": "color\/converter_sub_total_edittext_color",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005c",
+      "name": "color\/converter_sub_total_text",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005d",
+      "name": "color\/converter_sub_total_text_tablet",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005e",
+      "name": "color\/converter_text_color",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06005f",
+      "name": "color\/converter_tip_amount_text_color",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060064",
+      "name": "color\/converter_tip_number_layout_bg",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0600ca",
+      "name": "color\/glance_widget_setting_current_color_setting",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0600cc",
+      "name": "color\/glance_widget_setting_dropdown_list_item_icon_checked",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0600cd",
+      "name": "color\/glance_widget_setting_dropdown_list_item_primary_text_color",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0600cf",
+      "name": "color\/glance_widget_setting_list_bg_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0600de",
+      "name": "color\/history_btn_bg",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0600e2",
+      "name": "color\/history_expression",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0600e6",
+      "name": "color\/history_normal",
+      "kind": "color",
+      "default": "0xd98126dc",
+      "night": "0xd9d8bbf4"
+    },
+    {
+      "resId": "0x7f0600e7",
+      "name": "color\/history_result",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0600e8",
+      "name": "color\/history_result_scientific",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0600ec",
+      "name": "color\/keypad_clear",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0600f1",
+      "name": "color\/keypad_equal",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f0600f2",
+      "name": "color\/keypad_equal_bg",
+      "kind": "color",
+      "default": "0xff808bd7",
+      "night": "0xff4152c4"
+    },
+    {
+      "resId": "0x7f0600f3",
+      "name": "color\/keypad_equal_scientific_bg",
+      "kind": "color",
+      "default": "0xff808bd7",
+      "night": "0xff4152c4"
+    },
+    {
+      "resId": "0x7f0600f4",
+      "name": "color\/keypad_func",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f0600f7",
+      "name": "color\/keypad_number",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0600fa",
+      "name": "color\/keypad_operation",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f0600fb",
+      "name": "color\/keypad_plus_minus_bubble_bg",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0600fc",
+      "name": "color\/keypad_plus_minus_bubble_stroke",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0600fd",
+      "name": "color\/keypad_plus_minus_bubble_text",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f0600fe",
+      "name": "color\/keypad_scientific",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f060101",
+      "name": "color\/keypad_symbol",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06011f",
+      "name": "color\/mtg_calculate_btn_stroke_color",
+      "kind": "color",
+      "default": "0xff808bd7",
+      "night": "0xff4152c4"
+    },
+    {
+      "resId": "0x7f060120",
+      "name": "color\/mtg_calculate_btn_text_color",
+      "kind": "color",
+      "default": "0xfffafafa",
+      "night": "0xfffafafa"
+    },
+    {
+      "resId": "0x7f060123",
+      "name": "color\/mtg_number_picker_select",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060127",
+      "name": "color\/mtg_period_dialog_btn_text",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06012a",
+      "name": "color\/mtg_text_color_2",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f06015e",
+      "name": "color\/navigationBarColor",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f060161",
+      "name": "color\/number",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f060162",
+      "name": "color\/number_picker_scrolling",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06016d",
+      "name": "color\/real_time_result",
+      "kind": "color",
+      "default": "0xcc8126dc",
+      "night": "0xccd8bbf4"
+    },
+    {
+      "resId": "0x7f06016e",
+      "name": "color\/result",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f06016f",
+      "name": "color\/result_scientific",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0601a4",
+      "name": "color\/sesl_seekbar_level_control_color_default",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f0601a9",
+      "name": "color\/sesl_thumb_control_color_activated",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0601aa",
+      "name": "color\/sesl_thumb_control_fill_color_activated",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0601ad",
+      "name": "color\/sesl_tick_mark_seekbar_level",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f0601b1",
+      "name": "color\/status_bar_background_color",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f0601b8",
+      "name": "color\/symbols",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0601b9",
+      "name": "color\/symbols_scientific",
+      "kind": "color",
+      "default": "0xff4152c4",
+      "night": "0xff9fa7e1"
+    },
+    {
+      "resId": "0x7f0601ba",
+      "name": "color\/tab_layout_bg",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f0601c0",
+      "name": "color\/title_actionbar",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0601e6",
+      "name": "color\/windowBackground",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    }
+  ],
+  "missing": [
+    "com.sec.android.app.popupcalculator:color\/arrow_button_unit_converter_disable",
+    "com.sec.android.app.popupcalculator:color\/back_key_unit_converter_disable"
+  ]
+}

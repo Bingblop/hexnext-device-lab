@@ -1,0 +1,415 @@
+android:SemWT_com.samsung.android.calendar:0 {
+  mPackageName...........: android
+  mOverlayName...........: SemWT_com.samsung.android.calendar
+  mUserId................: 0
+  mTargetPackageName.....: com.samsung.android.calendar
+  mTargetOverlayableName.: 
+  mBaseCodePath..........: /data/resource-cache/android-SemWT_com.samsung.android.calendar-h7Sr.frro
+  mState.................: STATE_ENABLED
+  mIsEnabled.............: true
+  mIsMutable.............: true
+  mPriority..............: 2147483647
+  mCategory..............: null
+  mIsFabricated..........: true
+  mConstraints...........: None
+}
+IDMAP OF android:SemWT_com.samsung.android.calendar
+Paths:
+    target path  : /data/app/~~4FXL8WrXx6IjigvSl9aCsA==/com.samsung.android.calendar-QrcJ8bJzrLjeVgSY76CXmA==/base.apk
+    overlay path : /data/resource-cache/android-SemWT_com.samsung.android.calendar-h7Sr.frro
+Overlay name: SemWT_com.samsung.android.calendar
+Debug info:
+    W failed to find resource 'com.samsung.android.calendar:color/add_condition_time_preset_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/add_condition_time_preset_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_actionbar_divider_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_actionbar_divider_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_checkbox_checked_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_checkbox_checked_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_off_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_off_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_on_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_on_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_on_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_master_on_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_search_view_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/common_search_view_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/date_picker_selection_circle_color'
+    W failed to find resource 'com.samsung.android.calendar:color/date_picker_selection_circle_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_call_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_call_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_email_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_email_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_message_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/edit_card_birthday_message_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_current_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_current_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_radio_button_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_radio_button_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_view_gradation_end'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_view_gradation_end'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_view_gradation_start'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_search_view_gradation_start'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_status_bar_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_picker_status_bar_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_search_voice_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/location_search_voice_icon_color'
+    W failed to find resource 'com.samsung.android.calendar:color/month_event_list_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/month_event_list_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/picker_app_list_no_results_found_color'
+    W failed to find resource 'com.samsung.android.calendar:color/picker_app_list_no_results_found_color'
+    W failed to find resource 'com.samsung.android.calendar:color/quick_add_cap_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/quick_add_cap_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/ringtone_picker_seek_bar_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/ringtone_picker_seek_bar_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/ringtone_picker_seek_bar_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/ringtone_picker_seek_bar_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_app_picker_list_action_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_app_picker_list_action_icon_tint_color'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_for_theme'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_for_theme'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_background_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_icon_text_for_theme'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_floating_icon_text_for_theme'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_text_text_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_text_text_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_text_text_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_bottom_navigation_text_text_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_color_picker_tab_selected_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_color_picker_tab_selected_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_color_picker_tab_selected_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_color_picker_tab_selected_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_menu_popup_background_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_menu_popup_background_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_simple_month_view_selected_day_color'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_simple_month_view_selected_day_color'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switch_thumb_on_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switch_thumb_on_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switch_track_on_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switch_track_on_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switchbar_on_text_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_switchbar_on_text_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_tablayout_subtab_background_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_tablayout_subtab_background_stroke_color_dark'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_tablayout_subtab_background_stroke_color_light'
+    W failed to find resource 'com.samsung.android.calendar:color/sesl_tablayout_subtab_background_stroke_color_light'
+    W failed to find resource 'com.samsung.android.calendar:color/subscription_reset_button_background'
+    W failed to find resource 'com.samsung.android.calendar:color/subscription_reset_button_background'
+    W failed to find resource 'com.samsung.android.calendar:color/tab_indicator_start_end_unselected_lunar_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/tab_indicator_start_end_unselected_lunar_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/timezone_search_view_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/timezone_search_view_background_color'
+    W failed to find resource 'com.samsung.android.calendar:color/top_sticker_network_setting_button_text_color'
+    W failed to find resource 'com.samsung.android.calendar:color/top_sticker_network_setting_button_text_color'
+Constraints:
+    None
+Mapping:
+    0x7f060003 -> color 0xff611ba8    0x7f060003 -> color 0xffd8bbf4 (color/about_calendar_app_info_icon_tint_color)
+    0x7f060004 -> color 0xff611ba8    0x7f060004 -> color 0xffd8bbf4 (color/about_calendar_app_name_text_color)
+    0x7f060005 -> color 0xff9c89b0    0x7f060005 -> color 0xffb4a5c3 (color/about_calendar_app_version_text_color)
+    0x7f060006 -> color 0xff9c89b0    0x7f060006 -> color 0xffb4a5c3 (color/about_calendar_available_text_color)
+    0x7f060007 -> color 0xfff2eff5    0x7f060007 -> color 0xff010101 (color/about_calendar_background_color)
+    0x7f060008 -> color 0xffe6e0eb    0x7f060008 -> color 0xff504060 (color/about_calendar_button_background_color)
+    0x7f06000a -> color 0xffc498ef    0x7f06000a -> color 0xffc498ef (color/about_calendar_update_button_background_color)
+    0x7f0601d3 -> color 0xffc498ef    0x7f0601d3 -> color 0xffc498ef (color/color_control_activated)
+    0x7f0601e0 -> color 0xff611ba8    0x7f0601e0 -> color 0xffd8bbf4 (color/common_actionbar_activity_title_text_color)
+    0x7f0601e2 -> color 0xfff2eff5    0x7f0601e2 -> color 0xff010101 (color/common_actionbar_background_color)
+    0x7f0601e5 -> color 0xfff2eff5    0x7f0601e5 -> color 0xff010101 (color/common_actionbar_navigate_bar_color)
+    0x7f0601e6 -> color 0xfff2eff5    0x7f0601e6 -> color 0xff010101 (color/common_actionbar_status_bar_color)
+    0x7f0601f0 -> color 0xfff2eff5    0x7f0601f0 -> color 0xff010101 (color/common_bottom_navigation_background_color)
+    0x7f0601f1 -> color 0xff611ba8    0x7f0601f1 -> color 0xffd8bbf4 (color/common_bottom_navigation_icon_tint_color)
+    0x7f0601f2 -> color 0xff611ba8    0x7f0601f2 -> color 0xffd8bbf4 (color/common_bottom_navigation_text_color)
+    0x7f0601f4 -> color 0xffe6e0eb    0x7f0601f4 -> color 0xff504060 (color/common_button_background_color)
+    0x7f0601f6 -> color 0xffe6e0eb    0x7f0601f6 -> color 0xff504060 (color/common_button_background_dark_color)
+    0x7f06020e -> color 0xffcdc2d7    0x7f06020e -> color 0xff504060 (color/common_dropdown_list_stroke_color)
+    0x7f06022a -> color 0xfffcfcfc    0x7f06022a -> color 0xff1f1925 (color/common_list_selected_background_color)
+    0x7f06022b -> color 0xfff2eff5    0x7f06022b -> color 0xff010101 (color/common_list_sub_header_background_color)
+    0x7f06022c -> color 0xff9c89b0    0x7f06022c -> color 0xffb4a5c3 (color/common_list_sub_header_text_color)
+    0x7f06022e -> color 0xfffcfcfc    0x7f06022e -> color 0xff1f1925 (color/common_main_switch_off_background_color)
+    0x7f060230 -> color 0x1a611ba8    0x7f060230 -> color 0x1ad8bbf4 (color/common_main_switch_on_background_color)
+    0x7f060231 -> color 0xff8126dc    0x7f060231 -> color 0xffd8bbf4 (color/common_main_switch_on_text_color)
+    0x7f060233 -> color 0xfff2eff5    0x7f060233 -> color 0xff010101 (color/common_main_tab_background_color)
+    0x7f06023d -> color 0xffc498ef    0x7f06023d -> color 0xffc498ef (color/common_saturday_number_text_color)
+    0x7f06023f -> color 0xff611ba8    0x7f06023f -> color 0xffd8bbf4 (color/common_select_all_check_box_off_tint_color)
+    0x7f060240 -> color 0xff611ba8    0x7f060240 -> color 0xffd8bbf4 (color/common_select_all_check_box_on_tint_color)
+    0x7f060244 -> color 0xffdb332a    0x7f060244 -> color 0xffdb332a (color/common_sunday_number_text_color)
+    0x7f060248 -> color 0xff8126dc    0x7f060248 -> color 0xffd8bbf4 (color/common_text_input_link_text_color)
+    0x7f060252 -> color 0xfffcfcfc    0x7f060252 -> color 0xff1f1925 (color/common_window_background_color)
+    0x7f06028b -> color 0xffdb332a    0x7f06028b -> color 0xffdb332a (color/delete_confirm_dialog_strong_action_color)
+    0x7f0602ba -> color 0xfffcfcfc    0x7f0602ba -> color 0xff1f1925 (color/drawer_background_color_phone)
+    0x7f0602bb -> color 0x1a010101    0x7f0602bb -> color 0x1afcfcfc (color/drawer_background_color_tablet)
+    0x7f0602d0 -> color 0xff611ba8    0x7f0602d0 -> color 0xffd8bbf4 (color/edit_card_add_image_tint_color)
+    0x7f0602db -> color 0xffe6e0eb    0x7f0602db -> color 0xff504060 (color/edit_card_date_time_button_selected_background_color)
+    0x7f0602eb -> color 0xff9c89b0    0x7f0602eb -> color 0xffb4a5c3 (color/edit_input_hint_text_color)
+    0x7f0602ed -> color 0xff9c89b0    0x7f0602ed -> color 0xffb4a5c3 (color/edit_title_text_input_hint_text_color)
+    0x7f06037c -> color 0xffcdc2d7    0x7f06037c -> color 0xff504060 (color/handwriting_toolbar_bg_stroke_color)
+    0x7f06037f -> color 0xffe6e0eb    0x7f06037f -> color 0xff504060 (color/handwriting_toolbar_icon_selected_color)
+    0x7f06038b -> color 0xfff2eff5    0x7f06038b -> color 0xff010101 (color/high_light_text_button)
+    0x7f0603d9 -> color 0xffc498ef    0x7f0603d9 -> color 0xffc498ef (color/location_picker_search_radio_selected_tint_color)
+    0x7f060707 -> color 0xff9c89b0    0x7f060707 -> color 0xffb4a5c3 (color/month_event_brick_time_text_color)
+    0x7f060713 -> color 0xffc498ef    0x7f060713 -> color 0xffc498ef (color/month_picker_selected_bg_color)
+    0x7f060716 -> color 0xffe6e0eb    0x7f060716 -> color 0xff504060 (color/month_picker_unselected_bg_color)
+    0x7f06079e -> color 0xff611ba8    0x7f06079e -> color 0xffd8bbf4 (color/participant_schedule_toolbar_text_color)
+    0x7f0607b2 -> color 0xffc498ef    0x7f0607b2 -> color 0xffc498ef (color/primary)
+    0x7f0607b3 -> color 0xff8126dc    0x7f0607b3 -> color 0xffd8bbf4 (color/primary_dark)
+    0x7f0607bd -> color 0xb3e6e0eb    0x7f0607bd -> color 0xb3504060 (color/quick_add_button_background_color_popup)
+    0x7f0607ca -> color 0xffc498ef    0x7f0607ca -> color 0xffc498ef (color/quick_add_fab_disable_background_color)
+    0x7f0607d0 -> color 0xffe6e0eb    0x7f0607d0 -> color 0xff504060 (color/quick_add_suggestion_chip_background_color)
+    0x7f0607d3 -> color 0x338126dc    0x7f0607d3 -> color 0x33d8bbf4 (color/quick_add_time_background_color)
+    0x7f0607d5 -> color 0xffc498ef    0x7f0607d5 -> color 0xffc498ef (color/quick_add_time_highlight_color)
+    0x7f0607df -> color 0xffc498ef    0x7f0607df -> color 0xffc498ef (color/repeat_date_picker_button_background_checked_color)
+    0x7f0607e5 -> color 0xff9c89b0    0x7f0607e5 -> color 0xffb4a5c3 (color/repeat_description_text_color)
+    0x7f0607ec -> color 0xff8126dc    0x7f0607ec -> color 0xffd8bbf4 (color/repeat_sub_option_selected_color)
+    0x7f0607f0 -> color 0xffc498ef    0x7f0607f0 -> color 0xffc498ef (color/ringtone_picker_seek_bar_progress_color)
+    0x7f0607f8 -> color 0xff8126dc    0x7f0607f8 -> color 0xffd8bbf4 (color/search_clear_all_text_color)
+    0x7f060804 -> color 0xffe6e0eb    0x7f060804 -> color 0xff504060 (color/search_history_item_background_color)
+    0x7f060807 -> color 0xfffcfcfc    0x7f060807 -> color 0xff1f1925 (color/search_suggestion_item_background_color)
+    0x7f060808 -> color 0xff8126dc    0x7f060808 -> color 0xffd8bbf4 (color/search_text_highlight_text_color)
+    0x7f060815 -> color 0xfff2eff5    0x7f060815 -> color 0xff010101 (color/sesl_action_bar_background_color_dark)
+    0x7f060816 -> color 0xfff2eff5    0x7f060816 -> color 0xff010101 (color/sesl_action_bar_background_color_light)
+    0x7f060818 -> color 0xff611ba8    0x7f060818 -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_menu_dark)
+    0x7f060819 -> color 0xff611ba8    0x7f060819 -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_menu_light)
+    0x7f06081a -> color 0x999c89b0    0x7f06081a -> color 0x99b4a5c3 (color/sesl_action_bar_text_color_subtitle_dark)
+    0x7f06081b -> color 0x999c89b0    0x7f06081b -> color 0x99b4a5c3 (color/sesl_action_bar_text_color_subtitle_light)
+    0x7f06081c -> color 0xff611ba8    0x7f06081c -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_title_dark)
+    0x7f06081d -> color 0xff611ba8    0x7f06081d -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_title_light)
+    0x7f060834 -> color 0xfffcfcfc    0x7f060834 -> color 0xff1f1925 (color/sesl_background_color_dark)
+    0x7f060835 -> color 0xfffcfcfc    0x7f060835 -> color 0xff1f1925 (color/sesl_background_color_light)
+    0x7f060850 -> color 0xfff2eff5    0x7f060850 -> color 0xff010101 (color/sesl_bottom_navigation_background_dark)
+    0x7f060851 -> color 0xfff2eff5    0x7f060851 -> color 0xff010101 (color/sesl_bottom_navigation_background_light)
+    0x7f060856 -> color 0xff611ba8    0x7f060856 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_floating_icon_text_dark)
+    0x7f060857 -> color 0xff611ba8    0x7f060857 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_floating_icon_text_light)
+    0x7f060858 -> color 0xff611ba8    0x7f060858 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_icon_dark)
+    0x7f060859 -> color 0xff611ba8    0x7f060859 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_icon_light)
+    0x7f06085d -> color 0xff611ba8    0x7f06085d -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_dark)
+    0x7f060860 -> color 0xff611ba8    0x7f060860 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_light)
+    0x7f060863 -> color 0xffe6e0eb    0x7f060863 -> color 0xff504060 (color/sesl_btn_background_color_dark)
+    0x7f060864 -> color 0xffe6e0eb    0x7f060864 -> color 0xff504060 (color/sesl_btn_background_color_light)
+    0x7f0608a3 -> color 0xff8126dc    0x7f0608a3 -> color 0xffd8bbf4 (color/sesl_date_picker_saturday_text_color_light)
+    0x7f0608a4 -> color 0x808126dc    0x7f0608a4 -> color 0x80d8bbf4 (color/sesl_date_picker_saturday_week_text_color_light)
+    0x7f0608a5 -> color 0xfffcfcfc    0x7f0608a5 -> color 0xff1f1925 (color/sesl_date_picker_selected_day_number_text_color_dark)
+    0x7f0608a6 -> color 0xfffcfcfc    0x7f0608a6 -> color 0xff1f1925 (color/sesl_date_picker_selected_day_number_text_color_light)
+    0x7f0608a7 -> color 0xffdb332a    0x7f0608a7 -> color 0xffdb332a (color/sesl_date_picker_sunday_number_text_color_light)
+    0x7f0608a8 -> color 0x40db332a    0x7f0608a8 -> color 0x40db332a (color/sesl_date_picker_sunday_text_color_dark)
+    0x7f0608a9 -> color 0x40db332a    0x7f0608a9 -> color 0x40db332a (color/sesl_date_picker_sunday_text_color_light)
+    0x7f0608f1 -> color 0x999c89b0    0x7f0608f1 -> color 0x99b4a5c3 (color/sesl_extended_appbar_subtitle_dark)
+    0x7f0608f2 -> color 0x999c89b0    0x7f0608f2 -> color 0x99b4a5c3 (color/sesl_extended_appbar_subtitle_light)
+    0x7f06095f -> color 0xff9c89b0    0x7f06095f -> color 0xffb4a5c3 (color/sesl_list_subheader_text_color)
+    0x7f060960 -> color 0xff9c89b0    0x7f060960 -> color 0xffb4a5c3 (color/sesl_list_subheader_text_color_dark)
+    0x7f060961 -> color 0xffc498ef    0x7f060961 -> color 0xffc498ef (color/sesl_loading_progress_color1)
+    0x7f060962 -> color 0x99c498ef    0x7f060962 -> color 0x99c498ef (color/sesl_loading_progress_color2)
+    0x7f060967 -> color 0xffcdc2d7    0x7f060967 -> color 0xff504060 (color/sesl_menu_popup_background_stroke_color)
+    0x7f06098a -> color 0xff8126dc    0x7f06098a -> color 0xffd8bbf4 (color/sesl_number_picker_text_color_scroll)
+    0x7f06099c -> color 0xffc498ef    0x7f06099c -> color 0xffc498ef (color/sesl_primary_color_dark)
+    0x7f06099d -> color 0xffc498ef    0x7f06099d -> color 0xffc498ef (color/sesl_primary_color_light)
+    0x7f06099e -> color 0xff8126dc    0x7f06099e -> color 0xffd8bbf4 (color/sesl_primary_dark_color_dark)
+    0x7f06099f -> color 0xff8126dc    0x7f06099f -> color 0xffd8bbf4 (color/sesl_primary_dark_color_light)
+    0x7f0609a4 -> color 0xffc498ef    0x7f0609a4 -> color 0xffc498ef (color/sesl_progress_control_color_activated_dark)
+    0x7f0609a5 -> color 0xffc498ef    0x7f0609a5 -> color 0xffc498ef (color/sesl_progress_control_color_activated_light)
+    0x7f0609a8 -> color 0x4dc498ef    0x7f0609a8 -> color 0x4dc498ef (color/sesl_progress_control_color_normal_dark)
+    0x7f0609a9 -> color 0x4dc498ef    0x7f0609a9 -> color 0x4dc498ef (color/sesl_progress_control_color_normal_light)
+    0x7f0609b0 -> color 0xfff2eff5    0x7f0609b0 -> color 0xff010101 (color/sesl_round_and_bgcolor_dark)
+    0x7f0609b1 -> color 0xfff2eff5    0x7f0609b1 -> color 0xff010101 (color/sesl_round_and_bgcolor_light)
+    0x7f0609cb -> color 0xff9c89b0    0x7f0609cb -> color 0xffb4a5c3 (color/sesl_search_view_hint_text_color)
+    0x7f0609cc -> color 0xff9c89b0    0x7f0609cc -> color 0xffb4a5c3 (color/sesl_search_view_hint_text_color_dark)
+    0x7f0609cd -> color 0xff611ba8    0x7f0609cd -> color 0xffd8bbf4 (color/sesl_search_view_icon_color)
+    0x7f0609ce -> color 0xff611ba8    0x7f0609ce -> color 0xffd8bbf4 (color/sesl_search_view_icon_color_dark)
+    0x7f0609d0 -> color 0xff611ba8    0x7f0609d0 -> color 0xffd8bbf4 (color/sesl_search_view_text_color)
+    0x7f0609d1 -> color 0xff611ba8    0x7f0609d1 -> color 0xffd8bbf4 (color/sesl_search_view_text_color_dark)
+    0x7f0609d7 -> color 0xffc498ef    0x7f0609d7 -> color 0xffc498ef (color/sesl_seekbar_control_color_activated)
+    0x7f0609d8 -> color 0x4dc498ef    0x7f0609d8 -> color 0x4dc498ef (color/sesl_seekbar_control_color_default)
+    0x7f0609d9 -> color 0x4dc498ef    0x7f0609d9 -> color 0x4dc498ef (color/sesl_seekbar_control_color_default_dark)
+    0x7f0609dd -> color 0x4dc498ef    0x7f0609dd -> color 0x4dc498ef (color/sesl_seekbar_level_control_color_default)
+    0x7f060a18 -> color 0xffc498ef    0x7f060a18 -> color 0xffc498ef (color/sesl_swipe_refresh_color1)
+    0x7f060a19 -> color 0x99c498ef    0x7f060a19 -> color 0x99c498ef (color/sesl_swipe_refresh_color2)
+    0x7f060a1c -> color 0xfffcfcfc    0x7f060a1c -> color 0xfffcfcfc (color/sesl_switch_thumb_off_color)
+    0x7f060a1d -> color 0xfffcfcfc    0x7f060a1d -> color 0xfffcfcfc (color/sesl_switch_thumb_off_disabled_color)
+    0x7f060a1e -> color 0xfffcfcfc    0x7f060a1e -> color 0xfffcfcfc (color/sesl_switch_thumb_off_disabled_color_dark)
+    0x7f060a23 -> color 0xfffcfcfc    0x7f060a23 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_color)
+    0x7f060a24 -> color 0xfffcfcfc    0x7f060a24 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_disabled_color)
+    0x7f060a25 -> color 0xfffcfcfc    0x7f060a25 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_disabled_color_dark)
+    0x7f060a26 -> color 0x66c498ef    0x7f060a26 -> color 0x66c498ef (color/sesl_switch_thumb_on_disabled_stroke_color)
+    0x7f060a27 -> color 0x66c498ef    0x7f060a27 -> color 0x66c498ef (color/sesl_switch_thumb_on_disabled_stroke_color_dark)
+    0x7f060a28 -> color 0xffc498ef    0x7f060a28 -> color 0xffc498ef (color/sesl_switch_thumb_on_stroke_color_light)
+    0x7f060a2d -> color 0xffc498ef    0x7f060a2d -> color 0xffc498ef (color/sesl_switch_track_on_color_light)
+    0x7f060a2e -> color 0x66c498ef    0x7f060a2e -> color 0x66c498ef (color/sesl_switch_track_on_disabled_color)
+    0x7f060a2f -> color 0xfffcfcfc    0x7f060a2f -> color 0xff1f1925 (color/sesl_switchbar_off_background_color_dark)
+    0x7f060a30 -> color 0xfffcfcfc    0x7f060a30 -> color 0xff1f1925 (color/sesl_switchbar_off_background_color_light)
+    0x7f060a33 -> color 0x1a611ba8    0x7f060a33 -> color 0x1ad8bbf4 (color/sesl_switchbar_on_background_color_dark)
+    0x7f060a34 -> color 0x1a611ba8    0x7f060a34 -> color 0x1ad8bbf4 (color/sesl_switchbar_on_background_color_light)
+    0x7f060a35 -> color 0xff8126dc    0x7f060a35 -> color 0xffd8bbf4 (color/sesl_switchbar_on_text_color_light)
+    0x7f060a4a -> color 0xff611ba8    0x7f060a4a -> color 0xffd8bbf4 (color/sesl_tablayout_selected_indicator_color)
+    0x7f060a4c -> color 0xff611ba8    0x7f060a4c -> color 0xffd8bbf4 (color/sesl_tablayout_selected_text_color)
+    0x7f060a5a -> color 0x26611ba8    0x7f060a5a -> color 0x26d8bbf4 (color/sesl_tablayout_subtab_indicator_background)
+    0x7f060a5b -> color 0x26611ba8    0x7f060a5b -> color 0x26d8bbf4 (color/sesl_tablayout_subtab_indicator_background_dark)
+    0x7f060a5d -> color 0xff9c89b0    0x7f060a5d -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_sub_text_color_default)
+    0x7f060a5e -> color 0xff9c89b0    0x7f060a5e -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_sub_text_color_default_dark)
+    0x7f060a61 -> color 0xff8126dc    0x7f060a61 -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_sub_text_color_selected)
+    0x7f060a62 -> color 0xff8126dc    0x7f060a62 -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_sub_text_color_selected_dark)
+    0x7f060a64 -> color 0xff9c89b0    0x7f060a64 -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_text_color_default)
+    0x7f060a65 -> color 0xff9c89b0    0x7f060a65 -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_text_color_default_dark)
+    0x7f060a69 -> color 0xff611ba8    0x7f060a69 -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_text_color_selected)
+    0x7f060a6a -> color 0xff611ba8    0x7f060a6a -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_text_color_selected_dark)
+    0x7f060a6d -> color 0xff9c89b0    0x7f060a6d -> color 0xffb4a5c3 (color/sesl_tablayout_text_color_default)
+    0x7f060a6e -> color 0xff9c89b0    0x7f060a6e -> color 0xffb4a5c3 (color/sesl_tablayout_text_color_default_dark)
+    0x7f060a8a -> color 0xffc498ef    0x7f060a8a -> color 0xffc498ef (color/sesl_thumb_control_color_activated)
+    0x7f060a8b -> color 0xfffcfcfc    0x7f060a8b -> color 0xff1f1925 (color/sesl_thumb_control_fill_color_activated)
+    0x7f060a8f -> color 0x66c498ef    0x7f060a8f -> color 0x66c498ef (color/sesl_tick_mark_seekbar_level)
+    0x7f060b10 -> color 0xfff2eff5    0x7f060b10 -> color 0xff010101 (color/sticker_picker_background_color)
+    0x7f060b1e -> color 0xff8126dc    0x7f060b1e -> color 0xffd8bbf4 (color/sticker_picker_tab_enable_color)
+    0x7f060b20 -> color 0xffcdc2d7    0x7f060b20 -> color 0xff504060 (color/sticker_prediction_stroke_color)
+    0x7f060b39 -> color 0xffc498ef    0x7f060b39 -> color 0xffc498ef (color/summary_color)
+    0x7f060b3d -> color 0xffe6e0eb    0x7f060b3d -> color 0xff504060 (color/tab_layout_background_color)
+    0x7f060b3e -> color 0xffc498ef    0x7f060b3e -> color 0xffc498ef (color/tab_selected_background_color)
+    0x7f060b40 -> color 0xff9c89b0    0x7f060b40 -> color 0xffb4a5c3 (color/tab_unselected_text_color)
+    0x7f060b5c -> color 0xfff2eff5    0x7f060b5c -> color 0xff010101 (color/theme_color)
+    0x7f060b5d -> color 0xfffcfcfc    0x7f060b5d -> color 0xff010101 (color/theme_content_area_color)
+    0x7f060b60 -> color 0xff8126dc    0x7f060b60 -> color 0xffd8bbf4 (color/timeline_add_border_color)
+    0x7f060b61 -> color 0x668126dc    0x7f060b61 -> color 0x66d8bbf4 (color/timeline_add_button_color)
+    0x7f060b62 -> color 0xff8126dc    0x7f060b62 -> color 0xffd8bbf4 (color/timeline_add_icon_tint_color)
+    0x7f060b63 -> color 0xffdb332a    0x7f060b63 -> color 0xffdb332a (color/timeline_current_time_color)
+    0x7f060b6a -> color 0xffe6e0eb    0x7f060b6a -> color 0xff504060 (color/timeline_more_event_color)
+    0x7f060b71 -> color 0xff611ba8    0x7f060b71 -> color 0xffd8bbf4 (color/timezone_current_icon_color)
+    0x7f060b75 -> color 0xff611ba8    0x7f060b75 -> color 0xffd8bbf4 (color/top_sticker_error_text_color)
+    0x7f060b76 -> color 0xff8126dc    0x7f060b76 -> color 0xffd8bbf4 (color/top_sticker_item_price_text_color)
+    0x7f060b77 -> color 0xff611ba8    0x7f060b77 -> color 0xffd8bbf4 (color/top_sticker_item_title_text_color)
+    0x7f060b78 -> color 0xff8126dc    0x7f060b78 -> color 0xffd8bbf4 (color/top_sticker_more_button_color)
+    0x7f060b7b -> color 0xff611ba8    0x7f060b7b -> color 0xffd8bbf4 (color/top_sticker_title_text_color)
+    0x7f060b7f -> color 0xff9c89b0    0x7f060b7f -> color 0xffb4a5c3 (color/trash_description_text_color)
+    0x7f060b81 -> color 0xfff2eff5    0x7f060b81 -> color 0xff010101 (color/trash_view_background_color)
+    0x7f060b89 -> color 0xff010101    0x7f060b89 -> color 0xfffcfcfc (color/update_card_action_button_text_color)
+    0x7f060b8a -> color 0xfffcfcfc    0x7f060b8a -> color 0xff1f1925 (color/update_card_background_color)
+    0x7f060ba9 -> color 0xffdb332a    0x7f060ba9 -> color 0xffdb332a (color/weekly_button_text_color_sunday)
+    0x7f060c35 -> color 0xffe6e0eb    0x7f060c35 -> color 0xff504060 (color/widget_setting_background_shape_no_selected_color)
+    0x7f060c39 -> color 0xffc498ef    0x7f060c39 -> color 0xffc498ef (color/widget_setting_background_shape_selected_color)
+    0x7f060c3a -> color 0xffc498ef    0x7f060c3a -> color 0xffc498ef (color/widget_setting_change_button_text_color)
+
+
+ Color palette history :
+11-03 15:24:57.970: V SWT_MetaDataManager(15430): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 15:24:57.971: V SWT_MetaData(15430): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 15:24:57.972: V SWT_MetaDataManager(15430): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 15:24:57.974: V SWT_MetaDataManager(15430): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): [Enable] commit OverlayManagerTransaction, dur1:102, dur2:780
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): AppIconBgColor (Light) - ff159cc1, AppIconBgColor (Dark) - ff12819f
+11-03 15:52:32.451: V SWT_WTM_Wrapper(17953): [Disable] commit OverlayManagerTransaction, dur:90
+11-03 19:11:43.523: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 24, existed package : android, requested package : com.samsung.font
+11-03 19:11:43.526: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 45, existed package : android, requested package : com.samsung.accessibility
+11-03 19:11:43.530: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 79, existed package : com.samsung.android.biometrics.app.setting, requested package : com.samsung.android.tadownloader
+11-03 19:11:43.531: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 102, existed package : com.samsung.android.dialer, requested package : com.samsung.osmnuui
+11-03 19:11:43.534: V SWT_MetaDataManager(12561): [Legacy] load static metadata, size of uid : 4674
+11-03 19:11:43.539: V SWT_MetaDataManager(12561): metadata rpUID [55] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.540: V SWT_MetaDataManager(12561): metadata rpUID [7_2] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.543: V SWT_MetaDataManager(12561): metadata rpUID [16] replaced by com.samsung.android.calendar
+11-03 19:11:43.544: V SWT_MetaDataManager(12561): metadata rpUID [95] replaced by com.samsung.android.emergency
+11-03 19:11:43.546: V SWT_MetaDataManager(12561): metadata rpUID [222] replaced by com.samsung.android.aremoji
+11-03 19:11:43.547: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.service.airviewdictionary
+11-03 19:11:43.548: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.smartmirroring
+11-03 19:11:43.550: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.incallui
+11-03 19:11:43.551: V SWT_MetaDataManager(12561): metadata rpUID [72] replaced by com.samsung.android.service.tagservice
+11-03 19:11:43.553: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.samsung.android.app.galaxyraw
+11-03 19:11:43.555: V SWT_MetaDataManager(12561): metadata rpUID [59] replaced by com.samsung.android.rubin.app
+11-03 19:11:43.556: V SWT_MetaDataManager(12561): metadata rpUID [13_1] replaced by com.wsomacp
+11-03 19:11:43.561: V SWT_MetaDataManager(12561): metadata rpUID [20] replaced by com.sec.android.app.voicenote
+11-03 19:11:43.565: V SWT_MetaDataManager(12561): metadata rpUID [244] replaced by com.samsung.android.inputshare
+11-03 19:11:43.567: V SWT_MetaDataManager(12561): metadata rpUID [29] replaced by com.sec.android.daemonapp
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [314] replaced by com.samsung.android.hwresourceshare
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [80] replaced by com.samsung.android.secsoundpicker
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [10_1] replaced by com.samsung.android.sm.devicesecurity
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.sidegesturepad
+11-03 19:11:43.571: V SWT_MetaDataManager(12561): metadata rpUID [35] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [36] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [238] replaced by com.samsung.android.bixby.agent
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [215] replaced by com.android.settings.intelligence
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [9_1] replaced by com.android.settings.intelligence
+11-03 19:11:43.575: V SWT_MetaDataManager(12561): metadata rpUID [21] replaced by com.sec.android.gallery3d
+11-03 19:11:43.576: V SWT_MetaDataManager(12561): metadata rpUID [98] replaced by com.samsung.android.rampart
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.game.gametools
+11-03 19:11:43.578: V SWT_MetaDataManager(12561): metadata rpUID [12] replaced by com.samsung.android.app.contacts
+11-03 19:11:43.579: V SWT_MetaDataManager(12561): metadata rpUID [44_3] replaced by com.samsung.android.service.peoplestripe
+11-03 19:11:43.580: V SWT_MetaDataManager(12561): metadata rpUID [62] replaced by com.samsung.android.app.reminder
+11-03 19:11:43.581: V SWT_MetaDataManager(12561): metadata rpUID [44_2] replaced by com.samsung.android.app.taskedge
+11-03 19:11:43.582: V SWT_MetaDataManager(12561): metadata rpUID [14] replaced by com.sec.android.app.clockpackage
+11-03 19:11:43.583: V SWT_MetaDataManager(12561): metadata rpUID [84] replaced by com.samsung.android.mdecservice
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [248] replaced by com.samsung.accessory.budsunitemgr
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [97] replaced by com.samsung.android.app.readingglass
+11-03 19:11:43.585: V SWT_MetaDataManager(12561): metadata rpUID [228] replaced by com.samsung.android.coldwalletservice
+11-03 19:11:43.586: V SWT_MetaDataManager(12561): metadata rpUID [17] replaced by com.sec.android.app.myfiles
+11-03 19:11:43.587: V SWT_MetaDataManager(12561): metadata rpUID [66] replaced by com.samsung.android.app.routines
+11-03 19:11:43.588: V SWT_MetaDataManager(12561): metadata rpUID [245] replaced by com.sec.android.mimage.photoretouching
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [33] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [61] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44_1, existed package : com.samsung.android.app.appsedge, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44, existed package : com.samsung.android.app.cocktailbarservice, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44] replaced by com.sec.android.app.launcher
+11-03 19:11:43.591: V SWT_MetaDataManager(12561): metadata rpUID [4_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 87, existed package : com.sec.android.app.sbrowser.beta, requested package : com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.593: V SWT_MetaDataManager(12561): metadata rpUID [236] replaced by com.samsung.android.app.interpreter
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [26] replaced by com.samsung.android.dialer
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [247] replaced by com.samsung.android.app.cameraassistant
+11-03 19:11:43.594: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 58, existed package : com.samsung.android.smartmirroring, requested package : com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [67] replaced by com.samsung.android.forest
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [610] replaced by io.mesalabs.knoxpatch
+11-03 19:11:43.596: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 54, existed package : com.samsung.android.incallui, requested package : com.samsung.android.callassistant
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.callassistant
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [44_4] replaced by com.sec.android.app.quicktool
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mdx
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [242] replaced by com.sec.android.app.shealth
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [250] replaced by com.samsung.android.warrantycare
+11-03 19:11:43.599: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 64, existed package : com.samsung.knox.securefolder, requested package : com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.android.appseparation
+
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template COLOR [quick_menu_layout_background_color] replaced by com.samsung.android.appseparation
+11-03 19:11:43.601: V SWT_MetaDataManager(12561): metadata rpUID [75] replaced by com.samsung.android.honeyboard
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [232] replaced by com.samsung.android.app.soundpicker
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [226] replaced by com.samsung.android.app.sharelive
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [40] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9_5] replaced by com.android.settings
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [96] replaced by com.samsung.android.widget.pictureframe
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [46] replaced by com.samsung.app.newtrim
+11-03 19:11:43.606: V SWT_MetaDataManager(12561): metadata rpUID [65] replaced by com.samsung.android.fast
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [10] replaced by com.samsung.android.lool
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.scpm
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [214] replaced by com.samsung.android.visionintelligence
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [315] replaced by com.samsung.android.hwresourceshare.storage
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [50] replaced by com.samsung.android.service.aircommand
+11-03 19:11:43.609: V SWT_MetaDataManager(12561): metadata rpUID [42] replaced by com.wssyncmldm
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [4] replaced by com.android.systemui
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [213] replaced by com.android.systemui
+11-03 19:11:43.611: V SWT_MetaDataManager(12561): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 19:11:43.612: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): [Enable] commit OverlayManagerTransaction, dur1:53, dur2:578
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): AppIconBgColor (Light) - ffb076e9, AppIconBgColor (Dark) - ff9a51e3
+
+
+ThemeFramework Information:
+current_sec_active_themepackage : null
+current_sec_active_theme_policy : null
+current_sec_appicon_theme_package : null
+current_sec_aod_theme_package : null
+current_sec_wallpaper_theme_package : null
+wallpapertheme_state : 1
+themepark theme is applied : false
+wallpapertheme_color_isgray : 0
+wallpapertheme_color_style : null
+wallpapertheme_color(toHex) : [ffffffff, fffdfbfe, fff5eefc, ffebddfa, ffd8bbf4, ffc498ef, ffb076e9, ff9a51e3, ff8126dc, ff611ba8, ff441375, ff280b45, ff000000, ffffffff, fffcfbfe, fff3eef8, ffe8def2, ffd2bfe5, ffbc9fd8, ffa680cc, ff9061bf, ff7845ac, ff5a3481, ff3e2358, ff231433, ff000000, ffffffff, fffbfcfe, ffeff0fa, ffdee1f5, ffbec4eb, ff9fa7e1, ff808bd7, ff616fce, ff4152c4, ff2f3d98, ff202a68, ff13183c, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000]
+colortheme_app_icon : 0
+available theme content at /data/overlays/main_packages : No files in directory

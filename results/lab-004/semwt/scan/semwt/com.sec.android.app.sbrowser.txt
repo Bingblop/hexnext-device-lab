@@ -1,0 +1,499 @@
+android:SemWT_com.sec.android.app.sbrowser:0 {
+  mPackageName...........: android
+  mOverlayName...........: SemWT_com.sec.android.app.sbrowser
+  mUserId................: 0
+  mTargetPackageName.....: com.sec.android.app.sbrowser
+  mTargetOverlayableName.: 
+  mBaseCodePath..........: /data/resource-cache/android-SemWT_com.sec.android.app.sbrowser-cDtF.frro
+  mState.................: STATE_ENABLED
+  mIsEnabled.............: true
+  mIsMutable.............: true
+  mPriority..............: 2147483647
+  mCategory..............: null
+  mIsFabricated..........: true
+  mConstraints...........: None
+}
+IDMAP OF android:SemWT_com.sec.android.app.sbrowser
+Paths:
+    target path  : /data/app/~~Ix8o_KKvBU_WDqfRTLbCWA==/com.sec.android.app.sbrowser-FQ7ME1rLp3S3KUhxPCV4nQ==/base.apk
+    overlay path : /data/resource-cache/android-SemWT_com.sec.android.app.sbrowser-cDtF.frro
+Overlay name: SemWT_com.sec.android.app.sbrowser
+Debug info:
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_customize_toolbar_pager_indicator_focused_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_customize_toolbar_pager_indicator_focused_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_customize_toolbar_pager_indicator_normal_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_customize_toolbar_pager_indicator_normal_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_find_on_page_cancel_button_color_high_contrast'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_find_on_page_cancel_button_color_high_contrast'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_on_bg_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_on_bg_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_on_stroke_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_on_stroke_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_track_on_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_list_view_switch_button_disabled_track_on_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_main_view_bottom_bar_icon_color_high_contrast'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_main_view_bottom_bar_icon_color_high_contrast'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_url_bar_suggestion_list_text_highlight_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/color_palette_url_bar_suggestion_list_text_highlight_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/picker_app_list_no_results_found_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/picker_app_list_no_results_found_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_app_picker_list_action_icon_tint_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_app_picker_list_action_icon_tint_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_bottom_navigation_floating_background_for_theme'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_bottom_navigation_floating_background_for_theme'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_bottom_navigation_floating_icon_text_for_theme'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_bottom_navigation_floating_icon_text_for_theme'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_color_picker_tab_selected_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_color_picker_tab_selected_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_color_picker_tab_selected_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_color_picker_tab_selected_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_saturday_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_saturday_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_saturday_week_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_saturday_week_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_selected_day_number_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_selected_day_number_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_selected_day_number_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_selected_day_number_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_number_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_number_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_date_picker_sunday_text_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_number_picker_text_color_scroll'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_number_picker_text_color_scroll'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_simple_month_view_selected_day_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_simple_month_view_selected_day_color'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_swipe_refresh_color1'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_swipe_refresh_color1'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_swipe_refresh_color2'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_swipe_refresh_color2'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switch_thumb_on_stroke_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switch_thumb_on_stroke_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switch_track_on_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switch_track_on_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switchbar_on_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_switchbar_on_text_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_tablayout_subtab_background_stroke_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_tablayout_subtab_background_stroke_color_dark'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_tablayout_subtab_background_stroke_color_light'
+    W failed to find resource 'com.sec.android.app.sbrowser:color/sesl_tablayout_subtab_background_stroke_color_light'
+Constraints:
+    None
+Mapping:
+    0x7f060054 -> color 0xff8126dc    0x7f060054 -> color 0xffd8bbf4 (color/ai_summarize_ftu_link_text_color)
+    0x7f060063 -> color 0xff8126dc    0x7f060063 -> color 0xffd8bbf4 (color/ai_summarize_style_popup_selected_item_color)
+    0x7f060345 -> color 0xffc498ef    0x7f060345 -> color 0xffc498ef (color/color_palette_ad_blocker_icon_color)
+    0x7f060346 -> color 0xff8126dc    0x7f060346 -> color 0xffd8bbf4 (color/color_palette_add_shortcut_rename_dialog_text_color)
+    0x7f060347 -> color 0xff8126dc    0x7f060347 -> color 0xffd8bbf4 (color/color_palette_ask_ai_chat_history_text_color)
+    0x7f060348 -> color 0xff611ba8    0x7f060348 -> color 0xffd8bbf4 (color/color_palette_autofill_editor_spinner_icon_color)
+    0x7f060349 -> color 0xff8126dc    0x7f060349 -> color 0xffd8bbf4 (color/color_palette_autofill_storage_option_summary_color)
+    0x7f06034a -> color 0xfff2eff5    0x7f06034a -> color 0xff010101 (color/color_palette_bookmark_bar_bg_color)
+    0x7f06034b -> color 0xff611ba8    0x7f06034b -> color 0xffd8bbf4 (color/color_palette_bookmark_bar_button_title_text_color)
+    0x7f06034c -> color 0xff611ba8    0x7f06034c -> color 0xffd8bbf4 (color/color_palette_bookmark_bar_more_button_tint_color)
+    0x7f06034e -> color 0x1a9a51e3    0x7f06034e -> color 0x1a9a51e3 (color/color_palette_bookmark_widget_inside_bg_color)
+    0x7f06034f -> color 0x1a9a51e3    0x7f06034f -> color 0x1a9a51e3 (color/color_palette_bookmark_widget_inside_bg_color_dark)
+    0x7f060350 -> color 0x1a9a51e3    0x7f060350 -> color 0x1a9a51e3 (color/color_palette_bookmark_widget_inside_bg_color_light)
+    0x7f060351 -> color 0xffc498ef    0x7f060351 -> color 0xffc498ef (color/color_palette_bookmark_widget_title_text_color)
+    0x7f060352 -> color 0xffc498ef    0x7f060352 -> color 0xffc498ef (color/color_palette_bookmarks_drag_item_badge_color)
+    0x7f060353 -> color 0xff611ba8    0x7f060353 -> color 0xffd8bbf4 (color/color_palette_bookmarks_edit_action_btn)
+    0x7f060354 -> color 0xff8126dc    0x7f060354 -> color 0xffd8bbf4 (color/color_palette_bookmarks_selected_folder_text_color)
+    0x7f060355 -> color 0xffc498ef    0x7f060355 -> color 0xffc498ef (color/color_palette_color_control_activated_color)
+    0x7f060357 -> color 0xfff2eff5    0x7f060357 -> color 0xff010101 (color/color_palette_custom_tab_toolbar_background_color)
+    0x7f060359 -> color 0xff611ba8    0x7f060359 -> color 0xffd8bbf4 (color/color_palette_custom_tab_toolbar_icon_button_color)
+    0x7f06035a -> color 0xff611ba8    0x7f06035a -> color 0xffd8bbf4 (color/color_palette_custom_tab_toolbar_share_button_color)
+    0x7f06035c -> color 0xff9c89b0    0x7f06035c -> color 0xffb4a5c3 (color/color_palette_custom_tab_toolbar_sub_text_color)
+    0x7f06035d -> color 0xff611ba8    0x7f06035d -> color 0xffd8bbf4 (color/color_palette_custom_tab_toolbar_text_button_color)
+    0x7f06035e -> color 0xff611ba8    0x7f06035e -> color 0xffd8bbf4 (color/color_palette_custom_tab_toolbar_text_color)
+    0x7f060362 -> color 0xffc498ef    0x7f060362 -> color 0xffc498ef (color/color_palette_customize_toolbar_selection_stroke_color)
+    0x7f060364 -> color 0xfffcfcfc    0x7f060364 -> color 0xff1f1925 (color/color_palette_customize_toolbar_toolbar_background_color)
+    0x7f060365 -> color 0xff8126dc    0x7f060365 -> color 0xffd8bbf4 (color/color_palette_download_save_as_rename_text_label)
+    0x7f060366 -> color 0xff611ba8    0x7f060366 -> color 0xffd8bbf4 (color/color_palette_download_spinner_text_color)
+    0x7f060367 -> color 0xffc498ef    0x7f060367 -> color 0xffc498ef (color/color_palette_find_on_page_active_highlight_color)
+    0x7f060368 -> color 0xfff2eff5    0x7f060368 -> color 0xff010101 (color/color_palette_find_on_page_bg_color)
+    0x7f060369 -> color 0xff611ba8    0x7f060369 -> color 0xffd8bbf4 (color/color_palette_find_on_page_cancel_button_color)
+    0x7f06036d -> color 0xff611ba8    0x7f06036d -> color 0xffd8bbf4 (color/color_palette_find_on_page_no_result_text_color)
+    0x7f06036e -> color 0xff9c89b0    0x7f06036e -> color 0xffb4a5c3 (color/color_palette_find_on_page_status_color)
+    0x7f06036f -> color 0xff611ba8    0x7f06036f -> color 0xffd8bbf4 (color/color_palette_find_on_page_up_button_color)
+    0x7f060370 -> color 0xff8126dc    0x7f060370 -> color 0xffd8bbf4 (color/color_palette_floating_button_icon_color)
+    0x7f060371 -> color 0xffc498ef    0x7f060371 -> color 0xffc498ef (color/color_palette_floating_fast_scroll_color)
+    0x7f060372 -> color 0xff611ba8    0x7f060372 -> color 0xffd8bbf4 (color/color_palette_help_intro_info_heading_color)
+    0x7f060373 -> color 0xff611ba8    0x7f060373 -> color 0xffd8bbf4 (color/color_palette_help_intro_info_text_color)
+    0x7f060374 -> color 0xff8126dc    0x7f060374 -> color 0xffd8bbf4 (color/color_palette_history_navigation_selected_text_color)
+    0x7f060375 -> color 0xfffcfcfc    0x7f060375 -> color 0xff1f1925 (color/color_palette_inline_cue_bg_color)
+    0x7f060376 -> color 0xff010101    0x7f060376 -> color 0xfffcfcfc (color/color_palette_inline_cue_btn_color)
+    0x7f060378 -> color 0xff8126dc    0x7f060378 -> color 0xffd8bbf4 (color/color_palette_layout_setting_radio_text_selected_color)
+    0x7f060379 -> color 0xff9c89b0    0x7f060379 -> color 0xffb4a5c3 (color/color_palette_list_subheader_light)
+    0x7f06037a -> color 0xff611ba8    0x7f06037a -> color 0xffd8bbf4 (color/color_palette_list_view_action_bar_action_button_color)
+    0x7f06037b -> color 0xfff2eff5    0x7f06037b -> color 0xff010101 (color/color_palette_list_view_action_bar_bg_color)
+    0x7f06037c -> color 0xff611ba8    0x7f06037c -> color 0xffd8bbf4 (color/color_palette_list_view_action_bar_navigation_up_button_color)
+    0x7f06037d -> color 0xff611ba8    0x7f06037d -> color 0xffd8bbf4 (color/color_palette_list_view_action_bar_title_text_color)
+    0x7f06037e -> color 0xff611ba8    0x7f06037e -> color 0xffd8bbf4 (color/color_palette_list_view_action_bar_title_text_color_high_contrast)
+    0x7f06037f -> color 0xffc498ef    0x7f06037f -> color 0xffc498ef (color/color_palette_list_view_action_button_icon_color)
+    0x7f060380 -> color 0xffe6e0eb    0x7f060380 -> color 0xff504060 (color/color_palette_list_view_app_bar_bg_button_color)
+    0x7f060381 -> color 0xff8126dc    0x7f060381 -> color 0xffd8bbf4 (color/color_palette_list_view_app_bar_bg_web_link_text_color)
+    0x7f060382 -> color 0xfff2eff5    0x7f060382 -> color 0xff010101 (color/color_palette_list_view_bottom_bar_bg_color)
+    0x7f060383 -> color 0xff611ba8    0x7f060383 -> color 0xffd8bbf4 (color/color_palette_list_view_bottom_bar_icon_color)
+    0x7f060384 -> color 0xff611ba8    0x7f060384 -> color 0xffd8bbf4 (color/color_palette_list_view_bottom_bar_icon_color_high_contrast)
+    0x7f060385 -> color 0xff611ba8    0x7f060385 -> color 0xffd8bbf4 (color/color_palette_list_view_bottom_bar_text_color)
+    0x7f060386 -> color 0xffc498ef    0x7f060386 -> color 0xffc498ef (color/color_palette_list_view_checkbox_button_on_color)
+    0x7f060387 -> color 0xffe6e0eb    0x7f060387 -> color 0xff504060 (color/color_palette_list_view_content_bg_button_color)
+    0x7f060388 -> color 0xff8126dc    0x7f060388 -> color 0xffd8bbf4 (color/color_palette_list_view_content_bg_web_link_text_color)
+    0x7f060389 -> color 0xffc498ef    0x7f060389 -> color 0xffc498ef (color/color_palette_list_view_cursor_color)
+    0x7f06038a -> color 0xff8126dc    0x7f06038a -> color 0xffd8bbf4 (color/color_palette_list_view_drop_down_list_select_icon_color)
+    0x7f06038b -> color 0xff8126dc    0x7f06038b -> color 0xffd8bbf4 (color/color_palette_list_view_drop_down_list_text_color)
+    0x7f06038c -> color 0xfff2eff5    0x7f06038c -> color 0xff010101 (color/color_palette_list_view_extended_action_bar_color)
+    0x7f06038d -> color 0xff9c89b0    0x7f06038d -> color 0xffb4a5c3 (color/color_palette_list_view_extended_action_bar_sub_text_color)
+    0x7f06038e -> color 0xff611ba8    0x7f06038e -> color 0xffd8bbf4 (color/color_palette_list_view_extended_action_bar_title_text_color)
+    0x7f06038f -> color 0xfffcfcfc    0x7f06038f -> color 0xff1f1925 (color/color_palette_list_view_item_bg_color)
+    0x7f060390 -> color 0x1a611ba8    0x7f060390 -> color 0x1ad8bbf4 (color/color_palette_list_view_main_switch_bg_color)
+    0x7f060391 -> color 0xff8126dc    0x7f060391 -> color 0xffd8bbf4 (color/color_palette_list_view_main_switch_on_text_color)
+    0x7f060392 -> color 0xfff2eff5    0x7f060392 -> color 0xff010101 (color/color_palette_list_view_navigation_bar_bg_color)
+    0x7f060393 -> color 0xff611ba8    0x7f060393 -> color 0xffd8bbf4 (color/color_palette_list_view_no_item_text_color)
+    0x7f060394 -> color 0xff8126dc    0x7f060394 -> color 0xffd8bbf4 (color/color_palette_list_view_point_text_color)
+    0x7f060395 -> color 0xffc498ef    0x7f060395 -> color 0xffc498ef (color/color_palette_list_view_primary_bg_button_color)
+    0x7f060396 -> color 0xffb076e9    0x7f060396 -> color 0xffb076e9 (color/color_palette_list_view_progress_circle_color_1)
+    0x7f060397 -> color 0x999061bf    0x7f060397 -> color 0x999061bf (color/color_palette_list_view_progress_circle_color_2)
+    0x7f060398 -> color 0xffc498ef    0x7f060398 -> color 0xffc498ef (color/color_palette_list_view_radio_button_on_color)
+    0x7f060399 -> color 0xffc498ef    0x7f060399 -> color 0xffc498ef (color/color_palette_list_view_reorder_list_stroke_color)
+    0x7f06039a -> color 0xfff2eff5    0x7f06039a -> color 0xff010101 (color/color_palette_list_view_round_corner_color)
+    0x7f06039b -> color 0xff611ba8    0x7f06039b -> color 0xffd8bbf4 (color/color_palette_list_view_search_field_back_icon_tint_color)
+    0x7f06039c -> color 0xff611ba8    0x7f06039c -> color 0xffd8bbf4 (color/color_palette_list_view_search_field_clear_icon_tint_color)
+    0x7f06039d -> color 0xff9c89b0    0x7f06039d -> color 0xffb4a5c3 (color/color_palette_list_view_search_field_hint_text_color)
+    0x7f06039e -> color 0xff611ba8    0x7f06039e -> color 0xffd8bbf4 (color/color_palette_list_view_search_field_input_text_color)
+    0x7f06039f -> color 0xff611ba8    0x7f06039f -> color 0xffd8bbf4 (color/color_palette_list_view_search_field_mic_icon_tint_color)
+    0x7f0603a0 -> color 0xff8126dc    0x7f0603a0 -> color 0xffd8bbf4 (color/color_palette_list_view_search_field_primary_text_color)
+    0x7f0603a1 -> color 0x66c498ef    0x7f0603a1 -> color 0x66c498ef (color/color_palette_list_view_seek_bar_bg_color)
+    0x7f0603a2 -> color 0xffc498ef    0x7f0603a2 -> color 0xffc498ef (color/color_palette_list_view_seek_bar_color)
+    0x7f0603a3 -> color 0xfffcfcfc    0x7f0603a3 -> color 0xff1f1925 (color/color_palette_list_view_seek_bar_thumb_normal_color)
+    0x7f0603a5 -> color 0xffc498ef    0x7f0603a5 -> color 0xffc498ef (color/color_palette_list_view_select_all_bar_on_icon_color)
+    0x7f0603a6 -> color 0xff611ba8    0x7f0603a6 -> color 0xffd8bbf4 (color/color_palette_list_view_select_all_bar_text_color)
+    0x7f0603a7 -> color 0xff611ba8    0x7f0603a7 -> color 0xffd8bbf4 (color/color_palette_list_view_select_all_bar_text_color_high_contrast)
+    0x7f0603a8 -> color 0xffd8bbf4    0x7f0603a8 -> color 0xffd8bbf4 (color/color_palette_list_view_snack_bar_text_color)
+    0x7f0603a9 -> color 0xfff2eff5    0x7f0603a9 -> color 0xff010101 (color/color_palette_list_view_status_bar_bg_color)
+    0x7f0603aa -> color 0xfff2eff5    0x7f0603aa -> color 0xff010101 (color/color_palette_list_view_sub_header_bg_color)
+    0x7f0603ab -> color 0xff9c89b0    0x7f0603ab -> color 0xffb4a5c3 (color/color_palette_list_view_sub_header_text_color)
+    0x7f0603af -> color 0xfffcfcfc    0x7f0603af -> color 0xfffcfcfc (color/color_palette_list_view_switch_button_on_bg_color)
+    0x7f0603b0 -> color 0xffc498ef    0x7f0603b0 -> color 0xffc498ef (color/color_palette_list_view_switch_button_on_stroke_color)
+    0x7f0603b1 -> color 0xffc498ef    0x7f0603b1 -> color 0xffc498ef (color/color_palette_list_view_switch_button_track_on_color)
+    0x7f0603b2 -> color 0xff8126dc    0x7f0603b2 -> color 0xffd8bbf4 (color/color_palette_list_view_text_field_primary_dark_color)
+    0x7f0603b3 -> color 0xfff2eff5    0x7f0603b3 -> color 0xff010101 (color/color_palette_main_view_bottom_bar_bg_color)
+    0x7f0603b5 -> color 0xff611ba8    0x7f0603b5 -> color 0xffd8bbf4 (color/color_palette_main_view_bottom_bar_icon_color)
+    0x7f0603b6 -> color 0xfff2eff5    0x7f0603b6 -> color 0xff010101 (color/color_palette_main_view_tool_bar_bg_color)
+    0x7f0603ba -> color 0xfff2eff5    0x7f0603ba -> color 0xff010101 (color/color_palette_navigation_bar_bg_color)
+    0x7f0603bb -> color 0xffc498ef    0x7f0603bb -> color 0xffc498ef (color/color_palette_primary_color)
+    0x7f0603bc -> color 0xff8126dc    0x7f0603bc -> color 0xffd8bbf4 (color/color_palette_primary_dark_color)
+    0x7f0603bd -> color 0xff8126dc    0x7f0603bd -> color 0xffd8bbf4 (color/color_palette_privacy_status_bar_color)
+    0x7f0603be -> color 0xff8126dc    0x7f0603be -> color 0xffd8bbf4 (color/color_palette_privacy_status_bar_color_dark)
+    0x7f0603bf -> color 0xff8126dc    0x7f0603bf -> color 0xffd8bbf4 (color/color_palette_privacy_status_bar_selected_text_color)
+    0x7f0603c0 -> color 0xffb076e9    0x7f0603c0 -> color 0xffb076e9 (color/color_palette_progress_circle_1)
+    0x7f0603c1 -> color 0x999061bf    0x7f0603c1 -> color 0x999061bf (color/color_palette_progress_circle_2)
+    0x7f0603c2 -> color 0xfff2eff5    0x7f0603c2 -> color 0xff010101 (color/color_palette_quickaccess_checkable_bottom_bar_bg_color)
+    0x7f0603c5 -> color 0xff8126dc    0x7f0603c5 -> color 0xffd8bbf4 (color/color_palette_quickaccess_dialog_edit_text_color_hint)
+    0x7f0603c7 -> color 0xffc498ef    0x7f0603c7 -> color 0xffc498ef (color/color_palette_quickaccess_sync_checkbox_on_tint_color)
+    0x7f0603c9 -> color 0xff611ba8    0x7f0603c9 -> color 0xffd8bbf4 (color/color_palette_quickaccess_sync_no_shortcuts_title_color)
+    0x7f0603ca -> color 0xff611ba8    0x7f0603ca -> color 0xffd8bbf4 (color/color_palette_quickaccess_sync_refresh_view_text_color)
+    0x7f0603cb -> color 0xff611ba8    0x7f0603cb -> color 0xffd8bbf4 (color/color_palette_save_all_image_floating_cancel_button_text_color)
+    0x7f0603cc -> color 0xfff2eff5    0x7f0603cc -> color 0xff010101 (color/color_palette_save_all_images_bg_color)
+    0x7f0603cd -> color 0xfff2eff5    0x7f0603cd -> color 0xff010101 (color/color_palette_search_activity_bg_color)
+    0x7f0603ce -> color 0xff8126dc    0x7f0603ce -> color 0xffd8bbf4 (color/color_palette_search_activity_clear_all_text_color)
+    0x7f0603cf -> color 0xffe6e0eb    0x7f0603cf -> color 0xff504060 (color/color_palette_search_history_button_divider)
+    0x7f0603d0 -> color 0xff9c89b0    0x7f0603d0 -> color 0xffb4a5c3 (color/color_palette_search_similar_result_text_color)
+    0x7f0603d2 -> color 0xff8126dc    0x7f0603d2 -> color 0xffd8bbf4 (color/color_palette_search_widget_icon_color_dark)
+    0x7f0603d3 -> color 0xff8126dc    0x7f0603d3 -> color 0xffd8bbf4 (color/color_palette_search_widget_icon_color_light)
+    0x7f0603d4 -> color 0xff611ba8    0x7f0603d4 -> color 0xffd8bbf4 (color/color_palette_search_widget_no_item_text_color)
+    0x7f0603d5 -> color 0xfff2eff5    0x7f0603d5 -> color 0xff010101 (color/color_palette_settings_about_appbar_background)
+    0x7f0603d6 -> color 0xfff2eff5    0x7f0603d6 -> color 0xff010101 (color/color_palette_settings_about_bg_color)
+    0x7f0603d7 -> color 0xffe6e0eb    0x7f0603d7 -> color 0xff504060 (color/color_palette_settings_about_button_bg_color)
+    0x7f0603d9 -> color 0xff611ba8    0x7f0603d9 -> color 0xffd8bbf4 (color/color_palette_settings_about_icon_color)
+    0x7f0603da -> color 0xff611ba8    0x7f0603da -> color 0xffd8bbf4 (color/color_palette_settings_about_main_text_color)
+    0x7f0603db -> color 0xfff2eff5    0x7f0603db -> color 0xff010101 (color/color_palette_settings_about_navigation_bar_bg_color)
+    0x7f0603dc -> color 0xff9c89b0    0x7f0603dc -> color 0xffb4a5c3 (color/color_palette_settings_about_sub_text_color)
+    0x7f0603dd -> color 0xffc498ef    0x7f0603dd -> color 0xffc498ef (color/color_palette_settings_about_update_button_bg_color)
+    0x7f0603df -> color 0xff611ba8    0x7f0603df -> color 0xffd8bbf4 (color/color_palette_settings_bottom_navigation_view_text_color)
+    0x7f0603e0 -> color 0xff8126dc    0x7f0603e0 -> color 0xffd8bbf4 (color/color_palette_settings_clear_data_info_color)
+    0x7f0603e1 -> color 0xfff2eff5    0x7f0603e1 -> color 0xff010101 (color/color_palette_settings_filler_pref_background_color)
+    0x7f0603e5 -> color 0xff611ba8    0x7f0603e5 -> color 0xffd8bbf4 (color/color_palette_settings_no_item_text_color)
+    0x7f0603e6 -> color 0xffc498ef    0x7f0603e6 -> color 0xffc498ef (color/color_palette_settings_search_engine_check_mark_tint)
+    0x7f0603e7 -> color 0xff9c89b0    0x7f0603e7 -> color 0xffb4a5c3 (color/color_palette_show_no_bookmark_sub_text_color_secret_mode)
+    0x7f0603e8 -> color 0xff611ba8    0x7f0603e8 -> color 0xffd8bbf4 (color/color_palette_sites_button_text_color)
+    0x7f0603e9 -> color 0xfff2eff5    0x7f0603e9 -> color 0xff010101 (color/color_palette_status_bar_bg_color)
+    0x7f0603ea -> color 0xff611ba8    0x7f0603ea -> color 0xffd8bbf4 (color/color_palette_sub_header_icon_color)
+    0x7f0603eb -> color 0xfffcfcfc    0x7f0603eb -> color 0xff1f1925 (color/color_palette_summary_blur_background_color)
+    0x7f0603ed -> color 0xff8126dc    0x7f0603ed -> color 0xffd8bbf4 (color/color_palette_summary_translator_on_icon_color)
+    0x7f0603ee -> color 0xfff2eff5    0x7f0603ee -> color 0xff010101 (color/color_palette_tab_bar_bg_color)
+    0x7f0603ef -> color 0xff611ba8    0x7f0603ef -> color 0xffd8bbf4 (color/color_palette_tab_bar_button_title_text_color_high_contrast_selected)
+    0x7f0603f0 -> color 0xff611ba8    0x7f0603f0 -> color 0xffd8bbf4 (color/color_palette_tab_bar_button_title_text_color_night_selected)
+    0x7f0603f1 -> color 0xfff2eff5    0x7f0603f1 -> color 0xff010101 (color/color_palette_tab_bar_button_title_text_color_secret_selected)
+    0x7f0603f2 -> color 0xff611ba8    0x7f0603f2 -> color 0xffd8bbf4 (color/color_palette_tab_bar_button_title_text_color_selected)
+    0x7f0603f3 -> color 0xff611ba8    0x7f0603f3 -> color 0xffd8bbf4 (color/color_palette_tab_bar_close_button_color_high_contrast_selected)
+    0x7f0603f4 -> color 0xff611ba8    0x7f0603f4 -> color 0xffd8bbf4 (color/color_palette_tab_bar_close_button_color_night_selected)
+    0x7f0603f5 -> color 0xfff2eff5    0x7f0603f5 -> color 0xff010101 (color/color_palette_tab_bar_close_button_color_secret_selected)
+    0x7f0603f6 -> color 0xff611ba8    0x7f0603f6 -> color 0xffd8bbf4 (color/color_palette_tab_bar_close_button_icon_color_selected)
+    0x7f0603fb -> color 0xff611ba8    0x7f0603fb -> color 0xffd8bbf4 (color/color_palette_tab_bar_control_button_tint_color)
+    0x7f0603fc -> color 0xff611ba8    0x7f0603fc -> color 0xffd8bbf4 (color/color_palette_tab_bar_control_button_tint_color_high_contrast)
+    0x7f0603fd -> color 0xff611ba8    0x7f0603fd -> color 0xffd8bbf4 (color/color_palette_tab_bar_control_button_tint_color_night)
+    0x7f0603fe -> color 0xfff2eff5    0x7f0603fe -> color 0xff010101 (color/color_palette_tab_bar_control_button_tint_color_secret)
+    0x7f060402 -> color 0xffc498ef    0x7f060402 -> color 0xffc498ef (color/color_palette_tab_bar_selected_tab_dark_mode_stroke_color)
+    0x7f060403 -> color 0xffc498ef    0x7f060403 -> color 0xffc498ef (color/color_palette_tab_bar_selected_tab_stroke_color)
+    0x7f060406 -> color 0xff8126dc    0x7f060406 -> color 0xffd8bbf4 (color/color_palette_tab_bar_web_icon_color)
+    0x7f060407 -> color 0xff8126dc    0x7f060407 -> color 0xffd8bbf4 (color/color_palette_tab_bar_web_icon_color_dark)
+    0x7f060408 -> color 0xff8126dc    0x7f060408 -> color 0xffd8bbf4 (color/color_palette_tab_bar_web_icon_color_high_contrast)
+    0x7f060409 -> color 0xff8126dc    0x7f060409 -> color 0xffd8bbf4 (color/color_palette_tab_bar_web_icon_color_reader)
+    0x7f06040a -> color 0xfff2eff5    0x7f06040a -> color 0xff010101 (color/color_palette_tab_bar_web_icon_color_secret)
+    0x7f06040b -> color 0xff8126dc    0x7f06040b -> color 0xffd8bbf4 (color/color_palette_tab_bar_web_icon_color_theme)
+    0x7f06040c -> color 0xff611ba8    0x7f06040c -> color 0xffd8bbf4 (color/color_palette_tab_manager_actionbar_normal_mode_title_text_color)
+    0x7f06040e -> color 0xff611ba8    0x7f06040e -> color 0xffd8bbf4 (color/color_palette_tools_bottom_menu_color)
+    0x7f06040f -> color 0xff9c89b0    0x7f06040f -> color 0xffb4a5c3 (color/color_palette_tools_divider_color)
+    0x7f060411 -> color 0xffc498ef    0x7f060411 -> color 0xffc498ef (color/color_palette_tools_pager_indicator_focused_color)
+    0x7f060412 -> color 0x99c498ef    0x7f060412 -> color 0x99c498ef (color/color_palette_tools_pager_indicator_normal_color)
+    0x7f060413 -> color 0xfffcfcfc    0x7f060413 -> color 0xff1f1925 (color/color_palette_tools_secondary_area_background)
+    0x7f060415 -> color 0xfffcfcfc    0x7f060415 -> color 0xff1f1925 (color/color_palette_tools_share_background_color)
+    0x7f060418 -> color 0xff611ba8    0x7f060418 -> color 0xffd8bbf4 (color/color_palette_tools_web_title_text_color)
+    0x7f060419 -> color 0xff9c89b0    0x7f060419 -> color 0xffb4a5c3 (color/color_palette_tools_web_url_text_color)
+    0x7f06041a -> color 0xff8126dc    0x7f06041a -> color 0xffd8bbf4 (color/color_palette_translate_summary_text_color)
+    0x7f06041c -> color 0x80611ba8    0x7f06041c -> color 0x80d8bbf4 (color/color_palette_url_bar_favorite_icon_off_color)
+    0x7f06041d -> color 0x80611ba8    0x7f06041d -> color 0x80d8bbf4 (color/color_palette_url_bar_favorite_icon_off_color_high_contrast)
+    0x7f06041e -> color 0xff611ba8    0x7f06041e -> color 0xffd8bbf4 (color/color_palette_url_bar_favorite_icon_on_color)
+    0x7f06041f -> color 0xff611ba8    0x7f06041f -> color 0xffd8bbf4 (color/color_palette_url_bar_icon_color)
+    0x7f060420 -> color 0xffc498ef    0x7f060420 -> color 0xffc498ef (color/color_palette_url_bar_icon_primary_color)
+    0x7f060421 -> color 0xff9c89b0    0x7f060421 -> color 0xffb4a5c3 (color/color_palette_url_bar_offline_button_text_color)
+    0x7f060422 -> color 0xffc498ef    0x7f060422 -> color 0xffc498ef (color/color_palette_url_bar_progress_bar_color)
+    0x7f060423 -> color 0x66c498ef    0x7f060423 -> color 0x66c498ef (color/color_palette_url_bar_progress_bg_color)
+    0x7f060424 -> color 0xffc498ef    0x7f060424 -> color 0xffc498ef (color/color_palette_url_bar_reader_on_bg_color_high_contrast)
+    0x7f060425 -> color 0xff8126dc    0x7f060425 -> color 0xffd8bbf4 (color/color_palette_url_bar_search_suggestion_highlight_color)
+    0x7f060426 -> color 0x80611ba8    0x7f060426 -> color 0x80d8bbf4 (color/color_palette_url_bar_security_icon_color)
+    0x7f060427 -> color 0x80611ba8    0x7f060427 -> color 0x80d8bbf4 (color/color_palette_url_bar_security_icon_color_high_contrast)
+    0x7f060428 -> color 0xff611ba8    0x7f060428 -> color 0xffd8bbf4 (color/color_palette_url_bar_spinner_icon_color)
+    0x7f060429 -> color 0xfff2eff5    0x7f060429 -> color 0xff010101 (color/color_palette_url_bar_suggestion_list_bg_color)
+    0x7f06042a -> color 0xffe6e0eb    0x7f06042a -> color 0xff504060 (color/color_palette_url_bar_suggestion_search_item_background_color)
+    0x7f06042b -> color 0xffc498ef    0x7f06042b -> color 0xffc498ef (color/color_palette_url_bar_suggestion_search_item_highlight_color)
+    0x7f060430 -> color 0xffc498ef    0x7f060430 -> color 0xffc498ef (color/color_palette_video_assistant_button_bg_color)
+    0x7f060432 -> color 0xffc498ef    0x7f060432 -> color 0xffc498ef (color/color_palette_video_history_icon_color)
+    0x7f060433 -> color 0xff611ba8    0x7f060433 -> color 0xffd8bbf4 (color/color_palette_wallpaper_cardview_category_title_color)
+    0x7f060434 -> color 0xff611ba8    0x7f060434 -> color 0xffd8bbf4 (color/color_palette_wallpaper_gallery_folder_name_color)
+    0x7f060435 -> color 0xff611ba8    0x7f060435 -> color 0xffd8bbf4 (color/color_palette_wallpaper_settings_library_btn_next_mtrl_stroke_color)
+    0x7f060437 -> color 0xfff2eff5    0x7f060437 -> color 0xff010101 (color/color_palette_welcome_page_bg_color)
+    0x7f060438 -> color 0xffc498ef    0x7f060438 -> color 0xffc498ef (color/color_palette_welcome_page_button_bg_color)
+    0x7f060439 -> color 0xfff2eff5    0x7f060439 -> color 0xff010101 (color/color_palette_welcome_page_navigation_bar_bg_color)
+    0x7f06043a -> color 0xff611ba8    0x7f06043a -> color 0xffd8bbf4 (color/color_palette_widget_setting_bottom_navigation_text_color)
+    0x7f06043b -> color 0xfffcfcfc    0x7f06043b -> color 0xff1f1925 (color/color_palette_widget_setting_seekbar_thumb_bg_color)
+    0x7f06043c -> color 0xffc498ef    0x7f06043c -> color 0xffc498ef (color/color_palette_widget_setting_seekbar_thumb_stroke_bg_color)
+    0x7f0606ac -> color 0xff611ba8    0x7f0606ac -> color 0xffd8bbf4 (color/instance_manager_subtitle_text_color)
+    0x7f0606af -> color 0xff611ba8    0x7f0606af -> color 0xffd8bbf4 (color/instance_manager_toolbar_text_color)
+    0x7f060ccb -> color 0xffc498ef    0x7f060ccb -> color 0xffc498ef (color/search_engine_popup_check_box_color)
+    0x7f060cd0 -> color 0xff8126dc    0x7f060cd0 -> color 0xffd8bbf4 (color/search_engine_popup_list_title_color_selected)
+    0x7f060d2c -> color 0xfff2eff5    0x7f060d2c -> color 0xff010101 (color/sesl_action_bar_background_color_dark)
+    0x7f060d2d -> color 0xfff2eff5    0x7f060d2d -> color 0xff010101 (color/sesl_action_bar_background_color_light)
+    0x7f060d2f -> color 0xff611ba8    0x7f060d2f -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_menu_dark)
+    0x7f060d30 -> color 0xff611ba8    0x7f060d30 -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_menu_light)
+    0x7f060d31 -> color 0x999c89b0    0x7f060d31 -> color 0x99b4a5c3 (color/sesl_action_bar_text_color_subtitle_dark)
+    0x7f060d32 -> color 0x999c89b0    0x7f060d32 -> color 0x99b4a5c3 (color/sesl_action_bar_text_color_subtitle_light)
+    0x7f060d33 -> color 0xff611ba8    0x7f060d33 -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_title_dark)
+    0x7f060d34 -> color 0xff611ba8    0x7f060d34 -> color 0xffd8bbf4 (color/sesl_action_bar_text_color_title_light)
+    0x7f060d4c -> color 0xfffcfcfc    0x7f060d4c -> color 0xff1f1925 (color/sesl_background_color_dark)
+    0x7f060d4d -> color 0xfffcfcfc    0x7f060d4d -> color 0xff1f1925 (color/sesl_background_color_light)
+    0x7f060d65 -> color 0xfff2eff5    0x7f060d65 -> color 0xff010101 (color/sesl_bottom_navigation_background_dark)
+    0x7f060d66 -> color 0xfff2eff5    0x7f060d66 -> color 0xff010101 (color/sesl_bottom_navigation_background_light)
+    0x7f060d67 -> color 0xfff2eff5    0x7f060d67 -> color 0xff010101 (color/sesl_bottom_navigation_floating_background_dark)
+    0x7f060d68 -> color 0xfff2eff5    0x7f060d68 -> color 0xff010101 (color/sesl_bottom_navigation_floating_background_light)
+    0x7f060d6b -> color 0xff611ba8    0x7f060d6b -> color 0xffd8bbf4 (color/sesl_bottom_navigation_floating_icon_text_dark)
+    0x7f060d6c -> color 0xff611ba8    0x7f060d6c -> color 0xffd8bbf4 (color/sesl_bottom_navigation_floating_icon_text_light)
+    0x7f060d6d -> color 0xff611ba8    0x7f060d6d -> color 0xffd8bbf4 (color/sesl_bottom_navigation_icon_dark)
+    0x7f060d6e -> color 0xff611ba8    0x7f060d6e -> color 0xffd8bbf4 (color/sesl_bottom_navigation_icon_light)
+    0x7f060d72 -> color 0xff611ba8    0x7f060d72 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_dark)
+    0x7f060d75 -> color 0xff611ba8    0x7f060d75 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_light)
+    0x7f060d76 -> color 0xff611ba8    0x7f060d76 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_text_dark)
+    0x7f060d77 -> color 0xff611ba8    0x7f060d77 -> color 0xffd8bbf4 (color/sesl_bottom_navigation_text_text_light)
+    0x7f060d78 -> color 0xffe6e0eb    0x7f060d78 -> color 0xff504060 (color/sesl_btn_background_color_dark)
+    0x7f060d79 -> color 0xffe6e0eb    0x7f060d79 -> color 0xff504060 (color/sesl_btn_background_color_light)
+    0x7f060ddf -> color 0x999c89b0    0x7f060ddf -> color 0x99b4a5c3 (color/sesl_extended_appbar_subtitle_dark)
+    0x7f060de0 -> color 0x999c89b0    0x7f060de0 -> color 0x99b4a5c3 (color/sesl_extended_appbar_subtitle_light)
+    0x7f060e38 -> color 0xff9c89b0    0x7f060e38 -> color 0xffb4a5c3 (color/sesl_list_subheader_text_color)
+    0x7f060e39 -> color 0xff9c89b0    0x7f060e39 -> color 0xffb4a5c3 (color/sesl_list_subheader_text_color_dark)
+    0x7f060e3a -> color 0xffc498ef    0x7f060e3a -> color 0xffc498ef (color/sesl_loading_progress_color1)
+    0x7f060e3b -> color 0x99c498ef    0x7f060e3b -> color 0x99c498ef (color/sesl_loading_progress_color2)
+    0x7f060e40 -> color 0xffcdc2d7    0x7f060e40 -> color 0xff504060 (color/sesl_menu_popup_background_stroke_color)
+    0x7f060e41 -> color 0xffcdc2d7    0x7f060e41 -> color 0xff504060 (color/sesl_menu_popup_background_stroke_color_dark)
+    0x7f060e6f -> color 0xffc498ef    0x7f060e6f -> color 0xffc498ef (color/sesl_primary_color_dark)
+    0x7f060e70 -> color 0xffc498ef    0x7f060e70 -> color 0xffc498ef (color/sesl_primary_color_light)
+    0x7f060e71 -> color 0xff8126dc    0x7f060e71 -> color 0xffd8bbf4 (color/sesl_primary_dark_color_dark)
+    0x7f060e72 -> color 0xff8126dc    0x7f060e72 -> color 0xffd8bbf4 (color/sesl_primary_dark_color_light)
+    0x7f060e77 -> color 0xffc498ef    0x7f060e77 -> color 0xffc498ef (color/sesl_progress_control_color_activated_dark)
+    0x7f060e78 -> color 0xffc498ef    0x7f060e78 -> color 0xffc498ef (color/sesl_progress_control_color_activated_light)
+    0x7f060e7b -> color 0x4dc498ef    0x7f060e7b -> color 0x4dc498ef (color/sesl_progress_control_color_normal_dark)
+    0x7f060e7c -> color 0x4dc498ef    0x7f060e7c -> color 0x4dc498ef (color/sesl_progress_control_color_normal_light)
+    0x7f060e84 -> color 0xfff2eff5    0x7f060e84 -> color 0xff010101 (color/sesl_round_and_bgcolor_dark)
+    0x7f060e85 -> color 0xfff2eff5    0x7f060e85 -> color 0xff010101 (color/sesl_round_and_bgcolor_light)
+    0x7f060e9f -> color 0xff9c89b0    0x7f060e9f -> color 0xffb4a5c3 (color/sesl_search_view_hint_text_color)
+    0x7f060ea0 -> color 0xff9c89b0    0x7f060ea0 -> color 0xffb4a5c3 (color/sesl_search_view_hint_text_color_dark)
+    0x7f060ea1 -> color 0xff611ba8    0x7f060ea1 -> color 0xffd8bbf4 (color/sesl_search_view_icon_color)
+    0x7f060ea2 -> color 0xff611ba8    0x7f060ea2 -> color 0xffd8bbf4 (color/sesl_search_view_icon_color_dark)
+    0x7f060ea4 -> color 0xff611ba8    0x7f060ea4 -> color 0xffd8bbf4 (color/sesl_search_view_text_color)
+    0x7f060ea5 -> color 0xff611ba8    0x7f060ea5 -> color 0xffd8bbf4 (color/sesl_search_view_text_color_dark)
+    0x7f060eab -> color 0xffc498ef    0x7f060eab -> color 0xffc498ef (color/sesl_seekbar_control_color_activated)
+    0x7f060eac -> color 0x4dc498ef    0x7f060eac -> color 0x4dc498ef (color/sesl_seekbar_control_color_default)
+    0x7f060ead -> color 0x4dc498ef    0x7f060ead -> color 0x4dc498ef (color/sesl_seekbar_control_color_default_dark)
+    0x7f060eb1 -> color 0x4dc498ef    0x7f060eb1 -> color 0x4dc498ef (color/sesl_seekbar_level_control_color_default)
+    0x7f060ee9 -> color 0xfffcfcfc    0x7f060ee9 -> color 0xfffcfcfc (color/sesl_switch_thumb_off_color)
+    0x7f060eea -> color 0xfffcfcfc    0x7f060eea -> color 0xfffcfcfc (color/sesl_switch_thumb_off_disabled_color)
+    0x7f060eeb -> color 0xfffcfcfc    0x7f060eeb -> color 0xfffcfcfc (color/sesl_switch_thumb_off_disabled_color_dark)
+    0x7f060ef0 -> color 0xfffcfcfc    0x7f060ef0 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_color)
+    0x7f060ef1 -> color 0xfffcfcfc    0x7f060ef1 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_disabled_color)
+    0x7f060ef2 -> color 0xfffcfcfc    0x7f060ef2 -> color 0xfffcfcfc (color/sesl_switch_thumb_on_disabled_color_dark)
+    0x7f060ef3 -> color 0x66c498ef    0x7f060ef3 -> color 0x66c498ef (color/sesl_switch_thumb_on_disabled_stroke_color)
+    0x7f060ef4 -> color 0x66c498ef    0x7f060ef4 -> color 0x66c498ef (color/sesl_switch_thumb_on_disabled_stroke_color_dark)
+    0x7f060ef5 -> color 0xffc498ef    0x7f060ef5 -> color 0xffc498ef (color/sesl_switch_thumb_on_stroke_color_light)
+    0x7f060efa -> color 0xffc498ef    0x7f060efa -> color 0xffc498ef (color/sesl_switch_track_on_color_light)
+    0x7f060efb -> color 0x66c498ef    0x7f060efb -> color 0x66c498ef (color/sesl_switch_track_on_disabled_color)
+    0x7f060efc -> color 0xfffcfcfc    0x7f060efc -> color 0xff1f1925 (color/sesl_switchbar_off_background_color_dark)
+    0x7f060efd -> color 0xfffcfcfc    0x7f060efd -> color 0xff1f1925 (color/sesl_switchbar_off_background_color_light)
+    0x7f060f00 -> color 0x1a611ba8    0x7f060f00 -> color 0x1ad8bbf4 (color/sesl_switchbar_on_background_color_dark)
+    0x7f060f01 -> color 0x1a611ba8    0x7f060f01 -> color 0x1ad8bbf4 (color/sesl_switchbar_on_background_color_light)
+    0x7f060f02 -> color 0xff8126dc    0x7f060f02 -> color 0xffd8bbf4 (color/sesl_switchbar_on_text_color_light)
+    0x7f060f17 -> color 0xff611ba8    0x7f060f17 -> color 0xffd8bbf4 (color/sesl_tablayout_selected_indicator_color)
+    0x7f060f19 -> color 0xff611ba8    0x7f060f19 -> color 0xffd8bbf4 (color/sesl_tablayout_selected_text_color)
+    0x7f060f27 -> color 0x26611ba8    0x7f060f27 -> color 0x26d8bbf4 (color/sesl_tablayout_subtab_indicator_background)
+    0x7f060f28 -> color 0x26611ba8    0x7f060f28 -> color 0x26d8bbf4 (color/sesl_tablayout_subtab_indicator_background_dark)
+    0x7f060f2a -> color 0xff9c89b0    0x7f060f2a -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_sub_text_color_default)
+    0x7f060f2b -> color 0xff9c89b0    0x7f060f2b -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_sub_text_color_default_dark)
+    0x7f060f2e -> color 0xff8126dc    0x7f060f2e -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_sub_text_color_selected)
+    0x7f060f2f -> color 0xff8126dc    0x7f060f2f -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_sub_text_color_selected_dark)
+    0x7f060f31 -> color 0xff9c89b0    0x7f060f31 -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_text_color_default)
+    0x7f060f32 -> color 0xff9c89b0    0x7f060f32 -> color 0xffb4a5c3 (color/sesl_tablayout_subtab_text_color_default_dark)
+    0x7f060f36 -> color 0xff611ba8    0x7f060f36 -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_text_color_selected)
+    0x7f060f37 -> color 0xff611ba8    0x7f060f37 -> color 0xffd8bbf4 (color/sesl_tablayout_subtab_text_color_selected_dark)
+    0x7f060f3a -> color 0xff9c89b0    0x7f060f3a -> color 0xffb4a5c3 (color/sesl_tablayout_text_color_default)
+    0x7f060f3b -> color 0xff9c89b0    0x7f060f3b -> color 0xffb4a5c3 (color/sesl_tablayout_text_color_default_dark)
+    0x7f060f57 -> color 0xffc498ef    0x7f060f57 -> color 0xffc498ef (color/sesl_thumb_control_color_activated)
+    0x7f060f58 -> color 0xfffcfcfc    0x7f060f58 -> color 0xff1f1925 (color/sesl_thumb_control_fill_color_activated)
+    0x7f060f5c -> color 0x66c498ef    0x7f060f5c -> color 0x66c498ef (color/sesl_tick_mark_seekbar_level)
+
+
+ Color palette history :
+11-03 15:24:57.970: V SWT_MetaDataManager(15430): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 15:24:57.971: V SWT_MetaData(15430): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 15:24:57.972: V SWT_MetaDataManager(15430): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 15:24:57.974: V SWT_MetaDataManager(15430): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): [Enable] commit OverlayManagerTransaction, dur1:102, dur2:780
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): AppIconBgColor (Light) - ff159cc1, AppIconBgColor (Dark) - ff12819f
+11-03 15:52:32.451: V SWT_WTM_Wrapper(17953): [Disable] commit OverlayManagerTransaction, dur:90
+11-03 19:11:43.523: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 24, existed package : android, requested package : com.samsung.font
+11-03 19:11:43.526: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 45, existed package : android, requested package : com.samsung.accessibility
+11-03 19:11:43.530: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 79, existed package : com.samsung.android.biometrics.app.setting, requested package : com.samsung.android.tadownloader
+11-03 19:11:43.531: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 102, existed package : com.samsung.android.dialer, requested package : com.samsung.osmnuui
+11-03 19:11:43.534: V SWT_MetaDataManager(12561): [Legacy] load static metadata, size of uid : 4674
+11-03 19:11:43.539: V SWT_MetaDataManager(12561): metadata rpUID [55] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.540: V SWT_MetaDataManager(12561): metadata rpUID [7_2] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.543: V SWT_MetaDataManager(12561): metadata rpUID [16] replaced by com.samsung.android.calendar
+11-03 19:11:43.544: V SWT_MetaDataManager(12561): metadata rpUID [95] replaced by com.samsung.android.emergency
+11-03 19:11:43.546: V SWT_MetaDataManager(12561): metadata rpUID [222] replaced by com.samsung.android.aremoji
+11-03 19:11:43.547: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.service.airviewdictionary
+11-03 19:11:43.548: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.smartmirroring
+11-03 19:11:43.550: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.incallui
+11-03 19:11:43.551: V SWT_MetaDataManager(12561): metadata rpUID [72] replaced by com.samsung.android.service.tagservice
+11-03 19:11:43.553: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.samsung.android.app.galaxyraw
+11-03 19:11:43.555: V SWT_MetaDataManager(12561): metadata rpUID [59] replaced by com.samsung.android.rubin.app
+11-03 19:11:43.556: V SWT_MetaDataManager(12561): metadata rpUID [13_1] replaced by com.wsomacp
+11-03 19:11:43.561: V SWT_MetaDataManager(12561): metadata rpUID [20] replaced by com.sec.android.app.voicenote
+11-03 19:11:43.565: V SWT_MetaDataManager(12561): metadata rpUID [244] replaced by com.samsung.android.inputshare
+11-03 19:11:43.567: V SWT_MetaDataManager(12561): metadata rpUID [29] replaced by com.sec.android.daemonapp
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [314] replaced by com.samsung.android.hwresourceshare
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [80] replaced by com.samsung.android.secsoundpicker
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [10_1] replaced by com.samsung.android.sm.devicesecurity
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.sidegesturepad
+11-03 19:11:43.571: V SWT_MetaDataManager(12561): metadata rpUID [35] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [36] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [238] replaced by com.samsung.android.bixby.agent
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [215] replaced by com.android.settings.intelligence
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [9_1] replaced by com.android.settings.intelligence
+11-03 19:11:43.575: V SWT_MetaDataManager(12561): metadata rpUID [21] replaced by com.sec.android.gallery3d
+11-03 19:11:43.576: V SWT_MetaDataManager(12561): metadata rpUID [98] replaced by com.samsung.android.rampart
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.game.gametools
+11-03 19:11:43.578: V SWT_MetaDataManager(12561): metadata rpUID [12] replaced by com.samsung.android.app.contacts
+11-03 19:11:43.579: V SWT_MetaDataManager(12561): metadata rpUID [44_3] replaced by com.samsung.android.service.peoplestripe
+11-03 19:11:43.580: V SWT_MetaDataManager(12561): metadata rpUID [62] replaced by com.samsung.android.app.reminder
+11-03 19:11:43.581: V SWT_MetaDataManager(12561): metadata rpUID [44_2] replaced by com.samsung.android.app.taskedge
+11-03 19:11:43.582: V SWT_MetaDataManager(12561): metadata rpUID [14] replaced by com.sec.android.app.clockpackage
+11-03 19:11:43.583: V SWT_MetaDataManager(12561): metadata rpUID [84] replaced by com.samsung.android.mdecservice
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [248] replaced by com.samsung.accessory.budsunitemgr
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [97] replaced by com.samsung.android.app.readingglass
+11-03 19:11:43.585: V SWT_MetaDataManager(12561): metadata rpUID [228] replaced by com.samsung.android.coldwalletservice
+11-03 19:11:43.586: V SWT_MetaDataManager(12561): metadata rpUID [17] replaced by com.sec.android.app.myfiles
+11-03 19:11:43.587: V SWT_MetaDataManager(12561): metadata rpUID [66] replaced by com.samsung.android.app.routines
+11-03 19:11:43.588: V SWT_MetaDataManager(12561): metadata rpUID [245] replaced by com.sec.android.mimage.photoretouching
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [33] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [61] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44_1, existed package : com.samsung.android.app.appsedge, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44, existed package : com.samsung.android.app.cocktailbarservice, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44] replaced by com.sec.android.app.launcher
+11-03 19:11:43.591: V SWT_MetaDataManager(12561): metadata rpUID [4_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 87, existed package : com.sec.android.app.sbrowser.beta, requested package : com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.593: V SWT_MetaDataManager(12561): metadata rpUID [236] replaced by com.samsung.android.app.interpreter
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [26] replaced by com.samsung.android.dialer
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [247] replaced by com.samsung.android.app.cameraassistant
+11-03 19:11:43.594: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 58, existed package : com.samsung.android.smartmirroring, requested package : com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [67] replaced by com.samsung.android.forest
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [610] replaced by io.mesalabs.knoxpatch
+11-03 19:11:43.596: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 54, existed package : com.samsung.android.incallui, requested package : com.samsung.android.callassistant
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.callassistant
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [44_4] replaced by com.sec.android.app.quicktool
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mdx
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [242] replaced by com.sec.android.app.shealth
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [250] replaced by com.samsung.android.warrantycare
+11-03 19:11:43.599: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 64, existed package : com.samsung.knox.securefolder, requested package : com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.android.appseparation
+
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template COLOR [quick_menu_layout_background_color] replaced by com.samsung.android.appseparation
+11-03 19:11:43.601: V SWT_MetaDataManager(12561): metadata rpUID [75] replaced by com.samsung.android.honeyboard
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [232] replaced by com.samsung.android.app.soundpicker
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [226] replaced by com.samsung.android.app.sharelive
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [40] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9_5] replaced by com.android.settings
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [96] replaced by com.samsung.android.widget.pictureframe
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [46] replaced by com.samsung.app.newtrim
+11-03 19:11:43.606: V SWT_MetaDataManager(12561): metadata rpUID [65] replaced by com.samsung.android.fast
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [10] replaced by com.samsung.android.lool
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.scpm
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [214] replaced by com.samsung.android.visionintelligence
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [315] replaced by com.samsung.android.hwresourceshare.storage
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [50] replaced by com.samsung.android.service.aircommand
+11-03 19:11:43.609: V SWT_MetaDataManager(12561): metadata rpUID [42] replaced by com.wssyncmldm
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [4] replaced by com.android.systemui
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [213] replaced by com.android.systemui
+11-03 19:11:43.611: V SWT_MetaDataManager(12561): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 19:11:43.612: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): [Enable] commit OverlayManagerTransaction, dur1:53, dur2:578
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): AppIconBgColor (Light) - ffb076e9, AppIconBgColor (Dark) - ff9a51e3
+
+
+ThemeFramework Information:
+current_sec_active_themepackage : null
+current_sec_active_theme_policy : null
+current_sec_appicon_theme_package : null
+current_sec_aod_theme_package : null
+current_sec_wallpaper_theme_package : null
+wallpapertheme_state : 1
+themepark theme is applied : false
+wallpapertheme_color_isgray : 0
+wallpapertheme_color_style : null
+wallpapertheme_color(toHex) : [ffffffff, fffdfbfe, fff5eefc, ffebddfa, ffd8bbf4, ffc498ef, ffb076e9, ff9a51e3, ff8126dc, ff611ba8, ff441375, ff280b45, ff000000, ffffffff, fffcfbfe, fff3eef8, ffe8def2, ffd2bfe5, ffbc9fd8, ffa680cc, ff9061bf, ff7845ac, ff5a3481, ff3e2358, ff231433, ff000000, ffffffff, fffbfcfe, ffeff0fa, ffdee1f5, ffbec4eb, ff9fa7e1, ff808bd7, ff616fce, ff4152c4, ff2f3d98, ff202a68, ff13183c, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000]
+colortheme_app_icon : 0
+available theme content at /data/overlays/main_packages : No files in directory

@@ -1,0 +1,119 @@
+--- android:SemWT_com.samsung.android.app.galaxyfinder
+[ ] android:SemWT_com.samsung.android.app.aodservice
+--- android:SemWT_com.samsung.android.app.cocktailbarservice
+[ ] android:SemWT_com.samsung.android.calendar
+--- android:SemWT_com.samsung.android.emergency
+--- android:SemWT_com.samsung.android.aremoji
+[ ] android:SemWT_com.samsung.android.service.airviewdictionary
+--- android:SemWT_com.android.providers.media
+[ ] android:SemWT_com.samsung.android.smartmirroring
+--- android:SemWT_com.sec.android.app.safetyassurance
+[ ] android:SemWT_com.samsung.android.incallui
+[ ] android:SemWT_com.samsung.android.service.tagservice
+--- android:SemWT_com.samsung.font
+--- android:SemWT_com.samsung.android.easysetup
+--- android:SemWT_com.samsung.android.vtcamerasettings
+[ ] android:SemWT_com.samsung.android.app.galaxyraw
+--- android:SemWT_com.samsung.android.rubin.app
+--- android:SemWT_com.samsung.osmnuui
+--- android:SemWT_com.samsung.android.mdx.quickboard
+--- android:SemWT_com.wsomacp
+[ ] android:SemWT_com.sec.android.app.voicenote
+--- android:SemWT_com.samsung.android.inputshare
+[ ] android:SemWT_com.samsung.android.accessibility.talkback
+--- android:SemWT_com.sec.sesl.tester
+--- android:SemWT_com.sec.android.app.desktoplauncher
+[ ] android:SemWT_com.sec.android.daemonapp
+--- android:SemWT_com.samsung.android.hwresourceshare
+[ ] android:SemWT_com.samsung.android.secsoundpicker
+[ ] android:SemWT_com.sec.android.app.soundalive
+--- android:SemWT_com.samsung.android.knox.containeragent
+[ ] android:SemWT_MonetPalette
+[ ] android:SemWT_G_MonetPalette
+[ ] android:SemWT_android
+--- android:SemWT_com.samsung.android.sm.devicesecurity
+--- android:SemWT_com.samsung.android.messaging
+--- android:SemWT_com.samsung.android.sidegesturepad
+--- android:SemWT_com.samsung.android.app.tips
+[ ] android:SemWT_com.samsung.android.app.telephonyui
+[ ] android:SemWT_com.samsung.android.bixby.agent
+--- android:SemWT_com.sec.android.app.sbrowser.beta
+[ ] android:SemWT_com.android.settings.intelligence
+[ ] android:SemWT_com.samsung.android.privacydashboard
+--- android:SemWT_com.samsung.android.tadownloader
+[ ] android:SemWT_com.sec.android.gallery3d
+[ ] android:SemWT_com.samsung.accessibility
+--- android:SemWT_com.samsung.android.rampart
+--- android:SemWT_com.samsung.knox.securefolder
+[ ] android:SemWT_com.samsung.android.game.gametools
+[ ] android:SemWT_com.samsung.android.app.contacts
+--- android:SemWT_com.samsung.android.service.peoplestripe
+--- android:SemWT_com.samsung.android.da.daagent
+[ ] android:SemWT_com.samsung.android.app.reminder
+[ ] android:SemWT_com.samsung.android.app.smartcapture
+--- android:SemWT_com.sec.android.desktopmode.uiservice
+--- android:SemWT_com.samsung.android.app.taskedge
+[ ] android:SemWT_com.samsung.android.dynamiclock
+[ ] android:SemWT_com.sec.android.app.clockpackage
+[ ] android:SemWT_com.samsung.android.mdecservice
+[ ] android:SemWT_com.samsung.accessory.budsunitemgr
+--- android:SemWT_com.samsung.android.app.readingglass
+--- android:SemWT_com.samsung.android.opencalendar
+--- android:SemWT_com.samsung.android.coldwalletservice
+[ ] android:SemWT_com.samsung.android.biometrics.app.setting
+--- android:SemWT_com.samsung.android.icecone
+[ ] android:SemWT_com.sec.android.app.myfiles
+[ ] android:SemWT_com.samsung.android.app.routines
+--- android:SemWT_com.sec.android.app.dexonpc
+[ ] android:SemWT_com.sec.android.mimage.photoretouching
+[ ] android:SemWT_com.sec.android.app.launcher
+--- android:SemWT_com.samsung.android.setting.multisound
+[ ] android:SemWT_com.sec.android.app.sbrowser
+[ ] android:SemWT_com.samsung.android.app.interpreter
+[ ] android:SemWT_com.samsung.android.dialer
+[ ] android:SemWT_com.samsung.android.app.cameraassistant
+--- android:SemWT_com.samsung.android.drivingplus
+--- android:SemWT_com.samsung.android.forest
+[ ] android:SemWT_io.mesalabs.knoxpatch
+[ ] android:SemWT_com.samsung.android.callassistant
+[ ] android:SemWT_com.sec.android.app.popupcalculator
+--- android:SemWT_com.sec.android.app.quicktool
+--- android:SemWT_com.samsung.android.fmm
+--- android:SemWT_com.samsung.android.mdx
+[ ] android:SemWT_com.sec.android.app.shealth
+--- android:SemWT_com.samsung.android.warrantycare
+[ ] android:SemWT_com.sec.unifiedwfc
+--- android:SemWT_com.samsung.android.appseparation
+[ ] android:SemWT_com.samsung.android.honeyboard
+[ ] android:SemWT_com.samsung.android.scloud
+[ ] android:SemWT_com.samsung.android.app.soundpicker
+--- android:SemWT_com.samsung.android.app.sharelive
+[ ] android:SemWT_com.android.settings
+--- android:SemWT_com.samsung.android.widget.pictureframe
+[ ] android:SemWT_com.samsung.app.newtrim
+--- android:SemWT_com.samsung.android.fast
+[ ] android:SemWT_com.samsung.android.lool
+[ ] android:SemWT_com.samsung.android.scpm
+[ ] android:SemWT_com.sec.hearingadjust
+[ ] android:SemWT_com.samsung.android.visionintelligence
+--- android:SemWT_com.samsung.android.hwresourceshare.storage
+--- android:SemWT_com.samsung.android.callbgprovider
+--- android:SemWT_com.sec.android.app.firewall
+--- android:SemWT_com.samsung.android.mateagent
+--- android:SemWT_com.samsung.android.service.aircommand
+--- android:SemWT_com.android.vpndialogs
+--- android:SemWT_com.wssyncmldm
+--- android:SemWT_com.samsung.android.app.appsedge
+[ ] android:SemWT_com.samsung.android.samsungpassautofill
+[ ] android:SemWT_com.android.systemui
+--- android:SemWT_com.samsung.android.app.clockpack
+[ ] android:SemWT_com.samsung.android.smartsuggestions
+[ ] android:SemWT_com.sec.android.app.camera
+[ ] android:SemWT_com.android.bluetooth
+--- android:SemWT_com.samsung.android.app.clipboardedge
+[ ] android:SemWT_com.samsung.android.app.dressroom
+--- android:SemWT_com.samsung.advancedcalling
+[ ] android:SemWT_com.samsung.android.mcfds
+--- android:SemWT_com.samsung.android.sm_cn
+[ ] android:SemWT_com.samsung.android.video
+--- android:SemWT_com.samsung.android.bixbytouch
