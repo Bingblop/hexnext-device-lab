@@ -21,3 +21,11 @@
 [05:41:44] capture dark settings
 [05:42:03] capture dark qs
 [05:42:22] capture dark power
+[05:42:42] no connection; resetting networking (round 1)
+[05:43:58] no connection; resetting networking (round 2)
+[05:45:14] still no connection
+[05:45:24] no connection; resetting networking (round 1)
+[05:46:40] no connection; resetting networking (round 2)
+[05:47:55] still no connection
+[05:48:15] job lab-019: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-019
+[05:48:15] full reboot to bring networking back; the watcher starts again by itself
