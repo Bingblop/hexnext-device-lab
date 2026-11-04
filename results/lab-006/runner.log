@@ -16,3 +16,5 @@
 [20:05:47] capture light myfiles
 [20:06:02] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
 [20:06:56] dumps
+[20:06:59] job lab-006 pushed
+[20:07:30] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
