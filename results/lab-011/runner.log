@@ -2,3 +2,5 @@
 [21:41:30] fabricate probe overlay
 [21:41:30] overlay state 1
 [21:41:44] soft reboot; remaining steps: overlaystate (unlock the phone when it comes back)
+[21:42:12] job lab-011
+[21:42:12] overlay state 2
