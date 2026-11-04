@@ -6,3 +6,13 @@
 [22:14:25] apply (confirm=true)
 [22:18:03] overlay state 1
 [22:18:26] soft reboot; remaining steps: overlaystate shizuku waitrestore overlaystate capture (unlock the phone when it comes back)
+[22:18:50] job lab-012
+[22:18:50] overlay state 2
+[22:18:57] restarting Shizuku as root
+[22:19:06] waiting for Hex Next to restore the theme
+[22:20:36] restore: 8 Hex Next overlays after 90s
+[22:20:36] overlay state 3
+[22:20:45] capture dark settings
+[22:21:43] preview settings: the hook was not on screen (try 1)
+[22:21:52] capture dark qs
+[22:22:06] capture dark keyboard
