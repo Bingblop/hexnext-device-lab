@@ -2,3 +2,5 @@
 [19:39:40] dumps
 [19:39:40] job android:SemWT_android: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-005
 [19:40:54] lab pull failed: fatal: unable to access 'https://github.com/Bingblop/hexnext-device-lab.git/': Could not resolve host: github.com ; repairing
+[19:41:06] lab repair failed; results left in place; see /data/data/com.termux/files/home/.hexnext-lab-pull.err
+[19:41:37] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
