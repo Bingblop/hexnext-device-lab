@@ -17,3 +17,5 @@
 [14:42:58] arsc: com.samsung.android.lool 2660 KB
 [14:43:02] job lab-027 pushed
 [14:43:33] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[14:43:35] lab repaired
+[14:44:06] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
