@@ -1,0 +1,26 @@
+{
+  "id": "lab-014",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41774035371,
+  "artifact_sha256": "c694378ae201f0f092adde5c0275687b04392ec4910173a47fc6cdcdc101e27c",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "softreboot",
+    "shizuku",
+    "waitrestore",
+    "overlaystate",
+    "capture"
+  ],
+  "captures": [
+    "settings",
+    "qs",
+    "dialogs",
+    "power"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true
+}
