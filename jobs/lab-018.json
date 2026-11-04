@@ -1,0 +1,30 @@
+{
+  "id": "lab-018",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41789313574,
+  "artifact_sha256": "b0bc32fbf51fd49244023aaa7abb4e497b8ae38e6999f31c30b683352edcf5c5",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "lookup",
+    "capture"
+  ],
+  "captures": [
+    "dialogs",
+    "settings",
+    "qs",
+    "power"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true,
+  "lookups": [
+    "com.android.settings:drawable/sesl_dialog_background",
+    "android:drawable/dialog_background_material",
+    "com.android.settings:drawable/sesl_menu_popup_background_dark",
+    "android:drawable/tw_ic_do_poweroff",
+    "com.android.settings:color/sesl_dialog_window_background_color_material_dark"
+  ]
+}
