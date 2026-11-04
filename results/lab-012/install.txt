@@ -1,0 +1,4 @@
+Success
+    versionCode=220 minSdk=35 targetSdk=36
+    versionName=2.2.0-owner
+    lastUpdateTime=2026-11-03 22:14:04
