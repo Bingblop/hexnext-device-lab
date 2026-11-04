@@ -1,0 +1,44 @@
+{
+  "id": "lab-016",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41782595725,
+  "artifact_sha256": "ca9c15645192787d75694f334d3d5537e8d37e594680ae9c828cb0df8ef393ec",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "lookup",
+    "softreboot",
+    "shizuku",
+    "waitrestore",
+    "overlaystate",
+    "lookup",
+    "capture"
+  ],
+  "captures": [
+    "settings",
+    "qs",
+    "dialogs",
+    "power"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true,
+  "lookups": [
+    "com.android.settings:color/sesl_dialog_window_background_color_material_dark",
+    "com.android.settings:color/sesl_dialog_blur_background_color",
+    "com.android.settings:color/sesl_dialog_title_text_color_dark",
+    "com.android.settings:color/sesl_dialog_body_text_color_dark",
+    "com.android.settings:color/sesl_dialog_button_text_color_dark",
+    "com.android.settings:color/sec_dialog_background_color",
+    "com.android.settings:color/basic_token_component_dialog_surface_container_dark",
+    "com.android.settings:color/dialog_title_text_color",
+    "com.android.settings:color/dialog_body_text_color",
+    "android:color/tw_dialog_window_background_color_material_dark",
+    "android:color/sem_dialog_panel_bg_color_blur",
+    "android:color/sem_dialog_middle_panel_bg_color",
+    "android:color/tw_dialog_button_text_color_material_dark",
+    "android:color/tw_dialog_title_text_color_material_dark"
+  ]
+}
