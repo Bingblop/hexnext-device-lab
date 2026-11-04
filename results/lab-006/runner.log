@@ -1,0 +1,18 @@
+[19:59:48] job lab-006
+[19:59:56] install: downloaded artifact 13284459920 through the API
+[19:59:57] install: run 41749455353 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[19:59:57] restarting Shizuku as root
+[20:00:06] scan
+[20:00:14] apply (confirm=false)
+[20:02:53] capture dark settings
+[20:03:13] capture dark qs
+[20:03:28] capture dark shade
+[20:03:52] capture dark power
+[20:04:11] capture dark myfiles
+[20:04:29] capture light settings
+[20:04:48] capture light qs
+[20:05:04] capture light shade
+[20:05:27] capture light power
+[20:05:47] capture light myfiles
+[20:06:02] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
+[20:06:56] dumps
