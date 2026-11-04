@@ -1,0 +1,6 @@
+[15:31:31] job lab-029
+[15:31:32] arsc: com.samsung.android.themecenter 12 KB
+[15:31:32] fabricate probe overlay
+[15:31:32] overlay state 1
+[15:31:52] boot log 1
+[15:31:53] soft reboot; remaining steps: overlaystate bootlog pkginfo (unlock the phone when it comes back)

@@ -1,0 +1,2 @@
+root             0  6384 shizuku_server
+u0_a394      10394 18866 moe.shizuku.privileged.api
