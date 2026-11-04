@@ -1,0 +1,400 @@
+INFO   Enabled 232 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_interpreter
+INFO   Order: on top of com.samsung.android.app.interpreter.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_interpreter-16mI.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_interpreter-16mI.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_app_interpreter .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_app_interpreter-ZATu.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.app.interpreter: 232 resources
+INFO Building HexNext_com_samsung_android_app_routines: 476 colours, 0 drawables
+INFO applyOverlay code=0, 476 resources (0/0 drawables), 0 skipped, 747 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_app_routines -> com.samsung.android.app.routines: 476 colours, 0 drawables
+INFO   Committed 476 colours through OverlayManager.
+INFO   Enabled 476 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_routines
+INFO   Order: on top of com.samsung.android.app.routines.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_routines-DaUH.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_routines-DaUH.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_app_routines .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_app_routines-bdNY.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.app.routines: 476 resources
+INFO Building HexNext_com_samsung_android_app_soundpicker: 172 colours, 0 drawables
+INFO applyOverlay code=0, 172 resources (0/0 drawables), 0 skipped, 725 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_app_soundpicker -> com.samsung.android.app.soundpicker: 172 colours, 0 drawables
+INFO   Committed 172 colours through OverlayManager.
+INFO   Enabled 172 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_soundpicker
+INFO   Order: on top of com.samsung.android.app.soundpicker.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_soundpicker-wYPN.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_soundpicker-wYPN.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_app_soundpicker .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_app_soundpicker-Auwd.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.app.soundpicker: 172 resources
+INFO Building HexNext_com_samsung_android_app_telephonyui: 250 colours, 0 drawables
+INFO applyOverlay code=0, 250 resources (0/0 drawables), 0 skipped, 740 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_app_telephonyui -> com.samsung.android.app.telephonyui: 250 colours, 0 drawables
+INFO   Committed 250 colours through OverlayManager.
+INFO   Enabled 250 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_telephonyui
+INFO   Order: on top of com.samsung.android.app.telephonyui.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_telephonyui-tVU3.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_telephonyui-tVU3.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_app_telephonyui .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_app_telephonyui-iW4C.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.app.telephonyui: 250 resources
+INFO Building HexNext_com_samsung_android_biometrics_app_setting: 10 colours, 0 drawables
+INFO applyOverlay code=0, 10 resources (0/0 drawables), 0 skipped, 722 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_biometrics_app_setting -> com.samsung.android.biometrics.app.setting: 10 colours, 0 drawables
+INFO   Committed 10 colours through OverlayManager.
+INFO   Enabled 10 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_biometrics_app_setting
+INFO   Order: on top of com.samsung.android.biometrics.app.setting.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_biometrics_app_setting-syLn.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_biometrics_app_setting-syLn.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_biometrics_app_setting .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_biometrics_app_setting-u9C0.frro
+INFO Lookup: #ff00abbf
+OK com.samsung.android.biometrics.app.setting: 10 resources
+INFO Building HexNext_com_samsung_android_bixby_agent: 180 colours, 0 drawables
+INFO applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 737 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_bixby_agent -> com.samsung.android.bixby.agent: 180 colours, 0 drawables
+INFO   Committed 180 colours through OverlayManager.
+INFO   Enabled 180 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_bixby_agent
+INFO   Order: on top of com.samsung.android.bixby.agent.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_bixby_agent-TQ1b.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_bixby_agent-TQ1b.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_bixby_agent .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_bixby_agent-3mgD.frro
+INFO Lookup: #ff00c8df
+OK com.samsung.android.bixby.agent: 180 resources
+INFO Building HexNext_com_samsung_android_callassistant: 196 colours, 0 drawables
+INFO applyOverlay code=0, 196 resources (0/0 drawables), 0 skipped, 726 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_callassistant -> com.samsung.android.callassistant: 196 colours, 0 drawables
+INFO   Committed 196 colours through OverlayManager.
+INFO   Enabled 196 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_callassistant
+INFO   Order: on top of com.samsung.android.callassistant.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_callassistant-TdPi.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_callassistant-TdPi.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_callassistant .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_callassistant-uPJ7.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.callassistant: 196 resources
+INFO Building HexNext_com_samsung_android_dynamiclock: 186 colours, 0 drawables
+INFO applyOverlay code=0, 186 resources (0/0 drawables), 0 skipped, 717 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_dynamiclock -> com.samsung.android.dynamiclock: 186 colours, 0 drawables
+INFO   Committed 186 colours through OverlayManager.
+INFO   Enabled 186 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_dynamiclock
+INFO   Order: on top of com.samsung.android.dynamiclock.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dynamiclock-si7h.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dynamiclock-si7h.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_dynamiclock .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_dynamiclock-FmkG.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.dynamiclock: 186 resources
+INFO Building HexNext_com_samsung_android_game_gametools: 164 colours, 0 drawables
+INFO applyOverlay code=0, 164 resources (0/0 drawables), 0 skipped, 721 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_game_gametools -> com.samsung.android.game.gametools: 164 colours, 0 drawables
+INFO   Committed 164 colours through OverlayManager.
+INFO   Enabled 164 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_game_gametools
+INFO   Order: on top of com.samsung.android.game.gametools.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_game_gametools-U63Z.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_game_gametools-U63Z.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_game_gametools .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_game_gametools-kdGd.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.game.gametools: 164 resources
+INFO Building HexNext_com_samsung_android_mcfds: 152 colours, 0 drawables
+INFO applyOverlay code=0, 152 resources (0/0 drawables), 0 skipped, 728 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_mcfds -> com.samsung.android.mcfds: 152 colours, 0 drawables
+INFO   Committed 152 colours through OverlayManager.
+INFO   Enabled 152 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_mcfds
+INFO   Order: on top of com.samsung.android.mcfds.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mcfds-DeFn.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mcfds-DeFn.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_mcfds .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_mcfds-De2D.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.mcfds: 152 resources
+INFO Building HexNext_com_samsung_android_mdecservice: 240 colours, 0 drawables
+INFO applyOverlay code=0, 240 resources (0/0 drawables), 0 skipped, 734 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_mdecservice -> com.samsung.android.mdecservice: 240 colours, 0 drawables
+INFO   Committed 240 colours through OverlayManager.
+INFO   Enabled 240 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_mdecservice
+INFO   Order: on top of com.samsung.android.mdecservice.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mdecservice-CWq0.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mdecservice-CWq0.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_mdecservice .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_mdecservice-QTZ6.frro
+INFO Lookup: #ff00c8df
+OK com.samsung.android.mdecservice: 240 resources
+INFO Building HexNext_com_samsung_android_privacydashboard: 174 colours, 0 drawables
+INFO applyOverlay code=0, 174 resources (0/0 drawables), 0 skipped, 738 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_privacydashboard -> com.samsung.android.privacydashboard: 174 colours, 0 drawables
+INFO   Committed 174 colours through OverlayManager.
+INFO   Enabled 174 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_privacydashboard
+INFO   Order: on top of com.samsung.android.privacydashboard.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_privacydashboard-bAqJ.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_privacydashboard-bAqJ.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_privacydashboard .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_privacydashboard-wDgE.frro
+INFO Lookup: #ffa5adae
+OK com.samsung.android.privacydashboard: 174 resources
+INFO Building HexNext_com_samsung_android_samsungpassautofill: 212 colours, 0 drawables
+INFO applyOverlay code=0, 212 resources (0/0 drawables), 0 skipped, 729 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_samsungpassautofill -> com.samsung.android.samsungpassautofill: 212 colours, 0 drawables
+INFO   Committed 212 colours through OverlayManager.
+INFO   Enabled 212 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_samsungpassautofill
+INFO   Order: on top of com.samsung.android.samsungpassautofill.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_samsungpassautofill-MmsE.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_samsungpassautofill-MmsE.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_samsungpassautofill .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_samsungpassautofill-1bET.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.samsungpassautofill: 212 resources
+INFO Building HexNext_com_samsung_android_scloud: 172 colours, 0 drawables
+INFO applyOverlay code=0, 172 resources (0/0 drawables), 0 skipped, 740 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_scloud -> com.samsung.android.scloud: 172 colours, 0 drawables
+INFO   Committed 172 colours through OverlayManager.
+INFO   Enabled 172 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_scloud
+INFO   Order: on top of com.samsung.android.scloud.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scloud-BbEj.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scloud-BbEj.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_scloud .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_scloud-s66n.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.scloud: 172 resources
+INFO Building HexNext_com_samsung_android_scpm: 152 colours, 0 drawables
+INFO applyOverlay code=0, 152 resources (0/0 drawables), 0 skipped, 715 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_scpm -> com.samsung.android.scpm: 152 colours, 0 drawables
+INFO   Committed 152 colours through OverlayManager.
+INFO   Enabled 152 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_scpm
+INFO   Order: on top of com.samsung.android.scpm.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scpm-ALtA.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scpm-ALtA.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_scpm .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_scpm-7orV.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.scpm: 152 resources
+INFO Building HexNext_com_samsung_android_secsoundpicker: 180 colours, 0 drawables
+INFO applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 731 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_secsoundpicker -> com.samsung.android.secsoundpicker: 180 colours, 0 drawables
+INFO   Committed 180 colours through OverlayManager.
+INFO   Enabled 180 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_secsoundpicker
+INFO   Order: on top of com.samsung.android.secsoundpicker.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_secsoundpicker-zV2X.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_secsoundpicker-zV2X.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_secsoundpicker .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_secsoundpicker-e60K.frro
+INFO Lookup: #ff00abbf
+OK com.samsung.android.secsoundpicker: 180 resources
+INFO Building HexNext_com_samsung_android_service_airviewdictionary: 162 colours, 0 drawables
+INFO applyOverlay code=0, 162 resources (0/0 drawables), 0 skipped, 729 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_service_airviewdictionary -> com.samsung.android.service.airviewdictionary: 162 colours, 0 drawables
+INFO   Committed 162 colours through OverlayManager.
+INFO   Enabled 162 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_service_airviewdictionary
+INFO   Order: on top of com.samsung.android.service.airviewdictionary.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_airviewdictionary-dvFD.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_airviewdictionary-dvFD.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_service_airviewdictionary .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_service_airviewdictionary-BbsS.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.service.airviewdictionary: 162 resources
+INFO Building HexNext_com_samsung_android_service_tagservice: 162 colours, 0 drawables
+INFO applyOverlay code=0, 162 resources (0/0 drawables), 0 skipped, 732 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_service_tagservice -> com.samsung.android.service.tagservice: 162 colours, 0 drawables
+INFO   Committed 162 colours through OverlayManager.
+INFO   Enabled 162 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_service_tagservice
+INFO   Order: on top of com.samsung.android.service.tagservice.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_tagservice-TMVW.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_tagservice-TMVW.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_service_tagservice .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_service_tagservice-PDPz.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.service.tagservice: 162 resources
+INFO Building HexNext_com_samsung_android_smartmirroring: 154 colours, 0 drawables
+INFO applyOverlay code=0, 154 resources (0/0 drawables), 0 skipped, 729 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_smartmirroring -> com.samsung.android.smartmirroring: 154 colours, 0 drawables
+INFO   Committed 154 colours through OverlayManager.
+INFO   Enabled 154 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_smartmirroring
+INFO   Order: on top of com.samsung.android.smartmirroring.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartmirroring-PxwX.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartmirroring-PxwX.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_smartmirroring .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_smartmirroring-ozHF.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.smartmirroring: 154 resources
+INFO Building HexNext_com_samsung_android_smartsuggestions: 236 colours, 0 drawables
+INFO applyOverlay code=0, 236 resources (0/0 drawables), 0 skipped, 731 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_smartsuggestions -> com.samsung.android.smartsuggestions: 236 colours, 0 drawables
+INFO   Committed 236 colours through OverlayManager.
+INFO   Enabled 236 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_smartsuggestions
+INFO   Order: on top of com.samsung.android.smartsuggestions.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartsuggestions-aI1G.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartsuggestions-aI1G.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_smartsuggestions .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_smartsuggestions-btAu.frro
+INFO Lookup: #ffa5adae
+OK com.samsung.android.smartsuggestions: 236 resources
+INFO Building HexNext_com_samsung_android_video: 192 colours, 0 drawables
+INFO applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 720 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_video -> com.samsung.android.video: 192 colours, 0 drawables
+INFO   Committed 192 colours through OverlayManager.
+INFO   Enabled 192 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_video
+INFO   Order: on top of com.samsung.android.video.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_video-hlN0.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_video-hlN0.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_video .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_video-Rsue.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.video: 192 resources
+INFO Building HexNext_com_samsung_android_visionintelligence: 208 colours, 0 drawables
+INFO applyOverlay code=0, 208 resources (0/0 drawables), 0 skipped, 734 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_android_visionintelligence -> com.samsung.android.visionintelligence: 208 colours, 0 drawables
+INFO   Committed 208 colours through OverlayManager.
+INFO   Enabled 208 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_visionintelligence
+INFO   Order: on top of com.samsung.android.visionintelligence.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-pzH9.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-pzH9.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_android_visionintelligence .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_android_visionintelligence-m8tx.frro
+INFO Lookup: #ff00c8df
+OK com.samsung.android.visionintelligence: 208 resources
+INFO Building HexNext_com_samsung_app_newtrim: 184 colours, 0 drawables
+INFO applyOverlay code=0, 184 resources (0/0 drawables), 0 skipped, 730 ms
+INFO   [UID 0] com.android.shell:HexNext_com_samsung_app_newtrim -> com.samsung.app.newtrim: 184 colours, 0 drawables
+INFO   Committed 184 colours through OverlayManager.
+INFO   Enabled 184 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_app_newtrim
+INFO   Order: on top of com.samsung.app.newtrim.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-ZePh.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-ZePh.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_samsung_app_newtrim .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_samsung_app_newtrim-ROp8.frro
+INFO Lookup: #ffa5adae
+OK com.samsung.app.newtrim: 184 resources
+INFO Building HexNext_com_sec_android_app_camera: 190 colours, 0 drawables
+INFO applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 742 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_app_camera -> com.sec.android.app.camera: 190 colours, 0 drawables
+INFO   Committed 190 colours through OverlayManager.
+INFO   Enabled 190 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_camera
+INFO   Order: on top of com.sec.android.app.camera.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-v2pM.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-v2pM.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_app_camera .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_app_camera-S795.frro
+INFO Lookup: #ff00abbf
+OK com.sec.android.app.camera: 190 resources
+INFO Building HexNext_com_sec_android_app_sbrowser: 574 colours, 0 drawables
+INFO applyOverlay code=0, 574 resources (0/0 drawables), 0 skipped, 754 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_app_sbrowser -> com.sec.android.app.sbrowser: 574 colours, 0 drawables
+INFO   Committed 574 colours through OverlayManager.
+INFO   Enabled 574 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_sbrowser
+INFO   Order: on top of com.sec.android.app.sbrowser.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-IhJ3.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-IhJ3.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_app_sbrowser .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_app_sbrowser-dPr4.frro
+INFO Lookup: #ff00c8df
+OK com.sec.android.app.sbrowser: 574 resources
+INFO Building HexNext_com_sec_android_app_shealth: 216 colours, 0 drawables
+INFO applyOverlay code=0, 216 resources (0/0 drawables), 0 skipped, 774 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_app_shealth -> com.sec.android.app.shealth: 216 colours, 0 drawables
+INFO   Committed 216 colours through OverlayManager.
+INFO   Enabled 216 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_shealth
+INFO   Order: on top of com.sec.android.app.shealth.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-SH24.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-SH24.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_app_shealth .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_app_shealth-6Lk4.frro
+INFO Lookup: #ff000000
+OK com.sec.android.app.shealth: 216 resources
+INFO Building HexNext_com_sec_android_app_soundalive: 192 colours, 0 drawables
+INFO applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 728 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_app_soundalive -> com.sec.android.app.soundalive: 192 colours, 0 drawables
+INFO   Committed 192 colours through OverlayManager.
+INFO   Enabled 192 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_soundalive
+INFO   Order: on top of com.sec.android.app.soundalive.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-x7Dl.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-x7Dl.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_app_soundalive .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_app_soundalive-0Ueb.frro
+INFO Lookup: #ff00c8df
+OK com.sec.android.app.soundalive: 192 resources
+INFO Building HexNext_com_sec_android_app_voicenote: 292 colours, 0 drawables
+INFO applyOverlay code=0, 292 resources (0/0 drawables), 0 skipped, 744 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_app_voicenote -> com.sec.android.app.voicenote: 292 colours, 0 drawables
+INFO   Committed 292 colours through OverlayManager.
+INFO   Enabled 292 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_voicenote
+INFO   Order: on top of com.sec.android.app.voicenote.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-9V5a.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-9V5a.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_app_voicenote .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_app_voicenote-TR7S.frro
+INFO Lookup: #ff40484a
+OK com.sec.android.app.voicenote: 292 resources
+INFO Building HexNext_com_sec_android_daemonapp: 228 colours, 0 drawables
+INFO applyOverlay code=0, 228 resources (0/0 drawables), 0 skipped, 749 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_daemonapp -> com.sec.android.daemonapp: 228 colours, 0 drawables
+INFO   Committed 228 colours through OverlayManager.
+INFO   Enabled 228 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_daemonapp
+INFO   Order: on top of com.sec.android.daemonapp.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-Hk9H.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-Hk9H.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_daemonapp .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_daemonapp-0bX0.frro
+INFO Lookup: #ff00c8df
+OK com.sec.android.daemonapp: 228 resources
+INFO Building HexNext_com_sec_android_mimage_photoretouching: 190 colours, 0 drawables
+INFO applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 731 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_android_mimage_photoretouching -> com.sec.android.mimage.photoretouching: 190 colours, 0 drawables
+INFO   Committed 190 colours through OverlayManager.
+INFO   Enabled 190 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_mimage_photoretouching
+INFO   Order: on top of com.sec.android.mimage.photoretouching.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-ytEm.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-ytEm.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_android_mimage_photoretouching .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_android_mimage_photoretouching-e0yz.frro
+INFO Lookup: #ff000000
+OK com.sec.android.mimage.photoretouching: 190 resources
+INFO Building HexNext_com_sec_hearingadjust: 180 colours, 0 drawables
+INFO applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 719 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_hearingadjust -> com.sec.hearingadjust: 180 colours, 0 drawables
+INFO   Committed 180 colours through OverlayManager.
+INFO   Enabled 180 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_hearingadjust
+INFO   Order: on top of com.sec.hearingadjust.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-Io0O.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-Io0O.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_hearingadjust .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_hearingadjust-tEmX.frro
+INFO Lookup: #ff000000
+OK com.sec.hearingadjust: 180 resources
+INFO Building HexNext_com_sec_unifiedwfc: 178 colours, 0 drawables
+INFO applyOverlay code=0, 178 resources (0/0 drawables), 0 skipped, 718 ms
+INFO   [UID 0] com.android.shell:HexNext_com_sec_unifiedwfc -> com.sec.unifiedwfc: 178 colours, 0 drawables
+INFO   Committed 178 colours through OverlayManager.
+INFO   Enabled 178 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_unifiedwfc
+INFO   Order: on top of com.sec.unifiedwfc.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-6PCR.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-6PCR.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_com_sec_unifiedwfc .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_com_sec_unifiedwfc-VyeK.frro
+INFO Lookup: #ff000000
+OK com.sec.unifiedwfc: 178 resources
+INFO Building HexNext_io_mesalabs_knoxpatch: 122 colours, 0 drawables
+INFO applyOverlay code=0, 122 resources (0/0 drawables), 0 skipped, 721 ms
+INFO   [UID 0] com.android.shell:HexNext_io_mesalabs_knoxpatch -> io.mesalabs.knoxpatch: 122 colours, 0 drawables
+INFO   Committed 122 colours through OverlayManager.
+INFO   Enabled 122 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_io_mesalabs_knoxpatch
+INFO   Order: on top of io.mesalabs.knoxpatch.
+INFO   Located /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-vOwc.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-vOwc.frro.
+INFO   Cleanup: removed 1/1 stale com.android.shell:HexNext_io_mesalabs_knoxpatch .frro files (and their idmaps) from /data/resource-cache: com.android.shell-HexNext_io_mesalabs_knoxpatch-ujUn.frro
+INFO Lookup: #ff00c8df
+OK io.mesalabs.knoxpatch: 122 resources
+INFO Stability monitor (sizes first): Stability monitor pid 29830 watching system_server + SystemUI for 120 s (staged: HexNextValues_ first)
+INFO Building HexNextValues_com_android_systemui: 15 sizes
+INFO applyValueOverlay code=0, 15 values, 0 skipped
+OK com.android.systemui: 15 sizes, verified
+INFO Stopped SemWT guard pid 19498
+INFO SemWT guard watching 60 targets (/data/local/tmp/hexnext/semwt_guard.sh)
+OK Theme apply: 59 ok, 0 failed, 0 debloated, 1 skipped, 0 SemWT disabled, 1/1 verified, 15 values
+INFO Build log: /data/user/0/com.hexnext.themer.owner/files/logs/20261104-122725.jsonl

@@ -1,0 +1,6 @@
+com.samsung.android.honeyboard:color/keyboard_background_dark = #ff101e20
+com.samsung.android.honeyboard:color/text_key_background_dark = #ff2a3233
+com.samsung.android.honeyboard:color/function_key_background_dark = #ff3b494c
+com.samsung.android.honeyboard:color/text_key_main_label_dark = #fff6fdff
+com.samsung.android.honeyboard:drawable/key_bg = frro://data/resource-cache/com.android.shell-HexNext_com_samsung_android_honeyboard-cE55.frro?offset=16&size=1936
+com.samsung.android.honeyboard:drawable/keyboard_background_image = res/EMX.xml
