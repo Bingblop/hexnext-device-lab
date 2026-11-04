@@ -1,0 +1,28 @@
+{
+  "id": "lab-022",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41843377224,
+  "artifact_sha256": "114893f5ff68b334ac61a209bfd20f5100765fb3e7f00f540d18cffb846c76d4",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "lookup",
+    "capture"
+  ],
+  "captures": [
+    "keyboard",
+    "settings"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true,
+  "lookups": [
+    "com.samsung.android.honeyboard:color/keyboard_background_dark",
+    "com.samsung.android.honeyboard:color/text_key_background_dark",
+    "com.samsung.android.honeyboard:color/function_key_background_dark",
+    "com.samsung.android.honeyboard:color/text_key_main_label_dark",
+    "com.samsung.android.honeyboard:color/function_key_main_label_dark"
+  ]
+}
