@@ -1,0 +1,28 @@
+{
+  "steps": [
+    "pkginfo",
+    "arsc",
+    "fabtest",
+    "overlaystate",
+    "bootlog",
+    "softreboot",
+    "overlaystate",
+    "bootlog",
+    "pkginfo"
+  ],
+  "pkginfo": [
+    "com.samsung.android.themecenter",
+    "com.samsung.android.themestore"
+  ],
+  "arsc": [
+    "com.samsung.android.themecenter"
+  ],
+  "expect": {
+    "no_crash": true
+  },
+  "id": "lab-029",
+  "suite": "themes-service",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41904123948,
+  "artifact_sha256": "86e38bacab574f284f566f4100d61ac6f3193383db65c609565f2b09f7604132"
+}
