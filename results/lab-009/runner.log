@@ -2,3 +2,5 @@
 error connecting to api.github.com
 check your internet connection or https://githubstatus.com
 [20:52:10] install: cannot read run 41753781322 (token needs Actions: read on Bingblop/Hex-Next)
+[20:52:10] job lab-009: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-009
+[20:52:40] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
