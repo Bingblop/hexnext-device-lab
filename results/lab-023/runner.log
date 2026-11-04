@@ -27,3 +27,5 @@
 [10:58:15] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
 [10:58:18] lab repaired
 [10:59:33] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[10:59:46] lab repair failed; results left in place; see /data/data/com.termux/files/home/.hexnext-lab-pull.err
+[11:00:18] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
