@@ -5,3 +5,13 @@
 [00:38:59] scan
 [00:41:08] apply (confirm=true)
 [00:44:53] soft reboot; remaining steps: shizuku waitrestore overlaystate capture (unlock the phone when it comes back)
+[00:45:24] job lab-015
+[00:45:24] restarting Shizuku as root
+[00:45:32] waiting for Hex Next to restore the theme
+[00:47:49] restore: overlay count steady at 8
+[00:47:49] restore: 8 Hex Next overlays after 130s
+[00:47:50] overlay state 1
+[00:47:59] capture dark settings
+[00:48:18] capture dark qs
+[00:48:34] capture dark dialogs
+[00:48:54] capture dark power
