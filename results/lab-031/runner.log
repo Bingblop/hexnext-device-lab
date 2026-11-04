@@ -30,3 +30,11 @@
 [18:35:10] restore: 59 Hex Next overlays after 240s
 [18:35:12] overlay state 7
 [18:35:29] restarting Shizuku as root
+[18:35:37] no connection; resetting networking (round 1)
+[18:36:53] no connection; resetting networking (round 2)
+[18:38:08] still no connection
+[18:38:19] no connection; resetting networking (round 1)
+[18:39:34] no connection; resetting networking (round 2)
+[18:40:50] still no connection
+[18:41:10] job lab-031: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-031
+[18:41:10] full reboot to bring networking back; the watcher starts again by itself
