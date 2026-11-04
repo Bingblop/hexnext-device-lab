@@ -1,0 +1,57 @@
+{
+  "steps": [
+    "install",
+    "shizuku1000",
+    "overlaystate",
+    "remove",
+    "overlaystate",
+    "scan",
+    "apply",
+    "overlaystate",
+    "lookup",
+    "capture",
+    "remove",
+    "overlaystate",
+    "apply",
+    "overlaystate",
+    "bootlog",
+    "softreboot",
+    "overlaystate",
+    "bootlog",
+    "shizuku1000",
+    "waitrestore",
+    "overlaystate",
+    "shizuku"
+  ],
+  "confirm": true,
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "captures": [
+    "settings",
+    "power"
+  ],
+  "lookups": [
+    "com.android.settings:color/sesl_round_and_bgcolor_light",
+    "com.android.systemui:drawable/tw_ic_do_poweroff",
+    "com.samsung.android.honeyboard:color/keyboard_background_dark",
+    "android:color/system_accent1_600"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true,
+    "service_uid": 1000,
+    "remove_clean": true,
+    "overridden": [
+      "com.android.systemui:drawable/tw_ic_do_poweroff",
+      "com.samsung.android.honeyboard:color/keyboard_background_dark"
+    ]
+  },
+  "keep_shizuku": true,
+  "id": "lab-030",
+  "suite": "uid1000",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41927096847,
+  "artifact_sha256": "0090115a2f72810284624947214f770689fe18fa473ff4937df49721b1c2a56c"
+}
