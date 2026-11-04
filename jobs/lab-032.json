@@ -1,0 +1,18 @@
+{
+  "steps": [
+    "overlaystate",
+    "bootlog"
+  ],
+  "confirm": true,
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "expect": {},
+  "id": "lab-032",
+  "suite": "smoke",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41927096847,
+  "artifact_sha256": "0090115a2f72810284624947214f770689fe18fa473ff4937df49721b1c2a56c",
+  "about": "After a full reboot: are the system-owned (UID 1000) overlays still there? Overlay state only, nothing installed or applied."
+}
