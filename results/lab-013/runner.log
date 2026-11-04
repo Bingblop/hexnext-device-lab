@@ -13,3 +13,10 @@
 [22:45:29] job lab-013
 [22:45:30] restarting Shizuku as root
 [22:45:38] waiting for Hex Next to restore the theme
+[23:36:20] job lab-013
+[23:36:23] install: downloaded artifact 13292721281 through the API
+[23:36:23] install: run 41763680487 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[23:36:24] restarting Shizuku as root
+[23:36:32] scan
+[23:38:40] apply (confirm=true)
+[23:42:23] soft reboot; remaining steps: shizuku waitrestore overlaystate capture (unlock the phone when it comes back)
