@@ -1,0 +1,400 @@
+11-04 01:22:09.649 15462 16230 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_samsung_android_visionintelligence, userId=-2, constraints=None} affected packages from request={<0>com.samsung.android.visionintelligence}
+11-04 01:22:09.649 15462 16230 D OverlayManager: Writing overlay settings
+11-04 01:22:09.652 15462 16230 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:09.652 15462 16230 D OverlayManager: -> Updating overlay: target=com.samsung.android.visionintelligence overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-hh8o.frro] }] userId=0
+11-04 01:22:09.665 15462 18739 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:09.667 15462 19107 W ApplicationInfo: Large ApplicationInfo parcel: size=17716 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:09.668 15462 17654 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:09.668 15462 17654 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:09.668 15462 17654 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:10.249 28689 28767 I HexNextRestore: applyOverlay code=0, 208 resources (0/0 drawables), 0 skipped, 626 ms
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Committed 208 colours through OverlayManager.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_visionintelligence
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-hh8o.frro via cmd overlay dump.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-hh8o.frro.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_visionintelligence .frro files in /data/resource-cache.
+11-04 01:22:10.365 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_samsung_app_newtrim, userId=-1, constraints=None}] }
+11-04 01:22:10.367 15462 17654 D OverlayManager: create idmap for com.samsung.app.newtrim and com.android.shell
+11-04 01:22:10.367 29840 29949 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro@idmap'
+11-04 01:22:10.374 15462 17654 D OverlayManager: com.android.shell:HexNext_com_samsung_app_newtrim:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:10.374 15462 17654 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_samsung_app_newtrim, targetPackage=com.samsung.app.newtrim, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:10.374 15462 17654 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_samsung_app_newtrim, userId=-1, constraints=None} affected packages from request={<0>com.samsung.app.newtrim}
+11-04 01:22:10.375 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:10.378 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:10.378 15462 17654 D OverlayManager: -> Updating overlay: target=com.samsung.app.newtrim overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:10.392 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_samsung_app_newtrim, userId=-2, constraints=None}] }
+11-04 01:22:10.392 15462 17654 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_samsung_app_newtrim enable=true userId=0 constraints=None
+11-04 01:22:10.392 15462 17654 D OverlayManager: create idmap for com.samsung.app.newtrim and com.android.shell
+11-04 01:22:10.393 15462 17654 D OverlayManager: com.android.shell:HexNext_com_samsung_app_newtrim:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:10.394 15462 17654 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_samsung_app_newtrim userId=0
+11-04 01:22:10.394 15462 17654 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_samsung_app_newtrim, userId=-2, constraints=None} affected packages from request={<0>com.samsung.app.newtrim}
+11-04 01:22:10.394 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:10.396 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:10.396 15462 17654 D OverlayManager: -> Updating overlay: target=com.samsung.app.newtrim overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro] }] userId=0
+11-04 01:22:10.408 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:10.409 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=17716 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:10.410 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:10.410 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:10.410 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:10.990 28689 28767 I HexNextRestore: applyOverlay code=0, 184 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Committed 184 colours through OverlayManager.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_app_newtrim
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro via cmd overlay dump.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_app_newtrim .frro files in /data/resource-cache.
+11-04 01:22:11.106 15462 16811 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_camera, userId=-1, constraints=None}] }
+11-04 01:22:11.108 15462 16811 D OverlayManager: create idmap for com.sec.android.app.camera and com.android.shell
+11-04 01:22:11.109 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro@idmap'
+11-04 01:22:11.120 15462 16811 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_camera:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:11.120 15462 16811 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_app_camera, targetPackage=com.sec.android.app.camera, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:11.120 15462 16811 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_camera, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.app.camera}
+11-04 01:22:11.120 15462 16811 D OverlayManager: Writing overlay settings
+11-04 01:22:11.123 15462 16811 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:11.124 15462 16811 D OverlayManager: -> Updating overlay: target=com.sec.android.app.camera overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:11.138 15462 16811 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_camera, userId=-2, constraints=None}] }
+11-04 01:22:11.138 15462 16811 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_app_camera enable=true userId=0 constraints=None
+11-04 01:22:11.138 15462 16811 D OverlayManager: create idmap for com.sec.android.app.camera and com.android.shell
+11-04 01:22:11.140 15462 16811 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_camera:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:11.140 15462 16811 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_app_camera userId=0
+11-04 01:22:11.140 15462 16811 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_camera, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.app.camera}
+11-04 01:22:11.140 15462 16811 D OverlayManager: Writing overlay settings
+11-04 01:22:11.142 15462 16811 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:11.143 15462 16811 D OverlayManager: -> Updating overlay: target=com.sec.android.app.camera overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro] }] userId=0
+11-04 01:22:11.152 15462 16732 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:11.153 15462 19104 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.154 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.155 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:11.155 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:11.155 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:11.157 15462 16734 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.158 15462 16734 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.158 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.163 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.164 15462 15798 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.164 15462 19104 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.166 15462 19107 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.173 15462 19104 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.173 18822 19547 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.181 15462 17654 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.182 15462 16733 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.648 15462 16361 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.739 28689 28767 I HexNextRestore: applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 634 ms
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Committed 190 colours through OverlayManager.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_camera
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro via cmd overlay dump.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_camera .frro files in /data/resource-cache.
+11-04 01:22:11.866 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser, userId=-1, constraints=None}] }
+11-04 01:22:11.869 15462 17654 D OverlayManager: create idmap for com.sec.android.app.sbrowser and com.android.shell
+11-04 01:22:11.869 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro@idmap'
+11-04 01:22:11.885 15462 17654 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_sbrowser:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:11.885 15462 17654 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_app_sbrowser, targetPackage=com.sec.android.app.sbrowser, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:11.885 15462 17654 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.app.sbrowser}
+11-04 01:22:11.885 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:11.888 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:11.888 15462 17654 D OverlayManager: -> Updating overlay: target=com.sec.android.app.sbrowser overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:11.899 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser, userId=-2, constraints=None}] }
+11-04 01:22:11.899 15462 17654 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser enable=true userId=0 constraints=None
+11-04 01:22:11.899 15462 17654 D OverlayManager: create idmap for com.sec.android.app.sbrowser and com.android.shell
+11-04 01:22:11.901 15462 17654 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_sbrowser:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:11.901 15462 17654 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser userId=0
+11-04 01:22:11.901 15462 17654 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_sbrowser, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.app.sbrowser}
+11-04 01:22:11.901 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:11.904 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:11.904 15462 17654 D OverlayManager: -> Updating overlay: target=com.sec.android.app.sbrowser overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro] }] userId=0
+11-04 01:22:11.954 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:11.956 15462 16300 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:11.957 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:11.957 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:11.957 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:12.505 28689 28767 I HexNextRestore: applyOverlay code=0, 574 resources (0/0 drawables), 0 skipped, 644 ms
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Committed 574 colours through OverlayManager.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_sbrowser
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro via cmd overlay dump.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_sbrowser .frro files in /data/resource-cache.
+11-04 01:22:12.621 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_shealth, userId=-1, constraints=None}] }
+11-04 01:22:12.622 15462 17654 D OverlayManager: create idmap for com.sec.android.app.shealth and com.android.shell
+11-04 01:22:12.622 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro@idmap'
+11-04 01:22:12.651 15462 17654 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_shealth:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:12.651 15462 17654 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_app_shealth, targetPackage=com.sec.android.app.shealth, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:12.651 15462 17654 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_shealth, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.app.shealth}
+11-04 01:22:12.651 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:12.653 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:12.653 15462 17654 D OverlayManager: -> Updating overlay: target=com.sec.android.app.shealth overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:12.663 15462 17654 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_shealth, userId=-2, constraints=None}] }
+11-04 01:22:12.663 15462 17654 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_app_shealth enable=true userId=0 constraints=None
+11-04 01:22:12.663 15462 17654 D OverlayManager: create idmap for com.sec.android.app.shealth and com.android.shell
+11-04 01:22:12.665 15462 17654 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_shealth:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:12.665 15462 17654 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_app_shealth userId=0
+11-04 01:22:12.665 15462 17654 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_shealth, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.app.shealth}
+11-04 01:22:12.665 15462 17654 D OverlayManager: Writing overlay settings
+11-04 01:22:12.667 15462 17654 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:12.667 15462 17654 D OverlayManager: -> Updating overlay: target=com.sec.android.app.shealth overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro] }] userId=0
+11-04 01:22:12.670 21492 21492 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro]
+11-04 01:22:12.676 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:12.684 15462 16413 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:12.686 15462 16240 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:12.687 15462 16240 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:12.687 15462 16240 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:13.187  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference
+11-04 01:22:13.187  2103  2103 I SurfaceFlinger: VRI-ScreenDecorOverlay$_16437#458 voted ExplicitCategory with category: NoPreference
+11-04 01:22:13.187  2103  2103 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_16437#459 voted ExplicitCategory with category: NoPreference
+11-04 01:22:13.266 28689 28767 I HexNextRestore: applyOverlay code=0, 216 resources (0/0 drawables), 0 skipped, 648 ms
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   Committed 216 colours through OverlayManager.
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_shealth
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro via cmd overlay dump.
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro.
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_shealth .frro files in /data/resource-cache.
+11-04 01:22:13.381 15462 16361 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_soundalive, userId=-1, constraints=None}] }
+11-04 01:22:13.383 15462 16361 D OverlayManager: create idmap for com.sec.android.app.soundalive and com.android.shell
+11-04 01:22:13.383 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro@idmap'
+11-04 01:22:13.386 15462 16361 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_soundalive:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:13.386 15462 16361 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_app_soundalive, targetPackage=com.sec.android.app.soundalive, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:13.386 15462 16361 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_soundalive, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.app.soundalive}
+11-04 01:22:13.386 15462 16361 D OverlayManager: Writing overlay settings
+11-04 01:22:13.389 15462 16361 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:13.390 15462 16361 D OverlayManager: -> Updating overlay: target=com.sec.android.app.soundalive overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:13.401 15462 16361 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_soundalive, userId=-2, constraints=None}] }
+11-04 01:22:13.401 15462 16361 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_app_soundalive enable=true userId=0 constraints=None
+11-04 01:22:13.401 15462 16361 D OverlayManager: create idmap for com.sec.android.app.soundalive and com.android.shell
+11-04 01:22:13.403 15462 16361 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_soundalive:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:13.403 15462 16361 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_app_soundalive userId=0
+11-04 01:22:13.403 15462 16361 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_soundalive, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.app.soundalive}
+11-04 01:22:13.403 15462 16361 D OverlayManager: Writing overlay settings
+11-04 01:22:13.405 15462 16361 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:13.406 15462 16361 D OverlayManager: -> Updating overlay: target=com.sec.android.app.soundalive overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro] }] userId=0
+11-04 01:22:13.408 19683 19683 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro]
+11-04 01:22:13.448 15462 16230 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:13.448 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:13.449 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:13.449 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:13.449 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.005 28689 28767 I HexNextRestore: applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 626 ms
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Committed 192 colours through OverlayManager.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_soundalive
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro via cmd overlay dump.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_soundalive .frro files in /data/resource-cache.
+11-04 01:22:14.081 16437 17112 I VRI[ScreenDecorOverlay]@46f9b99: dispatchDetachedFromWindow
+11-04 01:22:14.082 15462 15495 D InputDispatcher: removed InputChannel: b6fe148 ScreenDecorOverlay
+11-04 01:22:14.082 15462 15495 V WindowManager: Remove Window{b6fe148 u0 ScreenDecorOverlay}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlay$_16437#458)/@0x90507af mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 01:22:14.086 16437 17112 I VRI[ScreenDecorOverlayBottom]@dfb07f8: dispatchDetachedFromWindow
+11-04 01:22:14.087 15462 15495 D InputDispatcher: removed InputChannel: da8ef8d ScreenDecorOverlayBottom
+11-04 01:22:14.087 15462 15495 V WindowManager: Remove Window{da8ef8d u0 ScreenDecorOverlayBottom}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlayBottom$_16437#459)/@0xb883da7 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: RequestedLayer [b6fe148 ScreenDecorOverlay#455] hidden!! flag from(0) --> to(1) // by pid (15462)
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: RequestedLayer [da8ef8d ScreenDecorOverlayBottom#457] hidden!! flag from(0) --> to(1) // by pid (15462)
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{b6fe148 ScreenDecorOverlay#455} 1 children}] reparent to OffscreenRoot
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{b6fe148 ScreenDecorOverlay#455} 1 children}] RelativeParent to null
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{da8ef8d ScreenDecorOverlayBottom#457} 1 children}] reparent to OffscreenRoot
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{da8ef8d ScreenDecorOverlayBottom#457} 1 children}] RelativeParent to null
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_16437#458} no children}] reparent to OffscreenRoot
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_16437#458} no children}] RelativeParent to null
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_16437#459} no children}] reparent to OffscreenRoot
+11-04 01:22:14.107  2103  2103 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_16437#459} no children}] RelativeParent to null
+11-04 01:22:14.108  2103  2103 I SurfaceFlinger: id=457 Removed da8ef8d ScreenDecorOverlayBottom#457 (119)
+11-04 01:22:14.108  2103  2103 I SurfaceFlinger: id=459 Removed VRI-ScreenDecorOverlayBottom$_16437#459 (119)
+11-04 01:22:14.108  2103  2103 I SurfaceFlinger: id=455 Removed b6fe148 ScreenDecorOverlay#455 (119)
+11-04 01:22:14.108  2103  2103 I SurfaceFlinger: id=458 Removed VRI-ScreenDecorOverlay$_16437#458 (119)
+11-04 01:22:14.111  2103  2103 D SurfaceFlinger:        DEVICE |           72992969195526 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_16995#386 (1)
+11-04 01:22:14.123 15462 16230 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_voicenote, userId=-1, constraints=None}] }
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: destroyed b6fe148 ScreenDecorOverlay#455 form LifecycleManager
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: destroyed da8ef8d ScreenDecorOverlayBottom#457 form LifecycleManager
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlayBottom$_16437#459 form LifecycleManager
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlay$_16437#458 form LifecycleManager
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: id=455 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{b6fe148 ScreenDecorOverlay#455 !handle})
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: id=457 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{da8ef8d ScreenDecorOverlayBottom#457 !handle})
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: id=459 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlayBottom$_16437#459 !handle})
+11-04 01:22:14.123  2103  2103 I SurfaceFlinger: id=458 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlay$_16437#458 !handle})
+11-04 01:22:14.124  2103  2103 I SurfaceFlinger: id=455 Destroyed b6fe148 ScreenDecorOverlay#455
+11-04 01:22:14.124  2103  2103 I SurfaceFlinger: id=457 Destroyed da8ef8d ScreenDecorOverlayBottom#457
+11-04 01:22:14.124  2103  2103 I SurfaceFlinger: id=459 Destroyed VRI-ScreenDecorOverlayBottom$_16437#459
+11-04 01:22:14.124  2103  2103 I SurfaceFlinger: id=458 Destroyed VRI-ScreenDecorOverlay$_16437#458
+11-04 01:22:14.125 15462 16230 D OverlayManager: create idmap for com.sec.android.app.voicenote and com.android.shell
+11-04 01:22:14.125 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro@idmap'
+11-04 01:22:14.138 15462 16230 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_voicenote:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:14.139 15462 16230 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_app_voicenote, targetPackage=com.sec.android.app.voicenote, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:14.139 15462 16230 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_app_voicenote, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.app.voicenote}
+11-04 01:22:14.139 15462 16230 D OverlayManager: Writing overlay settings
+11-04 01:22:14.141 15462 16230 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:14.142 15462 16230 D OverlayManager: -> Updating overlay: target=com.sec.android.app.voicenote overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:14.155 15462 16230 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_voicenote, userId=-2, constraints=None}] }
+11-04 01:22:14.155 15462 16230 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_app_voicenote enable=true userId=0 constraints=None
+11-04 01:22:14.155 15462 16230 D OverlayManager: create idmap for com.sec.android.app.voicenote and com.android.shell
+11-04 01:22:14.157 15462 16230 D OverlayManager: com.android.shell:HexNext_com_sec_android_app_voicenote:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:14.157 15462 16230 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_app_voicenote userId=0
+11-04 01:22:14.157 15462 16230 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_app_voicenote, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.app.voicenote}
+11-04 01:22:14.157 15462 16230 D OverlayManager: Writing overlay settings
+11-04 01:22:14.159 15462 16230 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:14.160 15462 16230 D OverlayManager: -> Updating overlay: target=com.sec.android.app.voicenote overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro] }] userId=0
+11-04 01:22:14.168 15462 16413 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:14.171 15462 16414 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:14.172 15462 15493 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.172 15462 15493 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.172 15462 15493 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.760 28689 28767 I HexNextRestore: applyOverlay code=0, 292 resources (0/0 drawables), 0 skipped, 639 ms
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Committed 292 colours through OverlayManager.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_voicenote
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro via cmd overlay dump.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_voicenote .frro files in /data/resource-cache.
+11-04 01:22:14.844  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference
+11-04 01:22:14.879 15462 17023 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_daemonapp, userId=-1, constraints=None}] }
+11-04 01:22:14.881 15462 17023 D OverlayManager: create idmap for com.sec.android.daemonapp and com.android.shell
+11-04 01:22:14.881 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro@idmap'
+11-04 01:22:14.893 15462 17023 D OverlayManager: com.android.shell:HexNext_com_sec_android_daemonapp:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:14.893 15462 17023 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_daemonapp, targetPackage=com.sec.android.daemonapp, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:14.893 15462 17023 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_daemonapp, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.daemonapp}
+11-04 01:22:14.893 15462 17023 D OverlayManager: Writing overlay settings
+11-04 01:22:14.896 15462 17023 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:14.897 15462 17023 D OverlayManager: -> Updating overlay: target=com.sec.android.daemonapp overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:14.910 15462 17023 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_daemonapp, userId=-2, constraints=None}] }
+11-04 01:22:14.910 15462 17023 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_daemonapp enable=true userId=0 constraints=None
+11-04 01:22:14.910 15462 17023 D OverlayManager: create idmap for com.sec.android.daemonapp and com.android.shell
+11-04 01:22:14.913 15462 17023 D OverlayManager: com.android.shell:HexNext_com_sec_android_daemonapp:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:14.913 15462 17023 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_daemonapp userId=0
+11-04 01:22:14.913 15462 17023 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_daemonapp, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.daemonapp}
+11-04 01:22:14.913 15462 17023 D OverlayManager: Writing overlay settings
+11-04 01:22:14.915 15462 17023 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:14.916 15462 17023 D OverlayManager: -> Updating overlay: target=com.sec.android.daemonapp overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro] }] userId=0
+11-04 01:22:14.918 21423 21423 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro]
+11-04 01:22:14.926 15462 16230 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:14.935 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:14.938 15462 16659 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.938 15462 16659 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:14.939 15462 16659 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:15.262 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=26584 package=com.samsung.android.offline.languagemodel sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 01:22:15.265 15462 19176 W ApplicationInfo: Large ApplicationInfo parcel: size=46028 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 01:22:15.266 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=46028 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 01:22:15.375 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=46028 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 01:22:15.376 15462 16732 W ApplicationInfo: Large ApplicationInfo parcel: size=46028 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 01:22:15.431  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference
+11-04 01:22:15.504 28689 28767 I HexNextRestore: applyOverlay code=0, 228 resources (0/0 drawables), 0 skipped, 629 ms
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Committed 228 colours through OverlayManager.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_daemonapp
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro via cmd overlay dump.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_daemonapp .frro files in /data/resource-cache.
+11-04 01:22:15.621 15462 15799 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching, userId=-1, constraints=None}] }
+11-04 01:22:15.623 15462 15799 D OverlayManager: create idmap for com.sec.android.mimage.photoretouching and com.android.shell
+11-04 01:22:15.624 29840 29949 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro@idmap'
+11-04 01:22:15.636 15462 15799 D OverlayManager: com.android.shell:HexNext_com_sec_android_mimage_photoretouching:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:15.636 15462 15799 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_android_mimage_photoretouching, targetPackage=com.sec.android.mimage.photoretouching, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:15.636 15462 15799 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching, userId=-1, constraints=None} affected packages from request={<0>com.sec.android.mimage.photoretouching}
+11-04 01:22:15.636 15462 15799 D OverlayManager: Writing overlay settings
+11-04 01:22:15.640 15462 15799 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:15.640 15462 15799 D OverlayManager: -> Updating overlay: target=com.sec.android.mimage.photoretouching overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:15.652 15462 16732 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching, userId=-2, constraints=None}] }
+11-04 01:22:15.652 15462 16732 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching enable=true userId=0 constraints=None
+11-04 01:22:15.652 15462 16732 D OverlayManager: create idmap for com.sec.android.mimage.photoretouching and com.android.shell
+11-04 01:22:15.653 15462 16732 D OverlayManager: com.android.shell:HexNext_com_sec_android_mimage_photoretouching:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:15.653 15462 16732 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching userId=0
+11-04 01:22:15.653 15462 16732 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_android_mimage_photoretouching, userId=-2, constraints=None} affected packages from request={<0>com.sec.android.mimage.photoretouching}
+11-04 01:22:15.653 15462 16732 D OverlayManager: Writing overlay settings
+11-04 01:22:15.655 15462 16732 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:15.655 15462 16732 D OverlayManager: -> Updating overlay: target=com.sec.android.mimage.photoretouching overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro] }] userId=0
+11-04 01:22:15.666 15462 17613 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:15.673 15462 17613 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:15.674 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:15.674 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:15.674 15462 15799 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:16.248 28689 28767 I HexNextRestore: applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Committed 190 colours through OverlayManager.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_mimage_photoretouching
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro via cmd overlay dump.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_mimage_photoretouching .frro files in /data/resource-cache.
+11-04 01:22:16.354 15462 19109 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_hearingadjust, userId=-1, constraints=None}] }
+11-04 01:22:16.356 15462 19109 D OverlayManager: create idmap for com.sec.hearingadjust and com.android.shell
+11-04 01:22:16.356 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro@idmap'
+11-04 01:22:16.359 15462 19109 D OverlayManager: com.android.shell:HexNext_com_sec_hearingadjust:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:16.359 15462 19109 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_hearingadjust, targetPackage=com.sec.hearingadjust, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:16.359 15462 19109 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_hearingadjust, userId=-1, constraints=None} affected packages from request={<0>com.sec.hearingadjust}
+11-04 01:22:16.359 15462 19109 D OverlayManager: Writing overlay settings
+11-04 01:22:16.361 15462 19109 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:16.362 15462 19109 D OverlayManager: -> Updating overlay: target=com.sec.hearingadjust overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:16.372 15462 16811 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_hearingadjust, userId=-2, constraints=None}] }
+11-04 01:22:16.372 15462 16811 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_hearingadjust enable=true userId=0 constraints=None
+11-04 01:22:16.372 15462 16811 D OverlayManager: create idmap for com.sec.hearingadjust and com.android.shell
+11-04 01:22:16.372 15462 16811 D OverlayManager: com.android.shell:HexNext_com_sec_hearingadjust:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:16.372 15462 16811 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_hearingadjust userId=0
+11-04 01:22:16.372 15462 16811 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_hearingadjust, userId=-2, constraints=None} affected packages from request={<0>com.sec.hearingadjust}
+11-04 01:22:16.372 15462 16811 D OverlayManager: Writing overlay settings
+11-04 01:22:16.374 15462 16811 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:16.375 15462 16811 D OverlayManager: -> Updating overlay: target=com.sec.hearingadjust overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro] }] userId=0
+11-04 01:22:16.385 15462 16811 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:16.387 15462 15798 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:16.388 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:16.388 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:16.388 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:16.972 28689 28767 I HexNextRestore: applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 618 ms
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Committed 180 colours through OverlayManager.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_hearingadjust
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro via cmd overlay dump.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_hearingadjust .frro files in /data/resource-cache.
+11-04 01:22:17.081 15462 18739 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_unifiedwfc, userId=-1, constraints=None}] }
+11-04 01:22:17.083 15462 18739 D OverlayManager: create idmap for com.sec.unifiedwfc and com.android.shell
+11-04 01:22:17.083 29840 29840 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro@idmap'
+11-04 01:22:17.086 15462 18739 D OverlayManager: com.android.shell:HexNext_com_sec_unifiedwfc:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:17.086 15462 18739 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_sec_unifiedwfc, targetPackage=com.sec.unifiedwfc, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:17.086 15462 18739 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_sec_unifiedwfc, userId=-1, constraints=None} affected packages from request={<0>com.sec.unifiedwfc}
+11-04 01:22:17.086 15462 18739 D OverlayManager: Writing overlay settings
+11-04 01:22:17.089 15462 18739 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:17.090 15462 18739 D OverlayManager: -> Updating overlay: target=com.sec.unifiedwfc overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:17.100 15462 18739 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_unifiedwfc, userId=-2, constraints=None}] }
+11-04 01:22:17.100 15462 18739 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_sec_unifiedwfc enable=true userId=0 constraints=None
+11-04 01:22:17.100 15462 18739 D OverlayManager: create idmap for com.sec.unifiedwfc and com.android.shell
+11-04 01:22:17.102 15462 18739 D OverlayManager: com.android.shell:HexNext_com_sec_unifiedwfc:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:17.102 15462 18739 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_sec_unifiedwfc userId=0
+11-04 01:22:17.102 15462 18739 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_sec_unifiedwfc, userId=-2, constraints=None} affected packages from request={<0>com.sec.unifiedwfc}
+11-04 01:22:17.102 15462 18739 D OverlayManager: Writing overlay settings
+11-04 01:22:17.104 15462 18739 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:17.105 15462 18739 D OverlayManager: -> Updating overlay: target=com.sec.unifiedwfc overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro] }] userId=0
+11-04 01:22:17.114 15462 19105 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:17.119 15462 16811 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:17.121 15462 17613 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:17.121 15462 17613 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:17.122 15462 17613 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:17.702 28689 28767 I HexNextRestore: applyOverlay code=0, 178 resources (0/0 drawables), 0 skipped, 622 ms
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Committed 178 colours through OverlayManager.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_unifiedwfc
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro via cmd overlay dump.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_unifiedwfc .frro files in /data/resource-cache.
+11-04 01:22:17.812 15462 19105 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch, userId=-1, constraints=None}] }
+11-04 01:22:17.813 15462 19105 D OverlayManager: create idmap for io.mesalabs.knoxpatch and com.android.shell
+11-04 01:22:17.814 29840 29949 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro@idmap'
+11-04 01:22:17.817 15462 19105 D OverlayManager: com.android.shell:HexNext_io_mesalabs_knoxpatch:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 01:22:17.817 15462 19105 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_io_mesalabs_knoxpatch, targetPackage=io.mesalabs.knoxpatch, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 01:22:17.817 15462 19105 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch, userId=-1, constraints=None} affected packages from request={<0>io.mesalabs.knoxpatch}
+11-04 01:22:17.817 15462 19105 D OverlayManager: Writing overlay settings
+11-04 01:22:17.820 15462 19105 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:17.821 15462 19105 D OverlayManager: -> Updating overlay: target=io.mesalabs.knoxpatch overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro] }] userId=0
+11-04 01:22:17.833 15462 19105 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch, userId=-2, constraints=None}] }
+11-04 01:22:17.833 15462 19105 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch enable=true userId=0 constraints=None
+11-04 01:22:17.833 15462 19105 D OverlayManager: create idmap for io.mesalabs.knoxpatch and com.android.shell
+11-04 01:22:17.835 15462 19105 D OverlayManager: com.android.shell:HexNext_io_mesalabs_knoxpatch:0: STATE_DISABLED -> STATE_ENABLED
+11-04 01:22:17.835 15462 19105 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch userId=0
+11-04 01:22:17.835 15462 19105 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_io_mesalabs_knoxpatch, userId=-2, constraints=None} affected packages from request={<0>io.mesalabs.knoxpatch}
+11-04 01:22:17.835 15462 19105 D OverlayManager: Writing overlay settings
+11-04 01:22:17.837 15462 19105 D OverlayManager: Update package manager about changed overlays
+11-04 01:22:17.838 15462 19105 D OverlayManager: -> Updating overlay: target=io.mesalabs.knoxpatch overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro, /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro] }] userId=0
+11-04 01:22:17.850 15462 16230 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 01:22:17.852  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference
+11-04 01:22:17.852 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=17804 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 01:22:17.853 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:17.854 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:17.854 15462 19109 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 01:22:18.432 28689 28767 I HexNextRestore: applyOverlay code=0, 122 resources (0/0 drawables), 0 skipped, 621 ms
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Committed 122 colours through OverlayManager.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_io_mesalabs_knoxpatch
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro via cmd overlay dump.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_io_mesalabs_knoxpatch .frro files in /data/resource-cache.
+11-04 01:22:20.921 18737 18955 I FASModelGlobal: verify : ignore com.google.android.networkstack.tethering.overlay
+11-04 01:22:20.925 18737 18955 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.permissioncontroller
+11-04 01:22:20.936 18737 18955 I FASModelGlobal: verify : ignore com.google.android.verifier.overlay
+11-04 01:22:27.066  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference
+11-04 01:22:28.153 15462 15799 W OverlayManager: service 'idmap' died
+11-04 01:22:29.853  2103  2103 I SurfaceFlinger: VRI-SGestureOverlayWindow$_16995#386 voted ExplicitCategory with category: NoPreference

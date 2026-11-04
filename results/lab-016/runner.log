@@ -6,3 +6,13 @@
 [01:19:26] apply (confirm=true)
 [01:20:52] lookup 1
 [01:20:53] soft reboot; remaining steps: shizuku waitrestore overlaystate lookup capture (unlock the phone when it comes back)
+[01:21:25] job lab-016
+[01:21:25] restarting Shizuku as root
+[01:21:33] waiting for Hex Next to restore the theme
+[01:22:27] restore: 58 Hex Next overlays after 50s
+[01:22:27] overlay state 1
+[01:22:31] lookup 2
+[01:22:37] capture dark settings
+[01:22:57] capture dark qs
+[01:23:11] capture dark dialogs
+[01:23:32] capture dark power

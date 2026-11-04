@@ -1,0 +1,797 @@
+58 overlays after 50s
+--------- beginning of main
+11-04 01:21:27.042 28689 28767 I HexNextRestore: Restore runs in the foreground service
+11-04 01:21:27.151 28689 28767 I HexNextRestore: Theme overlays are gone (boot 217); applying "Hex Next" again
+11-04 01:21:27.153 28689 28767 I HexNextRestore: Applying theme "Hex Next" (default)
+11-04 01:21:28.199 28689 28767 I HexNextRestore: android: 25 unreadable value lines skipped.
+11-04 01:21:28.199 28689 28767 I HexNextRestore: com.android.systemui: 36 unreadable value lines skipped.
+11-04 01:21:28.199 28689 28767 I HexNextRestore: Device snapshot: One UI 9.0 (SDK 37), 60 targets, 65 system shades
+11-04 01:21:29.633 28689 28767 I HexNextRestore: Compiled 58 targets (13378 colours, 66 drawables); 2 skipped
+11-04 01:21:30.244 28689 28767 I HexNextRestore: Stability monitor: Stability monitor pid 29813 watching system_server + SystemUI for 120 s
+11-04 01:21:30.347 28689 28767 I HexNextRestore: Building HexNext_android: 130 colours, 0 drawables
+11-04 01:21:30.991 28689 28767 I HexNextRestore: applyOverlay code=0, 130 resources (0/0 drawables), 0 skipped, 643 ms
+11-04 01:21:30.991 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_android -> android: 130 colours, 0 drawables
+11-04 01:21:30.991 28689 28767 I HexNextRestore:   Committed 130 colours through OverlayManager.
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   Enabled 130 colours and 0/0 drawables.
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_android
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   Order: on top of android.
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro via cmd overlay dump.
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_android-LOwl.frro.
+11-04 01:21:30.992 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_android .frro files in /data/resource-cache.
+11-04 01:21:30.992 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:31.094 28689 28767 I HexNextRestore: android: 130 resources
+11-04 01:21:31.094 28689 28767 I HexNextRestore: Building HexNext_com_android_systemui: 344 colours, 0 drawables
+11-04 01:21:31.729 28689 28767 I HexNextRestore: applyOverlay code=0, 344 resources (0/0 drawables), 0 skipped, 631 ms
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_android_systemui -> com.android.systemui: 344 colours, 0 drawables
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Committed 344 colours through OverlayManager.
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Enabled 344 colours and 0/0 drawables.
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_android_systemui
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Order: on top of com.android.systemui.
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_android_systemui-zrcg.frro via cmd overlay dump.
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_android_systemui-zrcg.frro.
+11-04 01:21:31.729 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_android_systemui .frro files in /data/resource-cache.
+11-04 01:21:31.729 28689 28767 I HexNextRestore: Lookup: #ff171d1e
+11-04 01:21:31.933 28689 28767 I HexNextRestore: com.android.systemui: 344 resources, verified
+11-04 01:21:32.088 28689 28767 I HexNextRestore: Building HexNext_com_android_settings: 348 colours, 54 drawables
+11-04 01:21:36.257 28689 28767 I HexNextRestore: applyOverlay code=0, 402 resources (54/54 drawables), 0 skipped, 4138 ms
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_android_settings -> com.android.settings: 348 colours, 54 drawables
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Committed 348 colours through OverlayManager.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro via cmd overlay dump.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Registered file /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  18840 2026-11-04 01:21 /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Built 241693 bytes: 348 kept values (0 non-colour, 0 earlier files) + 54 PNGs (214126 payload bytes), crc 0xde359e5a
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Wrote 241693 bytes to /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Replaced /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro (was 18840 bytes, crc 0x0010de8b).
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Disabled com.android.shell:HexNext_com_android_settings to regenerate its idmap (exit 0).
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   idmap /data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_android_settings-RXe7.frro@idmap: 13872 bytes, overlay crc 0xde359e5a (matches the rewritten .frro)
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Re-read /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro: 402 entries, 54 file values, crc ok=true
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_cloud_and_account [xxhdpi]: offset=49739 size=4478, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=45358&size=4381
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_cloud_and_account [night-xxhdpi]: offset=45358 size=4381, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=45358&size=4381
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_google [xxhdpi]: offset=117553 size=4881, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=113345&size=4208
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_google [night-xxhdpi]: offset=113345 size=4208, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=113345&size=4208
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_connections [xxhdpi]: offset=58348 size=4307, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=54217&size=4131
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_connections [night-xxhdpi]: offset=54217 size=4131, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=54217&size=4131
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_devicecare [xxhdpi]: offset=66899 size=4325, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=62655&size=4244
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_devicecare [night-xxhdpi]: offset=62655 size=4244, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=62655&size=4244
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_applications [xxhdpi]: offset=27578 size=3776, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=23956&size=3622
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_applications [night-xxhdpi]: offset=23956 size=3622, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=23956&size=3622
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_display [xxhdpi]: offset=84317 size=4891, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=79476&size=4841
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_display [night-xxhdpi]: offset=79476 size=4841, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=79476&size=4841
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_advanced_feature [xxhdpi]: offset=20382 size=3574, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=16864&size=3518
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_advanced_feature [night-xxhdpi]: offset=16864 size=3518, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=16864&size=3518
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_wallpaper [xxhdpi]: offset=210129 size=4013, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=206261&size=3868
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_wallpaper [night-xxhdpi]: offset=206261 size=3868, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=206261&size=3868
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_general_device_management [xxhdpi]: offset=109085 size=4260, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=104942&size=4143
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_general_device_management [night-xxhdpi]: offset=104942 size=4143, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=104942&size=4143
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_battery [xxhdpi]: offset=34935 size=3634, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=31354&size=3581
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_battery [night-xxhdpi]: offset=31354 size=3581, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=31354&size=3581
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_galaxy_ai [xxhdpi]: offset=101190 size=3752, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=97608&size=3582
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_galaxy_ai [night-xxhdpi]: offset=97608 size=3582, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=97608&size=3582
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_sound [xxhdpi]: offset=180666 size=3960, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=176675&size=3991
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_sound [night-xxhdpi]: offset=176675 size=3991, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=176675&size=3991
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_notifications [xxhdpi]: offset=166328 size=3751, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=162676&size=3652
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_notifications [night-xxhdpi]: offset=162676 size=3652, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=162676&size=3652
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_themes [xxhdpi]: offset=187813 size=3295, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=184626&size=3187
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_themes [night-xxhdpi]: offset=184626 size=3187, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=184626&size=3187
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_biometrics_and_security [xxhdpi]: offset=41732 size=3626, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=38569&size=3163
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_biometrics_and_security [night-xxhdpi]: offset=38569 size=3163, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=38569&size=3163
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_lockscreen [xxhdpi]: offset=141655 size=3435, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=138328&size=3327
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_lockscreen [night-xxhdpi]: offset=138328 size=3327, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=138328&size=3327
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_accessibility [xxhdpi]: offset=13262 size=3602, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=9699&size=3563
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_accessibility [night-xxhdpi]: offset=9699 size=3563, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=9699&size=3563
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_location [xxhdpi]: offset=133785 size=4543, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=129308&size=4477
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_location [night-xxhdpi]: offset=129308 size=4477, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=129308&size=4477
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_multi_devices [xxhdpi]: offset=158842 size=3834, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=155068&size=3774
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_multi_devices [night-xxhdpi]: offset=155068 size=3774, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=155068&size=3774
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_emergency [xxhdpi]: offset=93277 size=4331, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=89208&size=4069
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_emergency [night-xxhdpi]: offset=89208 size=4069, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=89208&size=4069
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_user_manual [xxhdpi]: offset=202764 size=3497, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=199277&size=3487
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_user_manual [night-xxhdpi]: offset=199277 size=3487, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=199277&size=3487
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_about [xxhdpi]: offset=4794 size=4905, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=16&size=4778
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_about [night-xxhdpi]: offset=16 size=4778, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=16&size=4778
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_digitalwellbeing [xxhdpi]: offset=75326 size=4150, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=71224&size=4102
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_digitalwellbeing [night-xxhdpi]: offset=71224 size=4102, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=71224&size=4102
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_homescreen [xxhdpi]: offset=125701 size=3607, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=122434&size=3267
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_homescreen [night-xxhdpi]: offset=122434 size=3267, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=122434&size=3267
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_modes [xxhdpi]: offset=150039 size=5029, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=145090&size=4949
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_modes [night-xxhdpi]: offset=145090 size=4949, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=145090&size=4949
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_software_update [xxhdpi]: offset=173300 size=3375, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=170079&size=3221
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_software_update [night-xxhdpi]: offset=170079 size=3221, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=170079&size=3221
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_tips [xxhdpi]: offset=195166 size=4111, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=191108&size=4058
+11-04 01:21:36.258 28689 28767 I HexNextRestore:     com.android.settings:drawable/sec_ic_settings_tips [night-xxhdpi]: offset=191108 size=4058, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro?offset=191108&size=4058
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Root rewrite applied 54/54 drawables.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Enabled 348 colours and 54/54 drawables.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_android_settings
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Order: on top of com.android.settings.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Restarted com.android.settings so it reloads its drawables (am force-stop exit 0).
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_android_settings-RXe7.frro.
+11-04 01:21:36.258 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_android_settings .frro files in /data/resource-cache.
+11-04 01:21:36.258 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:36.362 28689 28767 I HexNextRestore: com.android.settings: 402 resources
+11-04 01:21:36.364 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_launcher: 310 colours, 0 drawables
+11-04 01:21:37.000 28689 28767 I HexNextRestore: applyOverlay code=0, 310 resources (0/0 drawables), 0 skipped, 632 ms
+11-04 01:21:37.000 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_launcher -> com.sec.android.app.launcher: 310 colours, 0 drawables
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Committed 310 colours through OverlayManager.
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Enabled 310 colours and 0/0 drawables.
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_launcher
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.launcher.
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_launcher-hQZB.frro via cmd overlay dump.
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_launcher-hQZB.frro.
+11-04 01:21:37.001 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_launcher .frro files in /data/resource-cache.
+11-04 01:21:37.001 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:37.105 28689 28767 I HexNextRestore: com.sec.android.app.launcher: 310 resources
+11-04 01:21:37.106 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_honeyboard: 392 colours, 0 drawables
+11-04 01:21:37.756 28689 28767 I HexNextRestore: applyOverlay code=0, 392 resources (0/0 drawables), 0 skipped, 641 ms
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_honeyboard -> com.samsung.android.honeyboard: 392 colours, 0 drawables
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Committed 392 colours through OverlayManager.
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Enabled 392 colours and 0/0 drawables.
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_honeyboard
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.honeyboard.
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_honeyboard-eFTD.frro via cmd overlay dump.
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_honeyboard-eFTD.frro.
+11-04 01:21:37.756 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_honeyboard .frro files in /data/resource-cache.
+11-04 01:21:37.756 28689 28767 I HexNextRestore: Lookup: #66f6fdff
+11-04 01:21:37.859 28689 28767 I HexNextRestore: com.samsung.android.honeyboard: 392 resources
+11-04 01:21:37.860 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_dialer: 398 colours, 0 drawables
+11-04 01:21:38.492 28689 28767 I HexNextRestore: applyOverlay code=0, 398 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_dialer -> com.samsung.android.dialer: 398 colours, 0 drawables
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Committed 398 colours through OverlayManager.
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Enabled 398 colours and 0/0 drawables.
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_dialer
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.dialer.
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dialer-RhFP.frro via cmd overlay dump.
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dialer-RhFP.frro.
+11-04 01:21:38.492 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_dialer .frro files in /data/resource-cache.
+11-04 01:21:38.492 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:38.594 28689 28767 I HexNextRestore: com.samsung.android.dialer: 398 resources
+11-04 01:21:38.595 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_incallui: 156 colours, 0 drawables
+11-04 01:21:39.220 28689 28767 I HexNextRestore: applyOverlay code=0, 156 resources (0/0 drawables), 0 skipped, 620 ms
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_incallui -> com.samsung.android.incallui: 156 colours, 0 drawables
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Committed 156 colours through OverlayManager.
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Enabled 156 colours and 0/0 drawables.
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_incallui
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.incallui.
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_incallui-uOMf.frro via cmd overlay dump.
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_incallui-uOMf.frro.
+11-04 01:21:39.220 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_incallui .frro files in /data/resource-cache.
+11-04 01:21:39.220 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:39.324 28689 28767 I HexNextRestore: com.samsung.android.incallui: 156 resources
+11-04 01:21:39.326 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_contacts: 376 colours, 0 drawables
+11-04 01:21:39.979 28689 28767 I HexNextRestore: applyOverlay code=0, 376 resources (0/0 drawables), 0 skipped, 641 ms
+11-04 01:21:39.979 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_contacts -> com.samsung.android.app.contacts: 376 colours, 0 drawables
+11-04 01:21:39.979 28689 28767 I HexNextRestore:   Committed 376 colours through OverlayManager.
+11-04 01:21:39.979 28689 28767 I HexNextRestore:   Enabled 376 colours and 0/0 drawables.
+11-04 01:21:39.979 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_contacts
+11-04 01:21:39.980 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.contacts.
+11-04 01:21:39.980 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_contacts-skfW.frro via cmd overlay dump.
+11-04 01:21:39.980 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_contacts-skfW.frro.
+11-04 01:21:39.980 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_contacts .frro files in /data/resource-cache.
+11-04 01:21:39.980 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:40.084 28689 28767 I HexNextRestore: com.samsung.android.app.contacts: 376 resources
+11-04 01:21:40.108 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_myfiles: 236 colours, 12 drawables
+11-04 01:21:42.074 28689 28767 I HexNextRestore: applyOverlay code=0, 248 resources (12/12 drawables), 0 skipped, 1958 ms
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_myfiles -> com.sec.android.app.myfiles: 236 colours, 12 drawables
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Committed 236 colours through OverlayManager.
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro via cmd overlay dump.
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Registered file /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+11-04 01:21:42.074 28689 28767 I HexNextRestore:     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  12045 2026-11-04 01:21 /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Built 49473 bytes: 236 kept values (0 non-colour, 0 earlier files) + 12 PNGs (35491 payload bytes), crc 0x7d12bf60
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Wrote 49473 bytes to /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Replaced /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro (was 12045 bytes, crc 0xf3fca1c4).
+11-04 01:21:42.074 28689 28767 I HexNextRestore:   Disabled com.android.shell:HexNext_com_sec_android_app_myfiles to regenerate its idmap (exit 0).
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   idmap /data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro@idmap: 6476 bytes, overlay crc 0x7d12bf60 (matches the rewritten .frro)
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Re-read /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro: 248 entries, 12 file values, crc ok=true
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_apk [xxhdpi]: offset=3660 size=3736, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=16&size=3644
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_apk [night-xxhdpi]: offset=16 size=3644, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=16&size=3644
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_audio [xxhdpi]: offset=10243 size=2860, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=7396&size=2847
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_audio [night-xxhdpi]: offset=7396 size=2847, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=7396&size=2847
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_documents [xxhdpi]: offset=15717 size=2615, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=13103&size=2614
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_documents [night-xxhdpi]: offset=13103 size=2614, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=13103&size=2614
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_download [xxhdpi]: offset=21127 size=2989, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=18332&size=2795
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_download [night-xxhdpi]: offset=18332 size=2795, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=18332&size=2795
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_image [xxhdpi]: offset=27182 size=3189, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=24116&size=3066
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_image [night-xxhdpi]: offset=24116 size=3066, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=24116&size=3066
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_video [xxhdpi]: offset=32855 size=2652, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=30371&size=2484
+11-04 01:21:42.075 28689 28767 I HexNextRestore:     com.sec.android.app.myfiles:drawable/home_category_video [night-xxhdpi]: offset=30371 size=2484, lookup: frro://data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro?offset=30371&size=2484
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Root rewrite applied 12/12 drawables.
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Enabled 236 colours and 12/12 drawables.
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_myfiles
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.myfiles.
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Killed the background process of com.sec.android.app.myfiles so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_myfiles-kTWr.frro.
+11-04 01:21:42.075 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_myfiles .frro files in /data/resource-cache.
+11-04 01:21:42.075 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:42.180 28689 28767 I HexNextRestore: com.sec.android.app.myfiles: 248 resources
+11-04 01:21:42.182 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_gallery3d: 412 colours, 0 drawables
+11-04 01:21:42.838 28689 28767 I HexNextRestore: applyOverlay code=0, 412 resources (0/0 drawables), 0 skipped, 643 ms
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_gallery3d -> com.sec.android.gallery3d: 412 colours, 0 drawables
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Committed 412 colours through OverlayManager.
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Enabled 412 colours and 0/0 drawables.
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_gallery3d
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.gallery3d.
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_gallery3d-eGv5.frro via cmd overlay dump.
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_gallery3d-eGv5.frro.
+11-04 01:21:42.838 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_gallery3d .frro files in /data/resource-cache.
+11-04 01:21:42.839 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:42.943 28689 28767 I HexNextRestore: com.sec.android.gallery3d: 412 resources
+11-04 01:21:42.945 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_clockpackage: 572 colours, 0 drawables
+11-04 01:21:43.604 28689 28767 I HexNextRestore: applyOverlay code=0, 572 resources (0/0 drawables), 0 skipped, 647 ms
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_clockpackage -> com.sec.android.app.clockpackage: 572 colours, 0 drawables
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Committed 572 colours through OverlayManager.
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Enabled 572 colours and 0/0 drawables.
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_clockpackage
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.clockpackage.
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_clockpackage-k8ss.frro via cmd overlay dump.
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_clockpackage-k8ss.frro.
+11-04 01:21:43.604 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_clockpackage .frro files in /data/resource-cache.
+11-04 01:21:43.604 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:43.709 28689 28767 I HexNextRestore: com.sec.android.app.clockpackage: 572 resources
+11-04 01:21:43.712 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_popupcalculator: 148 colours, 0 drawables
+11-04 01:21:44.341 28689 28767 I HexNextRestore: applyOverlay code=0, 148 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_popupcalculator -> com.sec.android.app.popupcalculator: 148 colours, 0 drawables
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Committed 148 colours through OverlayManager.
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Enabled 148 colours and 0/0 drawables.
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_popupcalculator
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.popupcalculator.
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_popupcalculator-YpxO.frro via cmd overlay dump.
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_popupcalculator-YpxO.frro.
+11-04 01:21:44.342 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_popupcalculator .frro files in /data/resource-cache.
+11-04 01:21:44.342 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:44.443 28689 28767 I HexNextRestore: com.sec.android.app.popupcalculator: 148 resources
+11-04 01:21:44.445 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_calendar: 358 colours, 0 drawables
+11-04 01:21:45.078 28689 28767 I HexNextRestore: applyOverlay code=0, 358 resources (0/0 drawables), 0 skipped, 627 ms
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_calendar -> com.samsung.android.calendar: 358 colours, 0 drawables
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Committed 358 colours through OverlayManager.
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Enabled 358 colours and 0/0 drawables.
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_calendar
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.calendar.
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_calendar-6Rxr.frro via cmd overlay dump.
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_calendar-6Rxr.frro.
+11-04 01:21:45.078 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_calendar .frro files in /data/resource-cache.
+11-04 01:21:45.078 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:45.182 28689 28767 I HexNextRestore: com.samsung.android.calendar: 358 resources
+11-04 01:21:45.184 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_lool: 294 colours, 0 drawables
+11-04 01:21:45.833 28689 28767 I HexNextRestore: applyOverlay code=0, 294 resources (0/0 drawables), 0 skipped, 637 ms
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_lool -> com.samsung.android.lool: 294 colours, 0 drawables
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Committed 294 colours through OverlayManager.
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Enabled 294 colours and 0/0 drawables.
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_lool
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.lool.
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_lool-aktx.frro via cmd overlay dump.
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_lool-aktx.frro.
+11-04 01:21:45.833 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_lool .frro files in /data/resource-cache.
+11-04 01:21:45.833 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:45.938 28689 28767 I HexNextRestore: com.samsung.android.lool: 294 resources
+11-04 01:21:45.940 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_aodservice: 246 colours, 0 drawables
+11-04 01:21:46.577 28689 28767 I HexNextRestore: applyOverlay code=0, 246 resources (0/0 drawables), 0 skipped, 629 ms
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_aodservice -> com.samsung.android.app.aodservice: 246 colours, 0 drawables
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Committed 246 colours through OverlayManager.
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Enabled 246 colours and 0/0 drawables.
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_aodservice
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.aodservice.
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_aodservice-36Qj.frro via cmd overlay dump.
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_aodservice-36Qj.frro.
+11-04 01:21:46.577 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_aodservice .frro files in /data/resource-cache.
+11-04 01:21:46.577 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:46.679 28689 28767 I HexNextRestore: com.samsung.android.app.aodservice: 246 resources
+11-04 01:21:46.681 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_smartcapture: 168 colours, 0 drawables
+11-04 01:21:47.300 28689 28767 I HexNextRestore: applyOverlay code=0, 168 resources (0/0 drawables), 0 skipped, 616 ms
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_smartcapture -> com.samsung.android.app.smartcapture: 168 colours, 0 drawables
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Committed 168 colours through OverlayManager.
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Enabled 168 colours and 0/0 drawables.
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_smartcapture
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.smartcapture.
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_smartcapture-awUQ.frro via cmd overlay dump.
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_smartcapture-awUQ.frro.
+11-04 01:21:47.300 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_smartcapture .frro files in /data/resource-cache.
+11-04 01:21:47.300 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:47.403 28689 28767 I HexNextRestore: com.samsung.android.app.smartcapture: 168 resources
+11-04 01:21:47.405 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_reminder: 446 colours, 0 drawables
+11-04 01:21:48.052 28689 28767 I HexNextRestore: applyOverlay code=0, 446 resources (0/0 drawables), 0 skipped, 637 ms
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_reminder -> com.samsung.android.app.reminder: 446 colours, 0 drawables
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Committed 446 colours through OverlayManager.
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Enabled 446 colours and 0/0 drawables.
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_reminder
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.reminder.
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_reminder-niPE.frro via cmd overlay dump.
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_reminder-niPE.frro.
+11-04 01:21:48.052 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_reminder .frro files in /data/resource-cache.
+11-04 01:21:48.052 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:48.155 28689 28767 I HexNextRestore: com.samsung.android.app.reminder: 446 resources
+11-04 01:21:48.156 28689 28767 I HexNextRestore: Building HexNext_com_android_bluetooth: 2 colours, 0 drawables
+11-04 01:21:48.781 28689 28767 I HexNextRestore: applyOverlay code=0, 2 resources (0/0 drawables), 0 skipped, 620 ms
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_android_bluetooth -> com.android.bluetooth: 2 colours, 0 drawables
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Committed 2 colours through OverlayManager.
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Enabled 2 colours and 0/0 drawables.
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_android_bluetooth
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Order: on top of com.android.bluetooth.
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_android_bluetooth-uW8s.frro via cmd overlay dump.
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_android_bluetooth-uW8s.frro.
+11-04 01:21:48.781 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_android_bluetooth .frro files in /data/resource-cache.
+11-04 01:21:48.781 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:48.885 28689 28767 I HexNextRestore: com.android.bluetooth: 2 resources
+11-04 01:21:48.888 28689 28767 I HexNextRestore: Building HexNext_com_android_settings_intelligence: 214 colours, 0 drawables
+11-04 01:21:49.527 28689 28767 I HexNextRestore: applyOverlay code=0, 214 resources (0/0 drawables), 0 skipped, 632 ms
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_android_settings_intelligence -> com.android.settings.intelligence: 214 colours, 0 drawables
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Committed 214 colours through OverlayManager.
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Enabled 214 colours and 0/0 drawables.
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_android_settings_intelligence
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Order: on top of com.android.settings.intelligence.
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_android_settings_intelligence-2aq6.frro via cmd overlay dump.
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_android_settings_intelligence-2aq6.frro.
+11-04 01:21:49.527 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_android_settings_intelligence .frro files in /data/resource-cache.
+11-04 01:21:49.527 28689 28767 I HexNextRestore: Lookup: #ffa6acae
+11-04 01:21:49.632 28689 28767 I HexNextRestore: com.android.settings.intelligence: 214 resources
+11-04 01:21:49.634 28689 28767 I HexNextRestore: Building HexNext_com_samsung_accessibility: 192 colours, 0 drawables
+11-04 01:21:50.271 28689 28767 I HexNextRestore: applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_accessibility -> com.samsung.accessibility: 192 colours, 0 drawables
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Committed 192 colours through OverlayManager.
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Enabled 192 colours and 0/0 drawables.
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_accessibility
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Order: on top of com.samsung.accessibility.
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_accessibility-Vulk.frro via cmd overlay dump.
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_accessibility-Vulk.frro.
+11-04 01:21:50.271 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_accessibility .frro files in /data/resource-cache.
+11-04 01:21:50.271 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:50.373 28689 28767 I HexNextRestore: com.samsung.accessibility: 192 resources
+11-04 01:21:50.374 28689 28767 I HexNextRestore: Building HexNext_com_samsung_accessory_budsunitemgr: 212 colours, 0 drawables
+11-04 01:21:51.007 28689 28767 I HexNextRestore: applyOverlay code=0, 212 resources (0/0 drawables), 0 skipped, 627 ms
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_accessory_budsunitemgr -> com.samsung.accessory.budsunitemgr: 212 colours, 0 drawables
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Committed 212 colours through OverlayManager.
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Enabled 212 colours and 0/0 drawables.
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_accessory_budsunitemgr
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Order: on top of com.samsung.accessory.budsunitemgr.
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_accessory_budsunitemgr-7gKs.frro via cmd overlay dump.
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_accessory_budsunitemgr-7gKs.frro.
+11-04 01:21:51.008 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_accessory_budsunitemgr .frro files in /data/resource-cache.
+11-04 01:21:51.008 28689 28767 I HexNextRestore: Lookup: #ffa6acae
+11-04 01:21:51.112 28689 28767 I HexNextRestore: com.samsung.accessory.budsunitemgr: 212 resources
+11-04 01:21:51.114 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_accessibility_talkback: 90 colours, 0 drawables
+11-04 01:21:51.745 28689 28767 I HexNextRestore: applyOverlay code=0, 90 resources (0/0 drawables), 0 skipped, 624 ms
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_accessibility_talkback -> com.samsung.android.accessibility.talkback: 90 colours, 0 drawables
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Committed 90 colours through OverlayManager.
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Enabled 90 colours and 0/0 drawables.
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_accessibility_talkback
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.accessibility.talkback.
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_accessibility_talkback-auu1.frro via cmd overlay dump.
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_accessibility_talkback-auu1.frro.
+11-04 01:21:51.745 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_accessibility_talkback .frro files in /data/resource-cache.
+11-04 01:21:51.745 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:51.850 28689 28767 I HexNextRestore: com.samsung.android.accessibility.talkback: 90 resources
+11-04 01:21:51.852 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_cameraassistant: 176 colours, 0 drawables
+11-04 01:21:52.488 28689 28767 I HexNextRestore: applyOverlay code=0, 176 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_cameraassistant -> com.samsung.android.app.cameraassistant: 176 colours, 0 drawables
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Committed 176 colours through OverlayManager.
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Enabled 176 colours and 0/0 drawables.
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_cameraassistant
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.cameraassistant.
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_cameraassistant-hEar.frro via cmd overlay dump.
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_cameraassistant-hEar.frro.
+11-04 01:21:52.488 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_cameraassistant .frro files in /data/resource-cache.
+11-04 01:21:52.488 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:52.593 28689 28767 I HexNextRestore: com.samsung.android.app.cameraassistant: 176 resources
+11-04 01:21:52.595 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_dressroom: 180 colours, 0 drawables
+11-04 01:21:53.237 28689 28767 I HexNextRestore: applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 633 ms
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_dressroom -> com.samsung.android.app.dressroom: 180 colours, 0 drawables
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Committed 180 colours through OverlayManager.
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Enabled 180 colours and 0/0 drawables.
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_dressroom
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.dressroom.
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_dressroom-OVRC.frro via cmd overlay dump.
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_dressroom-OVRC.frro.
+11-04 01:21:53.237 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_dressroom .frro files in /data/resource-cache.
+11-04 01:21:53.237 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:53.341 28689 28767 I HexNextRestore: com.samsung.android.app.dressroom: 180 resources
+11-04 01:21:53.343 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_galaxyraw: 170 colours, 0 drawables
+11-04 01:21:53.984 28689 28767 I HexNextRestore: applyOverlay code=0, 170 resources (0/0 drawables), 0 skipped, 633 ms
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_galaxyraw -> com.samsung.android.app.galaxyraw: 170 colours, 0 drawables
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Committed 170 colours through OverlayManager.
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Enabled 170 colours and 0/0 drawables.
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_galaxyraw
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.galaxyraw.
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_galaxyraw-RzVL.frro via cmd overlay dump.
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_galaxyraw-RzVL.frro.
+11-04 01:21:53.985 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_galaxyraw .frro files in /data/resource-cache.
+11-04 01:21:53.985 28689 28767 I HexNextRestore: Lookup: #ff66b7c5
+11-04 01:21:54.089 28689 28767 I HexNextRestore: com.samsung.android.app.galaxyraw: 170 resources
+11-04 01:21:54.091 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_interpreter: 232 colours, 0 drawables
+11-04 01:21:54.725 28689 28767 I HexNextRestore: applyOverlay code=0, 232 resources (0/0 drawables), 0 skipped, 626 ms
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_interpreter -> com.samsung.android.app.interpreter: 232 colours, 0 drawables
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Committed 232 colours through OverlayManager.
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Enabled 232 colours and 0/0 drawables.
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_interpreter
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.interpreter.
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_interpreter-US9b.frro via cmd overlay dump.
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_interpreter-US9b.frro.
+11-04 01:21:54.725 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_interpreter .frro files in /data/resource-cache.
+11-04 01:21:54.725 28689 28767 I HexNextRestore: Lookup: #ff171d1e
+11-04 01:21:54.829 28689 28767 I HexNextRestore: com.samsung.android.app.interpreter: 232 resources
+11-04 01:21:54.831 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_routines: 476 colours, 0 drawables
+11-04 01:21:55.477 28689 28767 I HexNextRestore: applyOverlay code=0, 476 resources (0/0 drawables), 0 skipped, 635 ms
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_routines -> com.samsung.android.app.routines: 476 colours, 0 drawables
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Committed 476 colours through OverlayManager.
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Enabled 476 colours and 0/0 drawables.
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_routines
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.routines.
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_routines-ykMK.frro via cmd overlay dump.
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_routines-ykMK.frro.
+11-04 01:21:55.477 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_routines .frro files in /data/resource-cache.
+11-04 01:21:55.477 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:55.581 28689 28767 I HexNextRestore: com.samsung.android.app.routines: 476 resources
+11-04 01:21:55.583 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_soundpicker: 172 colours, 0 drawables
+11-04 01:21:56.221 28689 28767 I HexNextRestore: applyOverlay code=0, 172 resources (0/0 drawables), 0 skipped, 630 ms
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_soundpicker -> com.samsung.android.app.soundpicker: 172 colours, 0 drawables
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Committed 172 colours through OverlayManager.
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Enabled 172 colours and 0/0 drawables.
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_soundpicker
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.soundpicker.
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_soundpicker-f5sf.frro via cmd overlay dump.
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_soundpicker-f5sf.frro.
+11-04 01:21:56.222 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_soundpicker .frro files in /data/resource-cache.
+11-04 01:21:56.222 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:56.326 28689 28767 I HexNextRestore: com.samsung.android.app.soundpicker: 172 resources
+11-04 01:21:56.327 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_app_telephonyui: 250 colours, 0 drawables
+11-04 01:21:56.959 28689 28767 I HexNextRestore: applyOverlay code=0, 250 resources (0/0 drawables), 0 skipped, 624 ms
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_app_telephonyui -> com.samsung.android.app.telephonyui: 250 colours, 0 drawables
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Committed 250 colours through OverlayManager.
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Enabled 250 colours and 0/0 drawables.
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_app_telephonyui
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.app.telephonyui.
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_telephonyui-cS7l.frro via cmd overlay dump.
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_app_telephonyui-cS7l.frro.
+11-04 01:21:56.959 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_app_telephonyui .frro files in /data/resource-cache.
+11-04 01:21:56.959 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:21:57.063 28689 28767 I HexNextRestore: com.samsung.android.app.telephonyui: 250 resources
+11-04 01:21:57.064 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_biometrics_app_setting: 10 colours, 0 drawables
+11-04 01:21:57.684 28689 28767 I HexNextRestore: applyOverlay code=0, 10 resources (0/0 drawables), 0 skipped, 616 ms
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_biometrics_app_setting -> com.samsung.android.biometrics.app.setting: 10 colours, 0 drawables
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Committed 10 colours through OverlayManager.
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Enabled 10 colours and 0/0 drawables.
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_biometrics_app_setting
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.biometrics.app.setting.
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_biometrics_app_setting-cZ2M.frro via cmd overlay dump.
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_biometrics_app_setting-cZ2M.frro.
+11-04 01:21:57.684 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_biometrics_app_setting .frro files in /data/resource-cache.
+11-04 01:21:57.684 28689 28767 I HexNextRestore: Lookup: #ff66b7c5
+11-04 01:21:57.786 28689 28767 I HexNextRestore: com.samsung.android.biometrics.app.setting: 10 resources
+11-04 01:21:57.788 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_bixby_agent: 180 colours, 0 drawables
+11-04 01:21:58.421 28689 28767 I HexNextRestore: applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_bixby_agent -> com.samsung.android.bixby.agent: 180 colours, 0 drawables
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Committed 180 colours through OverlayManager.
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Enabled 180 colours and 0/0 drawables.
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_bixby_agent
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.bixby.agent.
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_bixby_agent-ze2e.frro via cmd overlay dump.
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_bixby_agent-ze2e.frro.
+11-04 01:21:58.421 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_bixby_agent .frro files in /data/resource-cache.
+11-04 01:21:58.421 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:21:58.526 28689 28767 I HexNextRestore: com.samsung.android.bixby.agent: 180 resources
+11-04 01:21:58.529 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_callassistant: 196 colours, 0 drawables
+11-04 01:21:59.162 28689 28767 I HexNextRestore: applyOverlay code=0, 196 resources (0/0 drawables), 0 skipped, 627 ms
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_callassistant -> com.samsung.android.callassistant: 196 colours, 0 drawables
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Committed 196 colours through OverlayManager.
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Enabled 196 colours and 0/0 drawables.
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_callassistant
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.callassistant.
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_callassistant-fYXY.frro via cmd overlay dump.
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_callassistant-fYXY.frro.
+11-04 01:21:59.163 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_callassistant .frro files in /data/resource-cache.
+11-04 01:21:59.163 28689 28767 I HexNextRestore: Lookup: #ff171d1e
+11-04 01:21:59.269 28689 28767 I HexNextRestore: com.samsung.android.callassistant: 196 resources
+11-04 01:21:59.271 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_dynamiclock: 186 colours, 0 drawables
+11-04 01:21:59.910 28689 28767 I HexNextRestore: applyOverlay code=0, 186 resources (0/0 drawables), 0 skipped, 631 ms
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_dynamiclock -> com.samsung.android.dynamiclock: 186 colours, 0 drawables
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Committed 186 colours through OverlayManager.
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Enabled 186 colours and 0/0 drawables.
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_dynamiclock
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.dynamiclock.
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dynamiclock-BQf2.frro via cmd overlay dump.
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_dynamiclock-BQf2.frro.
+11-04 01:21:59.910 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_dynamiclock .frro files in /data/resource-cache.
+11-04 01:21:59.910 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:00.015 28689 28767 I HexNextRestore: com.samsung.android.dynamiclock: 186 resources
+11-04 01:22:00.017 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_game_gametools: 164 colours, 0 drawables
+11-04 01:22:00.643 28689 28767 I HexNextRestore: applyOverlay code=0, 164 resources (0/0 drawables), 0 skipped, 621 ms
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_game_gametools -> com.samsung.android.game.gametools: 164 colours, 0 drawables
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Committed 164 colours through OverlayManager.
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Enabled 164 colours and 0/0 drawables.
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_game_gametools
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.game.gametools.
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_game_gametools-tBtY.frro via cmd overlay dump.
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_game_gametools-tBtY.frro.
+11-04 01:22:00.643 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_game_gametools .frro files in /data/resource-cache.
+11-04 01:22:00.643 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:00.745 28689 28767 I HexNextRestore: com.samsung.android.game.gametools: 164 resources
+11-04 01:22:00.746 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_mcfds: 152 colours, 0 drawables
+11-04 01:22:01.371 28689 28767 I HexNextRestore: applyOverlay code=0, 152 resources (0/0 drawables), 0 skipped, 621 ms
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_mcfds -> com.samsung.android.mcfds: 152 colours, 0 drawables
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Committed 152 colours through OverlayManager.
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Enabled 152 colours and 0/0 drawables.
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_mcfds
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.mcfds.
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mcfds-GDlF.frro via cmd overlay dump.
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mcfds-GDlF.frro.
+11-04 01:22:01.371 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_mcfds .frro files in /data/resource-cache.
+11-04 01:22:01.371 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:01.475 28689 28767 I HexNextRestore: com.samsung.android.mcfds: 152 resources
+11-04 01:22:01.477 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_mdecservice: 240 colours, 0 drawables
+11-04 01:22:02.114 28689 28767 I HexNextRestore: applyOverlay code=0, 240 resources (0/0 drawables), 0 skipped, 629 ms
+11-04 01:22:02.114 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_mdecservice -> com.samsung.android.mdecservice: 240 colours, 0 drawables
+11-04 01:22:02.114 28689 28767 I HexNextRestore:   Committed 240 colours through OverlayManager.
+11-04 01:22:02.114 28689 28767 I HexNextRestore:   Enabled 240 colours and 0/0 drawables.
+11-04 01:22:02.114 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_mdecservice
+11-04 01:22:02.115 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.mdecservice.
+11-04 01:22:02.115 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mdecservice-K1m8.frro via cmd overlay dump.
+11-04 01:22:02.115 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_mdecservice-K1m8.frro.
+11-04 01:22:02.115 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_mdecservice .frro files in /data/resource-cache.
+11-04 01:22:02.115 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:02.219 28689 28767 I HexNextRestore: com.samsung.android.mdecservice: 240 resources
+11-04 01:22:02.220 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_privacydashboard: 174 colours, 0 drawables
+11-04 01:22:02.853 28689 28767 I HexNextRestore: applyOverlay code=0, 174 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_privacydashboard -> com.samsung.android.privacydashboard: 174 colours, 0 drawables
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Committed 174 colours through OverlayManager.
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Enabled 174 colours and 0/0 drawables.
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_privacydashboard
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.privacydashboard.
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_privacydashboard-OFaH.frro via cmd overlay dump.
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_privacydashboard-OFaH.frro.
+11-04 01:22:02.853 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_privacydashboard .frro files in /data/resource-cache.
+11-04 01:22:02.853 28689 28767 I HexNextRestore: Lookup: #ffa6acae
+11-04 01:22:02.957 28689 28767 I HexNextRestore: com.samsung.android.privacydashboard: 174 resources
+11-04 01:22:02.960 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_samsungpassautofill: 212 colours, 0 drawables
+11-04 01:22:03.596 28689 28767 I HexNextRestore: applyOverlay code=0, 212 resources (0/0 drawables), 0 skipped, 631 ms
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_samsungpassautofill -> com.samsung.android.samsungpassautofill: 212 colours, 0 drawables
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Committed 212 colours through OverlayManager.
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Enabled 212 colours and 0/0 drawables.
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_samsungpassautofill
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.samsungpassautofill.
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_samsungpassautofill-5oNe.frro via cmd overlay dump.
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_samsungpassautofill-5oNe.frro.
+11-04 01:22:03.596 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_samsungpassautofill .frro files in /data/resource-cache.
+11-04 01:22:03.597 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:03.701 28689 28767 I HexNextRestore: com.samsung.android.samsungpassautofill: 212 resources
+11-04 01:22:03.704 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_scloud: 172 colours, 0 drawables
+11-04 01:22:04.346 28689 28767 I HexNextRestore: applyOverlay code=0, 172 resources (0/0 drawables), 0 skipped, 634 ms
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_scloud -> com.samsung.android.scloud: 172 colours, 0 drawables
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Committed 172 colours through OverlayManager.
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Enabled 172 colours and 0/0 drawables.
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_scloud
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.scloud.
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scloud-KgsC.frro via cmd overlay dump.
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scloud-KgsC.frro.
+11-04 01:22:04.346 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_scloud .frro files in /data/resource-cache.
+11-04 01:22:04.346 28689 28767 I HexNextRestore: Lookup: #ff171d1e
+11-04 01:22:04.451 28689 28767 I HexNextRestore: com.samsung.android.scloud: 172 resources
+11-04 01:22:04.453 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_scpm: 152 colours, 0 drawables
+11-04 01:22:05.083 28689 28767 I HexNextRestore: applyOverlay code=0, 152 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_scpm -> com.samsung.android.scpm: 152 colours, 0 drawables
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Committed 152 colours through OverlayManager.
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Enabled 152 colours and 0/0 drawables.
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_scpm
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.scpm.
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scpm-dXIA.frro via cmd overlay dump.
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_scpm-dXIA.frro.
+11-04 01:22:05.083 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_scpm .frro files in /data/resource-cache.
+11-04 01:22:05.083 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:05.188 28689 28767 I HexNextRestore: com.samsung.android.scpm: 152 resources
+11-04 01:22:05.190 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_secsoundpicker: 180 colours, 0 drawables
+11-04 01:22:05.823 28689 28767 I HexNextRestore: applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_secsoundpicker -> com.samsung.android.secsoundpicker: 180 colours, 0 drawables
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Committed 180 colours through OverlayManager.
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Enabled 180 colours and 0/0 drawables.
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_secsoundpicker
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.secsoundpicker.
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_secsoundpicker-6B7V.frro via cmd overlay dump.
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_secsoundpicker-6B7V.frro.
+11-04 01:22:05.823 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_secsoundpicker .frro files in /data/resource-cache.
+11-04 01:22:05.823 28689 28767 I HexNextRestore: Lookup: #ff66b7c5
+11-04 01:22:05.927 28689 28767 I HexNextRestore: com.samsung.android.secsoundpicker: 180 resources
+11-04 01:22:05.929 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_service_airviewdictionary: 162 colours, 0 drawables
+11-04 01:22:06.559 28689 28767 I HexNextRestore: applyOverlay code=0, 162 resources (0/0 drawables), 0 skipped, 624 ms
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_service_airviewdictionary -> com.samsung.android.service.airviewdictionary: 162 colours, 0 drawables
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Committed 162 colours through OverlayManager.
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Enabled 162 colours and 0/0 drawables.
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_service_airviewdictionary
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.service.airviewdictionary.
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_airviewdictionary-zpaH.frro via cmd overlay dump.
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_airviewdictionary-zpaH.frro.
+11-04 01:22:06.559 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_service_airviewdictionary .frro files in /data/resource-cache.
+11-04 01:22:06.559 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:06.662 28689 28767 I HexNextRestore: com.samsung.android.service.airviewdictionary: 162 resources
+11-04 01:22:06.663 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_service_tagservice: 162 colours, 0 drawables
+11-04 01:22:07.286 28689 28767 I HexNextRestore: applyOverlay code=0, 162 resources (0/0 drawables), 0 skipped, 620 ms
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_service_tagservice -> com.samsung.android.service.tagservice: 162 colours, 0 drawables
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Committed 162 colours through OverlayManager.
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Enabled 162 colours and 0/0 drawables.
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_service_tagservice
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.service.tagservice.
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_tagservice-hE1s.frro via cmd overlay dump.
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_service_tagservice-hE1s.frro.
+11-04 01:22:07.286 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_service_tagservice .frro files in /data/resource-cache.
+11-04 01:22:07.286 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:07.389 28689 28767 I HexNextRestore: com.samsung.android.service.tagservice: 162 resources
+11-04 01:22:07.391 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_smartmirroring: 154 colours, 0 drawables
+11-04 01:22:08.022 28689 28767 I HexNextRestore: applyOverlay code=0, 154 resources (0/0 drawables), 0 skipped, 621 ms
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_smartmirroring -> com.samsung.android.smartmirroring: 154 colours, 0 drawables
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Committed 154 colours through OverlayManager.
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Enabled 154 colours and 0/0 drawables.
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_smartmirroring
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.smartmirroring.
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartmirroring-ZBOf.frro via cmd overlay dump.
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartmirroring-ZBOf.frro.
+11-04 01:22:08.022 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_smartmirroring .frro files in /data/resource-cache.
+11-04 01:22:08.022 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:08.127 28689 28767 I HexNextRestore: com.samsung.android.smartmirroring: 154 resources
+11-04 01:22:08.128 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_smartsuggestions: 236 colours, 0 drawables
+11-04 01:22:08.771 28689 28767 I HexNextRestore: applyOverlay code=0, 236 resources (0/0 drawables), 0 skipped, 638 ms
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_smartsuggestions -> com.samsung.android.smartsuggestions: 236 colours, 0 drawables
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Committed 236 colours through OverlayManager.
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Enabled 236 colours and 0/0 drawables.
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_smartsuggestions
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.smartsuggestions.
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartsuggestions-ooj1.frro via cmd overlay dump.
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_smartsuggestions-ooj1.frro.
+11-04 01:22:08.771 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_smartsuggestions .frro files in /data/resource-cache.
+11-04 01:22:08.771 28689 28767 I HexNextRestore: Lookup: #ffa6acae
+11-04 01:22:08.876 28689 28767 I HexNextRestore: com.samsung.android.smartsuggestions: 236 resources
+11-04 01:22:08.878 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_video: 192 colours, 0 drawables
+11-04 01:22:09.512 28689 28767 I HexNextRestore: applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_video -> com.samsung.android.video: 192 colours, 0 drawables
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Committed 192 colours through OverlayManager.
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Enabled 192 colours and 0/0 drawables.
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_video
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.video.
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_video-0AKq.frro via cmd overlay dump.
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_video-0AKq.frro.
+11-04 01:22:09.512 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_video .frro files in /data/resource-cache.
+11-04 01:22:09.512 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:09.616 28689 28767 I HexNextRestore: com.samsung.android.video: 192 resources
+11-04 01:22:09.618 28689 28767 I HexNextRestore: Building HexNext_com_samsung_android_visionintelligence: 208 colours, 0 drawables
+11-04 01:22:10.249 28689 28767 I HexNextRestore: applyOverlay code=0, 208 resources (0/0 drawables), 0 skipped, 626 ms
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_android_visionintelligence -> com.samsung.android.visionintelligence: 208 colours, 0 drawables
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Committed 208 colours through OverlayManager.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Enabled 208 colours and 0/0 drawables.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_android_visionintelligence
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Order: on top of com.samsung.android.visionintelligence.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-hh8o.frro via cmd overlay dump.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_android_visionintelligence-hh8o.frro.
+11-04 01:22:10.250 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_android_visionintelligence .frro files in /data/resource-cache.
+11-04 01:22:10.250 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:10.355 28689 28767 I HexNextRestore: com.samsung.android.visionintelligence: 208 resources
+11-04 01:22:10.357 28689 28767 I HexNextRestore: Building HexNext_com_samsung_app_newtrim: 184 colours, 0 drawables
+11-04 01:22:10.990 28689 28767 I HexNextRestore: applyOverlay code=0, 184 resources (0/0 drawables), 0 skipped, 625 ms
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_samsung_app_newtrim -> com.samsung.app.newtrim: 184 colours, 0 drawables
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Committed 184 colours through OverlayManager.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Enabled 184 colours and 0/0 drawables.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_samsung_app_newtrim
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Order: on top of com.samsung.app.newtrim.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro via cmd overlay dump.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_samsung_app_newtrim-0Ofw.frro.
+11-04 01:22:10.990 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_samsung_app_newtrim .frro files in /data/resource-cache.
+11-04 01:22:10.990 28689 28767 I HexNextRestore: Lookup: #ffa6acae
+11-04 01:22:11.096 28689 28767 I HexNextRestore: com.samsung.app.newtrim: 184 resources
+11-04 01:22:11.098 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_camera: 190 colours, 0 drawables
+11-04 01:22:11.739 28689 28767 I HexNextRestore: applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 634 ms
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_camera -> com.sec.android.app.camera: 190 colours, 0 drawables
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Committed 190 colours through OverlayManager.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Enabled 190 colours and 0/0 drawables.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_camera
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.camera.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro via cmd overlay dump.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_camera-KPim.frro.
+11-04 01:22:11.739 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_camera .frro files in /data/resource-cache.
+11-04 01:22:11.739 28689 28767 I HexNextRestore: Lookup: #ff66b7c5
+11-04 01:22:11.845 28689 28767 I HexNextRestore: com.sec.android.app.camera: 190 resources
+11-04 01:22:11.847 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_sbrowser: 574 colours, 0 drawables
+11-04 01:22:12.505 28689 28767 I HexNextRestore: applyOverlay code=0, 574 resources (0/0 drawables), 0 skipped, 644 ms
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_sbrowser -> com.sec.android.app.sbrowser: 574 colours, 0 drawables
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Committed 574 colours through OverlayManager.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Enabled 574 colours and 0/0 drawables.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_sbrowser
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.sbrowser.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro via cmd overlay dump.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_sbrowser-e7B7.frro.
+11-04 01:22:12.505 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_sbrowser .frro files in /data/resource-cache.
+11-04 01:22:12.505 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:12.609 28689 28767 I HexNextRestore: com.sec.android.app.sbrowser: 574 resources
+11-04 01:22:12.612 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_shealth: 216 colours, 0 drawables
+11-04 01:22:13.266 28689 28767 I HexNextRestore: applyOverlay code=0, 216 resources (0/0 drawables), 0 skipped, 648 ms
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_shealth -> com.sec.android.app.shealth: 216 colours, 0 drawables
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   Committed 216 colours through OverlayManager.
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   Enabled 216 colours and 0/0 drawables.
+11-04 01:22:13.266 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_shealth
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.shealth.
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro via cmd overlay dump.
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_shealth-uB5c.frro.
+11-04 01:22:13.267 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_shealth .frro files in /data/resource-cache.
+11-04 01:22:13.267 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:13.371 28689 28767 I HexNextRestore: com.sec.android.app.shealth: 216 resources
+11-04 01:22:13.373 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_soundalive: 192 colours, 0 drawables
+11-04 01:22:14.005 28689 28767 I HexNextRestore: applyOverlay code=0, 192 resources (0/0 drawables), 0 skipped, 626 ms
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_soundalive -> com.sec.android.app.soundalive: 192 colours, 0 drawables
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Committed 192 colours through OverlayManager.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Enabled 192 colours and 0/0 drawables.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_soundalive
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.soundalive.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro via cmd overlay dump.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_soundalive-tH25.frro.
+11-04 01:22:14.005 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_soundalive .frro files in /data/resource-cache.
+11-04 01:22:14.005 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:14.110 28689 28767 I HexNextRestore: com.sec.android.app.soundalive: 192 resources
+11-04 01:22:14.113 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_app_voicenote: 292 colours, 0 drawables
+11-04 01:22:14.760 28689 28767 I HexNextRestore: applyOverlay code=0, 292 resources (0/0 drawables), 0 skipped, 639 ms
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_app_voicenote -> com.sec.android.app.voicenote: 292 colours, 0 drawables
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Committed 292 colours through OverlayManager.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Enabled 292 colours and 0/0 drawables.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_app_voicenote
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.app.voicenote.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro via cmd overlay dump.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_app_voicenote-kbBb.frro.
+11-04 01:22:14.760 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_app_voicenote .frro files in /data/resource-cache.
+11-04 01:22:14.760 28689 28767 I HexNextRestore: Lookup: #ff424849
+11-04 01:22:14.864 28689 28767 I HexNextRestore: com.sec.android.app.voicenote: 292 resources
+11-04 01:22:14.867 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_daemonapp: 228 colours, 0 drawables
+11-04 01:22:15.504 28689 28767 I HexNextRestore: applyOverlay code=0, 228 resources (0/0 drawables), 0 skipped, 629 ms
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_daemonapp -> com.sec.android.daemonapp: 228 colours, 0 drawables
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Committed 228 colours through OverlayManager.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Enabled 228 colours and 0/0 drawables.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_daemonapp
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.daemonapp.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro via cmd overlay dump.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_daemonapp-n3k1.frro.
+11-04 01:22:15.505 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_daemonapp .frro files in /data/resource-cache.
+11-04 01:22:15.505 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:15.610 28689 28767 I HexNextRestore: com.sec.android.daemonapp: 228 resources
+11-04 01:22:15.612 28689 28767 I HexNextRestore: Building HexNext_com_sec_android_mimage_photoretouching: 190 colours, 0 drawables
+11-04 01:22:16.248 28689 28767 I HexNextRestore: applyOverlay code=0, 190 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_android_mimage_photoretouching -> com.sec.android.mimage.photoretouching: 190 colours, 0 drawables
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Committed 190 colours through OverlayManager.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Enabled 190 colours and 0/0 drawables.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_android_mimage_photoretouching
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Order: on top of com.sec.android.mimage.photoretouching.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro via cmd overlay dump.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_android_mimage_photoretouching-Os6c.frro.
+11-04 01:22:16.248 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_android_mimage_photoretouching .frro files in /data/resource-cache.
+11-04 01:22:16.248 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:16.350 28689 28767 I HexNextRestore: com.sec.android.mimage.photoretouching: 190 resources
+11-04 01:22:16.351 28689 28767 I HexNextRestore: Building HexNext_com_sec_hearingadjust: 180 colours, 0 drawables
+11-04 01:22:16.972 28689 28767 I HexNextRestore: applyOverlay code=0, 180 resources (0/0 drawables), 0 skipped, 618 ms
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_hearingadjust -> com.sec.hearingadjust: 180 colours, 0 drawables
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Committed 180 colours through OverlayManager.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Enabled 180 colours and 0/0 drawables.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_hearingadjust
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Order: on top of com.sec.hearingadjust.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro via cmd overlay dump.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_hearingadjust-WArF.frro.
+11-04 01:22:16.972 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_hearingadjust .frro files in /data/resource-cache.
+11-04 01:22:16.972 28689 28767 I HexNextRestore: Lookup: #ff171d1e
+11-04 01:22:17.075 28689 28767 I HexNextRestore: com.sec.hearingadjust: 180 resources
+11-04 01:22:17.077 28689 28767 I HexNextRestore: Building HexNext_com_sec_unifiedwfc: 178 colours, 0 drawables
+11-04 01:22:17.702 28689 28767 I HexNextRestore: applyOverlay code=0, 178 resources (0/0 drawables), 0 skipped, 622 ms
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_com_sec_unifiedwfc -> com.sec.unifiedwfc: 178 colours, 0 drawables
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Committed 178 colours through OverlayManager.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Enabled 178 colours and 0/0 drawables.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_sec_unifiedwfc
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Order: on top of com.sec.unifiedwfc.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro via cmd overlay dump.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_sec_unifiedwfc-cOyC.frro.
+11-04 01:22:17.702 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_sec_unifiedwfc .frro files in /data/resource-cache.
+11-04 01:22:17.702 28689 28767 I HexNextRestore: Lookup: #ff000000
+11-04 01:22:17.806 28689 28767 I HexNextRestore: com.sec.unifiedwfc: 178 resources
+11-04 01:22:17.808 28689 28767 I HexNextRestore: Building HexNext_io_mesalabs_knoxpatch: 122 colours, 0 drawables
+11-04 01:22:18.432 28689 28767 I HexNextRestore: applyOverlay code=0, 122 resources (0/0 drawables), 0 skipped, 621 ms
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   [UID 0] com.android.shell:HexNext_io_mesalabs_knoxpatch -> io.mesalabs.knoxpatch: 122 colours, 0 drawables
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Committed 122 colours through OverlayManager.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Enabled 122 colours and 0/0 drawables.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_io_mesalabs_knoxpatch
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Order: on top of io.mesalabs.knoxpatch.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro via cmd overlay dump.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_io_mesalabs_knoxpatch-591v.frro.
+11-04 01:22:18.432 28689 28767 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_io_mesalabs_knoxpatch .frro files in /data/resource-cache.
+11-04 01:22:18.432 28689 28767 I HexNextRestore: Lookup: #ff82d3e1
+11-04 01:22:18.535 28689 28767 I HexNextRestore: io.mesalabs.knoxpatch: 122 resources
+11-04 01:22:19.013 28689 28767 I HexNextRestore: Stopped SemWT guard pid 24217
+11-04 01:22:19.122 28689 28767 I HexNextRestore: SemWT guard watching 60 targets (/data/local/tmp/hexnext/semwt_guard.sh)
+11-04 01:22:19.535 28689 28767 I HexNextRestore: Theme apply: 58 ok, 0 failed, 0 debloated, 2 skipped, 0 SemWT disabled, 1/1 verified
+11-04 01:22:19.535 28689 28767 I HexNextRestore: Build log: /data/user/0/com.hexnext.themer.owner/files/logs/20261104-012127.jsonl
+11-04 01:22:19.535 28689 28767 I HexNextRestore: Restore finished: success=true, 58 apps

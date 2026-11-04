@@ -1,0 +1,3 @@
+28467 28621
+root         28467     1   14463956 167012 do_epoll_wait       0 S shizuku_server
+u0_a394      28621 15099   15226776 126612 do_epoll_wait       0 S moe.shizuku.privileged.api

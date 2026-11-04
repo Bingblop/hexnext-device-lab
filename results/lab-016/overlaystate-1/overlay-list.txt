@@ -1,0 +1,260 @@
+com.google.android.networkstack.tethering
+[x] com.google.android.networkstack.tethering.overlay
+
+com.android.uwb.resources
+[x] com.samsung.android.uwb.resources
+
+com.samsung.android.app.aodservice
+[x] com.android.shell:HexNext_com_samsung_android_app_aodservice
+
+com.android.providers.telephony
+--- com.android.providers.telephony.auto_generated_characteristics_rro
+
+com.samsung.android.calendar
+[x] com.android.shell:HexNext_com_samsung_android_calendar
+
+com.samsung.android.service.airviewdictionary
+[x] com.android.shell:HexNext_com_samsung_android_service_airviewdictionary
+
+com.samsung.android.smartmirroring
+[x] com.android.shell:HexNext_com_samsung_android_smartmirroring
+
+com.android.virtualdevicemanager
+--- com.android.virtualdevicemanager.auto_generated_characteristics_rro
+
+com.samsung.android.incallui
+[x] com.android.shell:HexNext_com_samsung_android_incallui
+
+com.samsung.android.service.tagservice
+[x] com.android.shell:HexNext_com_samsung_android_service_tagservice
+
+com.samsung.android.app.galaxyraw
+[x] com.android.shell:HexNext_com_samsung_android_app_galaxyraw
+
+com.android.companiondevicemanager
+--- com.android.companiondevicemanager.auto_generated_characteristics_rro
+
+com.sec.android.app.voicenote
+[x] com.android.shell:HexNext_com_sec_android_app_voicenote
+
+com.samsung.android.accessibility.talkback
+[x] com.android.shell:HexNext_com_samsung_android_accessibility_talkback
+
+com.google.android.providers.media.module
+[x] com.google.android.overlay.modules.mediaprovider
+
+com.sec.android.daemonapp
+[x] com.android.shell:HexNext_com_sec_android_daemonapp
+
+com.samsung.android.secsoundpicker
+[x] com.android.shell:HexNext_com_samsung_android_secsoundpicker
+
+com.sec.android.app.soundalive
+[x] com.android.shell:HexNext_com_sec_android_app_soundalive
+
+android
+[x] android.auto_generated_rro_vendor__
+[x] com.google.android.overlay.modules.captiveportallogin.forframework
+[x] com.samsung.android.internal.overlay.config.default_contextual_search
+[x] com.google.android.overlay.gmsconfig.asi
+[x] com.google.android.overlay.gmsconfig.common
+[x] com.google.android.overlay.gmsconfig.gsa
+[x] com.google.android.overlay.gmsconfig.geotz
+[x] com.google.android.overlay.modules.ext.services
+[x] com.google.android.overlay.modules.healthfitness.forframework
+[x] com.google.android.overlay.modules.permissioncontroller.forframework
+[x] com.google.android.overlay.modules.modulemetadata.forframework
+[x] com.google.android.overlay.aicoreconfig
+[x] com.google.android.verifier.overlay
+[x] android.auto_generated_rro_product__
+[x] com.samsung.android.smartface.overlay
+[ ] com.android.internal.display.cutout.emulation.corner
+[ ] com.android.internal.display.cutout.emulation.double
+[ ] com.samsung.internal.systemui.navbar.sec_gestural
+[ ] com.android.internal.display.cutout.emulation.hole
+[ ] com.android.internal.display.cutout.emulation.tall
+[ ] com.android.internal.systemui.navbar.threebutton
+[ ] com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+[ ] com.android.internal.display.cutout.emulation.waterfall
+[ ] com.samsung.internal.systemui.navbar.gestural_no_hint
+[x] com.android.internal.systemui.navbar.gestural
+[x] com.android.internal.systemui.navbar.transparent
+[x] com.android.shell:HexNext_android
+
+com.android.nfc
+[x] com.samsung.android.nfc.resources.usa
+
+com.samsung.android.app.telephonyui
+[x] com.android.shell:HexNext_com_samsung_android_app_telephonyui
+
+com.samsung.android.bixby.agent
+[x] com.android.shell:HexNext_com_samsung_android_bixby_agent
+
+com.android.settings.intelligence
+[x] com.android.shell:HexNext_com_android_settings_intelligence
+
+com.samsung.android.privacydashboard
+[x] com.android.shell:HexNext_com_samsung_android_privacydashboard
+
+com.google.android.permissioncontroller
+[x] com.google.android.overlay.modules.permissioncontroller
+[x] android:PermissionControllerDA_FRRO
+
+com.sec.android.gallery3d
+[x] com.android.shell:HexNext_com_sec_android_gallery3d
+
+com.samsung.accessibility
+[x] com.android.shell:HexNext_com_samsung_accessibility
+
+com.google.android.euicc
+[x] com.sec.android.app.googlelpaoverlay
+
+com.samsung.android.game.gametools
+[x] com.android.shell:HexNext_com_samsung_android_game_gametools
+
+com.samsung.android.app.contacts
+[x] com.android.shell:HexNext_com_samsung_android_app_contacts
+
+com.samsung.android.app.reminder
+[x] com.android.shell:HexNext_com_samsung_android_app_reminder
+
+com.samsung.android.app.smartcapture
+[x] com.android.shell:HexNext_com_samsung_android_app_smartcapture
+
+com.samsung.android.dynamiclock
+[x] com.android.shell:HexNext_com_samsung_android_dynamiclock
+
+com.sec.android.app.clockpackage
+[x] com.android.shell:HexNext_com_sec_android_app_clockpackage
+
+com.samsung.android.mdecservice
+[x] com.android.shell:HexNext_com_samsung_android_mdecservice
+
+com.google.android.networkstack
+[x] com.samsung.android.networkstack
+[ ] com.samsung.android.wcmurlsnetworkstack
+
+com.samsung.accessory.budsunitemgr
+[x] com.android.shell:HexNext_com_samsung_accessory_budsunitemgr
+
+com.google.android.gms
+[x] com.sec.android.app.qsfastpairoverlay
+
+com.android.wifi.resources
+[x] com.samsung.android.wifi.softapwpathree.resources
+[x] com.samsung.android.wifi.p2paware.resources
+[x] com.samsung.android.wifi.softap.resources
+[x] com.samsung.android.wifi.softapqc.resources
+[x] com.samsung.android.wifi.resources
+[x] com.samsung.android.wifi.h2e.resources
+[x] com.samsung.android.wifi.largetcpbuffer.resources
+[x] com.samsung.android.wifi.resources.lls
+[x] com.samsung.android.wifi.saeupgradeoffload.resources
+[x] com.samsung.android.wifi.resources.wifilock
+
+com.samsung.android.biometrics.app.setting
+[x] com.android.shell:HexNext_com_samsung_android_biometrics_app_setting
+
+com.sec.android.app.myfiles
+[x] com.android.shell:HexNext_com_sec_android_app_myfiles
+
+com.samsung.android.app.routines
+[x] com.android.shell:HexNext_com_samsung_android_app_routines
+
+com.sec.android.mimage.photoretouching
+[x] com.android.shell:HexNext_com_sec_android_mimage_photoretouching
+
+com.sec.android.app.launcher
+[x] com.android.shell:HexNext_com_sec_android_app_launcher
+
+com.google.android.connectivity.resources
+[x] com.samsung.android.ConnectivityOverlay
+[x] com.samsung.android.ConnectivityUxOverlay
+
+com.android.networkstack.tethering
+--- com.samsung.android.networkstack.tethering.overlay
+
+com.sec.android.app.sbrowser
+[x] com.android.shell:HexNext_com_sec_android_app_sbrowser
+
+com.google.android.documentsui
+[x] com.google.android.overlay.modules.documentsui
+
+com.samsung.android.app.interpreter
+[x] com.android.shell:HexNext_com_samsung_android_app_interpreter
+
+com.samsung.android.dialer
+[x] com.android.shell:HexNext_com_samsung_android_dialer
+
+com.samsung.android.app.cameraassistant
+[x] com.android.shell:HexNext_com_samsung_android_app_cameraassistant
+
+io.mesalabs.knoxpatch
+[x] com.android.shell:HexNext_io_mesalabs_knoxpatch
+
+com.samsung.android.callassistant
+[x] com.android.shell:HexNext_com_samsung_android_callassistant
+
+com.sec.android.app.popupcalculator
+[x] com.android.shell:HexNext_com_sec_android_app_popupcalculator
+
+com.sec.android.app.shealth
+[x] com.android.shell:HexNext_com_sec_android_app_shealth
+
+com.sec.unifiedwfc
+[x] com.android.shell:HexNext_com_sec_unifiedwfc
+
+com.samsung.android.honeyboard
+[x] com.android.shell:HexNext_com_samsung_android_honeyboard
+
+com.samsung.android.scloud
+[x] com.android.shell:HexNext_com_samsung_android_scloud
+
+com.samsung.android.app.soundpicker
+[x] com.android.shell:HexNext_com_samsung_android_app_soundpicker
+
+com.android.settings
+[x] com.android.shell:HexNext_com_android_settings
+
+com.samsung.app.newtrim
+[x] com.android.shell:HexNext_com_samsung_app_newtrim
+
+com.samsung.android.lool
+[x] com.android.shell:HexNext_com_samsung_android_lool
+
+com.samsung.android.scpm
+[x] com.android.shell:HexNext_com_samsung_android_scpm
+
+com.sec.hearingadjust
+[x] com.android.shell:HexNext_com_sec_hearingadjust
+
+com.samsung.android.visionintelligence
+[x] com.android.shell:HexNext_com_samsung_android_visionintelligence
+
+com.android.phone
+--- com.android.phone.auto_generated_characteristics_rro
+
+com.samsung.android.samsungpassautofill
+[x] com.android.shell:HexNext_com_samsung_android_samsungpassautofill
+
+com.android.systemui
+[x] com.android.shell:HexNext_com_android_systemui
+
+com.samsung.android.smartsuggestions
+[x] com.android.shell:HexNext_com_samsung_android_smartsuggestions
+
+com.sec.android.app.camera
+[x] com.android.shell:HexNext_com_sec_android_app_camera
+
+com.android.bluetooth
+[x] com.android.shell:HexNext_com_android_bluetooth
+
+com.samsung.android.app.dressroom
+[x] com.android.shell:HexNext_com_samsung_android_app_dressroom
+
+com.samsung.android.mcfds
+[x] com.android.shell:HexNext_com_samsung_android_mcfds
+
+com.samsung.android.video
+[x] com.android.shell:HexNext_com_samsung_android_video
+
