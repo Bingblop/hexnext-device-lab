@@ -1,0 +1,3 @@
+20098 20232
+u0_a394      20098  1836   15934500 233120 do_epoll_wait       0 S moe.shizuku.privileged.api
+root         20232     1   14615540 158240 do_epoll_wait       0 S shizuku_server
