@@ -1,0 +1,3 @@
+8586 20694
+root          8586     1   14286192 172564 do_epoll_wait       0 S shizuku_server
+u0_a394      20694  1866   15703072 200012 do_epoll_wait       0 S moe.shizuku.privileged.api

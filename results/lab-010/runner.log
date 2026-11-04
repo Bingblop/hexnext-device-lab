@@ -1,0 +1,15 @@
+[21:20:13] job lab-010
+[21:20:15] install: downloaded artifact 13287607383 through the API
+[21:20:16] install: run 41753781322 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[21:20:16] restarting Shizuku as root
+[21:20:25] scan
+[21:20:37] apply (confirm=true)
+[21:24:14] overlay state 1
+[21:24:24] capture dark settings
+[21:24:43] capture dark qs
+[21:25:39] preview qs: the hook was not on screen (try 1)
+[21:25:48] capture dark power
+[21:26:09] capture dark dialogs
+[21:26:29] capture dark keyboard
+[21:26:52] dumps
+[21:26:52] soft reboot; remaining steps: overlaystate capture wait overlaystate capture (unlock the phone when it comes back)

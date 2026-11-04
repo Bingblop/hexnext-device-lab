@@ -1,0 +1,256 @@
+android:SemWT_MonetPalette:0 {
+  mPackageName...........: android
+  mOverlayName...........: SemWT_MonetPalette
+  mUserId................: 0
+  mTargetPackageName.....: android
+  mTargetOverlayableName.: 
+  mBaseCodePath..........: /data/resource-cache/android-SemWT_MonetPalette-EGT4.frro
+  mState.................: STATE_DISABLED
+  mIsEnabled.............: false
+  mIsMutable.............: true
+  mPriority..............: 2147483647
+  mCategory..............: null
+  mIsFabricated..........: true
+  mConstraints...........: None
+}
+IDMAP OF android:SemWT_MonetPalette
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /data/resource-cache/android-SemWT_MonetPalette-EGT4.frro
+Overlay name: SemWT_MonetPalette
+Debug info:
+    W failed to find resource 'android:color/sem_overlay_handler_color_system'
+    W failed to find resource 'android:color/sem_overlay_handler_color_system'
+Constraints:
+    None
+Mapping:
+    0x0106001d -> color 0xffffffff (color/system_neutral1_0)
+    0x0106001e -> color 0xfffcfcfb (color/system_neutral1_10)
+    0x0106001f -> color 0xfff1f1ea (color/system_neutral1_50)
+    0x01060020 -> color 0xffe3e3d6 (color/system_neutral1_100)
+    0x01060021 -> color 0xffc7c8ad (color/system_neutral1_200)
+    0x01060022 -> color 0xffacae85 (color/system_neutral1_300)
+    0x01060023 -> color 0xff929362 (color/system_neutral1_400)
+    0x01060024 -> color 0xff787951 (color/system_neutral1_500)
+    0x01060025 -> color 0xff5f6040 (color/system_neutral1_600)
+    0x01060026 -> color 0xff474830 (color/system_neutral1_700)
+    0x01060027 -> color 0xff313121 (color/system_neutral1_800)
+    0x01060028 -> color 0xff1c1c13 (color/system_neutral1_900)
+    0x01060029 -> color 0xff000000 (color/system_neutral1_1000)
+    0x0106002a -> color 0xffffffff (color/system_neutral2_0)
+    0x0106002b -> color 0xfffcfcfb (color/system_neutral2_10)
+    0x0106002c -> color 0xfff1f1ea (color/system_neutral2_50)
+    0x0106002d -> color 0xffe3e3d6 (color/system_neutral2_100)
+    0x0106002e -> color 0xffc7c8ad (color/system_neutral2_200)
+    0x0106002f -> color 0xffacae85 (color/system_neutral2_300)
+    0x01060030 -> color 0xff929362 (color/system_neutral2_400)
+    0x01060031 -> color 0xff787951 (color/system_neutral2_500)
+    0x01060032 -> color 0xff5f6040 (color/system_neutral2_600)
+    0x01060033 -> color 0xff474830 (color/system_neutral2_700)
+    0x01060034 -> color 0xff313121 (color/system_neutral2_800)
+    0x01060035 -> color 0xff1c1c13 (color/system_neutral2_900)
+    0x01060036 -> color 0xff000000 (color/system_neutral2_1000)
+    0x01060037 -> color 0xffffffff (color/system_accent1_0)
+    0x01060038 -> color 0xfffcfcf7 (color/system_accent1_10)
+    0x01060039 -> color 0xfff1f2d8 (color/system_accent1_50)
+    0x0106003a -> color 0xffe4e6b2 (color/system_accent1_100)
+    0x0106003b -> color 0xffc8cc60 (color/system_accent1_200)
+    0x0106003c -> color 0xffadb138 (color/system_accent1_300)
+    0x0106003d -> color 0xff929530 (color/system_accent1_400)
+    0x0106003e -> color 0xff787b27 (color/system_accent1_500)
+    0x0106003f -> color 0xff5f611f (color/system_accent1_600)
+    0x01060040 -> color 0xff474917 (color/system_accent1_700)
+    0x01060041 -> color 0xff313210 (color/system_accent1_800)
+    0x01060042 -> color 0xff1c1c09 (color/system_accent1_900)
+    0x01060043 -> color 0xff000000 (color/system_accent1_1000)
+    0x01060044 -> color 0xffffffff (color/system_accent2_0)
+    0x01060045 -> color 0xfffcfcfb (color/system_accent2_10)
+    0x01060046 -> color 0xfff1f1ea (color/system_accent2_50)
+    0x01060047 -> color 0xffe3e3d4 (color/system_accent2_100)
+    0x01060048 -> color 0xffc7c8aa (color/system_accent2_200)
+    0x01060049 -> color 0xffadae81 (color/system_accent2_300)
+    0x0106004a -> color 0xff92945f (color/system_accent2_400)
+    0x0106004b -> color 0xff78794e (color/system_accent2_500)
+    0x0106004c -> color 0xff5f603e (color/system_accent2_600)
+    0x0106004d -> color 0xff47482e (color/system_accent2_700)
+    0x0106004e -> color 0xff313120 (color/system_accent2_800)
+    0x0106004f -> color 0xff1c1c12 (color/system_accent2_900)
+    0x01060050 -> color 0xff000000 (color/system_accent2_1000)
+    0x01060051 -> color 0xffffffff (color/system_accent3_0)
+    0x01060052 -> color 0xfffdfcfa (color/system_accent3_10)
+    0x01060053 -> color 0xfff2f1e7 (color/system_accent3_50)
+    0x01060054 -> color 0xffe6e3cf (color/system_accent3_100)
+    0x01060055 -> color 0xffcdc79f (color/system_accent3_200)
+    0x01060056 -> color 0xffb5ac70 (color/system_accent3_300)
+    0x01060057 -> color 0xff9b9250 (color/system_accent3_400)
+    0x01060058 -> color 0xff807842 (color/system_accent3_500)
+    0x01060059 -> color 0xff655f35 (color/system_accent3_600)
+    0x0106005a -> color 0xff4c4727 (color/system_accent3_700)
+    0x0106005b -> color 0xff33301b (color/system_accent3_800)
+    0x0106005c -> color 0xff1d1b0f (color/system_accent3_900)
+    0x0106005d -> color 0xff000000 (color/system_accent3_1000)
+    0x010603c8 -> color 0xff5f611f    0x010603c8 -> color 0xffc8cc60 (color/sem_caption_icon_color_system)
+    0x01060405 -> color 0xffadb138    0x01060405 -> color 0xffadb138 (color/sem_decor_caption_progress_activated_color_system)
+    0x01060407 -> color 0x4dadb138    0x01060407 -> color 0x4dadb138 (color/sem_decor_caption_progress_normal_color_system)
+
+
+ Color palette history :
+11-03 20:47:09.564: V SWT_MetaDataManager(29511): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 20:47:09.565: V SWT_MetaDataManager(29511): metadata rpUID [61] replaced by com.sec.android.app.launcher
+11-03 20:47:09.565: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 44_1, existed package : com.samsung.android.app.appsedge, requested package : com.sec.android.app.launcher
+11-03 20:47:09.566: V SWT_MetaDataManager(29511): metadata rpUID [44_1] replaced by com.sec.android.app.launcher
+11-03 20:47:09.566: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 44, existed package : com.samsung.android.app.cocktailbarservice, requested package : com.sec.android.app.launcher
+11-03 20:47:09.566: V SWT_MetaDataManager(29511): metadata rpUID [44] replaced by com.sec.android.app.launcher
+11-03 20:47:09.567: V SWT_MetaDataManager(29511): metadata rpUID [4_1] replaced by com.sec.android.app.launcher
+11-03 20:47:09.569: V SWT_MetaDataManager(29511): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 20:47:09.569: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 87, existed package : com.sec.android.app.sbrowser.beta, requested package : com.sec.android.app.sbrowser
+11-03 20:47:09.570: V SWT_MetaDataManager(29511): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 20:47:09.572: V SWT_MetaDataManager(29511): metadata rpUID [236] replaced by com.samsung.android.app.interpreter
+11-03 20:47:09.574: V SWT_MetaDataManager(29511): metadata rpUID [26] replaced by com.samsung.android.dialer
+11-03 20:47:09.575: V SWT_MetaDataManager(29511): metadata rpUID [247] replaced by com.samsung.android.app.cameraassistant
+11-03 20:47:09.576: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 58, existed package : com.samsung.android.smartmirroring, requested package : com.samsung.android.drivingplus
+11-03 20:47:09.577: V SWT_MetaDataManager(29511): metadata rpUID [58] replaced by com.samsung.android.drivingplus
+11-03 20:47:09.579: V SWT_MetaDataManager(29511): metadata rpUID [67] replaced by com.samsung.android.forest
+11-03 20:47:09.580: V SWT_MetaDataManager(29511): metadata rpUID [610] replaced by io.mesalabs.knoxpatch
+11-03 20:47:09.581: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 54, existed package : com.samsung.android.incallui, requested package : com.samsung.android.callassistant
+11-03 20:47:09.581: V SWT_MetaDataManager(29511): metadata rpUID [54] replaced by com.samsung.android.callassistant
+11-03 20:47:09.582: V SWT_MetaDataManager(29511): metadata rpUID [44_4] replaced by com.sec.android.app.quicktool
+11-03 20:47:09.584: V SWT_MetaDataManager(29511): metadata rpUID [null] replaced by com.samsung.android.mdx
+11-03 20:47:09.587: V SWT_MetaDataManager(29511): metadata rpUID [242] replaced by com.sec.android.app.shealth
+11-03 20:47:09.588: V SWT_MetaDataManager(29511): metadata rpUID [250] replaced by com.samsung.android.warrantycare
+11-03 20:47:09.590: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 64, existed package : com.samsung.knox.securefolder, requested package : com.samsung.android.appseparation
+11-03 20:47:09.590: V SWT_MetaDataManager(29511): metadata rpUID [64] replaced by com.samsung.android.appseparation
+11-03 20:47:09.592: V SWT_MetaDataManager(29511): metadata rpUID [75] replaced by com.samsung.android.honeyboard
+11-03 20:47:09.594: V SWT_MetaDataManager(29511): metadata rpUID [232] replaced by com.samsung.android.app.soundpicker
+11-03 20:47:09.596: V SWT_MetaDataManager(29511): metadata rpUID [226] replaced by com.samsung.android.app.sharelive
+11-03 20:47:09.598: V SWT_MetaDataManager(29511): metadata rpUID [9] replaced by com.android.settings
+11-03 20:47:09.599: V SWT_MetaDataManager(29511): metadata rpUID [40] replaced by com.android.settings
+11-03 20:47:09.599: V SWT_MetaDataManager(29511): metadata rpUID [9_5] replaced by com.android.settings
+11-03 20:47:09.602: V SWT_MetaDataManager(29511): metadata rpUID [96] replaced by com.samsung.android.widget.pictureframe
+11-03 20:47:09.603: V SWT_MetaDataManager(29511): metadata rpUID [46] replaced by com.samsung.app.newtrim
+11-03 20:47:09.605: V SWT_MetaDataManager(29511): metadata rpUID [65] replaced by com.samsung.android.fast
+11-03 20:47:09.607: V SWT_MetaDataManager(29511): metadata rpUID [10] replaced by com.samsung.android.lool
+11-03 20:47:09.608: V SWT_MetaDataManager(29511): metadata rpUID [null] replaced by com.samsung.android.scpm
+11-03 20:47:09.610: V SWT_MetaDataManager(29511): metadata rpUID [214] replaced by com.samsung.android.visionintelligence
+11-03 20:47:09.611: V SWT_MetaDataManager(29511): metadata rpUID [315] replaced by com.samsung.android.hwresourceshare.storage
+11-03 20:47:09.613: V SWT_MetaDataManager(29511): metadata rpUID [50] replaced by com.samsung.android.service.aircommand
+11-03 20:47:09.615: V SWT_MetaDataManager(29511): metadata rpUID [42] replaced by com.wssyncmldm
+11-03 20:47:09.617: V SWT_MetaDataManager(29511): metadata rpUID [4] replaced by com.android.systemui
+11-03 20:47:09.617: V SWT_MetaDataManager(29511): metadata rpUID [213] replaced by com.android.systemui
+11-03 20:47:09.620: V SWT_MetaDataManager(29511): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 20:47:09.621: V SWT_MetaData(29511): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 20:47:09.622: V SWT_MetaDataManager(29511): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 20:47:09.623: V SWT_MetaDataManager(29511): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 20:47:09.624: V SWT_MetaDataManager(29511): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 20:47:09.625: V SWT_MetaDataManager(29511): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 20:53:53.823: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 24, existed package : android, requested package : com.samsung.font
+11-03 20:53:53.826: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 45, existed package : android, requested package : com.samsung.accessibility
+11-03 20:53:53.829: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 79, existed package : com.samsung.android.biometrics.app.setting, requested package : com.samsung.android.tadownloader
+11-03 20:53:53.830: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 102, existed package : com.samsung.android.dialer, requested package : com.samsung.osmnuui
+11-03 20:53:53.832: V SWT_MetaDataManager(4312): [Legacy] load static metadata, size of uid : 4674
+11-03 20:53:53.886: V SWT_MetaDataManager(4312): metadata rpUID [55] replaced by com.samsung.android.app.aodservice
+11-03 20:53:53.887: V SWT_MetaDataManager(4312): metadata rpUID [7_2] replaced by com.samsung.android.app.aodservice
+11-03 20:53:53.907: V SWT_MetaDataManager(4312): metadata rpUID [16] replaced by com.samsung.android.calendar
+11-03 20:53:53.922: V SWT_MetaDataManager(4312): metadata rpUID [95] replaced by com.samsung.android.emergency
+11-03 20:53:53.935: V SWT_MetaDataManager(4312): metadata rpUID [222] replaced by com.samsung.android.aremoji
+11-03 20:53:53.939: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.service.airviewdictionary
+11-03 20:53:53.950: V SWT_MetaDataManager(4312): metadata rpUID [58] replaced by com.samsung.android.smartmirroring
+11-03 20:53:53.958: V SWT_MetaDataManager(4312): metadata rpUID [54] replaced by com.samsung.android.incallui
+11-03 20:53:53.963: V SWT_MetaDataManager(4312): metadata rpUID [72] replaced by com.samsung.android.service.tagservice
+11-03 20:53:53.987: V SWT_MetaDataManager(4312): metadata rpUID [49] replaced by com.samsung.android.app.galaxyraw
+11-03 20:53:53.993: V SWT_MetaDataManager(4312): metadata rpUID [59] replaced by com.samsung.android.rubin.app
+11-03 20:53:53.996: V SWT_MetaDataManager(4312): metadata rpUID [13_1] replaced by com.wsomacp
+11-03 20:53:54.006: V SWT_MetaDataManager(4312): metadata rpUID [20] replaced by com.sec.android.app.voicenote
+11-03 20:53:54.011: V SWT_MetaDataManager(4312): metadata rpUID [244] replaced by com.samsung.android.inputshare
+11-03 20:53:54.021: V SWT_MetaDataManager(4312): metadata rpUID [29] replaced by com.sec.android.daemonapp
+11-03 20:53:54.032: V SWT_MetaDataManager(4312): metadata rpUID [314] replaced by com.samsung.android.hwresourceshare
+11-03 20:53:54.036: V SWT_MetaDataManager(4312): metadata rpUID [80] replaced by com.samsung.android.secsoundpicker
+11-03 20:53:54.046: V SWT_MetaDataManager(4312): metadata rpUID [10_1] replaced by com.samsung.android.sm.devicesecurity
+11-03 20:53:54.049: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.sidegesturepad
+11-03 20:53:54.050: V SWT_MetaDataManager(4312): metadata rpUID [35] replaced by com.samsung.android.app.telephonyui
+11-03 20:53:54.051: V SWT_MetaDataManager(4312): metadata rpUID [36] replaced by com.samsung.android.app.telephonyui
+11-03 20:53:54.061: V SWT_MetaDataManager(4312): metadata rpUID [238] replaced by com.samsung.android.bixby.agent
+11-03 20:53:54.065: V SWT_MetaDataManager(4312): metadata rpUID [215] replaced by com.android.settings.intelligence
+11-03 20:53:54.065: V SWT_MetaDataManager(4312): metadata rpUID [9_1] replaced by com.android.settings.intelligence
+11-03 20:53:54.084: V SWT_MetaDataManager(4312): metadata rpUID [21] replaced by com.sec.android.gallery3d
+11-03 20:53:54.089: V SWT_MetaDataManager(4312): metadata rpUID [98] replaced by com.samsung.android.rampart
+11-03 20:53:54.099: V SWT_MetaDataManager(4312): metadata rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 20:53:54.103: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.game.gametools
+11-03 20:53:54.119: V SWT_MetaDataManager(4312): metadata rpUID [12] replaced by com.samsung.android.app.contacts
+11-03 20:53:54.123: V SWT_MetaDataManager(4312): metadata rpUID [44_3] replaced by com.samsung.android.service.peoplestripe
+
+11-03 20:53:54.132: V SWT_MetaDataManager(4312): metadata rpUID [62] replaced by com.samsung.android.app.reminder
+11-03 20:53:54.135: V SWT_MetaDataManager(4312): metadata rpUID [44_2] replaced by com.samsung.android.app.taskedge
+11-03 20:53:54.152: V SWT_MetaDataManager(4312): metadata rpUID [14] replaced by com.sec.android.app.clockpackage
+11-03 20:53:54.157: V SWT_MetaDataManager(4312): metadata rpUID [84] replaced by com.samsung.android.mdecservice
+11-03 20:53:54.168: V SWT_MetaDataManager(4312): metadata rpUID [248] replaced by com.samsung.accessory.budsunitemgr
+11-03 20:53:54.171: V SWT_MetaDataManager(4312): metadata rpUID [97] replaced by com.samsung.android.app.readingglass
+11-03 20:53:54.178: V SWT_MetaDataManager(4312): metadata rpUID [228] replaced by com.samsung.android.coldwalletservice
+11-03 20:53:54.187: V SWT_MetaDataManager(4312): metadata rpUID [17] replaced by com.sec.android.app.myfiles
+11-03 20:53:54.203: V SWT_MetaDataManager(4312): metadata rpUID [66] replaced by com.samsung.android.app.routines
+11-03 20:53:54.214: V SWT_MetaDataManager(4312): metadata rpUID [245] replaced by com.sec.android.mimage.photoretouching
+11-03 20:53:54.223: V SWT_MetaDataManager(4312): metadata rpUID [33] replaced by com.sec.android.app.launcher
+11-03 20:53:54.224: V SWT_MetaDataManager(4312): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 20:53:54.225: V SWT_MetaDataManager(4312): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 20:53:54.226: V SWT_MetaDataManager(4312): metadata rpUID [61] replaced by com.sec.android.app.launcher
+11-03 20:53:54.226: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 44_1, existed package : com.samsung.android.app.appsedge, requested package : com.sec.android.app.launcher
+11-03 20:53:54.227: V SWT_MetaDataManager(4312): metadata rpUID [44_1] replaced by com.sec.android.app.launcher
+11-03 20:53:54.227: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 44, existed package : com.samsung.android.app.cocktailbarservice, requested package : com.sec.android.app.launcher
+11-03 20:53:54.227: V SWT_MetaDataManager(4312): metadata rpUID [44] replaced by com.sec.android.app.launcher
+11-03 20:53:54.228: V SWT_MetaDataManager(4312): metadata rpUID [4_1] replaced by com.sec.android.app.launcher
+11-03 20:53:54.253: V SWT_MetaDataManager(4312): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 20:53:54.253: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 87, existed package : com.sec.android.app.sbrowser.beta, requested package : com.sec.android.app.sbrowser
+11-03 20:53:54.254: V SWT_MetaDataManager(4312): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 20:53:54.258: V SWT_MetaDataManager(4312): metadata rpUID [236] replaced by com.samsung.android.app.interpreter
+11-03 20:53:54.274: V SWT_MetaDataManager(4312): metadata rpUID [26] replaced by com.samsung.android.dialer
+11-03 20:53:54.278: V SWT_MetaDataManager(4312): metadata rpUID [247] replaced by com.samsung.android.app.cameraassistant
+11-03 20:53:54.283: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 58, existed package : com.samsung.android.smartmirroring, requested package : com.samsung.android.drivingplus
+11-03 20:53:54.284: V SWT_MetaDataManager(4312): metadata rpUID [58] replaced by com.samsung.android.drivingplus
+11-03 20:53:54.294: V SWT_MetaDataManager(4312): metadata rpUID [67] replaced by com.samsung.android.forest
+11-03 20:53:54.297: V SWT_MetaDataManager(4312): metadata rpUID [610] replaced by io.mesalabs.knoxpatch
+11-03 20:53:54.301: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 54, existed package : com.samsung.android.incallui, requested package : com.samsung.android.callassistant
+11-03 20:53:54.302: V SWT_MetaDataManager(4312): metadata rpUID [54] replaced by com.samsung.android.callassistant
+11-03 20:53:54.304: V SWT_MetaDataManager(4312): metadata rpUID [44_4] replaced by com.sec.android.app.quicktool
+11-03 20:53:54.306: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.mdx
+11-03 20:53:54.372: V SWT_MetaDataManager(4312): metadata rpUID [242] replaced by com.sec.android.app.shealth
+11-03 20:53:54.379: V SWT_MetaDataManager(4312): metadata rpUID [250] replaced by com.samsung.android.warrantycare
+11-03 20:53:54.384: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 64, existed package : com.samsung.knox.securefolder, requested package : com.samsung.android.appseparation
+11-03 20:53:54.384: V SWT_MetaDataManager(4312): metadata rpUID [64] replaced by com.samsung.android.appseparation
+11-03 20:53:54.386: V SWT_MetaDataManager(4312): metadata rpUID [75] replaced by com.samsung.android.honeyboard
+11-03 20:53:54.390: V SWT_MetaDataManager(4312): metadata rpUID [232] replaced by com.samsung.android.app.soundpicker
+11-03 20:53:54.409: V SWT_MetaDataManager(4312): metadata rpUID [226] replaced by com.samsung.android.app.sharelive
+11-03 20:53:54.413: V SWT_MetaDataManager(4312): metadata rpUID [9] replaced by com.android.settings
+11-03 20:53:54.414: V SWT_MetaDataManager(4312): metadata rpUID [40] replaced by com.android.settings
+11-03 20:53:54.415: V SWT_MetaDataManager(4312): metadata rpUID [9_5] replaced by com.android.settings
+11-03 20:53:54.420: V SWT_MetaDataManager(4312): metadata rpUID [96] replaced by com.samsung.android.widget.pictureframe
+11-03 20:53:54.429: V SWT_MetaDataManager(4312): metadata rpUID [46] replaced by com.samsung.app.newtrim
+11-03 20:53:54.437: V SWT_MetaDataManager(4312): metadata rpUID [65] replaced by com.samsung.android.fast
+11-03 20:53:54.456: V SWT_MetaDataManager(4312): metadata rpUID [10] replaced by com.samsung.android.lool
+11-03 20:53:54.460: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.scpm
+11-03 20:53:54.480: V SWT_MetaDataManager(4312): metadata rpUID [214] replaced by com.samsung.android.visionintelligence
+11-03 20:53:54.485: V SWT_MetaDataManager(4312): metadata rpUID [315] replaced by com.samsung.android.hwresourceshare.storage
+11-03 20:53:54.495: V SWT_MetaDataManager(4312): metadata rpUID [50] replaced by com.samsung.android.service.aircommand
+11-03 20:53:54.501: V SWT_MetaDataManager(4312): metadata rpUID [42] replaced by com.wssyncmldm
+11-03 20:53:54.508: V SWT_MetaDataManager(4312): metadata rpUID [4] replaced by com.android.systemui
+11-03 20:53:54.509: V SWT_MetaDataManager(4312): metadata rpUID [213] replaced by com.android.systemui
+11-03 20:53:54.547: V SWT_MetaDataManager(4312): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 20:53:54.569: V SWT_MetaData(4312): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 20:53:54.570: V SWT_MetaDataManager(4312): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 20:53:54.574: V SWT_MetaDataManager(4312): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 20:53:54.579: V SWT_MetaDataManager(4312): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 20:53:54.588: V SWT_MetaDataManager(4312): metadata rpUID [23] replaced by com.samsung.android.video
+
+
+ThemeFramework Information:
+current_sec_active_themepackage : null
+current_sec_active_theme_policy : null
+current_sec_appicon_theme_package : null
+current_sec_aod_theme_package : null
+current_sec_wallpaper_theme_package : null
+wallpapertheme_state : 1
+themepark theme is applied : false
+wallpapertheme_color_isgray : 0
+wallpapertheme_color_style : null
+wallpapertheme_color(toHex) : [ffffffff, fffcfcf7, fff1f2d8, ffe4e6b2, ffc8cc60, ffadb138, ff929530, ff787b27, ff5f611f, ff474917, ff313210, ff1c1c09, ff000000, ffffffff, fffcfcfb, fff1f1ea, ffe3e3d4, ffc7c8aa, ffadae81, ff92945f, ff78794e, ff5f603e, ff47482e, ff313120, ff1c1c12, ff000000, ffffffff, fffdfcfa, fff2f1e7, ffe6e3cf, ffcdc79f, ffb5ac70, ff9b9250, ff807842, ff655f35, ff4c4727, ff33301b, ff1d1b0f, ff000000, ffffffff, fffcfcfb, fff1f1ea, ffe3e3d6, ffc7c8ad, ffacae85, ff929362, ff787951, ff5f6040, ff474830, ff313121, ff1c1c13, ff000000, ffffffff, fffcfcfb, fff1f1ea, ffe3e3d6, ffc7c8ad, ffacae85, ff929362, ff787951, ff5f6040, ff474830, ff313121, ff1c1c13, ff000000]
+colortheme_app_icon : 0
+available theme content at /data/overlays/main_packages : No files in directory
