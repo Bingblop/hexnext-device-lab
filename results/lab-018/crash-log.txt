@@ -1,0 +1,44 @@
+--------- beginning of crash
+11-04 01:30:18.794 13364 13364 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-04 01:30:18.794 13364 13364 F DEBUG   : Build fingerprint: 'samsung/m3quew/m3q:17/CP2A.260605.016/S948U1UEU4BZID_OYM4BZID:user/release-keys'
+11-04 01:30:18.794 13364 13364 F DEBUG   : Kernel Release: '6.12.69-android16-6-pee899be-abogkiS948USQU4BZID-4k'
+11-04 01:30:18.794 13364 13364 F DEBUG   : Revision: '16'
+11-04 01:30:18.794 13364 13364 F DEBUG   : ABI: 'arm64'
+11-04 01:30:18.794 13364 13364 F DEBUG   : Processor: '-1'
+11-04 01:30:18.794 13364 13364 F DEBUG   : Timestamp: 2026-11-04 01:30:17.983387391-0500
+11-04 01:30:18.794 13364 13364 F DEBUG   : Process uptime: 1s
+11-04 01:30:18.794 13364 13364 F DEBUG   : Executable: /system/bin/app_process64
+11-04 01:30:18.794 13364 13364 F DEBUG   : Cmdline: me.weishu.kernelsu_zygote
+11-04 01:30:18.794 13364 13364 F DEBUG   : pid: 13364, ppid: 13161, tid: 13364, name: kernelsu_zygote  >>> me.weishu.kernelsu_zygote <<<
+11-04 01:30:18.794 13364 13364 F DEBUG   : uid: 10367
+11-04 01:30:18.794 13364 13364 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-04 01:30:18.794 13364 13364 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-04 01:30:18.794 13364 13364 F DEBUG   : esr: 0000000092000006 (Data Abort Exception 0x24)
+11-04 01:30:18.794 13364 13364 F DEBUG   : signal 31 (SIGSYS), code 1 (SYS_SECCOMP), fault addr --------
+11-04 01:30:18.794 13364 13364 F DEBUG   : Cause: seccomp prevented call to disallowed arm64 system call 146
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x0  0000000000000000  x1  00000079babd8080  x2  00000079babd8080  x3  0000000000004000
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x4  00000079baaf6b65  x5  00000079f4152070  x6  00000079f4152070  x7  000000000000000f
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x8  0000000000000092  x9  0000000000003434  x10 0000000000003434  x11 0000000000000075
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x12 0000000000000018  x13 0000000000000001  x14 0000000000000000  x15 5f64616f6c657250
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x16 00000076f6573f20  x17 00000079babb6980  x18 00000079f36d4000  x19 0000007756832830
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x20 00000078a681da30  x21 0000007fe4dc78bc  x22 b400007796810f70  x23 0000007fe4dc78b8
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x24 0000000000000000  x25 0000007fe4dc78d8  x26 b4000078e6810de0  x27 0000007786861070
+11-04 01:30:18.794 13364 13364 F DEBUG   :     x28 0000007fe4dc77d0  x29 0000007fe4dc78ec
+11-04 01:30:18.794 13364 13364 F DEBUG   :     lr  00000076f656f5c0  sp  0000007fe4dc7770  pc  00000079babb698c  pst 0000000080001000
+11-04 01:30:18.794 13364 13364 F DEBUG   :     esr 0000000092000006  vg  0000000000000002
+11-04 01:30:18.794 13364 13364 F DEBUG   : 2 total frames
+11-04 01:30:18.802 13364 13364 F DEBUG   : backtrace:
+11-04 01:30:18.802 13364 13364 F DEBUG   :       #00 pc 00000000000de98c  /apex/com.android.runtime/lib64/bionic/libc.so (setuid+12) (BuildId: 8dd29b5be3344cf1545af1db8c58e42c)
+11-04 01:30:18.806 13364 13364 F DEBUG   :       #01 pc 00000000000065bc  /data/app/~~6ep_YkzwFs5Bc9hdWaG_-A==/me.weishu.kernelsu-FW5gDcmoY1b0j4nEslgKGQ==/lib/arm64/libkernelsu.so (Java_me_weishu_kernelsu_magica_AppZygotePreload_forkDontCareAndExecKsud+336) (BuildId: 1d3c61ecc7e4e3e043ec31be13272411b9c20986)
+11-04 01:30:18.806 13364 13364 F DEBUG   : Note: To display stack pointer information, use the pbtombstone tool:
+11-04 01:30:18.806 13364 13364 F DEBUG   :         pbtombstone --display-sp tombstone_XX.pb
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: FATAL EXCEPTION: DefaultDispatcher-worker-1
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: Process: com.hexnext.themer.owner, PID: 12815
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void java.util.concurrent.CountDownLatch.countDown()' on a null object reference
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at k6.y4.o(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:1385)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at w6.a.j(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:8)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at p7.e0.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:117)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at l.h.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:17)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at w7.k.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:3)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	at w7.a.run(r8-map-id-1b8a13f8e8955bbe379ab24ec607cb9b3f1d7c691bb25933f75606eee3904f44:90)
+11-04 02:21:24.180 12815 12833 E AndroidRuntime: 	Suppressed: u7.f: [m1{Cancelling}@b30a69f, Dispatchers.IO]
