@@ -14,3 +14,4 @@
 [12:31:07] capture light settings
 [12:31:30] job lab-025 pushed
 [12:32:00] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[12:32:03] lab repaired
