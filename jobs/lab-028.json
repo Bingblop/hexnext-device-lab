@@ -1,0 +1,32 @@
+{
+  "steps": [
+    "install",
+    "arsc",
+    "capture",
+    "bare"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "app:com.samsung.android.calendar",
+    "app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity"
+  ],
+  "arsc": [
+    "com.samsung.android.calendar"
+  ],
+  "expect": {
+    "no_crash": true
+  },
+  "id": "lab-028",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41904123948,
+  "artifact_sha256": "86e38bacab574f284f566f4100d61ac6f3193383db65c609565f2b09f7604132",
+  "bare": [
+    "com.samsung.android.calendar"
+  ]
+}
