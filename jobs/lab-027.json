@@ -1,0 +1,36 @@
+{
+  "steps": [
+    "install",
+    "capture",
+    "arsc"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light"
+  ],
+  "captures": [
+    "power",
+    "app:com.android.chrome",
+    "app:com.google.android.apps.docs",
+    "app:com.google.android.apps.messaging",
+    "app:com.google.android.calculator",
+    "app:com.google.android.calendar",
+    "app:com.google.android.deskclock",
+    "app:com.google.android.gm",
+    "app:com.samsung.android.calendar",
+    "app:com.samsung.android.email.provider",
+    "app:com.samsung.android.lool"
+  ],
+  "arsc": [
+    "com.samsung.android.lool"
+  ],
+  "expect": {
+    "no_crash": true
+  },
+  "id": "lab-027",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41895429633,
+  "artifact_sha256": "10ac9f36412dc27c9c47a8e3b2aa9b82378d7399f121281808fe930664819441"
+}
