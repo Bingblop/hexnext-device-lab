@@ -1,0 +1,89 @@
+com.google.android.networkstack.tethering
+[x] com.google.android.networkstack.tethering.overlay
+
+com.android.uwb.resources
+[x] com.samsung.android.uwb.resources
+
+com.android.providers.telephony
+--- com.android.providers.telephony.auto_generated_characteristics_rro
+
+com.android.virtualdevicemanager
+--- com.android.virtualdevicemanager.auto_generated_characteristics_rro
+
+com.android.companiondevicemanager
+--- com.android.companiondevicemanager.auto_generated_characteristics_rro
+
+com.google.android.providers.media.module
+[x] com.google.android.overlay.modules.mediaprovider
+
+android
+[x] android.auto_generated_rro_vendor__
+[x] com.google.android.overlay.modules.captiveportallogin.forframework
+[x] com.samsung.android.internal.overlay.config.default_contextual_search
+[x] com.google.android.overlay.gmsconfig.asi
+[x] com.google.android.overlay.gmsconfig.common
+[x] com.google.android.overlay.gmsconfig.gsa
+[x] com.google.android.overlay.gmsconfig.geotz
+[x] com.google.android.overlay.modules.ext.services
+[x] com.google.android.overlay.modules.healthfitness.forframework
+[x] com.google.android.overlay.modules.permissioncontroller.forframework
+[x] com.google.android.overlay.modules.modulemetadata.forframework
+[x] com.google.android.overlay.aicoreconfig
+[x] com.google.android.verifier.overlay
+[x] android.auto_generated_rro_product__
+[x] com.samsung.android.smartface.overlay
+[ ] com.android.internal.display.cutout.emulation.corner
+[ ] com.android.internal.display.cutout.emulation.double
+[ ] com.samsung.internal.systemui.navbar.sec_gestural
+[ ] com.android.internal.display.cutout.emulation.hole
+[ ] com.android.internal.display.cutout.emulation.tall
+[ ] com.android.internal.systemui.navbar.threebutton
+[ ] com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+[ ] com.android.internal.display.cutout.emulation.waterfall
+[ ] com.samsung.internal.systemui.navbar.gestural_no_hint
+[x] com.android.internal.systemui.navbar.gestural
+[x] com.android.internal.systemui.navbar.transparent
+[x] com.android.shell:HexNext_android
+
+com.android.nfc
+[x] com.samsung.android.nfc.resources.usa
+
+com.google.android.permissioncontroller
+[x] com.google.android.overlay.modules.permissioncontroller
+[x] android:PermissionControllerDA_FRRO
+
+com.google.android.euicc
+[x] com.sec.android.app.googlelpaoverlay
+
+com.google.android.networkstack
+[x] com.samsung.android.networkstack
+[ ] com.samsung.android.wcmurlsnetworkstack
+
+com.google.android.gms
+[x] com.sec.android.app.qsfastpairoverlay
+
+com.android.wifi.resources
+[x] com.samsung.android.wifi.softapwpathree.resources
+[x] com.samsung.android.wifi.p2paware.resources
+[x] com.samsung.android.wifi.softap.resources
+[x] com.samsung.android.wifi.softapqc.resources
+[x] com.samsung.android.wifi.resources
+[x] com.samsung.android.wifi.h2e.resources
+[x] com.samsung.android.wifi.largetcpbuffer.resources
+[x] com.samsung.android.wifi.resources.lls
+[x] com.samsung.android.wifi.saeupgradeoffload.resources
+[x] com.samsung.android.wifi.resources.wifilock
+
+com.google.android.connectivity.resources
+[x] com.samsung.android.ConnectivityOverlay
+[x] com.samsung.android.ConnectivityUxOverlay
+
+com.android.networkstack.tethering
+--- com.samsung.android.networkstack.tethering.overlay
+
+com.google.android.documentsui
+[x] com.google.android.overlay.modules.documentsui
+
+com.android.phone
+--- com.android.phone.auto_generated_characteristics_rro
+

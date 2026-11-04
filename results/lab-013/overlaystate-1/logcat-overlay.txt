@@ -1,0 +1,400 @@
+11-04 00:06:44.918 16450 16450 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.918 18324 18324 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.919 17126 17126 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.919 22394 22394 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.919 25590 25590 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.920 15689 15689 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.920 17654 17654 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.921 18300 18300 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.921 15995 15995 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.921 16840 16840 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.921 17664 17664 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 18649 18649 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 16861 16861 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 16014 16014 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 16026 16026 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 26412 26412 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 26387 26387 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 20987 20987 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 18991 18991 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 18813 18813 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.922 25759 25759 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 19845 19845 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 14817 14817 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 19586 19586 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 25640 25640 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 25068 25068 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 16054 16054 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.923 21497 21497 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 16795 16795 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 25290 25290 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 21651 21651 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 21901 21901 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 26373 26373 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 21623 21623 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 18452 18452 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 18428 18428 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 18778 18778 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 25131 25131 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.924 25570 25570 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 26534 26534 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 16311 16311 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 19584 19584 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 16333 16333 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 20888 20888 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 25605 25605 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 18396 18396 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.925 20176 20176 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 15983 15983 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 22368 22368 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 15769 15769 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 14008 14008 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 25369 25369 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 19460 19460 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 17233 17233 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 25623 25623 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 25306 25306 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.926 19756 19756 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.927 25406 25406 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.927 19595 19595 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.927 25489 25489 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.927 13115 13170 D WindowManager: prepareSync <SYNC_STATE_WAITING_FOR_DRAW>, mPrepareSyncSeqId=0, win=Window{898cde0 u0 ScreenDecorOverlayBottom}
+11-04 00:06:44.927 13115 13170 D WindowManager: prepareSync <SYNC_STATE_WAITING_FOR_DRAW>, mPrepareSyncSeqId=0, win=Window{41fb4f5 u0 ScreenDecorOverlay}
+11-04 00:06:44.927 13115 13170 D WindowManager: prepareSync <SYNC_STATE_WAITING_FOR_DRAW>, mPrepareSyncSeqId=0, win=Window{5368a50 u0 SGestureOverlayWindow}
+11-04 00:06:44.927 19915 19915 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.927 13115 13170 D WindowManager: prepareSync <SYNC_STATE_WAITING_FOR_DRAW>, mPrepareSyncSeqId=0, win=Window{30b6eb5 u0 RecentsTransitionOverlay}
+11-04 00:06:44.929 15588 15588 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 21215 21215 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 18269 18269 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 14076 14076 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 14189 14189 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 14267 14267 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.929 14247 14247 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.930 15919 15919 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.930 14063 14063 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.931 17345 17345 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.931 20730 20730 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.931 15345 15345 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.931 18214 18214 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.931 13928 13928 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.932 14913 14913 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.932 15244 15244 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.933 17191 17191 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.933 14096 14096 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.933 18179 18179 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.934 14185 14185 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.934 20983 20983 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.934 18549 18549 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.934 25341 25341 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.935 20600 20600 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.935 15895 15895 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.935 15820 15820 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.937 14236 14236 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.937 14227 14227 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.937 16878 16878 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.938 14152 14152 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.939  2115  3492 I SurfaceFlinger: Capture layer list: 	 VRI-SGestureOverlayWindow$_14615#1348(preserveDisplayColors:1)
+11-04 00:06:44.940  2115  2343 D RenderEngine: Rendering layer VRI-SGestureOverlayWindow$_14615#1348 at index 4
+11-04 00:06:44.956 13115 13170 V AppCompatResourceOverlayPolicy: doResourceOverlayChangesAffectActivity: result: true componentName: ComponentInfo{com.termux/com.termux.app.TermuxActivity} overlayPathsAdded: {/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro} overlayPathsRemoved: {} displayId: 0 deviceId: 0
+11-04 00:06:44.961  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658516 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (46)
+11-04 00:06:44.961  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658521 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (2)
+11-04 00:06:44.962 14853 14853 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.970 14615 14615 I HoneySpace.SGestureOverlayWindowImpl: updateOverlayWindow to change visibility
+11-04 00:06:44.970 14615 14615 I HoneySpace.SGestureOverlayWindow: changeVisibility = 0
+11-04 00:06:44.982 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: call setFrameRateCategory category=normal, reason=small, vri=VRI[ScreenDecorOverlay]@a5db90f
+11-04 00:06:44.983 14076 14076 D NavigationModeController: onOverlayChanged
+11-04 00:06:44.983  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_14076#1338] setFrameRateCategory: Normal
+11-04 00:06:44.984 13878 13878 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:44.985 14076 14076 D NavigationModeController: migrateNavigationBarIfNecessary currentOverlayInfo=OverlayInfo {packageName=com.android.internal.systemui.navbar.gestural, overlayName=null, targetPackage=android, targetOverlayable=null, category=com.android.internal.navigation_bar_mode, state=3 (STATE_ENABLED),, userId=0, isFabricated=false, constraints=None }
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /vendor/overlay/framework-res__m3qsqw__auto_generated_rro_vendor.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/CaptivePortalLoginFrameworkOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/DefaultContextualSearchOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayASI.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayCommon.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayGSA.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayGeotz.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GoogleExtServicesConfigOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GoogleHealthFitnessFrameworkOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GooglePermissionControllerFrameworkOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/ModuleMetadataGoogleOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/AICoreODIOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayADVerifier.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/framework-res__m3quew__auto_generated_rro_product.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /system_ext/overlay/smartfaceservice_overlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+11-04 00:06:44.985 14076 14076 D NavigationModeController:     /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro
+11-04 00:06:44.986 13115 16134 I WindowManager: Relayout Window{41fb4f5 u0 ScreenDecorOverlay}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:44.987 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlay]@a5db90f mNativeObject= 0xb40000729067ced0 sc.mNativeObject= 0xb40000733063c750 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:44.987 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: Relayout returned: old=(0,0,1440,149) new=(0,0,1440,149) relayoutAsync=true req=(1440,149)0 dur=1 res=0x0 s={true 0xb4000072206d6330} ch=false seqId=2 syncSeqId=0
+11-04 00:06:44.987 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: registerCallbackForPendingTransactions
+11-04 00:06:44.988 14076 14443 I VRI[ScreenDecorOverlay]@a5db90f: mWNT: t=0xb40000721071ad20 fn= 48 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:7108 android.view.ViewRootImpl$4.onFrameDraw:2700 android.view.ThreadedRenderer$1.onFrameDraw:750 
+11-04 00:06:44.989 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@f96759 mNativeObject= 0xb400007290680500 sc.mNativeObject= 0xb40000733063c990 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:44.989 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: Relayout returned: old=(0,2971,1440,3120) new=(0,2971,1440,3120) relayoutAsync=true req=(1440,149)0 dur=1 res=0x0 s={true 0xb4000072206cbbd0} ch=false seqId=2 syncSeqId=0
+11-04 00:06:44.989 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: registerCallbackForPendingTransactions
+11-04 00:06:44.990 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: call setFrameRateCategory category=normal, reason=intermittent, vri=VRI[ScreenDecorOverlayBottom]@f96759
+11-04 00:06:44.990 14076 14444 I VRI[ScreenDecorOverlayBottom]@f96759: mWNT: t=0xb4000072106e0930 fn= 3 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:7108 android.view.ViewRootImpl$4.onFrameDraw:2700 android.view.ThreadedRenderer$1.onFrameDraw:750 
+11-04 00:06:44.991 13115 14391 I WindowManager: Relayout Window{898cde0 u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:44.992  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_14076#1339] setFrameRateCategory: Normal
+11-04 00:06:44.994 14615 14615 I HoneySpace.NavigationModeSource: naviMode update: overlay changed
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/vendor/overlay/framework-res__m3qsqw__auto_generated_rro_vendor.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/CaptivePortalLoginFrameworkOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/DefaultContextualSearchOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GmsConfigOverlayASI.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GmsConfigOverlayCommon.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GmsConfigOverlayGSA.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GmsConfigOverlayGeotz.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GoogleExtServicesConfigOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GoogleHealthFitnessFrameworkOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GooglePermissionControllerFrameworkOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/ModuleMetadataGoogleOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/AICoreODIOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/GmsConfigOverlayADVerifier.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/framework-res__m3quew__auto_generated_rro_product.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/system_ext/overlay/smartfaceservice_overlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk}
+11-04 00:06:44.995 14615 14706 I HoneySpace.NavigationModeSource: ApkAssets{path=/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro}
+11-04 00:06:45.006 13115 14397 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 00:06:45.008 13115 13150 W ApplicationInfo: Large ApplicationInfo parcel: size=17716 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 00:06:45.008 13115 13150 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:45.008 13115 13491 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:45.008 13115 13491 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:45.033 14615 14615 I VRI[SGestureOverlayWindow]@8d532d9: handleResized, frames=ClientWindowFrames{frame=[0,3020][1440,3120] display=[0,139][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=true displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 00:06:45.033 14615 14615 I VRI[SGestureOverlayWindow]@8d532d9: handleResized seqId=1 mSeqId=1 mSyncSeqId=0 syncWithBuffers=false
+11-04 00:06:45.034 14615 14615 I BLASTBufferQueue_Java: update, w= 1440 h= 100 mName = VRI[SGestureOverlayWindow]@8d532d9 mNativeObject= 0xb40000729066add0 sc.mNativeObject= 0xb400007330611f10 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:45.034 14615 14615 I VRI[SGestureOverlayWindow]@8d532d9: Relayout returned: old=(0,3020,1440,3120) new=(0,3020,1440,3120) relayoutAsync=true req=(1440,100)0 dur=0 res=0x0 s={true 0xb40000722064c990} ch=false seqId=1 syncSeqId=0
+11-04 00:06:45.048 13115 16434 I WindowManager: Relayout Window{5368a50 u0 SGestureOverlayWindow}: viewVisibility=0 req=1440x100 ty=2274 d0
+11-04 00:06:45.066 14615 14615 I HoneySpace.DeviceStateUseCase: update: DeviceState(naviMode=NO_BUTTON, navigationBarHeight=100, hint=true, transparentHint=false, rotation=0, displayId=0, displaySize=Point(1440, 3120), displayCutout=DisplayCutout{insets=Rect(0, 139 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(680, 0 - 760, 139), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -10.66666666666667 V 37.06666666666667 H 10.66666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, isNavCanMove=false, isTablet=false, extraDisplayInfo=ExtraDisplayInfo(rotation=-1, displayId=-1, displaySize=Point(0, 0), displayCutout=null, foldState=-1), enableOverlayWindow=true)
+11-04 00:06:45.069  2115  2115 D SurfaceFlinger:        DEVICE |           62770947031047 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_14615#1348 (1)
+11-04 00:06:45.069  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658516 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (54)
+11-04 00:06:45.069  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658520 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (3)
+11-04 00:06:45.102  2115  2115 D SurfaceFlinger:        DEVICE |           62770947031047 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_14615#1348 (1)
+11-04 00:06:45.102  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658516 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (54)
+11-04 00:06:45.102  2115  2115 D SurfaceFlinger: EVICE |           60455959658520 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (3)
+11-04 00:06:45.110 14076 14076 I VRI[ScreenDecorOverlay]@a5db90f: Resizing android.view.ViewRootImpl@e6ad801: frame = [0,0][1440,149] reportDraw = false forceLayout = false
+11-04 00:06:45.110 14076 14076 I VRI[ScreenDecorOverlayBottom]@f96759: Resizing android.view.ViewRootImpl@4d34cf5: frame = [0,2971][1440,3120] reportDraw = false forceLayout = false
+11-04 00:06:45.110 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: handleResized, frames=ClientWindowFrames{frame=[0,0][1440,149] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=true displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 00:06:45.110 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: handleResized seqId=3 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 00:06:45.110 14076 14738 D VRI[ScreenDecorOverlay]@a5db90f: reportNextDraw android.view.ViewRootImpl.handleResized:3276 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:8943 android.view.ViewRootImpl$ViewRootHandler.handleMessage:8907 android.os.Handler.dispatchMessageImpl:142 
+11-04 00:06:45.110 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: handleResized, frames=ClientWindowFrames{frame=[0,2971][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=true displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 00:06:45.110 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: handleResized seqId=3 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 00:06:45.110 14076 14738 D VRI[ScreenDecorOverlayBottom]@f96759: reportNextDraw android.view.ViewRootImpl.handleResized:3276 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:8943 android.view.ViewRootImpl$ViewRootHandler.handleMessage:8907 android.os.Handler.dispatchMessageImpl:142 
+11-04 00:06:45.121 13115 13987 I WindowManager: Relayout Window{41fb4f5 u0 ScreenDecorOverlay}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:45.126 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlay]@a5db90f mNativeObject= 0xb40000729067ced0 sc.mNativeObject= 0xb40000733063c750 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:45.126 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: Relayout returned: old=(0,0,1440,149) new=(0,0,1440,149) relayoutAsync=false req=(1440,149)0 dur=8 res=0x0 s={true 0xb4000072206d6330} ch=false seqId=3 syncSeqId=0
+11-04 00:06:45.126 14076 14738 D VRI[ScreenDecorOverlay]@a5db90f: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 00:06:45.126 14076 14738 D VRI[ScreenDecorOverlay]@a5db90f: Setup new sync=wmsSync-VRI[ScreenDecorOverlay]@a5db90f#30
+11-04 00:06:45.126 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: Creating new active sync group VRI[ScreenDecorOverlay]@a5db90f#31
+11-04 00:06:45.127 14076 14738 D VRI[ScreenDecorOverlay]@a5db90f: registerCallbacksForSync syncBuffer=false
+11-04 00:06:45.127 14076 14444 D VRI[ScreenDecorOverlay]@a5db90f: Received frameDrawingCallback syncResult=0 frameNum=55.
+11-04 00:06:45.127  2115  2115 D SurfaceFlinger:        DEVICE |           62770947031047 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_14615#1348 (1)
+11-04 00:06:45.127  2115  2115 D SurfaceFlinger:     60455959658516 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (54)
+11-04 00:06:45.127  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658520 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (3)
+11-04 00:06:45.128 14076 14444 I VRI[ScreenDecorOverlay]@a5db90f: mWNT: t=0xb400007210706710 fn= 55 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 00:06:45.128 14076 14444 I VRI[ScreenDecorOverlay]@a5db90f: Setting up sync and frameCommitCallback
+11-04 00:06:45.128 14076 14445 I VRI[ScreenDecorOverlay]@a5db90f: Received frameCommittedCallback lastAttemptedDrawFrameNum=55 didProduceBuffer=true
+11-04 00:06:45.128 14076 14738 D VRI[ScreenDecorOverlay]@a5db90f: reportDrawFinished seqId=3
+11-04 00:06:45.131 13115 15780 I WindowManager: Relayout Window{898cde0 u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:45.131 13115 16440 D WindowManager: finishDrawingWindow: Window{41fb4f5 u0 ScreenDecorOverlay} mDrawState=HAS_DRAWN seqId=3 mSyncSeqId=3
+11-04 00:06:45.132 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@f96759 mNativeObject= 0xb400007290680500 sc.mNativeObject= 0xb40000733063c990 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:45.132 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: Relayout returned: old=(0,2971,1440,3120) new=(0,2971,1440,3120) relayoutAsync=false req=(1440,149)0 dur=4 res=0x0 s={true 0xb4000072206cbbd0} ch=false seqId=3 syncSeqId=0
+11-04 00:06:45.132 14076 14738 D VRI[ScreenDecorOverlayBottom]@f96759: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 00:06:45.132 14076 14738 D VRI[ScreenDecorOverlayBottom]@f96759: Setup new sync=wmsSync-VRI[ScreenDecorOverlayBottom]@f96759#32
+11-04 00:06:45.133 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: Creating new active sync group VRI[ScreenDecorOverlayBottom]@f96759#33
+11-04 00:06:45.133 14076 14738 D VRI[ScreenDecorOverlayBottom]@f96759: registerCallbacksForSync syncBuffer=false
+11-04 00:06:45.133 14076 14443 D VRI[ScreenDecorOverlayBottom]@f96759: Received frameDrawingCallback syncResult=0 frameNum=4.
+11-04 00:06:45.133 14076 14443 I VRI[ScreenDecorOverlayBottom]@f96759: mWNT: t=0xb400007210706e00 fn= 4 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 00:06:45.133 14076 14443 I VRI[ScreenDecorOverlayBottom]@f96759: Setting up sync and frameCommitCallback
+11-04 00:06:45.134 14076 14445 I VRI[ScreenDecorOverlayBottom]@f96759: Received frameCommittedCallback lastAttemptedDrawFrameNum=4 didProduceBuffer=true
+11-04 00:06:45.134 14076 14738 D VRI[ScreenDecorOverlayBottom]@f96759: reportDrawFinished seqId=3
+11-04 00:06:45.142 13115 16436 D WindowManager: finishDrawingWindow: Window{898cde0 u0 ScreenDecorOverlayBottom} mDrawState=HAS_DRAWN seqId=3 mSyncSeqId=3
+11-04 00:06:45.144  2115  2115 D SurfaceFlinger:        DEVICE |           62770947031047 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_14615#1348 (1)
+11-04 00:06:45.144  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658515 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (55)
+11-04 00:06:45.144  2115  2115 D SurfaceFlinger:      60455959658519 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (4)
+11-04 00:06:45.207 14615 14615 I HoneySpace.SGestureOverlayWindowImpl: updateOverlayWindow to change visibility
+11-04 00:06:45.207 14615 14615 I HoneySpace.SGestureOverlayWindow: changeVisibility = 0
+11-04 00:06:45.295 20516 27539 I AppIconSolution: load= live icon for com.sec.android.app.clockpackage, from overlay = false
+11-04 00:06:45.322 20516 27539 I AppIconSolution: load= live icon for com.samsung.android.calendar, from overlay = false
+11-04 00:06:45.350 13115 16437 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 00:06:45.868 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: call setFrameRateCategory category=no preference, reason=idle timeout, vri=VRI[ScreenDecorOverlay]@a5db90f
+11-04 00:06:45.868 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: call setFrameRateCategory category=no preference, reason=idle timeout, vri=VRI[ScreenDecorOverlayBottom]@f96759
+11-04 00:06:45.884  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_14076#1338] setFrameRateCategory: NoPreference
+11-04 00:06:45.884  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_14076#1339] setFrameRateCategory: NoPreference
+11-04 00:06:47.242  2115  2115 D SurfaceFlinger:        DEVICE |           62770947031047 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_14615#1348 (1)
+11-04 00:06:47.242  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658515 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_14076#1338 (55)
+11-04 00:06:47.242  2115  2115 D SurfaceFlinger:        DEVICE |           60455959658519 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_14076#1339 (4)
+11-04 00:06:47.502 26373 26440 I HexNextRestore: applyOverlay code=0, 206 resources (42/42 drawables), 0 skipped, 3375 ms
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Committed 164 colours through OverlayManager.
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro via cmd overlay dump.
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Registered file /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  7971 2026-11-04 00:06 /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Wrote 99518 bytes to /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Replaced /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro (was 7971 bytes, crc 0x282d89b1).
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Disabled com.android.shell:HexNext_android to regenerate its idmap (exit 0).
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   idmap /data/resource-cache/data@resource-cache@com.android.shell-HexNext_android-EtF8.frro@idmap: 8364 bytes, overlay crc 0x11d1134a (matches the rewritten .frro)
+11-04 00:06:47.502 26373 26440 I HexNextRestore:   Re-read /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro: 206 entries, 42 file values, crc ok=true
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_info [night-xxhdpi]: offset=19798 size=1563, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=19798&size=1563
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/sem_resolver_background_material [night-xxhdpi]: offset=32256 size=1016, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=32256&size=1016
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/btn_borderless_material [night-xxhdpi]: offset=16 size=2495, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=16&size=2495
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/btn_borderless_rect [night-xxhdpi]: offset=4987 size=2495, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=4987&size=2495
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/sem_toast_frame_mtrl [night-xxhdpi]: offset=34523 size=1878, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=34523&size=1878
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_info [xxhdpi]: offset=21361 size=1563, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=19798&size=1563
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_battery [xxhdpi]: offset=14878 size=4920, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=9958&size=4920
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_emergencymode [xxhdpi]: offset=49486 size=3548, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=45938&size=3548
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_lockdown [xxhdpi]: offset=56294 size=3260, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=53034&size=3260
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_mobiledata [xxhdpi]: offset=62510 size=2956, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=59554&size=2956
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_poweroff [xxhdpi]: offset=68613 size=3147, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=65466&size=3147
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_restart [xxhdpi]: offset=75495 size=3735, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=71760&size=3735
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_safemode [xxhdpi]: offset=82436 size=3206, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=79230&size=3206
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/sem_resolver_background_material [xxhdpi]: offset=33272 size=1251, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=32256&size=1016
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/btn_borderless_material [xxhdpi]: offset=2511 size=2476, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=16&size=2495
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/btn_borderless_rect [xxhdpi]: offset=7482 size=2476, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=4987&size=2495
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/toast_frame [xxhdpi]: offset=42147 size=3791, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=38323&size=3824
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/sem_toast_frame_mtrl [xxhdpi]: offset=36401 size=1922, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=34523&size=1878
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_battery [night-xxhdpi]: offset=9958 size=4920, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=9958&size=4920
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_emergencymode [night-xxhdpi]: offset=45938 size=3548, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=45938&size=3548
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_lockdown [night-xxhdpi]: offset=53034 size=3260, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=53034&size=3260
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_mobiledata [night-xxhdpi]: offset=59554 size=2956, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=59554&size=2956
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_poweroff [night-xxhdpi]: offset=65466 size=3147, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=65466&size=3147
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_restart [night-xxhdpi]: offset=71760 size=3735, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=71760&size=3735
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/tw_ic_do_safemode [night-xxhdpi]: offset=79230 size=3206, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=79230&size=3206
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/toast_frame [night-xxhdpi]: offset=38323 size=3824, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=38323&size=3824
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_dark_theme [xxhdpi]: offset=23285 size=361, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=22924&size=361
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_ime_dark_theme [xxhdpi]: offset=24074 size=428, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=23646&size=428
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_ime_theme [xxhdpi]: offset=24949 size=447, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=24502&size=447
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_theme [xxhdpi]: offset=25776 size=380, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=25396&size=380
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_home_dark_theme [xxhdpi]: offset=27230 size=1074, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=26156&size=1074
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_home_theme [xxhdpi]: offset=29535 size=1231, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=28304&size=1231
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_recent_dark_theme [xxhdpi]: offset=31129 size=363, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=30766&size=363
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_recent_theme [xxhdpi]: offset=31874 size=382, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=31492&size=382
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_dark_theme [night-xxhdpi]: offset=22924 size=361, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=22924&size=361
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_ime_dark_theme [night-xxhdpi]: offset=23646 size=428, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=23646&size=428
+11-04 00:06:47.502 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_ime_theme [night-xxhdpi]: offset=24502 size=447, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=24502&size=447
+11-04 00:06:47.503 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_back_theme [night-xxhdpi]: offset=25396 size=380, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=25396&size=380
+11-04 00:06:47.503 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_home_dark_theme [night-xxhdpi]: offset=26156 size=1074, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=26156&size=1074
+11-04 00:06:47.503 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_home_theme [night-xxhdpi]: offset=28304 size=1231, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=28304&size=1231
+11-04 00:06:47.503 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_recent_dark_theme [night-xxhdpi]: offset=30766 size=363, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=30766&size=363
+11-04 00:06:47.503 26373 26440 I HexNextRestore:     android:drawable/ic_sysbar_recent_theme [night-xxhdpi]: offset=31492 size=382, lookup: frro://data/resource-cache/com.android.shell-HexNext_android-EtF8.frro?offset=31492&size=382
+11-04 00:06:47.503 26373 26440 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_android
+11-04 00:06:47.503 26373 26440 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro.
+11-04 00:06:47.503 26373 26440 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_android .frro files in /data/resource-cache.
+11-04 00:06:47.611 13115 14524 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_android_systemui, userId=-1, constraints=None}] }
+11-04 00:06:47.613 13115 14524 D OverlayManager: create idmap for com.android.systemui and com.android.shell
+11-04 00:06:47.614 27408 27408 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_android_systemui-4wXP.frro@idmap'
+11-04 00:06:47.629 13115 14524 D OverlayManager: com.android.shell:HexNext_com_android_systemui:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 00:06:47.630 13115 14524 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_android_systemui, targetPackage=com.android.systemui, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 00:06:47.630 13115 14524 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_android_systemui, userId=-1, constraints=None} affected packages from request={<0>com.android.systemui}
+11-04 00:06:47.630 13115 14524 D OverlayManager: Writing overlay settings
+11-04 00:06:47.632 13115 14524 D OverlayManager: Update package manager about changed overlays
+11-04 00:06:47.632 13115 14524 D OverlayManager: -> Updating overlay: target=com.android.systemui overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro] }] userId=0
+11-04 00:06:47.641 13115 14524 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_android_systemui, userId=-2, constraints=None}] }
+11-04 00:06:47.641 13115 14524 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_android_systemui enable=true userId=0 constraints=None
+11-04 00:06:47.641 13115 14524 D OverlayManager: create idmap for com.android.systemui and com.android.shell
+11-04 00:06:47.643 13115 14524 D OverlayManager: com.android.shell:HexNext_com_android_systemui:0: STATE_DISABLED -> STATE_ENABLED
+11-04 00:06:47.643 13115 14524 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_android_systemui userId=0
+11-04 00:06:47.643 13115 14524 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_android_systemui, userId=-2, constraints=None} affected packages from request={<0>com.android.systemui}
+11-04 00:06:47.643 13115 14524 D OverlayManager: Writing overlay settings
+11-04 00:06:47.644 13115 14524 D OverlayManager: Update package manager about changed overlays
+11-04 00:06:47.645 13115 14524 D OverlayManager: -> Updating overlay: target=com.android.systemui overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro, /data/resource-cache/com.android.shell-HexNext_com_android_systemui-4wXP.frro] }] userId=0
+11-04 00:06:47.650 14076 14076 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_com_android_systemui-4wXP.frro]
+11-04 00:06:47.661 13115 13987 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 00:06:47.664 13115 14144 W ApplicationInfo: Large ApplicationInfo parcel: size=17716 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 00:06:47.664 13115 14144 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:47.664 13115 14144 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:47.664 13115 14144 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:47.688 14076 14076 D NavigationModeController: onOverlayChanged
+11-04 00:06:47.689 14076 14076 D NavigationModeController: migrateNavigationBarIfNecessary currentOverlayInfo=OverlayInfo {packageName=com.android.internal.systemui.navbar.gestural, overlayName=null, targetPackage=android, targetOverlayable=null, category=com.android.internal.navigation_bar_mode, state=3 (STATE_ENABLED),, userId=0, isFabricated=false, constraints=None }
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /vendor/overlay/framework-res__m3qsqw__auto_generated_rro_vendor.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/CaptivePortalLoginFrameworkOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/DefaultContextualSearchOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayASI.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayCommon.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayGSA.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayGeotz.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GoogleExtServicesConfigOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GoogleHealthFitnessFrameworkOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GooglePermissionControllerFrameworkOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/ModuleMetadataGoogleOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/AICoreODIOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/GmsConfigOverlayADVerifier.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/framework-res__m3quew__auto_generated_rro_product.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /system_ext/overlay/smartfaceservice_overlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro
+11-04 00:06:47.689 14076 14076 D NavigationModeController:     /data/resource-cache/com.android.shell-HexNext_com_android_systemui-4wXP.frro
+11-04 00:06:47.709 13115 14144 I WindowManager: Relayout Window{41fb4f5 u0 ScreenDecorOverlay}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:47.713 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlay]@a5db90f mNativeObject= 0xb40000729067ced0 sc.mNativeObject= 0xb40000733063c750 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:47.713 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: Relayout returned: old=(0,0,1440,149) new=(0,0,1440,149) relayoutAsync=true req=(1440,149)0 dur=3 res=0x0 s={true 0xb4000072206d6330} ch=false seqId=3 syncSeqId=0
+11-04 00:06:47.716 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: registerCallbackForPendingTransactions
+11-04 00:06:47.717 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: call setFrameRateCategory category=normal, reason=small, vri=VRI[ScreenDecorOverlay]@a5db90f
+11-04 00:06:47.717 14076 14444 I VRI[ScreenDecorOverlay]@a5db90f: mWNT: t=0xb4000072106e8860 fn= 56 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:7108 android.view.ViewRootImpl$4.onFrameDraw:2700 android.view.ThreadedRenderer$1.onFrameDraw:750 
+11-04 00:06:47.717 14076 14738 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@f96759 mNativeObject= 0xb400007290680500 sc.mNativeObject= 0xb40000733063c990 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3898 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 00:06:47.717 13115 16440 I WindowManager: Relayout Window{898cde0 u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 00:06:47.717 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: Relayout returned: old=(0,2971,1440,3120) new=(0,2971,1440,3120) relayoutAsync=true req=(1440,149)0 dur=0 res=0x0 s={true 0xb4000072206cbbd0} ch=false seqId=3 syncSeqId=0
+11-04 00:06:47.717 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: registerCallbackForPendingTransactions
+11-04 00:06:47.717 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: call setFrameRateCategory category=normal, reason=intermittent, vri=VRI[ScreenDecorOverlayBottom]@f96759
+11-04 00:06:47.717 14076 14443 I VRI[ScreenDecorOverlayBottom]@f96759: mWNT: t=0xb400007210661190 fn= 5 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$10.onFrameDraw:7108 android.view.ViewRootImpl$4.onFrameDraw:2700 android.view.ThreadedRenderer$1.onFrameDraw:750 
+11-04 00:06:47.727  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_14076#1338] setFrameRateCategory: Normal
+11-04 00:06:47.727  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_14076#1339] setFrameRateCategory: Normal
+11-04 00:06:48.029  2115  2115 I SurfaceFlinger: VRI-SGestureOverlayWindow$_14615#1348 voted ExplicitCategory with category: NoPreference
+11-04 00:06:48.029  2115  2115 I SurfaceFlinger: VRI-ScreenDecorOverlay$_14076#1338 voted ExplicitCategory with category: Normal
+11-04 00:06:48.029  2115  2115 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_14076#1339 voted ExplicitCategory with category: Normal
+11-04 00:06:48.238 26373 26440 I HexNextRestore: applyOverlay code=0, 386 resources (0/0 drawables), 0 skipped, 628 ms
+11-04 00:06:48.238 26373 26440 I HexNextRestore:   Committed 386 colours through OverlayManager.
+11-04 00:06:48.238 26373 26440 I HexNextRestore:   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for com.android.shell:HexNext_com_android_systemui
+11-04 00:06:48.238 26373 26440 I HexNextRestore:   Located /data/resource-cache/com.android.shell-HexNext_com_android_systemui-4wXP.frro via cmd overlay dump.
+11-04 00:06:48.238 26373 26440 I HexNextRestore:   Cleanup: keeping the live /data/resource-cache/com.android.shell-HexNext_com_android_systemui-4wXP.frro.
+11-04 00:06:48.238 26373 26440 I HexNextRestore:   Cleanup: no stale com.android.shell:HexNext_com_android_systemui .frro files in /data/resource-cache.
+11-04 00:06:48.467 14076 14738 I VRI[ScreenDecorOverlay]@a5db90f: call setFrameRateCategory category=no preference, reason=idle timeout, vri=VRI[ScreenDecorOverlay]@a5db90f
+11-04 00:06:48.467 14076 14738 I VRI[ScreenDecorOverlayBottom]@f96759: call setFrameRateCategory category=no preference, reason=idle timeout, vri=VRI[ScreenDecorOverlayBottom]@f96759
+11-04 00:06:48.471  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_14076#1338] setFrameRateCategory: NoPreference
+11-04 00:06:48.471  2115  2115 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_14076#1339] setFrameRateCategory: NoPreference
+11-04 00:06:48.986 13115 15745 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_android_settings, userId=-1, constraints=None}] }
+11-04 00:06:48.988 13115 15745 D OverlayManager: create idmap for com.android.settings and com.android.shell
+11-04 00:06:48.989 27408 27408 W idmap2d : failed to parse idmap header of '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_android_settings-WLXc.frro@idmap'
+11-04 00:06:49.006 13115 15745 D OverlayManager: com.android.shell:HexNext_com_android_settings:0: STATE_UNKNOWN -> STATE_DISABLED
+11-04 00:06:49.006 13115 15745 D OverlayManager: In registerFabricatedOverlay, OverlayInfo=OverlayInfo {packageName=com.android.shell, overlayName=HexNext_com_android_settings, targetPackage=com.android.settings, targetOverlayable=, category=null, state=-1 (STATE_UNKNOWN),, userId=0, isFabricated=true, constraints=None } mustReinitializeOverlay=true updated=true
+11-04 00:06:49.006 13115 15745 D OverlayManager: Executed request=Request{type=0x02 (TYPE_REGISTER_FABRICATED), overlay=com.android.shell:HexNext_com_android_settings, userId=-1, constraints=None} affected packages from request={<0>com.android.settings}
+11-04 00:06:49.006 13115 15745 D OverlayManager: Writing overlay settings
+11-04 00:06:49.008 13115 15745 D OverlayManager: Update package manager about changed overlays
+11-04 00:06:49.009 13115 15745 D OverlayManager: -> Updating overlay: target=com.android.settings overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro] }] userId=0
+11-04 00:06:49.637 13115 16134 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=com.android.shell:HexNext_com_android_settings, userId=-2, constraints=None}] }
+11-04 00:06:49.637 13115 16134 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_android_settings enable=false userId=0 constraints=None
+11-04 00:06:49.637 13115 16134 D OverlayManager: create idmap for com.android.settings and com.android.shell
+11-04 00:06:49.637 27408 27408 W idmap2d : idmap '/data/resource-cache/data@resource-cache@com.android.shell-HexNext_com_android_settings-WLXc.frro@idmap' not up to date : bad overlay crc: idmap version 0xd33ebed4, file system version 0xe2eb51c6
+11-04 00:06:49.647 13115 16134 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=com.android.shell:HexNext_com_android_settings, userId=-2, constraints=None} affected packages from request=[<0>com.android.settings]
+11-04 00:06:49.647 13115 16134 D OverlayManager: Writing overlay settings
+11-04 00:06:49.649 13115 16134 D OverlayManager: Update package manager about changed overlays
+11-04 00:06:49.649 13115 16134 D OverlayManager: -> Updating overlay: target=com.android.settings overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro] }] userId=0
+11-04 00:06:49.738 13115 16134 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_android_settings, userId=-2, constraints=None}] }
+11-04 00:06:49.738 13115 16134 D OverlayManager: setEnabled overlay=com.android.shell:HexNext_com_android_settings enable=true userId=0 constraints=None
+11-04 00:06:49.738 13115 16134 D OverlayManager: create idmap for com.android.settings and com.android.shell
+11-04 00:06:49.738 13115 16134 D OverlayManager: com.android.shell:HexNext_com_android_settings:0: STATE_DISABLED -> STATE_ENABLED
+11-04 00:06:49.738 13115 16134 D OverlayManager: setHighestPriority overlay=com.android.shell:HexNext_com_android_settings userId=0
+11-04 00:06:49.738 13115 16134 D OverlayManager: Executed request=Request{type=0x00 (TYPE_SET_ENABLED), overlay=com.android.shell:HexNext_com_android_settings, userId=-2, constraints=None} affected packages from request={<0>com.android.settings}
+11-04 00:06:49.739 13115 16134 D OverlayManager: Writing overlay settings
+11-04 00:06:49.740 13115 16134 D OverlayManager: Update package manager about changed overlays
+11-04 00:06:49.741 13115 16134 D OverlayManager: -> Updating overlay: target=com.android.settings overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk, /data/resource-cache/com.android.shell-HexNext_android-EtF8.frro, /data/resource-cache/com.android.shell-HexNext_com_android_settings-WLXc.frro] }] userId=0
+11-04 00:06:49.744 14267 14267 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_com_android_settings-WLXc.frro]
+11-04 00:06:49.780 13115 13987 W ApplicationInfo: Large ApplicationInfo parcel: size=21532 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 00:06:49.784 13115 14394 W ApplicationInfo: Large ApplicationInfo parcel: size=17716 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 00:06:49.785 13115 14394 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:49.785 13115 13492 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:49.786 13115 13492 W ApplicationInfo: Large ApplicationInfo parcel: size=22620 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 00:06:50.178  2115  3349 I SurfaceFlinger: Capture layer list: 	 VRI-SGestureOverlayWindow$_14615#1348(preserveDisplayColors:0)
+11-04 00:06:50.178  2115  2343 D RenderEngine: Rendering layer VRI-SGestureOverlayWindow$_14615#1348 at index 3
+11-04 00:06:50.611  2115  2115 I SurfaceFlinger: VRI-SGestureOverlayWindow$_14615#1348 voted ExplicitCategory with category: NoPreference
+11-04 00:06:50.611  2115  2115 I SurfaceFlinger: VRI-ScreenDecorOverlay$_14076#1338 voted ExplicitCategory with category: NoPreference
+11-04 00:06:50.611  2115  2115 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_14076#1339 voted ExplicitCategory with category: NoPreference
+11-04 00:06:51.240 13115 13492 W ApplicationInfo: Large ApplicationInfo parcel: size=45928 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 00:06:51.298 18040 18040 I ActivityThread: assets added: [/data/resource-cache/com.android.shell-HexNext_android-EtF8.frro]
+11-04 00:06:51.406 13115 13492 W ApplicationInfo: Large ApplicationInfo parcel: size=26584 package=com.samsung.android.offline.languagemodel sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 00:06:51.408 13115 14522 W ApplicationInfo: Large ApplicationInfo parcel: size=45928 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 00:06:51.410 13115 14522 W ApplicationInfo: Large ApplicationInfo parcel: size=45928 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 00:06:51.531 13115 14524 W ApplicationInfo: Large ApplicationInfo parcel: size=45928 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 00:06:51.532 13115 14524 W ApplicationInfo: Large ApplicationInfo parcel: size=45928 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 00:06:52.812 15919 16131 I FASModelGlobal: verify : ignore com.google.android.networkstack.tethering.overlay
+11-04 00:06:52.815 15919 16131 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.permissioncontroller
+11-04 00:06:52.825 15919 16131 I FASModelGlobal: verify : ignore com.google.android.verifier.overlay

@@ -1,0 +1,3 @@
+26132 26327
+root         26132     1   14613440 164440 do_epoll_wait       0 S shizuku_server
+u0_a394      26327 12790   15299756 131964 do_epoll_wait       0 S moe.shizuku.privileged.api

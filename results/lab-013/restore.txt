@@ -1,0 +1,11 @@
+1 overlays after 0s
+--------- beginning of main
+11-04 00:06:39.853 26373 26440 I HexNextRestore: Theme overlays are gone (boot 213); applying "Hex Next" again
+11-04 00:06:39.857 26373 26440 I HexNextRestore: Applying theme "Hex Next" (default)
+11-04 00:06:39.899 26373 26440 I HexNextRestore: Theme pack: Willemite (willemite)
+11-04 00:06:41.200 26373 26440 I HexNextRestore: android: 25 unreadable value lines skipped.
+11-04 00:06:41.200 26373 26440 I HexNextRestore: com.android.systemui: 36 unreadable value lines skipped.
+11-04 00:06:41.200 26373 26440 I HexNextRestore: Device snapshot: One UI 9.0 (SDK 37), 60 targets, 65 system shades
+11-04 00:06:43.205 26373 26440 I HexNextRestore: Compiled 58 targets (13876 colours, 1031 drawables); 2 skipped
+11-04 00:06:43.815 26373 26440 I HexNextRestore: Stability monitor: Stability monitor pid 27381 watching system_server + SystemUI for 120 s
+11-04 00:06:44.118 26373 26440 I HexNextRestore: Building HexNext_android: 164 colours, 42 drawables

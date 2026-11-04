@@ -35,3 +35,15 @@
 [00:02:26] scan
 [00:02:39] apply (confirm=true)
 [00:06:04] soft reboot; remaining steps: shizuku waitrestore overlaystate capture (unlock the phone when it comes back)
+[00:06:37] job lab-013
+[00:06:37] restarting Shizuku as root
+[00:06:45] waiting for Hex Next to restore the theme
+[00:06:46] restore: Hex Next crashed
+[00:06:46] restore: 1 Hex Next overlays after 0s
+[00:06:46] overlay state 1
+[00:07:00] capture dark settings
+[00:07:16] capture dark qs
+[00:07:30] capture dark dialogs
+[00:07:50] capture dark power
+[00:08:52] preview power: the hook was not on screen (try 1)
+[00:09:42] preview power: the hook was not on screen (try 2)
