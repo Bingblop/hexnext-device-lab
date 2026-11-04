@@ -1,0 +1,3 @@
+com.android.settings:drawable/sesl_dialog_background = frro://data/resource-cache/com.android.shell-HexNext_com_android_settings-oGF3.frro?offset=377698&size=5265
+com.android.systemui:drawable/tw_ic_do_poweroff = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-nVBs.frro?offset=60688&size=3147
+com.android.systemui:drawable/tw_ic_do_restart = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-nVBs.frro?offset=66982&size=3735
