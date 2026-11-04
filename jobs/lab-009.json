@@ -21,7 +21,8 @@
     "settings",
     "qs",
     "power",
-    "dialogs"
+    "dialogs",
+    "keyboard"
   ],
   "modes": [
     "dark"
