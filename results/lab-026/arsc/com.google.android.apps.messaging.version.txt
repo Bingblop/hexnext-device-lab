@@ -1,0 +1,3 @@
+    versionCode=327677910 minSdk=32 targetSdk=37
+    versionName=messages.android_20261030_00_RC00.phone_samsung_openbeta_dynamic
+    versionCode=307085900 minSdk=26 targetSdk=37

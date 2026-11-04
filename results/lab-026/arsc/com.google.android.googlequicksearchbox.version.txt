@@ -1,0 +1,3 @@
+    versionCode=301831010 minSdk=32 targetSdk=37
+    versionName=17.72.13.ve.arm64
+    versionCode=301790210 minSdk=30 targetSdk=37

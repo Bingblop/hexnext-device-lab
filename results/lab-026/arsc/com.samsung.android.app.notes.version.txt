@@ -1,0 +1,2 @@
+    versionCode=444815000 minSdk=29 targetSdk=37
+    versionName=4.4.48.15

@@ -1,0 +1,2 @@
+    versionCode=85022643 minSdk=32 targetSdk=37
+    versionName=9.3 (967717812)

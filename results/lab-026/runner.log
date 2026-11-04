@@ -1,0 +1,74 @@
+[13:35:22] job lab-026
+[13:35:28] install: downloaded artifact 13349946205 through the API
+[13:35:28] install: run 41879702459 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[13:35:39] restarting Shizuku as root
+[13:35:47] pack willemite
+[13:35:49] scan
+[13:36:15] apply (confirm=true)
+[13:38:59] lookup 1
+[13:39:04] capture dark power
+[13:39:20] preview power: the hook was not on screen (try 1)
+[13:39:29] capture dark keyboard
+[13:39:50] capture dark dialogs
+[13:40:11] capture dark settings
+[13:40:30] capture dark dialer
+[13:40:45] capture dark app:com.sec.android.app.sbrowser
+[13:40:54] capture dark app:com.sec.android.app.popupcalculator
+[13:41:04] capture dark app:com.samsung.android.calendar
+[13:41:13] capture dark app:com.sec.android.app.clockpackage
+[13:41:26] capture dark app:com.samsung.android.app.contacts
+[13:41:35] capture dark app:com.samsung.android.email.provider
+[13:41:45] capture dark app:com.samsung.android.app.notes
+[13:41:55] capture dark app:com.samsung.android.lool
+[13:42:05] capture dark app:com.sec.android.app.voicenote
+[13:42:15] capture dark app:com.sec.android.app.music
+[13:42:24] capture dark app:com.sec.android.gallery3d
+[13:42:34] capture dark app:com.google.android.gm
+[13:42:46] capture dark app:com.google.android.googlequicksearchbox
+[13:42:55] capture dark app:com.android.chrome
+[13:43:05] capture dark app:com.google.android.apps.messaging
+[13:43:14] capture dark app:com.google.android.calendar
+[13:43:23] capture dark app:com.google.android.deskclock
+[13:43:33] capture dark app:com.google.android.calculator
+[13:43:42] capture dark app:com.google.android.apps.docs
+[13:43:52] capture dark app:com.google.android.keep
+[13:44:04] capture light power
+[13:44:25] capture light keyboard
+[13:44:48] capture light dialogs
+[13:45:12] capture light settings
+[13:45:32] capture light dialer
+[13:45:46] capture light app:com.sec.android.app.sbrowser
+[13:45:55] capture light app:com.sec.android.app.popupcalculator
+[13:46:05] capture light app:com.samsung.android.calendar
+[13:46:14] capture light app:com.sec.android.app.clockpackage
+[13:46:26] capture light app:com.samsung.android.app.contacts
+[13:46:36] capture light app:com.samsung.android.email.provider
+[13:46:44] capture light app:com.samsung.android.app.notes
+[13:46:54] capture light app:com.samsung.android.lool
+[13:47:04] capture light app:com.sec.android.app.voicenote
+[13:47:14] capture light app:com.sec.android.app.music
+[13:47:23] capture light app:com.sec.android.gallery3d
+[13:47:33] capture light app:com.google.android.gm
+[13:47:43] capture light app:com.google.android.googlequicksearchbox
+[13:47:53] capture light app:com.android.chrome
+[13:48:03] capture light app:com.google.android.apps.messaging
+[13:48:13] capture light app:com.google.android.calendar
+[13:48:23] capture light app:com.google.android.deskclock
+[13:48:32] capture light app:com.google.android.calculator
+[13:48:42] capture light app:com.google.android.apps.docs
+[13:48:52] capture light app:com.google.android.keep
+[13:49:08] arsc: com.google.android.gm 892 KB
+[13:49:48] arsc: com.google.android.googlequicksearchbox 20200 KB
+[13:49:51] arsc: com.android.chrome 316 KB
+[13:49:53] arsc: com.google.android.apps.messaging 428 KB
+[13:49:55] arsc: com.google.android.calendar 280 KB
+[13:50:00] arsc: com.google.android.deskclock 1996 KB
+[13:50:01] arsc: com.google.android.calculator 304 KB
+[13:50:03] arsc: com.google.android.apps.docs 392 KB
+[13:50:04] arsc: com.google.android.keep 260 KB
+[13:50:23] arsc: com.google.android.inputmethod.latin 5768 KB
+[13:50:37] arsc: com.samsung.android.honeyboard 4960 KB
+[13:50:55] arsc: com.sec.android.app.sbrowser 8548 KB
+[13:51:03] arsc: com.samsung.android.email.provider 3564 KB
+[13:51:09] arsc: com.sec.android.app.music 2264 KB
+[13:51:23] arsc: com.samsung.android.app.notes 5084 KB

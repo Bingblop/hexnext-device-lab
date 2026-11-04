@@ -1,0 +1,2 @@
+    versionCode=2018364841 minSdk=32 targetSdk=37
+    versionName=2026.42.1-1011997444-release

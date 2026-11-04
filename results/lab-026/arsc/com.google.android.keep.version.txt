@@ -1,0 +1,2 @@
+    versionCode=220681616 minSdk=32 targetSdk=37
+    versionName=5.26.431.02.90

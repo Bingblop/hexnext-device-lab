@@ -1,0 +1,2 @@
+    versionCode=76120020 minSdk=32 targetSdk=37
+    versionName=9.2 (998285100)

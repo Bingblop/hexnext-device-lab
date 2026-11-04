@@ -1,0 +1,12 @@
+{"cmd":"pack","ok":true,"detail":"selected=willemite","at":1793817349169}
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0","at":1793817374821}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793817506604}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793817559234}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793817565612}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=true","at":1793817586766}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793817626727}
+{"cmd":"preview","ok":true,"detail":"tab=DIALER dark=true","at":1793817641095}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=false","at":1793817860347}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=false","at":1793817884145}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793817928172}
+{"cmd":"preview","ok":true,"detail":"tab=DIALER dark=false","at":1793817942243}

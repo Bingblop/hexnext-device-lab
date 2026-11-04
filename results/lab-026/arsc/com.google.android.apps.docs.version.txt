@@ -1,0 +1,2 @@
+    versionCode=214712238 minSdk=32 targetSdk=37
+    versionName=2.26.437.0.all.alldpi

@@ -1,0 +1,2 @@
+    versionCode=594075300 minSdk=33 targetSdk=36
+    versionName=5.9.40.75

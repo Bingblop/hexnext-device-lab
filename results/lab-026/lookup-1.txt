@@ -1,0 +1,5 @@
+com.android.systemui:drawable/tw_ic_do_poweroff = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-KLjI.frro?offset=81818&size=3147
+com.android.systemui:drawable/tw_ic_do_emergencysos = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-KLjI.frro?offset=48256&size=5060
+com.android.systemui:drawable/tw_ic_do_medicalinfo = frro://data/resource-cache/com.android.shell-HexNext_com_android_systemui-KLjI.frro?offset=64896&size=5505
+com.sec.android.app.sbrowser:color/basic_toolbar_bg_color = Error: failed to get the resource com.sec.android.app.sbrowser:color/basic_toolbar_bg_color
+android:color/system_accent1_600 = @17171719 -> #ff505e81
