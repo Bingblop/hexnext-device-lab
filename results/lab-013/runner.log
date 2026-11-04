@@ -23,3 +23,8 @@
 [23:42:57] job lab-013
 [23:42:57] restarting Shizuku as root
 [23:43:05] waiting for Hex Next to restore the theme
+[23:59:56] job lab-013
+[23:59:59] install: downloaded artifact 13292721281 through the API
+[23:59:59] install: run 41763680487 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[00:00:00] restarting Shizuku as root
+[00:00:08] scan
