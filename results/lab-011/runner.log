@@ -4,3 +4,4 @@
 [21:41:44] soft reboot; remaining steps: overlaystate (unlock the phone when it comes back)
 [21:42:12] job lab-011
 [21:42:12] overlay state 2
+[21:42:23] job lab-011: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-011
