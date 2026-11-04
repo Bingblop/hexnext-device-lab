@@ -1,0 +1,778 @@
+{
+  "overlayId": "android:SemWT_com.sec.android.app.shealth",
+  "target": "com.sec.android.app.shealth",
+  "state": "STATE_ENABLED",
+  "priority": 2147483647,
+  "entries": [
+    {
+      "resId": "0x7f061153",
+      "name": "color\/sesl_action_bar_background_color_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f061154",
+      "name": "color\/sesl_action_bar_background_color_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f061156",
+      "name": "color\/sesl_action_bar_text_color_menu_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061157",
+      "name": "color\/sesl_action_bar_text_color_menu_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061158",
+      "name": "color\/sesl_action_bar_text_color_subtitle_dark",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f061159",
+      "name": "color\/sesl_action_bar_text_color_subtitle_light",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f06115a",
+      "name": "color\/sesl_action_bar_text_color_title_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06115b",
+      "name": "color\/sesl_action_bar_text_color_title_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061172",
+      "name": "color\/sesl_background_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f061173",
+      "name": "color\/sesl_background_color_light",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f06118e",
+      "name": "color\/sesl_bottom_navigation_background_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f06118f",
+      "name": "color\/sesl_bottom_navigation_background_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f061190",
+      "name": "color\/sesl_bottom_navigation_floating_background_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f061191",
+      "name": "color\/sesl_bottom_navigation_floating_background_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f061194",
+      "name": "color\/sesl_bottom_navigation_floating_icon_text_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061195",
+      "name": "color\/sesl_bottom_navigation_floating_icon_text_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061196",
+      "name": "color\/sesl_bottom_navigation_icon_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061197",
+      "name": "color\/sesl_bottom_navigation_icon_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06119b",
+      "name": "color\/sesl_bottom_navigation_text_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06119e",
+      "name": "color\/sesl_bottom_navigation_text_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06119f",
+      "name": "color\/sesl_bottom_navigation_text_text_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0611a0",
+      "name": "color\/sesl_bottom_navigation_text_text_light",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0611a1",
+      "name": "color\/sesl_btn_background_color_dark",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0611a2",
+      "name": "color\/sesl_btn_background_color_light",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0611cd",
+      "name": "color\/sesl_date_picker_saturday_text_color_light",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0611ce",
+      "name": "color\/sesl_date_picker_saturday_week_text_color_light",
+      "kind": "color",
+      "default": "0x808126dc",
+      "night": "0x80d8bbf4"
+    },
+    {
+      "resId": "0x7f0611cf",
+      "name": "color\/sesl_date_picker_selected_day_number_text_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0611d0",
+      "name": "color\/sesl_date_picker_selected_day_number_text_color_light",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0611d1",
+      "name": "color\/sesl_date_picker_sunday_number_text_color_light",
+      "kind": "color",
+      "default": "0xffdb332a",
+      "night": "0xffdb332a"
+    },
+    {
+      "resId": "0x7f0611d2",
+      "name": "color\/sesl_date_picker_sunday_text_color_dark",
+      "kind": "color",
+      "default": "0x40db332a",
+      "night": "0x40db332a"
+    },
+    {
+      "resId": "0x7f0611d3",
+      "name": "color\/sesl_date_picker_sunday_text_color_light",
+      "kind": "color",
+      "default": "0x40db332a",
+      "night": "0x40db332a"
+    },
+    {
+      "resId": "0x7f06121b",
+      "name": "color\/sesl_extended_appbar_subtitle_dark",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f06121c",
+      "name": "color\/sesl_extended_appbar_subtitle_light",
+      "kind": "color",
+      "default": "0x999c89b0",
+      "night": "0x99b4a5c3"
+    },
+    {
+      "resId": "0x7f061281",
+      "name": "color\/sesl_list_subheader_text_color",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061282",
+      "name": "color\/sesl_list_subheader_text_color_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061283",
+      "name": "color\/sesl_loading_progress_color1",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f061284",
+      "name": "color\/sesl_loading_progress_color2",
+      "kind": "color",
+      "default": "0x99c498ef",
+      "night": "0x99c498ef"
+    },
+    {
+      "resId": "0x7f061289",
+      "name": "color\/sesl_menu_popup_background_stroke_color",
+      "kind": "color",
+      "default": "0xffcdc2d7",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f06128a",
+      "name": "color\/sesl_menu_popup_background_stroke_color_dark",
+      "kind": "color",
+      "default": "0xffcdc2d7",
+      "night": "0xff504060"
+    },
+    {
+      "resId": "0x7f0612ac",
+      "name": "color\/sesl_number_picker_text_color_scroll",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612be",
+      "name": "color\/sesl_primary_color_dark",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0612bf",
+      "name": "color\/sesl_primary_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0612c0",
+      "name": "color\/sesl_primary_dark_color_dark",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612c1",
+      "name": "color\/sesl_primary_dark_color_light",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612c6",
+      "name": "color\/sesl_progress_control_color_activated_dark",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0612c7",
+      "name": "color\/sesl_progress_control_color_activated_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0612ca",
+      "name": "color\/sesl_progress_control_color_normal_dark",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f0612cb",
+      "name": "color\/sesl_progress_control_color_normal_light",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f0612d2",
+      "name": "color\/sesl_round_and_bgcolor_dark",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f0612d3",
+      "name": "color\/sesl_round_and_bgcolor_light",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f0612ed",
+      "name": "color\/sesl_search_view_hint_text_color",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0612ee",
+      "name": "color\/sesl_search_view_hint_text_color_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0612ef",
+      "name": "color\/sesl_search_view_icon_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612f0",
+      "name": "color\/sesl_search_view_icon_color_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612f2",
+      "name": "color\/sesl_search_view_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612f3",
+      "name": "color\/sesl_search_view_text_color_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0612f9",
+      "name": "color\/sesl_seekbar_control_color_activated",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0612fa",
+      "name": "color\/sesl_seekbar_control_color_default",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f0612fb",
+      "name": "color\/sesl_seekbar_control_color_default_dark",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f0612ff",
+      "name": "color\/sesl_seekbar_level_control_color_default",
+      "kind": "color",
+      "default": "0x4dc498ef",
+      "night": "0x4dc498ef"
+    },
+    {
+      "resId": "0x7f06133a",
+      "name": "color\/sesl_swipe_refresh_color1",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f06133b",
+      "name": "color\/sesl_swipe_refresh_color2",
+      "kind": "color",
+      "default": "0x99c498ef",
+      "night": "0x99c498ef"
+    },
+    {
+      "resId": "0x7f06133e",
+      "name": "color\/sesl_switch_thumb_off_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f06133f",
+      "name": "color\/sesl_switch_thumb_off_disabled_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f061340",
+      "name": "color\/sesl_switch_thumb_off_disabled_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f061345",
+      "name": "color\/sesl_switch_thumb_on_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f061346",
+      "name": "color\/sesl_switch_thumb_on_disabled_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f061347",
+      "name": "color\/sesl_switch_thumb_on_disabled_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xfffcfcfc"
+    },
+    {
+      "resId": "0x7f061348",
+      "name": "color\/sesl_switch_thumb_on_disabled_stroke_color",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f061349",
+      "name": "color\/sesl_switch_thumb_on_disabled_stroke_color_dark",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f06134a",
+      "name": "color\/sesl_switch_thumb_on_stroke_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f06134f",
+      "name": "color\/sesl_switch_track_on_color_light",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f061350",
+      "name": "color\/sesl_switch_track_on_disabled_color",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f061351",
+      "name": "color\/sesl_switchbar_off_background_color_dark",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f061352",
+      "name": "color\/sesl_switchbar_off_background_color_light",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f061355",
+      "name": "color\/sesl_switchbar_on_background_color_dark",
+      "kind": "color",
+      "default": "0x1a611ba8",
+      "night": "0x1ad8bbf4"
+    },
+    {
+      "resId": "0x7f061356",
+      "name": "color\/sesl_switchbar_on_background_color_light",
+      "kind": "color",
+      "default": "0x1a611ba8",
+      "night": "0x1ad8bbf4"
+    },
+    {
+      "resId": "0x7f061357",
+      "name": "color\/sesl_switchbar_on_text_color_light",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06136c",
+      "name": "color\/sesl_tablayout_selected_indicator_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06136e",
+      "name": "color\/sesl_tablayout_selected_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06137c",
+      "name": "color\/sesl_tablayout_subtab_indicator_background",
+      "kind": "color",
+      "default": "0x26611ba8",
+      "night": "0x26d8bbf4"
+    },
+    {
+      "resId": "0x7f06137d",
+      "name": "color\/sesl_tablayout_subtab_indicator_background_dark",
+      "kind": "color",
+      "default": "0x26611ba8",
+      "night": "0x26d8bbf4"
+    },
+    {
+      "resId": "0x7f06137f",
+      "name": "color\/sesl_tablayout_subtab_sub_text_color_default",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061380",
+      "name": "color\/sesl_tablayout_subtab_sub_text_color_default_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061383",
+      "name": "color\/sesl_tablayout_subtab_sub_text_color_selected",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061384",
+      "name": "color\/sesl_tablayout_subtab_sub_text_color_selected_dark",
+      "kind": "color",
+      "default": "0xff8126dc",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f061386",
+      "name": "color\/sesl_tablayout_subtab_text_color_default",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061387",
+      "name": "color\/sesl_tablayout_subtab_text_color_default_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f06138b",
+      "name": "color\/sesl_tablayout_subtab_text_color_selected",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06138c",
+      "name": "color\/sesl_tablayout_subtab_text_color_selected_dark",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06138f",
+      "name": "color\/sesl_tablayout_text_color_default",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f061390",
+      "name": "color\/sesl_tablayout_text_color_default_dark",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0613ac",
+      "name": "color\/sesl_thumb_control_color_activated",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0613ad",
+      "name": "color\/sesl_thumb_control_fill_color_activated",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0613b1",
+      "name": "color\/sesl_tick_mark_seekbar_level",
+      "kind": "color",
+      "default": "0x66c498ef",
+      "night": "0x66c498ef"
+    },
+    {
+      "resId": "0x7f06229d",
+      "name": "color\/widget_settings_background_color",
+      "kind": "color",
+      "default": "0xfff2eff5",
+      "night": "0xff010101"
+    },
+    {
+      "resId": "0x7f06229e",
+      "name": "color\/widget_settings_bottom_layout_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f06229f",
+      "name": "color\/widget_settings_chunk_background_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0622a1",
+      "name": "color\/widget_settings_main_text_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0622a3",
+      "name": "color\/widget_settings_radio_button_on_color",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0622a5",
+      "name": "color\/widget_settings_selected_shape_background_color",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0622a6",
+      "name": "color\/widget_settings_slide_bar_background_color",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0622a8",
+      "name": "color\/widget_settings_slide_bar_level_dot_color",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0622a9",
+      "name": "color\/widget_settings_slide_bar_thumb_background_color",
+      "kind": "color",
+      "default": "0xfffcfcfc",
+      "night": "0xff1f1925"
+    },
+    {
+      "resId": "0x7f0622aa",
+      "name": "color\/widget_settings_slide_bar_thumb_stroke_color",
+      "kind": "color",
+      "default": "0xffc498ef",
+      "night": "0xffc498ef"
+    },
+    {
+      "resId": "0x7f0622ab",
+      "name": "color\/widget_settings_sub_header_color",
+      "kind": "color",
+      "default": "0xff9c89b0",
+      "night": "0xffb4a5c3"
+    },
+    {
+      "resId": "0x7f0622ac",
+      "name": "color\/widget_settings_title_color",
+      "kind": "color",
+      "default": "0xff611ba8",
+      "night": "0xffd8bbf4"
+    },
+    {
+      "resId": "0x7f0622ad",
+      "name": "color\/widget_settings_unselected_shape_background_color",
+      "kind": "color",
+      "default": "0xffe6e0eb",
+      "night": "0xff504060"
+    }
+  ],
+  "missing": [
+    "com.sec.android.app.shealth:color\/picker_app_list_no_results_found_color",
+    "com.sec.android.app.shealth:color\/sesl_app_picker_list_action_icon_tint_color",
+    "com.sec.android.app.shealth:color\/sesl_bottom_navigation_floating_background_for_theme",
+    "com.sec.android.app.shealth:color\/sesl_bottom_navigation_floating_icon_text_for_theme",
+    "com.sec.android.app.shealth:color\/sesl_color_picker_tab_selected_dark",
+    "com.sec.android.app.shealth:color\/sesl_color_picker_tab_selected_light",
+    "com.sec.android.app.shealth:color\/sesl_simple_month_view_selected_day_color",
+    "com.sec.android.app.shealth:color\/sesl_switch_thumb_on_stroke_color_dark",
+    "com.sec.android.app.shealth:color\/sesl_switch_track_on_color_dark",
+    "com.sec.android.app.shealth:color\/sesl_switchbar_on_text_color_dark",
+    "com.sec.android.app.shealth:color\/sesl_tablayout_subtab_background_stroke_color_dark",
+    "com.sec.android.app.shealth:color\/sesl_tablayout_subtab_background_stroke_color_light"
+  ]
+}

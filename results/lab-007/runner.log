@@ -17,3 +17,11 @@
 [20:31:27] preview power: the hook was not on screen (try 1)
 [20:31:36] capture dark myfiles
 [20:31:51] soft reboot; remaining steps: capture collect dumps (unlock the phone when it comes back)
+[20:32:19] job lab-007
+[20:32:25] capture dark settings
+[20:32:40] capture dark qs
+[20:32:55] capture dark shade
+[20:33:13] capture dark power
+[20:33:32] capture dark myfiles
+[20:33:47] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
+[20:33:47] dumps

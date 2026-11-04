@@ -11,3 +11,8 @@
 {"cmd":"preview","ok":false,"detail":"timed out after 45s"}
 {"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793755892172}
 {"cmd":"preview","ok":true,"detail":"tab=MY_FILES dark=true","at":1793755906081}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793755957499}
+{"cmd":"preview","ok":true,"detail":"tab=QUICK_PANEL dark=true","at":1793755969772}
+{"cmd":"preview","ok":true,"detail":"tab=NOTIFICATIONS dark=true","at":1793755989215}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793756008363}
+{"cmd":"preview","ok":true,"detail":"tab=MY_FILES dark=true","at":1793756022121}

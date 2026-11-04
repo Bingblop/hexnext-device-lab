@@ -1,0 +1,1327 @@
+IDMAP OF com.samsung.android.networkstack.tethering.overlay
+<missing idmap>
+IDMAP OF com.samsung.android.uwb.resources
+Paths:
+    target path  : /apex/com.android.uwb/priv-app/ServiceUwbResources@CP2A.260605.016/ServiceUwbResources.apk
+    overlay path : /product/overlay/UwbRROverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f010000 -> 0x7f010000 (array/mcc_mcc_oem_override_list -> array/mcc_mcc_oem_override_list)
+    0x7f020000 -> 0x7f020000 (bool/android_specific_timesync_supported -> bool/android_specific_timesync_supported)
+    0x7f020001 -> 0x7f020001 (bool/aosp_timesync_supported -> bool/aosp_timesync_supported)
+    0x7f020002 -> 0x7f020002 (bool/background_ranging_enabled -> bool/background_ranging_enabled)
+    0x7f020003 -> 0x7f020003 (bool/ccc_absolute_uwb_initiation_time_enabled -> bool/ccc_absolute_uwb_initiation_time_enabled)
+    0x7f020004 -> 0x7f020004 (bool/ccc_ranging_stopped_params_send_enabled -> bool/ccc_ranging_stopped_params_send_enabled)
+    0x7f020005 -> 0x7f020005 (bool/ccc_supported_range_data_ntf_config -> bool/ccc_supported_range_data_ntf_config)
+    0x7f020006 -> 0x7f020006 (bool/ccc_supported_sync_codes_little_endian -> bool/ccc_supported_sync_codes_little_endian)
+    0x7f020007 -> 0x7f020007 (bool/ccc_two_byte_config_id_little_endian_supported -> bool/ccc_two_byte_config_id_little_endian_supported)
+    0x7f02000b -> 0x7f020008 (bool/enable_filters -> bool/enable_filters)
+    0x7f02000e -> 0x7f020009 (bool/enable_random_hopmodekey -> bool/enable_random_hopmodekey)
+    0x7f02000f -> 0x7f02000a (bool/fira_supported_extension_ccc -> bool/fira_supported_extension_ccc)
+    0x7f020012 -> 0x7f02000b (bool/is_multicast_list_update_ntf_v2_supported -> bool/is_multicast_list_update_ntf_v2_supported)
+    0x7f020013 -> 0x7f02000c (bool/is_multicast_list_update_rsp_v2_supported -> bool/is_multicast_list_update_rsp_v2_supported)
+    0x7f020019 -> 0x7f02000d (bool/timesync_ble_uncertainty_included -> bool/timesync_ble_uncertainty_included)
+    0x7f030013 -> 0x7f030000 (integer/timesync_ble_time_uncertainty_us -> integer/timesync_ble_time_uncertainty_us)
+    0x7f030016 -> 0x7f030001 (integer/timesync_uncertainty_override -> integer/timesync_uncertainty_override)
+
+IDMAP OF android.auto_generated_rro_product__
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/framework-res__m3quew__auto_generated_rro_product.apk
+Debug info:
+    W failed to find resource 'bool/config_dynamic_automatic_brightness_available'
+    W failed to find resource 'integer/config_lowLimitAtHighestAutoBrightnessLevel'
+    W failed to find resource 'integer/config_minimumBrightnessStepValue'
+Constraints:
+    None
+Mapping:
+    0x010403cd -> 0x7f060000 (string/config_defaultWearableSensingService -> string/config_defaultWearableSensingService)
+    0x0104040e -> 0x7f060001 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040418 -> 0x7f060002 (string/config_mobile_hotspot_provision_app_no_ui -> string/config_mobile_hotspot_provision_app_no_ui)
+    0x01040419 -> 0x7f060003 (string/config_mobile_hotspot_provision_response -> string/config_mobile_hotspot_provision_response)
+    0x01050139 -> 0x7f030000 (dimen/config_letterboxHorizontalPositionMultiplier -> dimen/config_letterboxHorizontalPositionMultiplier)
+    0x0105013d -> 0x7f030001 (dimen/config_letterboxVerticalPositionMultiplier -> dimen/config_letterboxVerticalPositionMultiplier)
+    0x0105014d -> 0x7f030002 (dimen/config_privacyHdrRatioMaximumFloat -> dimen/config_privacyHdrRatioMaximumFloat)
+    0x01050153 -> 0x7f030003 (dimen/config_screenBrightnessDimFloat -> dimen/config_screenBrightnessDimFloat)
+    0x01050156 -> 0x7f030004 (dimen/config_screenBrightnessSettingDefaultFloat -> dimen/config_screenBrightnessSettingDefaultFloat)
+    0x01050157 -> 0x7f030005 (dimen/config_screenBrightnessSettingMaximumFloat -> dimen/config_screenBrightnessSettingMaximumFloat)
+    0x01050158 -> 0x7f030006 (dimen/config_screenBrightnessSettingMinimumFloat -> dimen/config_screenBrightnessSettingMinimumFloat)
+    0x010503a4 -> 0x7f030007 (dimen/physical_power_button_center_screen_location_y -> dimen/physical_power_button_center_screen_location_y)
+    0x010503fa -> 0x7f030008 (dimen/rounded_corner_radius_bottom -> dimen/rounded_corner_radius_bottom)
+    0x010503ff -> 0x7f030009 (dimen/rounded_corner_radius_top -> dimen/rounded_corner_radius_top)
+    0x010505cd -> 0x7f03000a (dimen/status_bar_camera_bottom_margin -> dimen/status_bar_camera_bottom_margin)
+    0x010505cf -> 0x7f03000b (dimen/status_bar_camera_side_padding -> dimen/status_bar_camera_side_padding)
+    0x010505d0 -> 0x7f03000c (dimen/status_bar_camera_top_margin -> dimen/status_bar_camera_top_margin)
+    0x010505d6 -> 0x7f03000d (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x010505d9 -> 0x7f03000e (dimen/status_bar_indicator_corner_padding -> dimen/status_bar_indicator_corner_padding)
+    0x010505da -> 0x7f03000f (dimen/status_bar_scale_garden_fixed_ratio -> dimen/status_bar_scale_garden_fixed_ratio)
+    0x01070077 -> 0x7f010000 (array/config_Extra_Brightness_Display_Solution_Brightness_Value -> array/config_Extra_Brightness_Display_Solution_Brightness_Value)
+    0x01070081 -> 0x7f010001 (array/config_High_Brightness_Mode_Plus_Value -> array/config_High_Brightness_Mode_Plus_Value)
+    0x01070083 -> 0x7f010002 (array/config_HysteresisBrightInputLux -> array/config_HysteresisBrightInputLux)
+    0x01070084 -> 0x7f010003 (array/config_HysteresisBrightOutputLux -> array/config_HysteresisBrightOutputLux)
+    0x01070085 -> 0x7f010004 (array/config_HysteresisDarkInputLux -> array/config_HysteresisDarkInputLux)
+    0x01070086 -> 0x7f010005 (array/config_HysteresisDarkOutputLux -> array/config_HysteresisDarkOutputLux)
+    0x0107008f -> 0x7f010006 (array/config_PD_Mode_SIOP_Formula -> array/config_PD_Mode_SIOP_Formula)
+    0x010700ad -> 0x7f010007 (array/config_aodBrightnessValues -> array/config_aodBrightnessValues)
+    0x010700b0 -> 0x7f010008 (array/config_autoBrightnessDisplayValuesNits -> array/config_autoBrightnessDisplayValuesNits)
+    0x010700b2 -> 0x7f010009 (array/config_autoBrightnessDisplayValuesNits_doze -> array/config_autoBrightnessDisplayValuesNits_doze)
+    0x010700b5 -> 0x7f01000a (array/config_autoBrightnessLevels -> array/config_autoBrightnessLevels)
+    0x010700b7 -> 0x7f01000b (array/config_autoBrightnessLevels_doze -> array/config_autoBrightnessLevels_doze)
+    0x01070150 -> 0x7f01000c (array/config_mobile_hotspot_provision_app -> array/config_mobile_hotspot_provision_app)
+    0x01070185 -> 0x7f01000d (array/config_screenBrightnessBacklight -> array/config_screenBrightnessBacklight)
+    0x01070186 -> 0x7f01000e (array/config_screenBrightnessNits -> array/config_screenBrightnessNits)
+    0x01070187 -> 0x7f01000f (array/config_screenBrightnessNitsPrivacy -> array/config_screenBrightnessNitsPrivacy)
+    0x01070188 -> 0x7f010010 (array/config_screenBrightnessRangeForClearView -> array/config_screenBrightnessRangeForClearView)
+    0x0107018b -> 0x7f010011 (array/config_sdrHdrMapHdrNits -> array/config_sdrHdrMapHdrNits)
+    0x0107018c -> 0x7f010012 (array/config_sdrHdrMapSdrNits -> array/config_sdrHdrMapSdrNits)
+    0x010e001c -> 0x7f040000 (integer/config_AFC_type -> integer/config_AFC_type)
+    0x010e001e -> 0x7f040001 (integer/config_AFPC_height -> integer/config_AFPC_height)
+    0x010e0020 -> 0x7f040002 (integer/config_AFPC_model -> integer/config_AFPC_model)
+    0x010e0022 -> 0x7f040003 (integer/config_AFPC_size -> integer/config_AFPC_size)
+    0x010e0024 -> 0x7f040004 (integer/config_AFPC_width -> integer/config_AFPC_width)
+    0x010e0056 -> 0x7f040005 (integer/config_autoBrightnessHbmAmbientLux -> integer/config_autoBrightnessHbmAmbientLux)
+    0x010e017a -> 0x7f040008 (integer/config_screenBrightnessDim -> integer/config_screenBrightnessDim)
+    0x010e017c -> 0x7f040009 (integer/config_screenBrightnessExtendedMaximum -> integer/config_screenBrightnessExtendedMaximum)
+    0x010e017d -> 0x7f04000a (integer/config_screenBrightnessForClearView -> integer/config_screenBrightnessForClearView)
+    0x010e017f -> 0x7f04000b (integer/config_screenBrightnessSettingDefault -> integer/config_screenBrightnessSettingDefault)
+    0x010e0180 -> 0x7f04000c (integer/config_screenBrightnessSettingMaximum -> integer/config_screenBrightnessSettingMaximum)
+    0x010e0181 -> 0x7f04000d (integer/config_screenBrightnessSettingMinimum -> integer/config_screenBrightnessSettingMinimum)
+    0x010e022c -> 0x7f04000e (integer/status_bar_scale_base_smallest_width -> integer/status_bar_scale_base_smallest_width)
+    0x01100004 -> 0x7f050000 (raw/connected_dark -> raw/connected_dark)
+    0x01100005 -> 0x7f050001 (raw/connected_light -> raw/connected_light)
+    0x01100008 -> 0x7f050002 (raw/error_dark -> raw/error_dark)
+    0x01100009 -> 0x7f050003 (raw/error_light -> raw/error_light)
+    0x0110000d -> 0x7f050004 (raw/power_sharing_help_dark -> raw/power_sharing_help_dark)
+    0x0110000e -> 0x7f050005 (raw/power_sharing_help_light -> raw/power_sharing_help_light)
+    0x01110014 -> 0x7f020000 (bool/config_AFC_enabled -> bool/config_AFC_enabled)
+    0x0111007a -> 0x7f020001 (bool/config_cbrs_supported -> bool/config_cbrs_supported)
+    0x01110281 -> 0x7f020003 (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+    0x011102a4 -> 0x7f020004 (bool/config_supportAudioSourceUnprocessed -> bool/config_supportAudioSourceUnprocessed)
+    0x011102c7 -> 0x7f020005 (bool/config_systemCaptionsServiceCallsEnabled -> bool/config_systemCaptionsServiceCallsEnabled)
+
+IDMAP OF com.google.android.overlay.gmsconfig.geotz
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GmsConfigOverlayGeotz.apk
+Constraints:
+    None
+Mapping:
+    0x01040438 -> 0x7f020000 (string/config_primaryLocationTimeZoneProviderPackageName -> string/config_primaryLocationTimeZoneProviderPackageName)
+    0x01040458 -> 0x7f020001 (string/config_secondaryLocationTimeZoneProviderPackageName -> string/config_secondaryLocationTimeZoneProviderPackageName)
+    0x01110195 -> 0x7f010000 (bool/config_enableGeolocationTimeZoneDetection -> bool/config_enableGeolocationTimeZoneDetection)
+    0x011101aa -> 0x7f010001 (bool/config_enablePrimaryLocationTimeZoneProvider -> bool/config_enablePrimaryLocationTimeZoneProvider)
+    0x011101af -> 0x7f010002 (bool/config_enableSecondaryLocationTimeZoneProvider -> bool/config_enableSecondaryLocationTimeZoneProvider)
+
+IDMAP OF com.samsung.android.wifi.largetcpbuffer.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayAppLargeTcpBuffer.apk
+Constraints:
+    None
+Mapping:
+    0x7f080012 -> 0x7f010000 (string/config_wifi_tcp_buffers -> string/config_wifi_tcp_buffers)
+
+IDMAP OF com.google.android.networkstack.tethering.overlay
+Paths:
+    target path  : /apex/com.android.tethering/priv-app/TetheringGoogle@374205000/TetheringGoogle.apk
+    overlay path : /vendor/overlay/TetheringOverlay/TetheringOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f010003 -> 0x7f010000 (array/config_tether_ncm_regexs -> array/config_tether_ncm_regexs)
+    0x7f010006 -> 0x7f010001 (array/config_tether_wifi_p2p_regexs -> array/config_tether_wifi_p2p_regexs)
+    0x7f010007 -> 0x7f010002 (array/config_tether_wifi_regexs -> array/config_tether_wifi_regexs)
+    0x7f020002 -> 0x7f020000 (bool/config_tether_enable_legacy_wifi_p2p_dedicated_ip -> bool/config_tether_enable_legacy_wifi_p2p_dedicated_ip)
+
+IDMAP OF com.google.android.overlay.modules.modulemetadata.forframework
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/ModuleMetadataGoogleOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x010403b3 -> 0x7f010000 (string/config_defaultModuleMetadataProvider -> string/config_defaultModuleMetadataProvider)
+
+IDMAP OF com.samsung.android.ConnectivityOverlay
+Paths:
+    target path  : /apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@374205000/ServiceConnectivityResourcesGoogle.apk
+    overlay path : /vendor/overlay/ConnectivityOverlay/ConnectivityOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f0a0009 -> 0x7f010000 (integer/config_networkTransitionTimeout -> integer/config_networkTransitionTimeout)
+    0x7f0e0026 -> 0x7f020000 (string/config_ethernet_iface_regex -> string/config_ethernet_iface_regex)
+
+IDMAP OF com.google.android.verifier.overlay
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GmsConfigOverlayADVerifier.apk
+Constraints:
+    None
+Mapping:
+    0x010403d0 -> 0x7f010000 (string/config_developerVerificationPolicyDelegatePackageName -> string/config_developerVerificationPolicyDelegatePackageName)
+    0x010403d1 -> 0x7f010001 (string/config_developerVerificationServiceProviderPackageName -> string/config_developerVerificationServiceProviderPackageName)
+
+IDMAP OF com.google.android.overlay.modules.documentsui
+Paths:
+    target path  : /data/app/~~BRmKnul9gGPHPMeR8qoS8Q==/com.google.android.documentsui-DNUuCCl4RMYVOGxrfkTCWg==/base.apk
+    overlay path : /product/overlay/GoogleDocumentsUIOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f040017 -> 0x7f010000 (bool/is_launcher_enabled -> bool/is_launcher_enabled)
+
+IDMAP OF com.samsung.android.wifi.softapwpathree.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /vendor/overlay/SoftapOverlayWpa3/SoftapOverlayWpa3.apk
+Constraints:
+    None
+Mapping:
+    0x7f02008f -> 0x7f010000 (bool/config_wifi_softap_sae_supported -> bool/config_wifi_softap_sae_supported)
+
+IDMAP OF com.android.internal.display.cutout.emulation.tall
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+Debug info:
+    W failed to find resource 'string/display_cutout_emulation_overlay'
+Constraints:
+    None
+Mapping:
+    0x0104040e -> 0x7f030000 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040410 -> 0x7f030001 (string/config_mainBuiltInDisplayCutoutRectApproximation -> string/config_mainBuiltInDisplayCutoutRectApproximation)
+    0x010505d5 -> 0x7f020000 (dimen/status_bar_height_landscape -> dimen/status_bar_height_landscape)
+    0x010505d6 -> 0x7f020001 (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x011101d5 -> 0x7f010000 (bool/config_fillMainBuiltInDisplayCutout -> bool/config_fillMainBuiltInDisplayCutout)
+
+IDMAP OF com.google.android.overlay.modules.permissioncontroller.forframework
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GooglePermissionControllerFrameworkOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x01040404 -> 0x7f010000 (string/config_incidentReportApproverPackage -> string/config_incidentReportApproverPackage)
+
+IDMAP OF com.google.android.overlay.gmsconfig.asi
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GmsConfigOverlayASI.apk
+Constraints:
+    None
+Mapping:
+    0x01040032 -> 0x7f020004 (string/config_systemUiIntelligence -> string/config_systemUiIntelligence)
+    0x01040034 -> 0x7f020003 (string/config_systemAudioIntelligence -> string/config_systemAudioIntelligence)
+    0x01040037 -> 0x7f020005 (string/config_systemVisualIntelligence -> string/config_systemVisualIntelligence)
+    0x01040398 -> 0x7f020000 (string/config_defaultAppPredictionService -> string/config_defaultAppPredictionService)
+    0x010403ba -> 0x7f020001 (string/config_defaultOnDeviceSpeechRecognitionService -> string/config_defaultOnDeviceSpeechRecognitionService)
+    0x010403c6 -> 0x7f020002 (string/config_defaultSystemCaptionsManagerService -> string/config_defaultSystemCaptionsManagerService)
+    0x01110018 -> 0x7f010000 (bool/config_adaptive_sleep_available -> bool/config_adaptive_sleep_available)
+
+IDMAP OF com.samsung.internal.systemui.navbar.gestural_no_hint
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/NavigationBarModeGesturalNoHint/NavigationBarModeGesturalNoHintOverlay.apk
+Debug info:
+    W failed to find resource 'string/navigation_bar_mode_title'
+Constraints:
+    None
+Mapping:
+    0x01050120 -> 0x7f020000 (dimen/config_backGestureInset -> dimen/config_backGestureInset)
+    0x010502e6 -> 0x7f020001 (dimen/navigation_bar_frame_height -> dimen/navigation_bar_frame_height)
+    0x010502e8 -> 0x7f020002 (dimen/navigation_bar_frame_width -> dimen/navigation_bar_frame_width)
+    0x010502e9 -> 0x7f020003 (dimen/navigation_bar_gesture_height -> dimen/navigation_bar_gesture_height)
+    0x010502eb -> 0x7f020004 (dimen/navigation_bar_height -> dimen/navigation_bar_height)
+    0x010502ed -> 0x7f020005 (dimen/navigation_bar_height_landscape -> dimen/navigation_bar_height_landscape)
+    0x010502f0 -> 0x7f020006 (dimen/navigation_bar_width -> dimen/navigation_bar_width)
+    0x010e012b -> 0x7f030000 (integer/config_navBarInteractionMode -> integer/config_navBarInteractionMode)
+    0x010e012c -> 0x7f030001 (integer/config_navBarOpacityMode -> integer/config_navBarOpacityMode)
+    0x0111002a -> 0x7f010000 (bool/config_allowSeamlessRotationDespiteNavBarMoving -> bool/config_allowSeamlessRotationDespiteNavBarMoving)
+    0x011101f7 -> 0x7f010001 (bool/config_imeDrawsImeNavBar -> bool/config_imeDrawsImeNavBar)
+    0x01110232 -> 0x7f010002 (bool/config_navBarAlwaysShowOnSideEdgeGesture -> bool/config_navBarAlwaysShowOnSideEdgeGesture)
+    0x01110233 -> 0x7f010003 (bool/config_navBarCanMove -> bool/config_navBarCanMove)
+    0x01110235 -> 0x7f010004 (bool/config_navBarNeedsScrim -> bool/config_navBarNeedsScrim)
+    0x01110237 -> 0x7f010005 (bool/config_navBarTapThrough -> bool/config_navBarTapThrough)
+    0x01110281 -> 0x7f010006 (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+
+IDMAP OF com.android.providers.telephony.auto_generated_characteristics_rro
+<missing idmap>
+IDMAP OF com.samsung.android.wifi.resources.lls
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayAppLls.apk
+Constraints:
+    None
+Mapping:
+    0x7f020034 -> 0x7f010000 (bool/config_wifiLinkLayerAllRadiosStatsAggregationEnabled -> bool/config_wifiLinkLayerAllRadiosStatsAggregationEnabled)
+
+IDMAP OF com.google.android.overlay.modules.mediaprovider
+Paths:
+    target path  : /apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@374200100/MediaProviderGoogle.apk
+    overlay path : /product/overlay/MediaProviderConfigOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f050003 -> 0x7f010000 (bool/config_disable_media_processing_for_search -> bool/config_disable_media_processing_for_search)
+
+IDMAP OF com.samsung.android.wifi.resources.wifilock
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayAppWifiLock.apk
+Constraints:
+    None
+Mapping:
+    0x7f020037 -> 0x7f010000 (bool/config_wifiLowLatencyLockDisableChipPowerSave -> bool/config_wifiLowLatencyLockDisableChipPowerSave)
+
+IDMAP OF com.samsung.android.networkstack
+Paths:
+    target path  : /data/app/~~YC_Pf75NrxeUm7fLUXYpxg==/com.google.android.networkstack-yb_BpdZx6TmIhWNGWCFKzQ==/base.apk
+    overlay path : /product/overlay/NetworkStackOverlay.apk
+Debug info:
+    W failed to find resource 'drawable/sec_stat_notify_wifi_captive_portal_connected'
+Constraints:
+    None
+Mapping:
+    0x7f020002 -> 0x7f010000 (bool/config_dhcp_client_hostname -> bool/config_dhcp_client_hostname)
+    0x7f020003 -> 0x7f010001 (bool/config_force_dns_probe_private_ip_no_internet -> bool/config_force_dns_probe_private_ip_no_internet)
+    0x7f020006 -> 0x7f010002 (bool/config_validate_dun_networks -> bool/config_validate_dun_networks)
+    0x7f030000 -> 0x7f020000 (drawable/icon_wifi -> drawable/icon_wifi)
+    0x7f040006 -> 0x7f030000 (integer/config_nud_postroaming_solicit_interval -> integer/config_nud_postroaming_solicit_interval)
+    0x7f040007 -> 0x7f030001 (integer/config_nud_postroaming_solicit_num -> integer/config_nud_postroaming_solicit_num)
+
+IDMAP OF com.samsung.android.smartface.overlay
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /system_ext/overlay/smartfaceservice_overlay.apk
+Constraints:
+    None
+Mapping:
+    0x01040037 -> 0x7f010000 (string/config_systemVisualIntelligence -> string/config_systemVisualIntelligence)
+
+IDMAP OF com.samsung.android.wifi.softapqc.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/SoftapOverlayQC/SoftapOverlayQC.apk
+Constraints:
+    None
+Mapping:
+    0x7f020024 -> 0x7f010000 (bool/config_wifiDriverSupportedNl80211RegChangedEvent -> bool/config_wifiDriverSupportedNl80211RegChangedEvent)
+
+IDMAP OF android:PermissionControllerDA_FRRO
+Paths:
+    target path  : /apex/com.android.permission/priv-app/GooglePermissionController@374200200/GooglePermissionController.apk
+    overlay path : /data/resource-cache/android-PermissionControllerDA_FRRO-B7ph.frro
+Overlay name: PermissionControllerDA_FRRO
+Constraints:
+    None
+Mapping:
+    0x7f130137 -> string "com.google.android.googlequicksearchbox;ai.perplexity.app.android:ad15bcccc8c379c2ee07764f50ce75d3c146445ad8dc8353828bf6a904b66918;ai.perplexity.app.android:b5c7a5c959b1626fb0e77bc5b72e8c394ab5c2671702a8ddf10b9bdbb0bf6d18" (string/config_recommendedAssistants)
+
+IDMAP OF com.android.phone.auto_generated_characteristics_rro
+<missing idmap>
+IDMAP OF android.auto_generated_rro_vendor__
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /vendor/overlay/framework-res__m3qsqw__auto_generated_rro_vendor.apk
+Debug info:
+    W failed to find resource 'bool/config_bluetooth_hfp_inband_ringing_support'
+    W failed to find resource 'bool/config_bluetooth_le_peripheral_mode_supported'
+    W failed to find resource 'bool/config_dual_bar'
+    W failed to find resource 'bool/config_wifi_background_scan_support'
+    W failed to find resource 'bool/config_wifi_batched_scan_supported'
+    W failed to find resource 'bool/config_wifi_dual_band_support'
+    W failed to find resource 'bool/config_wifi_softap_acs_supported'
+    W failed to find resource 'bool/config_wifi_softap_ieee80211ac_supported'
+    W failed to find resource 'string/config_optionalPackageVerifierName'
+Constraints:
+    None
+Mapping:
+    0x01040416 -> 0x7f040000 (string/config_mms_user_agent -> string/config_mms_user_agent)
+    0x01040417 -> 0x7f040001 (string/config_mms_user_agent_profile_url -> string/config_mms_user_agent_profile_url)
+    0x0104042e -> 0x7f040003 (string/config_persistentDataPackageName -> string/config_persistentDataPackageName)
+    0x010700b3 -> 0x7f010000 (array/config_autoBrightnessLcdBacklightValues -> array/config_autoBrightnessLcdBacklightValues)
+    0x010700b5 -> 0x7f010001 (array/config_autoBrightnessLevels -> array/config_autoBrightnessLevels)
+    0x01070151 -> 0x7f010002 (array/config_mobile_tcp_buffers -> array/config_mobile_tcp_buffers)
+    0x010701a2 -> 0x7f010003 (array/config_tether_bluetooth_regexs -> array/config_tether_bluetooth_regexs)
+    0x010701a3 -> 0x7f010004 (array/config_tether_dhcp_range -> array/config_tether_dhcp_range)
+    0x010701a4 -> 0x7f010005 (array/config_tether_upstream_types -> array/config_tether_upstream_types)
+    0x010701a5 -> 0x7f010006 (array/config_tether_usb_regexs -> array/config_tether_usb_regexs)
+    0x01070229 -> 0x7f010007 (array/networkAttributes -> array/networkAttributes)
+    0x01070232 -> 0x7f010008 (array/radioAttributes -> array/radioAttributes)
+    0x010e012a -> 0x7f030000 (integer/config_multiuserMaximumUsers -> integer/config_multiuserMaximumUsers)
+    0x010e01be -> 0x7f030001 (integer/config_volte_replacement_rat -> integer/config_volte_replacement_rat)
+    0x01110047 -> 0x7f020000 (bool/config_automatic_brightness_available -> bool/config_automatic_brightness_available)
+    0x01110071 -> 0x7f020003 (bool/config_camera_sound_forced -> bool/config_camera_sound_forced)
+    0x01110076 -> 0x7f020004 (bool/config_carrier_volte_available -> bool/config_carrier_volte_available)
+    0x0111012f -> 0x7f020005 (bool/config_cellBroadcastAppLinks -> bool/config_cellBroadcastAppLinks)
+    0x01110148 -> 0x7f020006 (bool/config_device_volte_available -> bool/config_device_volte_available)
+    0x01110149 -> 0x7f020007 (bool/config_device_vt_available -> bool/config_device_vt_available)
+    0x0111014a -> 0x7f020008 (bool/config_device_wfc_ims_available -> bool/config_device_wfc_ims_available)
+    0x011101a0 -> 0x7f02000a (bool/config_enableMultiUserUI -> bool/config_enableMultiUserUI)
+    0x011101f4 -> 0x7f02000b (bool/config_hotswapCapable -> bool/config_hotswapCapable)
+    0x01110281 -> 0x7f02000c (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+    0x0111029a -> 0x7f02000d (bool/config_speed_up_audio_on_mt_calls -> bool/config_speed_up_audio_on_mt_calls)
+    0x011102a4 -> 0x7f02000e (bool/config_supportAudioSourceUnprocessed -> bool/config_supportAudioSourceUnprocessed)
+    0x011102c5 -> 0x7f02000f (bool/config_switch_phone_on_voice_reg_state_change -> bool/config_switch_phone_on_voice_reg_state_change)
+    0x011102d2 -> 0x7f020010 (bool/config_unplugTurnsOnScreen -> bool/config_unplugTurnsOnScreen)
+    0x011102fe -> 0x7f020011 (bool/config_wifiDisplaySupportsProtectedBuffers -> bool/config_wifiDisplaySupportsProtectedBuffers)
+    0x0111032a -> 0x7f020017 (bool/skip_restoring_network_selection -> bool/skip_restoring_network_selection)
+    0x0117007f -> 0x7f050000 (xml/power_profile -> xml/power_profile)
+
+IDMAP OF com.android.internal.display.cutout.emulation.waterfall
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk
+Debug info:
+    W failed to find resource 'string/display_cutout_emulation_overlay'
+Constraints:
+    None
+Mapping:
+    0x0104040e -> 0x7f020000 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040410 -> 0x7f020001 (string/config_mainBuiltInDisplayCutoutRectApproximation -> string/config_mainBuiltInDisplayCutoutRectApproximation)
+    0x010505d5 -> 0x7f010000 (dimen/status_bar_height_landscape -> dimen/status_bar_height_landscape)
+    0x010505d6 -> 0x7f010001 (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x01050675 -> 0x7f010002 (dimen/waterfall_display_bottom_edge_size -> dimen/waterfall_display_bottom_edge_size)
+    0x01050676 -> 0x7f010003 (dimen/waterfall_display_left_edge_size -> dimen/waterfall_display_left_edge_size)
+    0x01050677 -> 0x7f010004 (dimen/waterfall_display_right_edge_size -> dimen/waterfall_display_right_edge_size)
+    0x01050678 -> 0x7f010005 (dimen/waterfall_display_top_edge_size -> dimen/waterfall_display_top_edge_size)
+
+IDMAP OF com.samsung.android.wifi.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayApp.apk
+Debug info:
+    W failed to find resource 'string/wifi_suggestion_imsi_privacy_content_for_lg'
+    W failed to find resource 'string/wifi_suggestion_imsi_privacy_exemption_confirmation_content_for_lg'
+Constraints:
+    None
+Mapping:
+    0x7f010000 -> 0x7f010000 (array/config_oemPrivilegedWifiAdminPackages -> array/config_oemPrivilegedWifiAdminPackages)
+    0x7f010002 -> 0x7f010001 (array/config_wifiBackgroundRttThrottleExceptionList -> array/config_wifiBackgroundRttThrottleExceptionList)
+    0x7f010003 -> 0x7f010002 (array/config_wifiBackgroundScanThrottleExceptionList -> array/config_wifiBackgroundScanThrottleExceptionList)
+    0x7f010004 -> 0x7f010003 (array/config_wifiCharsetsForSsidTranslation -> array/config_wifiCharsetsForSsidTranslation)
+    0x7f010005 -> 0x7f010004 (array/config_wifiConnectedScanIntervalScheduleSec -> array/config_wifiConnectedScanIntervalScheduleSec)
+    0x7f01000a -> 0x7f010005 (array/config_wifiDisconnectedScanIntervalScheduleSec -> array/config_wifiDisconnectedScanIntervalScheduleSec)
+    0x7f01000b -> 0x7f010006 (array/config_wifiDisconnectedScanType -> array/config_wifiDisconnectedScanType)
+    0x7f01000e -> 0x7f010007 (array/config_wifiForceDisableMacRandomizationSsidList -> array/config_wifiForceDisableMacRandomizationSsidList)
+    0x7f01000f -> 0x7f010008 (array/config_wifiForceDisableMacRandomizationSsidPrefixList -> array/config_wifiForceDisableMacRandomizationSsidPrefixList)
+    0x7f010010 -> 0x7f010009 (array/config_wifiForegroundScanThrottleExceptionList -> array/config_wifiForegroundScanThrottleExceptionList)
+    0x7f010012 -> 0x7f01000a (array/config_wifiMobilityFilterCarrierIdBlocklist -> array/config_wifiMobilityFilterCarrierIdBlocklist)
+    0x7f010017 -> 0x7f01000b (array/config_wifiRssiLevelThresholds -> array/config_wifiRssiLevelThresholds)
+    0x7f020008 -> 0x7f020000 (bool/config_wifi11axSupportOverride -> bool/config_wifi11axSupportOverride)
+    0x7f02000b -> 0x7f020001 (bool/config_wifi5ghzSupport -> bool/config_wifi5ghzSupport)
+    0x7f020010 -> 0x7f020002 (bool/config_wifiAllowInsecureEnterpriseConfigurationsForSettingsAndSUW -> bool/config_wifiAllowInsecureEnterpriseConfigurationsForSettingsAndSUW)
+    0x7f020015 -> 0x7f020003 (bool/config_wifiAlwaysPreferSharedMechanism -> bool/config_wifiAlwaysPreferSharedMechanism)
+    0x7f020016 -> 0x7f020004 (bool/config_wifiApplicationCentricQosPolicyFeatureEnabled -> bool/config_wifiApplicationCentricQosPolicyFeatureEnabled)
+    0x7f020029 -> 0x7f020005 (bool/config_wifiEnableLinkedNetworkRoaming -> bool/config_wifiEnableLinkedNetworkRoaming)
+    0x7f02002d -> 0x7f020006 (bool/config_wifiFlushAnqpCacheOnWifiToggleOffEvent -> bool/config_wifiFlushAnqpCacheOnWifiToggleOffEvent)
+    0x7f020031 -> 0x7f020007 (bool/config_wifiHighMovementNetworkSelectionOptimizationEnabled -> bool/config_wifiHighMovementNetworkSelectionOptimizationEnabled)
+    0x7f020046 -> 0x7f020008 (bool/config_wifiPasspointUseApWanLinkStatusAnqpElement -> bool/config_wifiPasspointUseApWanLinkStatusAnqpElement)
+    0x7f020074 -> 0x7f020009 (bool/config_wifiTwtSupported -> bool/config_wifiTwtSupported)
+    0x7f020080 -> 0x7f02000a (bool/config_wifi_background_scan_support -> bool/config_wifi_background_scan_support)
+    0x7f020081 -> 0x7f02000b (bool/config_wifi_connected_mac_randomization_supported -> bool/config_wifi_connected_mac_randomization_supported)
+    0x7f020083 -> 0x7f02000c (bool/config_wifi_fast_bss_transition_enabled -> bool/config_wifi_fast_bss_transition_enabled)
+    0x7f020084 -> 0x7f02000d (bool/config_wifi_framework_enable_associated_network_selection -> bool/config_wifi_framework_enable_associated_network_selection)
+    0x7f020093 -> 0x7f02000e (bool/config_wificondMigrationEnabled -> bool/config_wificondMigrationEnabled)
+    0x7f030000 -> 0x7f030000 (drawable/ic_wifi_settings -> drawable/ic_wifi_settings)
+    0x7f030001 -> 0x7f030001 (drawable/stat_notify_wifi_in_range -> drawable/stat_notify_wifi_in_range)
+    0x7f050011 -> 0x7f040000 (integer/config_wifiBssidBlocklistMonitorDhcpFailureThreshold -> integer/config_wifiBssidBlocklistMonitorDhcpFailureThreshold)
+    0x7f050019 -> 0x7f040001 (integer/config_wifiChannelUtilizationOverride2g -> integer/config_wifiChannelUtilizationOverride2g)
+    0x7f05001a -> 0x7f040002 (integer/config_wifiChannelUtilizationOverride5g -> integer/config_wifiChannelUtilizationOverride5g)
+    0x7f05001b -> 0x7f040003 (integer/config_wifiChannelUtilizationOverride6g -> integer/config_wifiChannelUtilizationOverride6g)
+    0x7f050023 -> 0x7f040004 (integer/config_wifiConnectivityLocalLogMaxLinesHighRam -> integer/config_wifiConnectivityLocalLogMaxLinesHighRam)
+    0x7f05004b -> 0x7f040005 (integer/config_wifiFrameworkLastSelectionMinutes -> integer/config_wifiFrameworkLastSelectionMinutes)
+    0x7f050050 -> 0x7f040006 (integer/config_wifiFrameworkScoreBadRssiThreshold6ghz -> integer/config_wifiFrameworkScoreBadRssiThreshold6ghz)
+    0x7f050051 -> 0x7f040007 (integer/config_wifiFrameworkScoreEntryRssiThreshold6ghz -> integer/config_wifiFrameworkScoreEntryRssiThreshold6ghz)
+    0x7f050054 -> 0x7f040008 (integer/config_wifiFrameworkSecureNetworkBonus -> integer/config_wifiFrameworkSecureNetworkBonus)
+    0x7f050062 -> 0x7f040009 (integer/config_wifiImsiProtectionNotificationDelaySeconds -> integer/config_wifiImsiProtectionNotificationDelaySeconds)
+    0x7f05006a -> 0x7f04000a (integer/config_wifiMaxNumWifiConfigurations -> integer/config_wifiMaxNumWifiConfigurations)
+    0x7f05006d -> 0x7f04000b (integer/config_wifiMovingPnoScanIntervalMillis -> integer/config_wifiMovingPnoScanIntervalMillis)
+    0x7f05006e -> 0x7f04000c (integer/config_wifiNetworkNotFoundEventThreshold -> integer/config_wifiNetworkNotFoundEventThreshold)
+    0x7f050076 -> 0x7f04000d (integer/config_wifiPnoScanIntervalMultiplier -> integer/config_wifiPnoScanIntervalMultiplier)
+    0x7f050077 -> 0x7f04000e (integer/config_wifiPnoScanIterations -> integer/config_wifiPnoScanIterations)
+    0x7f050078 -> 0x7f04000f (integer/config_wifiPnoScanLowRssiNetworkRetryMaxDelaySec -> integer/config_wifiPnoScanLowRssiNetworkRetryMaxDelaySec)
+    0x7f050079 -> 0x7f040010 (integer/config_wifiPnoScanLowRssiNetworkRetryStartDelaySec -> integer/config_wifiPnoScanLowRssiNetworkRetryStartDelaySec)
+    0x7f050082 -> 0x7f040011 (integer/config_wifiStationaryPnoScanIntervalMillis -> integer/config_wifiStationaryPnoScanIntervalMillis)
+    0x7f050092 -> 0x7f040012 (integer/config_wifi_framework_wifi_score_entry_rssi_threshold_24GHz -> integer/config_wifi_framework_wifi_score_entry_rssi_threshold_24GHz)
+    0x7f050093 -> 0x7f040013 (integer/config_wifi_framework_wifi_score_entry_rssi_threshold_5GHz -> integer/config_wifi_framework_wifi_score_entry_rssi_threshold_5GHz)
+    0x7f080003 -> 0x7f050000 (string/config_wifiApmEnhancementHelpLink -> string/config_wifiApmEnhancementHelpLink)
+    0x7f080012 -> 0x7f050001 (string/config_wifi_tcp_buffers -> string/config_wifi_tcp_buffers)
+    0x7f080021 -> 0x7f050002 (string/wifi_available_title_failed_to_connect -> string/wifi_available_title_failed_to_connect)
+    0x7f080058 -> 0x7f050003 (string/wifi_enable_request_dialog_message -> string/wifi_enable_request_dialog_message)
+    0x7f08005b -> 0x7f050004 (string/wifi_enable_request_dialog_title -> string/wifi_enable_request_dialog_title)
+    0x7f08005c -> 0x7f050005 (string/wifi_enabled_apm_first_time_message -> string/wifi_enabled_apm_first_time_message)
+    0x7f08005d -> 0x7f050006 (string/wifi_enabled_apm_first_time_title -> string/wifi_enabled_apm_first_time_title)
+    0x7f08006a -> 0x7f050007 (string/wifi_network_disabled_by_admin_message -> string/wifi_network_disabled_by_admin_message)
+    0x7f080099 -> 0x7f050008 (string/wifi_suggestion_action_allow_imsi_privacy_exemption_carrier -> string/wifi_suggestion_action_allow_imsi_privacy_exemption_carrier)
+    0x7f0800a0 -> 0x7f05000a (string/wifi_suggestion_imsi_privacy_exemption_confirmation_content -> string/wifi_suggestion_imsi_privacy_exemption_confirmation_content)
+
+IDMAP OF com.samsung.android.internal.overlay.config.default_contextual_search
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DefaultContextualSearchOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x010403a9 -> 0x7f010000 (string/config_defaultContextualSearchPackageName -> string/config_defaultContextualSearchPackageName)
+
+IDMAP OF com.google.android.overlay.modules.ext.services
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GoogleExtServicesConfigOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x01040399 -> 0x7f010000 (string/config_defaultAssistantAccessComponent -> string/config_defaultAssistantAccessComponent)
+    0x0104045c -> 0x7f010001 (string/config_servicesExtensionPackage -> string/config_servicesExtensionPackage)
+
+IDMAP OF com.samsung.android.ConnectivityUxOverlay
+Paths:
+    target path  : /apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@374205000/ServiceConnectivityResourcesGoogle.apk
+    overlay path : /product/overlay/ConnectivityUxOverlay.apk
+Debug info:
+    W failed to find resource 'drawable/sec_stat_notify_wifi_in_range'
+Constraints:
+    None
+Mapping:
+    0x7f050002 -> 0x7f010000 (bool/config_autoCancelNetworkNotifications -> bool/config_autoCancelNetworkNotifications)
+    0x7f050005 -> 0x7f010001 (bool/config_notifyNoInternetAsDialogWhenHighPriority -> bool/config_notifyNoInternetAsDialogWhenHighPriority)
+    0x7f050006 -> 0x7f010002 (bool/config_ongoingSignInNotification -> bool/config_ongoingSignInNotification)
+    0x7f050007 -> 0x7f010003 (bool/config_partialConnectivityNotifiedAsNoInternet -> bool/config_partialConnectivityNotifiedAsNoInternet)
+    0x7f08006c -> 0x7f020001 (drawable/stat_notify_wifi_in_range -> drawable/stat_notify_wifi_in_range)
+    0x7f0a0006 -> 0x7f030000 (integer/config_networkAvoidBadWifi -> integer/config_networkAvoidBadWifi)
+    0x7f0a000e -> 0x7f030001 (integer/config_validationFailureAfterRoamIgnoreTimeMillis -> integer/config_validationFailureAfterRoamIgnoreTimeMillis)
+
+IDMAP OF com.android.internal.systemui.navbar.threebutton
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+Debug info:
+    W failed to find resource 'string/navigation_bar_mode_title'
+Constraints:
+    None
+Mapping:
+    0x010502e9 -> 0x7f020000 (dimen/navigation_bar_gesture_height -> dimen/navigation_bar_gesture_height)
+    0x010e012b -> 0x7f030000 (integer/config_navBarInteractionMode -> integer/config_navBarInteractionMode)
+    0x0111002a -> 0x7f010000 (bool/config_allowSeamlessRotationDespiteNavBarMoving -> bool/config_allowSeamlessRotationDespiteNavBarMoving)
+
+IDMAP OF com.samsung.android.wifi.p2paware.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/P2pAwareOverlay.apk
+Debug info:
+    W failed to find resource 'color/wifi_p2p_dialog_body_text_color_material'
+    W failed to find resource 'color/wifi_p2p_textfield_label'
+    W failed to find resource 'color/wifi_p2p_textfield_text'
+    W failed to find resource 'style/wifi_p2p_common'
+    W failed to find resource 'style/wifi_p2p_common2'
+Constraints:
+    None
+Mapping:
+    0x7f010015 -> 0x7f010000 (array/config_wifiP2pAwareConcurrencyAllowlist -> array/config_wifiP2pAwareConcurrencyAllowlist)
+    0x7f020000 -> 0x7f020000 (bool/config_aware_vdbg_enable_on_verbose_logging -> bool/config_aware_vdbg_enable_on_verbose_logging)
+    0x7f020002 -> 0x7f020001 (bool/config_p2pInvitationReceivedDialogShowRemainingTime -> bool/config_p2pInvitationReceivedDialogShowRemainingTime)
+    0x7f020003 -> 0x7f020002 (bool/config_p2pWaitForPeerInviteOnInviteStatusInfoUnavailable -> bool/config_p2pWaitForPeerInviteOnInviteStatusInfoUnavailable)
+    0x7f020013 -> 0x7f020003 (bool/config_wifiAllowMultipleNetworksOnSameAwareNdi -> bool/config_wifiAllowMultipleNetworksOnSameAwareNdi)
+    0x7f020018 -> 0x7f020004 (bool/config_wifiAwareNdpSecurityUpdateOnSameNdi -> bool/config_wifiAwareNdpSecurityUpdateOnSameNdi)
+    0x7f020020 -> 0x7f020005 (bool/config_wifiDialogCanceledOnTouchOutside -> bool/config_wifiDialogCanceledOnTouchOutside)
+    0x7f020078 -> 0x7f020006 (bool/config_wifiUserApprovalNotRequireForDisconnectedP2p -> bool/config_wifiUserApprovalNotRequireForDisconnectedP2p)
+    0x7f020079 -> 0x7f020007 (bool/config_wifiUserApprovalRequiredForD2dInterfacePriority -> bool/config_wifiUserApprovalRequiredForD2dInterfacePriority)
+    0x7f02007b -> 0x7f020008 (bool/config_wifiWaitForDestroyedListeners -> bool/config_wifiWaitForDestroyedListeners)
+    0x7f02008b -> 0x7f020009 (bool/config_wifi_p2p_mac_randomization_supported -> bool/config_wifi_p2p_mac_randomization_supported)
+    0x7f050002 -> 0x7f040000 (integer/config_p2pInvitationReceivedDialogTimeoutMs -> integer/config_p2pInvitationReceivedDialogTimeoutMs)
+    0x7f050073 -> 0x7f040001 (integer/config_wifiP2pExtListenIntervalMs -> integer/config_wifiP2pExtListenIntervalMs)
+    0x7f050074 -> 0x7f040002 (integer/config_wifiP2pExtListenPeriodMs -> integer/config_wifiP2pExtListenPeriodMs)
+    0x7f050075 -> 0x7f040003 (integer/config_wifiP2pJoinRequestAuthorizingTimeoutMs -> integer/config_wifiP2pJoinRequestAuthorizingTimeoutMs)
+    0x7f05008c -> 0x7f040004 (integer/config_wifiUserApprovalForD2dTimeoutSeconds -> integer/config_wifiUserApprovalForD2dTimeoutSeconds)
+    0x7f080000 -> 0x7f050000 (string/accept -> string/accept)
+    0x7f080013 -> 0x7f050001 (string/decline -> string/decline)
+    0x7f08005e -> 0x7f050002 (string/wifi_interface_priority_approve -> string/wifi_interface_priority_approve)
+    0x7f08005f -> 0x7f050003 (string/wifi_interface_priority_interface_name_ap -> string/wifi_interface_priority_interface_name_ap)
+    0x7f080060 -> 0x7f050004 (string/wifi_interface_priority_interface_name_ap_bridge -> string/wifi_interface_priority_interface_name_ap_bridge)
+    0x7f080061 -> 0x7f050005 (string/wifi_interface_priority_interface_name_nan -> string/wifi_interface_priority_interface_name_nan)
+    0x7f080062 -> 0x7f050006 (string/wifi_interface_priority_interface_name_p2p -> string/wifi_interface_priority_interface_name_p2p)
+    0x7f080064 -> 0x7f050007 (string/wifi_interface_priority_message -> string/wifi_interface_priority_message)
+    0x7f080065 -> 0x7f050008 (string/wifi_interface_priority_message_plural -> string/wifi_interface_priority_message_plural)
+    0x7f080066 -> 0x7f050009 (string/wifi_interface_priority_reject -> string/wifi_interface_priority_reject)
+    0x7f080067 -> 0x7f05000a (string/wifi_interface_priority_title -> string/wifi_interface_priority_title)
+    0x7f09000b -> 0x7f060002 (style/wifi_p2p_dialog2_display_pin -> style/wifi_p2p_dialog2_display_pin)
+    0x7f09000c -> 0x7f060003 (style/wifi_p2p_dialog2_display_pin_label -> style/wifi_p2p_dialog2_display_pin_label)
+    0x7f090011 -> 0x7f060004 (style/wifi_p2p_dialog2_enter_pin -> style/wifi_p2p_dialog2_enter_pin)
+    0x7f090012 -> 0x7f060005 (style/wifi_p2p_dialog2_enter_pin_label -> style/wifi_p2p_dialog2_enter_pin_label)
+    0x7f090017 -> 0x7f060006 (style/wifi_p2p_dialog_enter_pin_message -> style/wifi_p2p_dialog_enter_pin_message)
+    0x7f090018 -> 0x7f060007 (style/wifi_p2p_dialog_pin_input -> style/wifi_p2p_dialog_pin_input)
+    0x7f090019 -> 0x7f060008 (style/wifi_p2p_dialog_row_content -> style/wifi_p2p_dialog_row_content)
+    0x7f09001a -> 0x7f060009 (style/wifi_p2p_dialog_row_label -> style/wifi_p2p_dialog_row_label)
+    0x7f09001b -> 0x7f06000a (style/wifi_p2p_dialog_timeout -> style/wifi_p2p_dialog_timeout)
+
+IDMAP OF com.android.internal.systemui.navbar.gestural
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+Debug info:
+    W failed to find resource 'string/navigation_bar_mode_title'
+Constraints:
+    None
+Mapping:
+    0x01050120 -> 0x7f020000 (dimen/config_backGestureInset -> dimen/config_backGestureInset)
+    0x010502e6 -> 0x7f020001 (dimen/navigation_bar_frame_height -> dimen/navigation_bar_frame_height)
+    0x010502e8 -> 0x7f020002 (dimen/navigation_bar_frame_width -> dimen/navigation_bar_frame_width)
+    0x010502e9 -> 0x7f020003 (dimen/navigation_bar_gesture_height -> dimen/navigation_bar_gesture_height)
+    0x010502eb -> 0x7f020004 (dimen/navigation_bar_height -> dimen/navigation_bar_height)
+    0x010502ed -> 0x7f020005 (dimen/navigation_bar_height_landscape -> dimen/navigation_bar_height_landscape)
+    0x010502f0 -> 0x7f020006 (dimen/navigation_bar_width -> dimen/navigation_bar_width)
+    0x010e012b -> 0x7f030000 (integer/config_navBarInteractionMode -> integer/config_navBarInteractionMode)
+    0x010e012c -> 0x7f030001 (integer/config_navBarOpacityMode -> integer/config_navBarOpacityMode)
+    0x0111002a -> 0x7f010000 (bool/config_allowSeamlessRotationDespiteNavBarMoving -> bool/config_allowSeamlessRotationDespiteNavBarMoving)
+    0x0111003f -> 0x7f010001 (bool/config_attachNavBarToAppDuringTransition -> bool/config_attachNavBarToAppDuringTransition)
+    0x011101f7 -> 0x7f010002 (bool/config_imeDrawsImeNavBar -> bool/config_imeDrawsImeNavBar)
+    0x01110232 -> 0x7f010003 (bool/config_navBarAlwaysShowOnSideEdgeGesture -> bool/config_navBarAlwaysShowOnSideEdgeGesture)
+    0x01110233 -> 0x7f010004 (bool/config_navBarCanMove -> bool/config_navBarCanMove)
+    0x01110235 -> 0x7f010005 (bool/config_navBarNeedsScrim -> bool/config_navBarNeedsScrim)
+    0x01110237 -> 0x7f010006 (bool/config_navBarTapThrough -> bool/config_navBarTapThrough)
+    0x01110281 -> 0x7f010007 (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+
+IDMAP OF com.android.internal.display.cutout.emulation.double
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+Debug info:
+    W failed to find resource 'string/display_cutout_emulation_overlay'
+Constraints:
+    None
+Mapping:
+    0x0104040e -> 0x7f030000 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040410 -> 0x7f030001 (string/config_mainBuiltInDisplayCutoutRectApproximation -> string/config_mainBuiltInDisplayCutoutRectApproximation)
+    0x010505d5 -> 0x7f020000 (dimen/status_bar_height_landscape -> dimen/status_bar_height_landscape)
+    0x010505d6 -> 0x7f020001 (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x011101d5 -> 0x7f010000 (bool/config_fillMainBuiltInDisplayCutout -> bool/config_fillMainBuiltInDisplayCutout)
+
+IDMAP OF com.google.android.overlay.modules.permissioncontroller
+Paths:
+    target path  : /apex/com.android.permission/priv-app/GooglePermissionController@374200200/GooglePermissionController.apk
+    overlay path : /product/overlay/GooglePermissionControllerOverlay.apk
+Debug info:
+    W failed to find resource 'color/actionbar_title_text_color'
+    W failed to find resource 'color/app_permission_footer_link_preference_summary'
+    W failed to find resource 'color/grant_dialog_background_color'
+    W failed to find resource 'color/large_header_text_color'
+    W failed to find resource 'color/list_bg_color'
+    W failed to find resource 'color/list_contents_area_theme_color'
+    W failed to find resource 'color/list_main_text_color'
+    W failed to find resource 'color/list_main_text_disabled_color'
+    W failed to find resource 'color/list_sub_text_color'
+    W failed to find resource 'color/list_sub_text_disabled_color'
+    W failed to find resource 'color/navigation_bar_bg_color'
+    W failed to find resource 'color/navigation_up_btn_color'
+    W failed to find resource 'color/permission_title_message_color'
+    W failed to find resource 'color/preference_summary_text_color'
+    W failed to find resource 'color/preference_title_text_color'
+    W failed to find resource 'color/radio_button_color_dark'
+    W failed to find resource 'color/radio_button_color_light'
+    W failed to find resource 'color/sesl_switch_thumb_off_color'
+    W failed to find resource 'color/sesl_switch_thumb_off_disabled_color'
+    W failed to find resource 'color/sesl_switch_thumb_on_color'
+    W failed to find resource 'color/sesl_switch_thumb_on_disabled_color'
+    W failed to find resource 'color/sesl_switch_thumb_on_stroke_outline_color'
+    W failed to find resource 'color/sesl_switch_track_off_color'
+    W failed to find resource 'color/sesl_switch_track_off_disabled_color'
+    W failed to find resource 'color/sesl_switch_track_on_disabled_color'
+    W failed to find resource 'dimen/default_round_radius'
+    W failed to find resource 'dimen/flexible_category_margin_left_right'
+    W failed to find resource 'dimen/flexible_footer_margin_left_right'
+    W failed to find resource 'dimen/flexible_list_margin_left_right'
+    W failed to find resource 'dimen/grant_dialog_side_padding'
+    W failed to find resource 'dimen/sesl_action_button_icon_size'
+    W failed to find resource 'drawable/custom_switchthumb'
+    W failed to find resource 'drawable/description_preference_background'
+    W failed to find resource 'drawable/grant_dialog_background'
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'drawable/list_divider' in target: target resource has no overlayable declaration
+    W failed to find resource 'drawable/permission_preference_background'
+    W failed to find resource 'drawable/permission_preference_background_divider'
+    W failed to find resource 'drawable/radio_preference_background'
+    W failed to find resource 'drawable/radio_preference_background_divider'
+    W failed to find resource 'drawable/sesl_ic_ab_back_light'
+    W failed to find resource 'drawable/sesl_switch_thumb_off'
+    W failed to find resource 'drawable/sesl_switch_thumb_off_disabled'
+    W failed to find resource 'drawable/sesl_switch_thumb_on'
+    W failed to find resource 'drawable/sesl_switch_thumb_on_disabled'
+    W failed to find resource 'drawable/sesl_switch_track_disabled_off'
+    W failed to find resource 'drawable/sesl_switch_track_disabled_on'
+    W failed to find resource 'drawable/sesl_switch_track_off'
+    W failed to find resource 'drawable/sesl_switch_track_on'
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'drawable/settingslib_round_background_stateful' in target: target resource has no overlayable declaration
+    W failed to find resource 'drawable/switch_track_selector'
+    W failed to find resource 'drawable/tw_ic_ab_back_mtrl'
+    W failed to find resource 'id/sesl_switch_thumb_on'
+    W failed to find resource 'id/sesl_switch_track_on'
+    W failed to find resource 'string/recommended_assistants_by'
+    W failed to find resource 'string/recommended_assistants_description'
+    W failed to find resource 'style/Accessibility.Switch'
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'style/Base.Widget.AppCompat.CompoundButton.Switch' in target: target resource has no overlayable declaration
+    W failed to find resource 'style/MyActionBarTextAppearance'
+    W failed to find resource 'style/MyCategoryPreferenceTextAppearance'
+    W failed to find resource 'style/MyPreferenceTextAppearance'
+    W failed to find resource 'style/MyToolbarStyle'
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'style/TextAppearance.SettingsLib.BodyMedium' in target: target resource has no overlayable declaration
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'style/TextAppearance.SettingsLib.HeadlineSmall' in target: target resource has no overlayable declaration
+    W overlay '/product/overlay/GooglePermissionControllerOverlay.apk' is not allowed to overlay resource 'style/TextAppearance.SettingsLib.LabelMedium.Emphasized' in target: target resource has no overlayable declaration
+Constraints:
+    None
+Mapping:
+    0x7f0406b5 -> 0x7f010000 (attr/state_has_icon_space -> attr/state_has_icon_space)
+    0x7f050018 -> 0x7f020000 (bool/config_appPermissionFooterLinkPreferenceSummaryUnderlined -> bool/config_appPermissionFooterLinkPreferenceSummaryUnderlined)
+    0x7f05001b -> 0x7f020001 (bool/config_enableExpressiveDesignInPermissionSettings -> bool/config_enableExpressiveDesignInPermissionSettings)
+    0x7f05001f -> 0x7f020002 (bool/config_permissionFooterPreferenceIconVisible -> bool/config_permissionFooterPreferenceIconVisible)
+    0x7f050027 -> 0x7f020003 (bool/config_useCollapsingToolbarInPermissionSettings -> bool/config_useCollapsingToolbarInPermissionSettings)
+    0x7f05002a -> 0x7f020004 (bool/config_usePreferenceForAppPermissionSettings -> bool/config_usePreferenceForAppPermissionSettings)
+    0x7f070665 -> 0x7f040005 (dimen/permission_preference_permission_group_icon_size -> dimen/permission_preference_permission_group_icon_size)
+    0x7f130137 -> 0x7f070000 (string/config_recommendedAssistants -> string/config_recommendedAssistants)
+    0x7f130138 -> 0x7f070001 (string/config_recommendedAssistantsBy -> string/config_recommendedAssistantsBy)
+    0x7f130139 -> 0x7f070002 (string/config_recommendedAssistantsDescription -> string/config_recommendedAssistantsDescription)
+    0x7f13013e -> 0x7f070003 (string/data_sharing_help_center_link -> string/data_sharing_help_center_link)
+    0x7f1301a2 -> 0x7f070004 (string/help_app_permissions -> string/help_app_permissions)
+    0x7f1301a7 -> 0x7f070005 (string/help_url_action_disabled_by_restricted_settings -> string/help_url_action_disabled_by_restricted_settings)
+    0x7f140046 -> 0x7f080001 (style/AppPermissionFooterLink -> style/AppPermissionFooterLink)
+    0x7f140047 -> 0x7f080002 (style/AppPermissionFooterLinkPreferenceRootLayoutStyle -> style/AppPermissionFooterLinkPreferenceRootLayoutStyle)
+    0x7f140048 -> 0x7f080003 (style/AppPermissionFooterLinkPreferenceSummaryStyle -> style/AppPermissionFooterLinkPreferenceSummaryStyle)
+    0x7f140049 -> 0x7f080004 (style/AppPermissionFooterLinkPreferenceTextLayoutStyle -> style/AppPermissionFooterLinkPreferenceTextLayoutStyle)
+    0x7f140051 -> 0x7f080005 (style/AppPermissionMessage -> style/AppPermissionMessage)
+    0x7f140052 -> 0x7f080006 (style/AppPermissionRadioButton -> style/AppPermissionRadioButton)
+    0x7f140204 -> 0x7f080008 (style/GrantPermissions -> style/GrantPermissions)
+    0x7f140218 -> 0x7f080009 (style/LargeHeaderLink -> style/LargeHeaderLink)
+    0x7f140219 -> 0x7f08000a (style/LargeHeaderText -> style/LargeHeaderText)
+    0x7f140263 -> 0x7f08000f (style/PermissionFooterPreferenceTitleTextStyle -> style/PermissionFooterPreferenceTitleTextStyle)
+    0x7f140268 -> 0x7f080010 (style/PermissionGrantButtonAllowAllExpressive -> style/PermissionGrantButtonAllowAllExpressive)
+    0x7f14026a -> 0x7f080011 (style/PermissionGrantButtonAllowExpressive -> style/PermissionGrantButtonAllowExpressive)
+    0x7f14026c -> 0x7f080012 (style/PermissionGrantButtonAllowForegroundExpressive -> style/PermissionGrantButtonAllowForegroundExpressive)
+    0x7f14026d -> 0x7f080013 (style/PermissionGrantButtonAllowForegroundMaterial3 -> style/PermissionGrantButtonAllowForegroundMaterial3)
+    0x7f14026e -> 0x7f080014 (style/PermissionGrantButtonAllowMaterial3 -> style/PermissionGrantButtonAllowMaterial3)
+    0x7f140270 -> 0x7f080015 (style/PermissionGrantButtonAllowOneTimeExpressive -> style/PermissionGrantButtonAllowOneTimeExpressive)
+    0x7f140271 -> 0x7f080016 (style/PermissionGrantButtonAllowOneTimeMaterial3 -> style/PermissionGrantButtonAllowOneTimeMaterial3)
+    0x7f140273 -> 0x7f080017 (style/PermissionGrantButtonAllowSelectedExpressive -> style/PermissionGrantButtonAllowSelectedExpressive)
+    0x7f140276 -> 0x7f080018 (style/PermissionGrantButtonBottom -> style/PermissionGrantButtonBottom)
+    0x7f140278 -> 0x7f080019 (style/PermissionGrantButtonDenyExpressive -> style/PermissionGrantButtonDenyExpressive)
+    0x7f140279 -> 0x7f08001a (style/PermissionGrantButtonDenyMaterial3 -> style/PermissionGrantButtonDenyMaterial3)
+    0x7f14027b -> 0x7f08001b (style/PermissionGrantButtonDontAllowMoreExpressive -> style/PermissionGrantButtonDontAllowMoreExpressive)
+    0x7f14027f -> 0x7f08001c (style/PermissionGrantButtonListExpressive -> style/PermissionGrantButtonListExpressive)
+    0x7f140280 -> 0x7f08001d (style/PermissionGrantButtonListMaterial3 -> style/PermissionGrantButtonListMaterial3)
+    0x7f140281 -> 0x7f08001e (style/PermissionGrantButtonMiddle -> style/PermissionGrantButtonMiddle)
+    0x7f140283 -> 0x7f08001f (style/PermissionGrantButtonNoUpgradeExpressive -> style/PermissionGrantButtonNoUpgradeExpressive)
+    0x7f140284 -> 0x7f080020 (style/PermissionGrantButtonNoUpgradeMaterial3 -> style/PermissionGrantButtonNoUpgradeMaterial3)
+    0x7f140285 -> 0x7f080021 (style/PermissionGrantButtonTop -> style/PermissionGrantButtonTop)
+    0x7f140286 -> 0x7f080022 (style/PermissionGrantContent -> style/PermissionGrantContent)
+    0x7f140289 -> 0x7f080023 (style/PermissionGrantDetailMessageExpressive -> style/PermissionGrantDetailMessageExpressive)
+    0x7f14028b -> 0x7f080024 (style/PermissionGrantDialogMaterial3 -> style/PermissionGrantDialogMaterial3)
+    0x7f140291 -> 0x7f080025 (style/PermissionGrantSingleton -> style/PermissionGrantSingleton)
+    0x7f140293 -> 0x7f080026 (style/PermissionGrantTitleIconMaterial3 -> style/PermissionGrantTitleIconMaterial3)
+    0x7f140294 -> 0x7f080027 (style/PermissionGrantTitleMessage -> style/PermissionGrantTitleMessage)
+    0x7f140295 -> 0x7f080028 (style/PermissionGrantTitleMessageExpressive -> style/PermissionGrantTitleMessageExpressive)
+    0x7f14029b -> 0x7f080029 (style/PermissionLocationAccuracyRadioCoarse -> style/PermissionLocationAccuracyRadioCoarse)
+    0x7f14029c -> 0x7f08002a (style/PermissionLocationAccuracyRadioFine -> style/PermissionLocationAccuracyRadioFine)
+    0x7f1402a6 -> 0x7f08002b (style/PermissionPreferenceCategoryTitleTextStyle -> style/PermissionPreferenceCategoryTitleTextStyle)
+    0x7f1402a8 -> 0x7f08002c (style/PermissionPreferenceIconStyle -> style/PermissionPreferenceIconStyle)
+    0x7f1402a9 -> 0x7f08002d (style/PermissionPreferenceRootLayoutStyle -> style/PermissionPreferenceRootLayoutStyle)
+    0x7f1402aa -> 0x7f08002e (style/PermissionPreferenceSummaryTextStyle -> style/PermissionPreferenceSummaryTextStyle)
+    0x7f1402ac -> 0x7f08002f (style/PermissionPreferenceTitleTextStyle -> style/PermissionPreferenceTitleTextStyle)
+    0x7f1402d5 -> 0x7f080030 (style/PermissionSelectorWithWidgetPreferenceAppendixStyle -> style/PermissionSelectorWithWidgetPreferenceAppendixStyle)
+    0x7f1402d6 -> 0x7f080031 (style/PermissionSelectorWithWidgetPreferenceExtraWidgetContainerStyle -> style/PermissionSelectorWithWidgetPreferenceExtraWidgetContainerStyle)
+    0x7f1402d7 -> 0x7f080032 (style/PermissionSelectorWithWidgetPreferenceExtraWidgetDividerStyle -> style/PermissionSelectorWithWidgetPreferenceExtraWidgetDividerStyle)
+    0x7f1402d8 -> 0x7f080033 (style/PermissionSelectorWithWidgetPreferenceExtraWidgetImageStyle -> style/PermissionSelectorWithWidgetPreferenceExtraWidgetImageStyle)
+    0x7f1402d9 -> 0x7f080034 (style/PermissionSelectorWithWidgetPreferenceIconFrameStyle -> style/PermissionSelectorWithWidgetPreferenceIconFrameStyle)
+    0x7f1402da -> 0x7f080035 (style/PermissionSelectorWithWidgetPreferenceIconStyle -> style/PermissionSelectorWithWidgetPreferenceIconStyle)
+    0x7f1402db -> 0x7f080036 (style/PermissionSelectorWithWidgetPreferenceRootLayoutStyle -> style/PermissionSelectorWithWidgetPreferenceRootLayoutStyle)
+    0x7f1402dc -> 0x7f080037 (style/PermissionSelectorWithWidgetPreferenceSummaryContainerStyle -> style/PermissionSelectorWithWidgetPreferenceSummaryContainerStyle)
+    0x7f1402dd -> 0x7f080038 (style/PermissionSelectorWithWidgetPreferenceSummaryStyle -> style/PermissionSelectorWithWidgetPreferenceSummaryStyle)
+    0x7f1402de -> 0x7f080039 (style/PermissionSelectorWithWidgetPreferenceTextContainerStyle -> style/PermissionSelectorWithWidgetPreferenceTextContainerStyle)
+    0x7f1402df -> 0x7f08003a (style/PermissionSelectorWithWidgetPreferenceTitleStyle -> style/PermissionSelectorWithWidgetPreferenceTitleStyle)
+    0x7f1402e0 -> 0x7f08003b (style/PermissionSelectorWithWidgetPreferenceWidgetFrameStyle -> style/PermissionSelectorWithWidgetPreferenceWidgetFrameStyle)
+    0x7f1402e1 -> 0x7f08003c (style/PermissionSelectorWithWidgetPreferenceWidgetRadioButton -> style/PermissionSelectorWithWidgetPreferenceWidgetRadioButton)
+    0x7f1402e2 -> 0x7f08003d (style/PermissionTwoTargetPreferenceDividerContainerStyle -> style/PermissionTwoTargetPreferenceDividerContainerStyle)
+    0x7f1402e3 -> 0x7f08003e (style/PermissionTwoTargetPreferenceDividerStyle -> style/PermissionTwoTargetPreferenceDividerStyle)
+    0x7f1402e4 -> 0x7f08003f (style/PermissionTwoTargetPreferenceIconFrameStyle -> style/PermissionTwoTargetPreferenceIconFrameStyle)
+    0x7f1402e5 -> 0x7f080040 (style/PermissionTwoTargetPreferenceIconStyle -> style/PermissionTwoTargetPreferenceIconStyle)
+    0x7f1402e6 -> 0x7f080041 (style/PermissionTwoTargetPreferenceRootLayoutStyle -> style/PermissionTwoTargetPreferenceRootLayoutStyle)
+    0x7f1402e7 -> 0x7f080042 (style/PermissionTwoTargetPreferenceSummaryStyle -> style/PermissionTwoTargetPreferenceSummaryStyle)
+    0x7f1402e8 -> 0x7f080043 (style/PermissionTwoTargetPreferenceTextContainerStyle -> style/PermissionTwoTargetPreferenceTextContainerStyle)
+    0x7f1402e9 -> 0x7f080044 (style/PermissionTwoTargetPreferenceTitleStyle -> style/PermissionTwoTargetPreferenceTitleStyle)
+    0x7f1402ea -> 0x7f080045 (style/PermissionTwoTargetPreferenceWidgetFrameStyle -> style/PermissionTwoTargetPreferenceWidgetFrameStyle)
+    0x7f14035a -> 0x7f080046 (style/RequestLocationButtonPermissionsDialogAllowButton -> style/RequestLocationButtonPermissionsDialogAllowButton)
+    0x7f14035d -> 0x7f080047 (style/RequestLocationButtonPermissionsDialogDontAllowButton -> style/RequestLocationButtonPermissionsDialogDontAllowButton)
+    0x7f14035e -> 0x7f080048 (style/RequestLocationButtonPermissionsDialogIcon -> style/RequestLocationButtonPermissionsDialogIcon)
+    0x7f14035f -> 0x7f080049 (style/RequestLocationButtonPermissionsDialogIllustration -> style/RequestLocationButtonPermissionsDialogIllustration)
+    0x7f140360 -> 0x7f08004a (style/RequestLocationButtonPermissionsDialogScrollView -> style/RequestLocationButtonPermissionsDialogScrollView)
+    0x7f140361 -> 0x7f08004b (style/RequestLocationButtonPermissionsDialogSubtitle -> style/RequestLocationButtonPermissionsDialogSubtitle)
+    0x7f140362 -> 0x7f08004c (style/RequestLocationButtonPermissionsDialogTitle -> style/RequestLocationButtonPermissionsDialogTitle)
+    0x7f14040e -> 0x7f08004d (style/SettingsLibEntityHeader -> style/SettingsLibEntityHeader)
+    0x7f14040f -> 0x7f08004e (style/SettingsLibEntityHeaderContent -> style/SettingsLibEntityHeaderContent)
+    0x7f140410 -> 0x7f08004f (style/SettingsLibEntityHeaderIcon -> style/SettingsLibEntityHeaderIcon)
+    0x7f140412 -> 0x7f080050 (style/SettingsLibEntityHeaderTitle -> style/SettingsLibEntityHeaderTitle)
+    0x7f14050f -> 0x7f080051 (style/TextAppearance.CategoryTitle -> style/TextAppearance.CategoryTitle)
+    0x7f1406b8 -> 0x7f080055 (style/Theme.PermissionGrantDialog -> style/Theme.PermissionGrantDialog)
+    0x7f140773 -> 0x7f080056 (style/ThemeOverlay.PermissionSettings -> style/ThemeOverlay.PermissionSettings)
+
+IDMAP OF com.google.android.overlay.modules.healthfitness.forframework
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GoogleHealthFitnessFrameworkOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x010403ff -> 0x7f020000 (string/config_healthConnectMigratorPackageName -> string/config_healthConnectMigratorPackageName)
+    0x010700c0 -> 0x7f010000 (array/config_backupHealthConnectDataAndSettingsKnownSigners -> array/config_backupHealthConnectDataAndSettingsKnownSigners)
+    0x01070132 -> 0x7f010001 (array/config_healthConnectMigrationKnownSigners -> array/config_healthConnectMigrationKnownSigners)
+    0x01070133 -> 0x7f010002 (array/config_healthConnectRestoreKnownSigners -> array/config_healthConnectRestoreKnownSigners)
+    0x01070177 -> 0x7f010003 (array/config_restoreHealthConnectDataAndSettingsKnownSigners -> array/config_restoreHealthConnectDataAndSettingsKnownSigners)
+
+IDMAP OF com.android.internal.systemui.navbar.transparent
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+Debug info:
+    W failed to find resource 'string/transparent_navigation_bar_title'
+Constraints:
+    None
+Mapping:
+    0x01110234 -> 0x7f010000 (bool/config_navBarDefaultTransparent -> bool/config_navBarDefaultTransparent)
+
+IDMAP OF com.samsung.android.wifi.h2e.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayAppH2E.apk
+Constraints:
+    None
+Mapping:
+    0x7f02004c -> 0x7f010000 (bool/config_wifiSaeH2eSupported -> bool/config_wifiSaeH2eSupported)
+
+IDMAP OF com.google.android.overlay.aicoreconfig
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/AICoreODIOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x01980000 -> 0x7f010001 (string/config_defaultOnDeviceIntelligenceService -> string/config_defaultOnDeviceIntelligenceService)
+    0x01980001 -> 0x7f010002 (string/config_defaultOnDeviceSandboxedInferenceService -> string/config_defaultOnDeviceSandboxedInferenceService)
+    0x01980002 -> 0x7f010000 (string/config_defaultOnDeviceIntelligenceDeviceConfigNamespace -> string/config_defaultOnDeviceIntelligenceDeviceConfigNamespace)
+
+IDMAP OF com.samsung.android.wcmurlsnetworkstack
+Paths:
+    target path  : /data/app/~~YC_Pf75NrxeUm7fLUXYpxg==/com.google.android.networkstack-yb_BpdZx6TmIhWNGWCFKzQ==/base.apk
+    overlay path : /product/app/WcmUrlsNetworkStackOverlay/WcmUrlsNetworkStackOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f010002 -> 0x7f010000 (array/config_captive_portal_fallback_urls -> array/config_captive_portal_fallback_urls)
+    0x7f050001 -> 0x7f020000 (string/config_captive_portal_http_url -> string/config_captive_portal_http_url)
+    0x7f050002 -> 0x7f020001 (string/config_captive_portal_https_url -> string/config_captive_portal_https_url)
+
+IDMAP OF com.sec.android.app.qsfastpairoverlay
+Paths:
+    target path  : /data/app/~~Sc4rsBr6BiULGN8Y9HXiyg==/com.google.android.gms-wQ9pwRJrFG2_wtIbievBpA==/base.apk
+    overlay path : /product/overlay/GmsQSfastpairOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f060e4f -> 0x7f010002 (color/qs_half_sheet_background -> color/color_fcfcff_252528)
+    0x7f060e54 -> 0x7f010001 (color/qs_half_sheet_subtitle_color -> color/color_252528_eaeaeb)
+    0x7f060e55 -> 0x7f010000 (color/qs_half_sheet_title_color -> color/color_010102_fafaff)
+    0x7f070f3e -> 0x7f020002 (dimen/qs_half_sheet_padding_bottom -> dimen/qs_half_sheet_padding_bottom)
+    0x7f070f40 -> 0x7f020003 (dimen/qs_half_sheet_padding_top -> dimen/qs_half_sheet_padding_top)
+    0x7f070f46 -> 0x7f020004 (dimen/qs_half_sheet_title_subtitle_spacing -> dimen/qs_half_sheet_title_subtitle_spacing)
+    0x7f070f49 -> 0x7f020000 (dimen/qs_half_sheet_width -> dimen/half_sheet_width)
+    0x7f16067b -> 0x7f030000 (style/QuickStartButtonStyle -> style/ButtonStyle)
+    0x7f16067c -> 0x7f030000 (style/QuickStartCloseButtonStyle -> style/ButtonStyle)
+    0x7f16067f -> 0x7f030001 (style/QuickStartHalfSheetSubtitleFontFamily -> style/NewSEC400)
+    0x7f160681 -> 0x7f030002 (style/QuickStartHalfSheetTitleFontFamily -> style/NewSEC600)
+    0x7f05002f -> boolean 0xffffffff (bool/qs_force_transparent_navigation_bar)
+    0x7f070f37 -> dimension 0x00001a01 (dimen/qs_half_sheet_bottom_corner_radius)
+    0x7f070f3b -> dimension 0x00000001 (dimen/qs_half_sheet_image_button_spacing)
+    0x7f070f3f -> dimension 0x00001801 (dimen/qs_half_sheet_padding_side)
+    0x7f070f41 -> dimension 0x00001001 (dimen/qs_half_sheet_space_below)
+    0x7f070f42 -> dimension 0x00000a01 (dimen/qs_half_sheet_space_side)
+    0x7f070f43 -> dimension 0x00000001 (dimen/qs_half_sheet_subtitle_horizontal_padding)
+    0x7f070f44 -> dimension 0x00000001 (dimen/qs_half_sheet_subtitle_image_spacing)
+    0x7f070f45 -> dimension 0x00000e02 (dimen/qs_half_sheet_subtitle_text_size)
+    0x7f070f47 -> dimension 0x00001102 (dimen/qs_half_sheet_title_text_size)
+    0x7f070f48 -> dimension 0x00001a01 (dimen/qs_half_sheet_top_corner_radius)
+    0x7f0c00c3 -> integer 0x00800003 (integer/qs_half_sheet_subtitle_text_gravity)
+    0x7f0c00c4 -> integer 0x00800003 (integer/qs_half_sheet_title_text_gravity)
+
+IDMAP OF com.sec.android.app.googlelpaoverlay
+Paths:
+    target path  : /data/app/~~trsVpI3vzf7kRHWrxfWW6Q==/com.google.android.euicc-uefxoWWJBLvNGr7UeViWGQ==/base.apk
+    overlay path : /product/app/GoogleLpaOverlay/GoogleLpaOverlay.apk
+Debug info:
+    W failed to find resource 'profile_transfer_error_deferred_notification_title'
+    W failed to find resource 'profile_transfer_non_recoverable_error_deferred_notification_content'
+    W failed to find resource 'profile_transfer_non_recoverable_error_deferred_notification_action'
+Constraints:
+    None
+Mapping:
+    0x7f06097a -> 0x7f010002 (color/transfer_qr_code_bg_color -> color/oda_d2d_qr_code_bg_color)
+    0x7f06097b -> 0x7f010012 (color/transfer_qr_code_finder_pattern_color -> color/transfer_qr_code_finder_pattern_color)
+    0x7f0705ee -> 0x7f020006 (dimen/qr_code_max_size -> dimen/oda_d2d_qr_code_image_size)
+    0x7f0800e9 -> 0x7f030002 (drawable/ic_continue_transfer_screen -> drawable/suw_ic_esim)
+    0x7f08010a -> 0x7f030002 (drawable/ic_network_signal_blue -> drawable/suw_ic_esim)
+    0x7f08010e -> 0x7f030002 (drawable/ic_qr_code_scan -> drawable/suw_ic_esim)
+    0x7f080120 -> 0x7f030002 (drawable/ic_transfer_complete_screen -> drawable/suw_ic_esim)
+    0x7f080121 -> 0x7f030002 (drawable/ic_transfer_error_screen_icon -> drawable/suw_ic_esim)
+    0x7f080122 -> 0x7f030002 (drawable/ic_transfer_not_found_screen -> drawable/suw_ic_esim)
+    0x7f080123 -> 0x7f030000 (drawable/ic_transfer_notification_icon -> drawable/ic_simcard)
+    0x7f080124 -> 0x7f030002 (drawable/ic_transfer_waiting_screen_icon -> drawable/suw_ic_esim)
+    0x7f080125 -> 0x7f030002 (drawable/ic_transferring_screen_icon -> drawable/suw_ic_esim)
+    0x7f080129 -> 0x7f030002 (drawable/ic_xos_manual_session_header_icon -> drawable/suw_ic_esim)
+    0x7f08012a -> 0x7f010013 (drawable/ic_xos_transfer_info_footer -> color/transparent)
+    0x7f1300b3 -> 0x7f040042 (string/confirm_acti_success_sub_title -> string/xos_your_sim_is_ready_to_use_with_phone_number)
+    0x7f13010a -> 0x7f040034 (string/delayed_transfer_description_settings -> string/xos_this_may_take_a_while)
+    0x7f13010b -> 0x7f040034 (string/delayed_transfer_description_suw -> string/xos_this_may_take_a_while)
+    0x7f13010c -> 0x7f040002 (string/delayed_transfer_title -> string/d2d_transferring_sim)
+    0x7f13010d -> 0x7f04003d (string/delayed_transfer_title_with_carrier -> string/xos_transferring_sim_title_with_sim_name)
+    0x7f130185 -> 0x7f040011 (string/done_button -> string/xos_done_button)
+    0x7f1301ed -> 0x7f040043 (string/esim_transfer_cancel_dialog_message -> string/xos_your_sim_wont_be_transferred_now)
+    0x7f1301ee -> 0x7f040005 (string/esim_transfer_cancel_dialog_negative_button -> string/xos_cancel_popup_button)
+    0x7f1301ef -> 0x7f040014 (string/esim_transfer_cancel_dialog_positive_button -> string/xos_exit_popup_button)
+    0x7f1301f0 -> 0x7f040015 (string/esim_transfer_cancel_dialog_title -> string/xos_exit_without_transferring)
+    0x7f1301f1 -> 0x7f040006 (string/esim_transfer_cannot_cancel_dialog__tittle -> string/xos_cant_go_back)
+    0x7f1301f5 -> 0x7f04001c (string/esim_transfer_generic_error_message -> string/xos_make_sure_other_device_is_nearby)
+    0x7f1301f6 -> 0x7f040000 (string/esim_transfer_generic_error_tittle -> string/d2d_connection_lost_title)
+    0x7f1302f0 -> 0x7f040021 (string/next_button -> string/xos_next_button)
+    0x7f130306 -> 0x7f040004 (string/non_transferable_profile_transfer_error_description_in_setting -> string/xos_ask_your_service_provider)
+    0x7f130307 -> 0x7f04000a (string/non_transferable_profile_transfer_error_title -> string/xos_contact_service_provider)
+    0x7f130322 -> 0x7f04001f (string/passcode_label -> string/xos_manual_session_passcode_label)
+    0x7f130361 -> 0x7f04002f (string/profile_transfer_activation_fail_description -> string/xos_something_went_wrong_your_sim_was_transferred_but_it_still_needs_to_be_activated)
+    0x7f130362 -> 0x7f04002f (string/profile_transfer_activation_fail_description_without_eid -> string/xos_something_went_wrong_your_sim_was_transferred_but_it_still_needs_to_be_activated)
+    0x7f130363 -> 0x7f04000e (string/profile_transfer_activation_fail_title -> string/xos_couldnt_activate_sim)
+    0x7f130365 -> 0x7f04002a (string/profile_transfer_connecting_description -> string/xos_setting_up_sim)
+    0x7f130366 -> 0x7f04003c (string/profile_transfer_downloading_deferred_notification_content -> string/xos_transferring_eSIM_noti)
+    0x7f130367 -> 0x7f040029 (string/profile_transfer_downloading_deferred_notification_title -> string/xos_setting_up_eSIM_noti)
+    0x7f130369 -> 0x7f040000 (string/profile_transfer_error_title -> string/d2d_connection_lost_title)
+    0x7f13036b -> 0x7f040016 (string/profile_transfer_fail_carrier_specific_description_with_carrier -> string/xos_general_error_with_carrier_name)
+    0x7f13036c -> 0x7f040017 (string/profile_transfer_fail_carrier_specific_description_with_carrier_number -> string/xos_general_error_with_carrier_number)
+    0x7f13036d -> 0x7f040018 (string/profile_transfer_fail_carrier_specific_description_with_carrier_number_url -> string/xos_general_error_with_carrier_number_url)
+    0x7f13036e -> 0x7f040019 (string/profile_transfer_fail_carrier_specific_description_with_no_carrier_name -> string/xos_general_error_with_no_carrier_name)
+    0x7f130372 -> 0x7f04002d (string/profile_transfer_non_recoverable_error_description -> string/xos_something_went_wrong_while_transferring)
+    0x7f130373 -> 0x7f04002e (string/profile_transfer_non_recoverable_error_description_without_contact -> string/xos_something_went_wrong_while_transferring_without_contact)
+    0x7f130374 -> 0x7f04003e (string/profile_transfer_non_recoverable_timeout_error_description -> string/xos_try_again_message)
+    0x7f13037a -> 0x7f040025 (string/profile_transfer_success_deferred_notification_content -> string/xos_ready_to_use_noti)
+    0x7f13037b -> 0x7f04002c (string/profile_transfer_success_deferred_notification_title -> string/xos_sim_transfer_successful_noti)
+    0x7f130385 -> 0x7f040033 (string/q_download_sub_text -> string/xos_this_may_take_a_few_minute)
+    0x7f1303e1 -> 0x7f040020 (string/session_id_label -> string/xos_manual_session_session_id_label)
+    0x7f130416 -> 0x7f040035 (string/subsidy_locked_non_transferable_profile_error_message_no_carrier_name -> string/xos_to_use_sim_from_another_carrier)
+    0x7f130417 -> 0x7f040036 (string/subsidy_locked_non_transferable_profile_error_message_with_carrier_name -> string/xos_to_use_sim_from_another_carrier_with_contact)
+    0x7f130418 -> 0x7f040031 (string/subsidy_locked_non_transferable_profile_error_title_no_carrier_name -> string/xos_this_device_can_only_use_sims_from_service_provider)
+    0x7f130419 -> 0x7f040032 (string/subsidy_locked_non_transferable_profile_error_title_with_carrier_name -> string/xos_this_device_can_only_use_sims_with_carrier)
+    0x7f13048b -> 0x7f040022 (string/transfer_cannot_cancel_dialog_button -> string/xos_ok_button)
+    0x7f13048d -> 0x7f04002b (string/transfer_complete_button_text_settings -> string/xos_settings)
+    0x7f13048e -> 0x7f04001a (string/transfer_complete_description -> string/xos_go_to_settings_to_turn_on_this_sim)
+    0x7f130493 -> 0x7f040011 (string/transfer_complete_done_button -> string/xos_done_button)
+    0x7f130494 -> 0x7f040001 (string/transfer_complete_title -> string/d2d_transferred_title)
+    0x7f130495 -> 0x7f040007 (string/transfer_complete_title_with_carrier -> string/xos_carrier_name_sim_transferred)
+    0x7f13049b -> 0x7f04000c (string/transfer_continue_on_ipad_title -> string/xos_continue_on_your_iphone)
+    0x7f13049c -> 0x7f04000c (string/transfer_continue_on_iphone_title -> string/xos_continue_on_your_iphone)
+    0x7f13049d -> 0x7f040028 (string/transfer_continue_on_new_device_button -> string/xos_set_up_later_button)
+    0x7f13049e -> 0x7f04001b (string/transfer_continue_on_new_device_message -> string/xos_keep_both_devices_on_and_close_to_each_other)
+    0x7f13049f -> 0x7f04000d (string/transfer_continue_on_new_device_title -> string/xos_continue_on_your_other_device)
+    0x7f1304a6 -> 0x7f040009 (string/transfer_error_close_button_text -> string/xos_close_button)
+    0x7f1304a7 -> 0x7f040026 (string/transfer_error_retry_button_text -> string/xos_retry_button)
+    0x7f1304b4 -> 0x7f040009 (string/transfer_generic_error_screen_button -> string/xos_close_button)
+    0x7f1304b8 -> 0x7f040002 (string/transfer_profile_title -> string/d2d_transferring_sim)
+    0x7f1304bd -> 0x7f040005 (string/transfer_qr_code_cancel_button -> string/xos_cancel_popup_button)
+    0x7f1304be -> 0x7f040027 (string/transfer_qrcode_scan_title -> string/xos_scan_qr_code)
+    0x7f1304c0 -> 0x7f040041 (string/transfer_setting_download_complete_description -> string/xos_your_esim_is_ready_to_use_on_this_device)
+    0x7f1304c1 -> 0x7f040040 (string/transfer_setting_download_complete_description_with_carrier -> string/xos_your_carrier_name_esim_is_ready_to_use_on_this_device)
+    0x7f1304d7 -> 0x7f040008 (string/transfer_waiting_screen_title -> string/xos_checking_network_info)
+    0x7f13050b -> 0x7f040012 (string/xos_pair_device_manually -> string/xos_enter_a_passcode_instead)
+    0x7f13050c -> 0x7f040023 (string/xos_qr_code_description -> string/xos_open_the_camera_app_or_a_qr_code_scanner)
+    0x7f13050d -> 0x7f040024 (string/xos_qr_code_description_for_manual_pair -> string/xos_qr_code_description_for_manual_pair)
+    0x7f13050e -> 0x7f04003f (string/xos_qr_code_footer_text -> string/xos_works_with_ios_26_or_later)
+    0x7f130510 -> 0x7f04000f (string/xos_stop_sim_transfer_dialog_description -> string/xos_disconnect_iphone_description)
+    0x7f130511 -> 0x7f040030 (string/xos_stop_sim_transfer_dialog_stop_button -> string/xos_stop_sim_transfer_dialog_stop_button)
+    0x7f130512 -> 0x7f040010 (string/xos_stop_sim_transfer_dialog_title -> string/xos_disconnect_iphone_q)
+    0x7f130514 -> 0x7f04001d (string/xos_transfer_manual_session_description -> string/xos_manual_session_fallback_description)
+    0x7f130515 -> 0x7f04001e (string/xos_transfer_manual_session_footer_text -> string/xos_manual_session_footer_text)
+    0x7f130516 -> 0x7f040013 (string/xos_transfer_manual_session_title -> string/xos_enter_session_id_and_passcode)
+    0x7f140003 -> 0x7f050008 (style/AlertDialogTheme -> style/XosDialogStyle)
+    0x7f1401db -> 0x7f010013 (style/ManualSessionFooterIconStyle -> color/transparent)
+    0x7f1401dc -> 0x7f05000a (style/ManualSessionFooterTextStyle -> style/XosManualSessionFooterTextStyle)
+    0x7f14021a -> 0x7f050001 (style/PasscodeLabelStyle -> style/ManualSessionLabelStyle)
+    0x7f14021b -> 0x7f050002 (style/PasscodeTextStyle -> style/ManualSessionPasscodeValueStyle)
+    0x7f140264 -> 0x7f050001 (style/SessionIdLabelStyle -> style/ManualSessionLabelStyle)
+    0x7f140265 -> 0x7f050003 (style/SessionIdTextStyle -> style/ManualSessionSessionIdValueStyle)
+    0x7f05000c -> boolean 0x00000000 (bool/enable_transfer_page_back_button_glif_expressive)
+    0x7f050026 -> boolean 0x00000000 (bool/show_eid_in_error_screen)
+    0x7f050028 -> boolean 0x00000000 (bool/show_transfer_complete_lottie_animation)
+    0x7f050030 -> boolean 0x00000000 (bool/use_default_layout_styling)
+    0x7f050033 -> boolean 0x00000000 (bool/use_glif_express_dialog_theme_in_transfer_screen)
+    0x7f130376 -> string "" (string/profile_transfer_recoverable_error_description)
+
+IDMAP OF com.android.companiondevicemanager.auto_generated_characteristics_rro
+<missing idmap>
+IDMAP OF com.google.android.overlay.gmsconfig.common
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GmsConfigOverlayCommon.apk
+Debug info:
+    W failed to find resource 'array/config_accessibility_allowed_install_source'
+    W failed to find resource 'array/vendor_allowed_personal_apps_org_owned_device'
+    W failed to find resource 'string/config_defaultMusic'
+Constraints:
+    None
+Mapping:
+    0x01040029 -> 0x7f040015 (string/config_systemAutomotiveProjection -> string/config_systemAutomotiveProjection)
+    0x0104002e -> 0x7f04001a (string/config_systemSpeechRecognizer -> string/config_systemSpeechRecognizer)
+    0x01040038 -> 0x7f040014 (string/config_systemActivityRecognizer -> string/config_systemActivityRecognizer)
+    0x01040039 -> 0x7f040017 (string/config_systemCompanionDeviceProvider -> string/config_systemCompanionDeviceProvider)
+    0x0104003c -> 0x7f04001b (string/config_systemSupervision -> string/config_systemSupervision)
+    0x0104003d -> 0x7f04000e (string/config_devicePolicyManagement -> string/config_devicePolicyManagement)
+    0x01040042 -> 0x7f040019 (string/config_systemSettingsIntelligence -> string/config_systemSettingsIntelligence)
+    0x01040047 -> 0x7f040016 (string/config_systemCallStreaming -> string/config_systemCallStreaming)
+    0x0104036c -> 0x7f040000 (string/config_allowlistProviderServicePackage -> string/config_allowlistProviderServicePackage)
+    0x0104036f -> 0x7f040001 (string/config_appsAuthorizedForSharedAccounts -> string/config_appsAuthorizedForSharedAccounts)
+    0x01040395 -> 0x7f040002 (string/config_defaultAccessibilityService -> string/config_defaultAccessibilityService)
+    0x0104039c -> 0x7f040003 (string/config_defaultAutofillService -> string/config_defaultAutofillService)
+    0x010403ab -> 0x7f040004 (string/config_defaultCredentialManagerHybridService -> string/config_defaultCredentialManagerHybridService)
+    0x010403ac -> 0x7f040005 (string/config_defaultDndAccessPackages -> string/config_defaultDndAccessPackages)
+    0x010403b2 -> 0x7f040006 (string/config_defaultListenerAccessPackages -> string/config_defaultListenerAccessPackages)
+    0x010403b5 -> 0x7f040008 (string/config_defaultNearbyFastPairSettingsDevicesComponent -> string/config_defaultNearbyFastPairSettingsDevicesComponent)
+    0x010403b6 -> 0x7f040009 (string/config_defaultNearbySharingComponent -> string/config_defaultNearbySharingComponent)
+    0x010403b8 -> 0x7f04000a (string/config_defaultNetworkRecommendationProviderPackage -> string/config_defaultNetworkRecommendationProviderPackage)
+    0x010403bd -> 0x7f04000b (string/config_defaultQrCodeComponent -> string/config_defaultQrCodeComponent)
+    0x010403c5 -> 0x7f04000c (string/config_defaultSupervisionProfileOwnerComponent -> string/config_defaultSupervisionProfileOwnerComponent)
+    0x010403d2 -> 0x7f04000d (string/config_deviceConfiguratorPackageName -> string/config_deviceConfiguratorPackageName)
+    0x010403d3 -> 0x7f04000f (string/config_devicePolicyManagementUpdater -> string/config_devicePolicyManagementUpdater)
+    0x010403ff -> 0x7f040010 (string/config_healthConnectMigratorPackageName -> string/config_healthConnectMigratorPackageName)
+    0x01040400 -> 0x7f040011 (string/config_help_url_action_disabled_by_advanced_protection -> string/config_help_url_action_disabled_by_advanced_protection)
+    0x01040406 -> 0x7f040012 (string/config_intrusionDetectionEventTransport -> string/config_intrusionDetectionEventTransport)
+    0x0104042e -> 0x7f040013 (string/config_persistentDataPackageName -> string/config_persistentDataPackageName)
+    0x01040465 -> 0x7f040018 (string/config_systemGameService -> string/config_systemGameService)
+    0x01040700 -> 0x7f04001c (string/harmful_app_warning_title -> string/harmful_app_warning_title)
+    0x0104119d -> 0x7f04001d (string/vendor_required_attestation_revocation_list_url -> string/vendor_required_attestation_revocation_list_url)
+    0x01041207 -> 0x7f04001e (string/widget_default_class_name -> string/widget_default_class_name)
+    0x01041208 -> 0x7f04001f (string/widget_default_package_name -> string/widget_default_package_name)
+    0x010700f8 -> 0x7f010001 (array/config_disabledUntilUsedPreinstalledImes -> array/config_disabledUntilUsedPreinstalledImes)
+    0x0107011c -> 0x7f010002 (array/config_enabledCredentialProviderService -> array/config_enabledCredentialProviderService)
+    0x0107011e -> 0x7f010003 (array/config_ephemeralResolverPackage -> array/config_ephemeralResolverPackage)
+    0x0107012a -> 0x7f010004 (array/config_fontManagerServiceCerts -> array/config_fontManagerServiceCerts)
+    0x0107012c -> 0x7f010005 (array/config_forceQueryablePackages -> array/config_forceQueryablePackages)
+    0x01070132 -> 0x7f010006 (array/config_healthConnectMigrationKnownSigners -> array/config_healthConnectMigrationKnownSigners)
+    0x01070133 -> 0x7f010007 (array/config_healthConnectRestoreKnownSigners -> array/config_healthConnectRestoreKnownSigners)
+    0x01070138 -> 0x7f010008 (array/config_integrityRuleProviderPackages -> array/config_integrityRuleProviderPackages)
+    0x01070140 -> 0x7f010009 (array/config_locationExtraPackageNames -> array/config_locationExtraPackageNames)
+    0x01070141 -> 0x7f01000a (array/config_locationProviderPackageNames -> array/config_locationProviderPackageNames)
+    0x01070169 -> 0x7f01000b (array/config_packagesExemptFromSuspension -> array/config_packagesExemptFromSuspension)
+    0x0107016d -> 0x7f01000c (array/config_primaryCredentialProviderService -> array/config_primaryCredentialProviderService)
+    0x01070172 -> 0x7f01000d (array/config_rawContactsEligibleDefaultAccountTypes -> array/config_rawContactsEligibleDefaultAccountTypes)
+    0x01070193 -> 0x7f01000e (array/config_setContactsDefaultAccountKnownSigners -> array/config_setContactsDefaultAccountKnownSigners)
+    0x01070243 -> 0x7f010010 (array/vendor_cross_profile_apps -> array/vendor_cross_profile_apps)
+    0x01070244 -> 0x7f010011 (array/vendor_disallowed_apps_managed_device -> array/vendor_disallowed_apps_managed_device)
+    0x01070245 -> 0x7f010012 (array/vendor_disallowed_apps_managed_profile -> array/vendor_disallowed_apps_managed_profile)
+    0x01070246 -> 0x7f010013 (array/vendor_disallowed_apps_managed_user -> array/vendor_disallowed_apps_managed_user)
+    0x01070248 -> 0x7f010014 (array/vendor_required_apps_managed_device -> array/vendor_required_apps_managed_device)
+    0x01070249 -> 0x7f010015 (array/vendor_required_apps_managed_profile -> array/vendor_required_apps_managed_profile)
+    0x0107024a -> 0x7f010016 (array/vendor_required_apps_managed_user -> array/vendor_required_apps_managed_user)
+    0x0107024b -> 0x7f010017 (array/vendor_required_attestation_certificates -> array/vendor_required_attestation_certificates)
+    0x010e00f3 -> 0x7f030000 (integer/config_keyChordPowerVolumeUp -> integer/config_keyChordPowerVolumeUp)
+    0x010e0104 -> 0x7f030001 (integer/config_longPressOnPowerBehavior -> integer/config_longPressOnPowerBehavior)
+    0x010e01b3 -> 0x7f030002 (integer/config_userTypePackageWhitelistMode -> integer/config_userTypePackageWhitelistMode)
+    0x01110008 -> 0x7f020006 (bool/config_enableQrCodeScannerOnLockScreen -> bool/config_enableQrCodeScannerOnLockScreen)
+    0x0111006d -> 0x7f020000 (bool/config_buttonTextAllCaps -> bool/config_buttonTextAllCaps)
+    0x01110183 -> 0x7f020001 (bool/config_enableAutoPowerModes -> bool/config_enableAutoPowerModes)
+    0x01110191 -> 0x7f020002 (bool/config_enableFusedLocationOverlay -> bool/config_enableFusedLocationOverlay)
+    0x01110193 -> 0x7f020003 (bool/config_enableGeocoderOverlay -> bool/config_enableGeocoderOverlay)
+    0x01110194 -> 0x7f020004 (bool/config_enableGeofenceOverlay -> bool/config_enableGeofenceOverlay)
+    0x011101a3 -> 0x7f020005 (bool/config_enableNetworkLocationOverlay -> bool/config_enableNetworkLocationOverlay)
+    0x011101f3 -> 0x7f020007 (bool/config_hotspotNetworksEnabledForService -> bool/config_hotspotNetworksEnabledForService)
+    0x0111020b -> 0x7f020008 (bool/config_knownNetworksEnabledForService -> bool/config_knownNetworksEnabledForService)
+    0x0111021e -> 0x7f020009 (bool/config_longPressOnPowerForAssistantSettingAvailable -> bool/config_longPressOnPowerForAssistantSettingAvailable)
+    0x01110277 -> 0x7f02000a (bool/config_settingsHelpLinksEnabled -> bool/config_settingsHelpLinksEnabled)
+    0x011102a0 -> 0x7f02000b (bool/config_stopSystemPackagesByDefault -> bool/config_stopSystemPackagesByDefault)
+    0x0117000a -> 0x7f050000 (xml/config_webview_packages -> xml/config_webview_packages)
+
+IDMAP OF com.samsung.internal.systemui.navbar.sec_gestural
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/NavigationBarModeSamsungGestural/NavigationBarModeSamsungGesturalOverlay.apk
+Debug info:
+    W failed to find resource 'string/navigation_bar_mode_title'
+Constraints:
+    None
+Mapping:
+    0x010502e6 -> 0x7f020000 (dimen/navigation_bar_frame_height -> dimen/navigation_bar_frame_height)
+    0x010502e8 -> 0x7f020001 (dimen/navigation_bar_frame_width -> dimen/navigation_bar_frame_width)
+    0x010502e9 -> 0x7f020002 (dimen/navigation_bar_gesture_height -> dimen/navigation_bar_gesture_height)
+    0x010502eb -> 0x7f020003 (dimen/navigation_bar_height -> dimen/navigation_bar_height)
+    0x010502ed -> 0x7f020004 (dimen/navigation_bar_height_landscape -> dimen/navigation_bar_height_landscape)
+    0x010502f0 -> 0x7f020005 (dimen/navigation_bar_width -> dimen/navigation_bar_width)
+    0x010e012b -> 0x7f030000 (integer/config_navBarInteractionMode -> integer/config_navBarInteractionMode)
+    0x010e012c -> 0x7f030001 (integer/config_navBarOpacityMode -> integer/config_navBarOpacityMode)
+    0x0111002a -> 0x7f010000 (bool/config_allowSeamlessRotationDespiteNavBarMoving -> bool/config_allowSeamlessRotationDespiteNavBarMoving)
+    0x011101f7 -> 0x7f010001 (bool/config_imeDrawsImeNavBar -> bool/config_imeDrawsImeNavBar)
+    0x01110235 -> 0x7f010002 (bool/config_navBarNeedsScrim -> bool/config_navBarNeedsScrim)
+    0x01110237 -> 0x7f010003 (bool/config_navBarTapThrough -> bool/config_navBarTapThrough)
+    0x01110281 -> 0x7f010004 (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+
+IDMAP OF com.android.internal.display.cutout.emulation.corner
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+Debug info:
+    W failed to find resource 'string/display_cutout_emulation_overlay'
+Constraints:
+    None
+Mapping:
+    0x0104040e -> 0x7f030000 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040410 -> 0x7f030001 (string/config_mainBuiltInDisplayCutoutRectApproximation -> string/config_mainBuiltInDisplayCutoutRectApproximation)
+    0x010505d5 -> 0x7f020000 (dimen/status_bar_height_landscape -> dimen/status_bar_height_landscape)
+    0x010505d6 -> 0x7f020001 (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x011101d5 -> 0x7f010000 (bool/config_fillMainBuiltInDisplayCutout -> bool/config_fillMainBuiltInDisplayCutout)
+
+IDMAP OF com.google.android.overlay.gmsconfig.gsa
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/GmsConfigOverlayGSA.apk
+Constraints:
+    None
+Mapping:
+    0x01040021 -> 0x7f020000 (string/config_defaultAssistant -> string/config_defaultAssistant)
+    0x01110021 -> 0x7f010000 (bool/config_allowDisablingAssistDisclosure -> bool/config_allowDisablingAssistDisclosure)
+    0x01110318 -> 0x7f010001 (bool/is_corner_swipe_supported_to_trigger_default_assist_app -> bool/is_corner_swipe_supported_to_trigger_default_assist_app)
+    0x01110319 -> 0x7f010002 (bool/is_lpp_supported_to_trigger_default_assist_app -> bool/is_lpp_supported_to_trigger_default_assist_app)
+
+IDMAP OF com.samsung.android.wifi.softap.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/SoftapOverlay/SoftapOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x7f02000d -> 0x7f010000 (bool/config_wifi6ghzSupport -> bool/config_wifi6ghzSupport)
+    0x7f02001b -> 0x7f010001 (bool/config_wifiBridgedSoftApSupported -> bool/config_wifiBridgedSoftApSupported)
+    0x7f020030 -> 0x7f010002 (bool/config_wifiFrameworkSoftApDisableBridgedModeShutdownIdleInstanceWhenCharging -> bool/config_wifiFrameworkSoftApDisableBridgedModeShutdownIdleInstanceWhenCharging)
+    0x7f020036 -> 0x7f010003 (bool/config_wifiLocalOnlyHotspot6ghz -> bool/config_wifiLocalOnlyHotspot6ghz)
+    0x7f020052 -> 0x7f010004 (bool/config_wifiSofapClientForceDisconnectSupported -> bool/config_wifiSofapClientForceDisconnectSupported)
+    0x7f020054 -> 0x7f010005 (bool/config_wifiSoftApDynamicCountryCodeUpdateSupported -> bool/config_wifiSoftApDynamicCountryCodeUpdateSupported)
+    0x7f020059 -> 0x7f010006 (bool/config_wifiSoftap6ghzSupported -> bool/config_wifiSoftap6ghzSupported)
+    0x7f02005b -> 0x7f010007 (bool/config_wifiSoftapAutoAppendLowerBandsToBandConfigurationEnabled -> bool/config_wifiSoftapAutoAppendLowerBandsToBandConfigurationEnabled)
+    0x7f02005c -> 0x7f010008 (bool/config_wifiSoftapAutoUpgradeToBridgedConfigWhenSupported -> bool/config_wifiSoftapAutoUpgradeToBridgedConfigWhenSupported)
+    0x7f020064 -> 0x7f010009 (bool/config_wifiSoftapOweSupported -> bool/config_wifiSoftapOweSupported)
+    0x7f020066 -> 0x7f01000a (bool/config_wifiSoftapPassphraseAsciiEncodableCheck -> bool/config_wifiSoftapPassphraseAsciiEncodableCheck)
+    0x7f020068 -> 0x7f01000b (bool/config_wifiSoftapResetChannelConfig -> bool/config_wifiSoftapResetChannelConfig)
+    0x7f020069 -> 0x7f01000c (bool/config_wifiSoftapResetHiddenConfig -> bool/config_wifiSoftapResetHiddenConfig)
+    0x7f02006a -> 0x7f01000d (bool/config_wifiSoftapResetMaxClientSettingConfig -> bool/config_wifiSoftapResetMaxClientSettingConfig)
+    0x7f02008d -> 0x7f01000e (bool/config_wifi_softap_acs_supported -> bool/config_wifi_softap_acs_supported)
+    0x7f02008f -> 0x7f01000f (bool/config_wifi_softap_sae_supported -> bool/config_wifi_softap_sae_supported)
+    0x7f05005f -> 0x7f020000 (integer/config_wifiHardwareSoftapMaxClientCount -> integer/config_wifiHardwareSoftapMaxClientCount)
+    0x7f08000d -> 0x7f030000 (string/config_wifiSoftap2gChannelList -> string/config_wifiSoftap2gChannelList)
+    0x7f080010 -> 0x7f030001 (string/config_wifiSoftap6gChannelList -> string/config_wifiSoftap6gChannelList)
+
+IDMAP OF com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/NavigationBarModeSamsungGesturalNoHint/NavigationBarModeSamsungGesturalNoHintOverlay.apk
+Debug info:
+    W failed to find resource 'string/navigation_bar_mode_title'
+Constraints:
+    None
+Mapping:
+    0x010502e6 -> 0x7f020000 (dimen/navigation_bar_frame_height -> dimen/navigation_bar_frame_height)
+    0x010502e8 -> 0x7f020001 (dimen/navigation_bar_frame_width -> dimen/navigation_bar_frame_width)
+    0x010502e9 -> 0x7f020002 (dimen/navigation_bar_gesture_height -> dimen/navigation_bar_gesture_height)
+    0x010502eb -> 0x7f020003 (dimen/navigation_bar_height -> dimen/navigation_bar_height)
+    0x010502ed -> 0x7f020004 (dimen/navigation_bar_height_landscape -> dimen/navigation_bar_height_landscape)
+    0x010502f0 -> 0x7f020005 (dimen/navigation_bar_width -> dimen/navigation_bar_width)
+    0x010e012b -> 0x7f030000 (integer/config_navBarInteractionMode -> integer/config_navBarInteractionMode)
+    0x010e012c -> 0x7f030001 (integer/config_navBarOpacityMode -> integer/config_navBarOpacityMode)
+    0x0111002a -> 0x7f010000 (bool/config_allowSeamlessRotationDespiteNavBarMoving -> bool/config_allowSeamlessRotationDespiteNavBarMoving)
+    0x011101f7 -> 0x7f010001 (bool/config_imeDrawsImeNavBar -> bool/config_imeDrawsImeNavBar)
+    0x01110235 -> 0x7f010002 (bool/config_navBarNeedsScrim -> bool/config_navBarNeedsScrim)
+    0x01110237 -> 0x7f010003 (bool/config_navBarTapThrough -> bool/config_navBarTapThrough)
+    0x01110281 -> 0x7f010004 (bool/config_showNavigationBar -> bool/config_showNavigationBar)
+
+IDMAP OF com.android.virtualdevicemanager.auto_generated_characteristics_rro
+<missing idmap>
+IDMAP OF com.google.android.overlay.modules.captiveportallogin.forframework
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/CaptivePortalLoginFrameworkOverlay.apk
+Constraints:
+    None
+Mapping:
+    0x0104039e -> 0x7f010000 (string/config_defaultCaptivePortalLoginPackageName -> string/config_defaultCaptivePortalLoginPackageName)
+
+IDMAP OF com.samsung.android.nfc.resources.usa
+Paths:
+    target path  : /apex/com.android.nfcservices/priv-app/NfcNciApex@CP2A.260605.016/NfcNciApex.apk
+    overlay path : /system/app/NfcRROverlayUsa/NfcRROverlayUsa.apk
+Constraints:
+    None
+Mapping:
+    0x7f030006 -> 0x7f010000 (array/tag_intent_blocked_app_list -> array/tag_intent_blocked_app_list)
+    0x7f050003 -> 0x7f020000 (bool/check_display_state_for_screen_state -> bool/check_display_state_for_screen_state)
+    0x7f050007 -> 0x7f020001 (bool/enable_auto_play -> bool/enable_auto_play)
+    0x7f050008 -> 0x7f020002 (bool/enable_developer_option_notification -> bool/enable_developer_option_notification)
+    0x7f05000f -> 0x7f020003 (bool/enable_oem_extension -> bool/enable_oem_extension)
+    0x7f050012 -> 0x7f020004 (bool/enable_service_for_category_other -> bool/enable_service_for_category_other)
+    0x7f050013 -> 0x7f020005 (bool/indicate_user_activity_for_hce -> bool/indicate_user_activity_for_hce)
+    0x7f050014 -> 0x7f020006 (bool/launch_oem_app_chooser -> bool/launch_oem_app_chooser)
+    0x7f050018 -> 0x7f020007 (bool/nfcc_always_on_allowed -> bool/nfcc_always_on_allowed)
+    0x7f05001a -> 0x7f020008 (bool/polling_disable_allowed -> bool/polling_disable_allowed)
+    0x7f0a0053 -> 0x7f030000 (integer/unknown_tag_polling_delay -> integer/unknown_tag_polling_delay)
+    0x7f0a0054 -> 0x7f030001 (integer/unknown_tag_polling_delay_count_max -> integer/unknown_tag_polling_delay_count_max)
+    0x7f0a0055 -> 0x7f030002 (integer/unknown_tag_polling_delay_long -> integer/unknown_tag_polling_delay_long)
+
+IDMAP OF com.android.internal.display.cutout.emulation.hole
+Paths:
+    target path  : /system/framework/framework-res.apk
+    overlay path : /product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk
+Debug info:
+    W failed to find resource 'string/display_cutout_emulation_overlay'
+Constraints:
+    None
+Mapping:
+    0x0104040e -> 0x7f030000 (string/config_mainBuiltInDisplayCutout -> string/config_mainBuiltInDisplayCutout)
+    0x01040410 -> 0x7f030001 (string/config_mainBuiltInDisplayCutoutRectApproximation -> string/config_mainBuiltInDisplayCutoutRectApproximation)
+    0x010505d5 -> 0x7f020000 (dimen/status_bar_height_landscape -> dimen/status_bar_height_landscape)
+    0x010505d6 -> 0x7f020001 (dimen/status_bar_height_portrait -> dimen/status_bar_height_portrait)
+    0x011101d5 -> 0x7f010000 (bool/config_fillMainBuiltInDisplayCutout -> bool/config_fillMainBuiltInDisplayCutout)
+
+IDMAP OF com.samsung.android.wifi.saeupgradeoffload.resources
+Paths:
+    target path  : /apex/com.android.wifi/priv-app/ServiceWifiResources@CP2A.260605.016/ServiceWifiResources.apk
+    overlay path : /product/overlay/WifiRROverlayAppSaeUpgradeOffload.apk
+Constraints:
+    None
+Mapping:
+    0x7f02004e -> 0x7f010000 (bool/config_wifiSaeUpgradeOffloadEnabled -> bool/config_wifiSaeUpgradeOffloadEnabled)
+
+Default overlays: 
+
+ Color palette history :
+11-03 15:24:57.970: V SWT_MetaDataManager(15430): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 15:24:57.971: V SWT_MetaData(15430): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 15:24:57.972: V SWT_MetaDataManager(15430): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 15:24:57.973: V SWT_MetaDataManager(15430): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 15:24:57.974: V SWT_MetaDataManager(15430): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): [Enable] commit OverlayManagerTransaction, dur1:102, dur2:780
+11-03 15:24:58.860: V SWT_WTM_Wrapper(15430): AppIconBgColor (Light) - ff159cc1, AppIconBgColor (Dark) - ff12819f
+11-03 15:52:32.451: V SWT_WTM_Wrapper(17953): [Disable] commit OverlayManagerTransaction, dur:90
+11-03 19:11:43.523: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 24, existed package : android, requested package : com.samsung.font
+11-03 19:11:43.526: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 45, existed package : android, requested package : com.samsung.accessibility
+11-03 19:11:43.530: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 79, existed package : com.samsung.android.biometrics.app.setting, requested package : com.samsung.android.tadownloader
+11-03 19:11:43.531: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 102, existed package : com.samsung.android.dialer, requested package : com.samsung.osmnuui
+11-03 19:11:43.534: V SWT_MetaDataManager(12561): [Legacy] load static metadata, size of uid : 4674
+11-03 19:11:43.539: V SWT_MetaDataManager(12561): metadata rpUID [55] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.540: V SWT_MetaDataManager(12561): metadata rpUID [7_2] replaced by com.samsung.android.app.aodservice
+11-03 19:11:43.543: V SWT_MetaDataManager(12561): metadata rpUID [16] replaced by com.samsung.android.calendar
+11-03 19:11:43.544: V SWT_MetaDataManager(12561): metadata rpUID [95] replaced by com.samsung.android.emergency
+11-03 19:11:43.546: V SWT_MetaDataManager(12561): metadata rpUID [222] replaced by com.samsung.android.aremoji
+11-03 19:11:43.547: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.service.airviewdictionary
+11-03 19:11:43.548: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.smartmirroring
+11-03 19:11:43.550: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.incallui
+11-03 19:11:43.551: V SWT_MetaDataManager(12561): metadata rpUID [72] replaced by com.samsung.android.service.tagservice
+11-03 19:11:43.553: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.samsung.android.app.galaxyraw
+11-03 19:11:43.555: V SWT_MetaDataManager(12561): metadata rpUID [59] replaced by com.samsung.android.rubin.app
+11-03 19:11:43.556: V SWT_MetaDataManager(12561): metadata rpUID [13_1] replaced by com.wsomacp
+11-03 19:11:43.561: V SWT_MetaDataManager(12561): metadata rpUID [20] replaced by com.sec.android.app.voicenote
+11-03 19:11:43.565: V SWT_MetaDataManager(12561): metadata rpUID [244] replaced by com.samsung.android.inputshare
+11-03 19:11:43.567: V SWT_MetaDataManager(12561): metadata rpUID [29] replaced by com.sec.android.daemonapp
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [314] replaced by com.samsung.android.hwresourceshare
+11-03 19:11:43.568: V SWT_MetaDataManager(12561): metadata rpUID [80] replaced by com.samsung.android.secsoundpicker
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [10_1] replaced by com.samsung.android.sm.devicesecurity
+11-03 19:11:43.570: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.sidegesturepad
+11-03 19:11:43.571: V SWT_MetaDataManager(12561): metadata rpUID [35] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [36] replaced by com.samsung.android.app.telephonyui
+11-03 19:11:43.572: V SWT_MetaDataManager(12561): metadata rpUID [238] replaced by com.samsung.android.bixby.agent
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [215] replaced by com.android.settings.intelligence
+11-03 19:11:43.573: V SWT_MetaDataManager(12561): metadata rpUID [9_1] replaced by com.android.settings.intelligence
+11-03 19:11:43.575: V SWT_MetaDataManager(12561): metadata rpUID [21] replaced by com.sec.android.gallery3d
+11-03 19:11:43.576: V SWT_MetaDataManager(12561): metadata rpUID [98] replaced by com.samsung.android.rampart
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.knox.securefolder
+11-03 19:11:43.577: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.game.gametools
+11-03 19:11:43.578: V SWT_MetaDataManager(12561): metadata rpUID [12] replaced by com.samsung.android.app.contacts
+11-03 19:11:43.579: V SWT_MetaDataManager(12561): metadata rpUID [44_3] replaced by com.samsung.android.service.peoplestripe
+11-03 19:11:43.580: V SWT_MetaDataManager(12561): metadata rpUID [62] replaced by com.samsung.android.app.reminder
+11-03 19:11:43.581: V SWT_MetaDataManager(12561): metadata rpUID [44_2] replaced by com.samsung.android.app.taskedge
+11-03 19:11:43.582: V SWT_MetaDataManager(12561): metadata rpUID [14] replaced by com.sec.android.app.clockpackage
+11-03 19:11:43.583: V SWT_MetaDataManager(12561): metadata rpUID [84] replaced by com.samsung.android.mdecservice
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [248] replaced by com.samsung.accessory.budsunitemgr
+11-03 19:11:43.584: V SWT_MetaDataManager(12561): metadata rpUID [97] replaced by com.samsung.android.app.readingglass
+11-03 19:11:43.585: V SWT_MetaDataManager(12561): metadata rpUID [228] replaced by com.samsung.android.coldwalletservice
+11-03 19:11:43.586: V SWT_MetaDataManager(12561): metadata rpUID [17] replaced by com.sec.android.app.myfiles
+11-03 19:11:43.587: V SWT_MetaDataManager(12561): metadata rpUID [66] replaced by com.samsung.android.app.routines
+11-03 19:11:43.588: V SWT_MetaDataManager(12561): metadata rpUID [245] replaced by com.sec.android.mimage.photoretouching
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [33] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.589: V SWT_MetaDataManager(12561): metadata rpUID [8] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [61] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44_1, existed package : com.samsung.android.app.appsedge, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 44, existed package : com.samsung.android.app.cocktailbarservice, requested package : com.sec.android.app.launcher
+11-03 19:11:43.590: V SWT_MetaDataManager(12561): metadata rpUID [44] replaced by com.sec.android.app.launcher
+11-03 19:11:43.591: V SWT_MetaDataManager(12561): metadata rpUID [4_1] replaced by com.sec.android.app.launcher
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 87, existed package : com.sec.android.app.sbrowser.beta, requested package : com.sec.android.app.sbrowser
+11-03 19:11:43.592: V SWT_MetaDataManager(12561): metadata rpUID [87] replaced by com.sec.android.app.sbrowser
+11-03 19:11:43.593: V SWT_MetaDataManager(12561): metadata rpUID [236] replaced by com.samsung.android.app.interpreter
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [26] replaced by com.samsung.android.dialer
+11-03 19:11:43.594: V SWT_MetaDataManager(12561): metadata rpUID [247] replaced by com.samsung.android.app.cameraassistant
+11-03 19:11:43.594: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 58, existed package : com.samsung.android.smartmirroring, requested package : com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [58] replaced by com.samsung.android.drivingplus
+11-03 19:11:43.595: V SWT_MetaDataManager(12561): metadata rpUID [67] replaced by com.samsung.android.forest
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [610] replaced by io.mesalabs.knoxpatch
+11-03 19:11:43.596: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 54, existed package : com.samsung.android.incallui, requested package : com.samsung.android.callassistant
+11-03 19:11:43.596: V SWT_MetaDataManager(12561): metadata rpUID [54] replaced by com.samsung.android.callassistant
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [44_4] replaced by com.sec.android.app.quicktool
+11-03 19:11:43.597: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mdx
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [242] replaced by com.sec.android.app.shealth
+11-03 19:11:43.599: V SWT_MetaDataManager(12561): metadata rpUID [250] replaced by com.samsung.android.warrantycare
+11-03 19:11:43.599: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 64, existed package : com.samsung.knox.securefolder, requested package : com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_MetaDataManager(12561): metadata rpUID [64] replaced by com.samsung.android.appseparation
+
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template rpUID [64] replaced by com.samsung.android.appseparation
+11-03 19:11:43.600: V SWT_TemplateManager(12561): template COLOR [quick_menu_layout_background_color] replaced by com.samsung.android.appseparation
+11-03 19:11:43.601: V SWT_MetaDataManager(12561): metadata rpUID [75] replaced by com.samsung.android.honeyboard
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [232] replaced by com.samsung.android.app.soundpicker
+11-03 19:11:43.602: V SWT_MetaDataManager(12561): metadata rpUID [226] replaced by com.samsung.android.app.sharelive
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [40] replaced by com.android.settings
+11-03 19:11:43.604: V SWT_MetaDataManager(12561): metadata rpUID [9_5] replaced by com.android.settings
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [96] replaced by com.samsung.android.widget.pictureframe
+11-03 19:11:43.605: V SWT_MetaDataManager(12561): metadata rpUID [46] replaced by com.samsung.app.newtrim
+11-03 19:11:43.606: V SWT_MetaDataManager(12561): metadata rpUID [65] replaced by com.samsung.android.fast
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [10] replaced by com.samsung.android.lool
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.scpm
+11-03 19:11:43.607: V SWT_MetaDataManager(12561): metadata rpUID [214] replaced by com.samsung.android.visionintelligence
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [315] replaced by com.samsung.android.hwresourceshare.storage
+11-03 19:11:43.608: V SWT_MetaDataManager(12561): metadata rpUID [50] replaced by com.samsung.android.service.aircommand
+11-03 19:11:43.609: V SWT_MetaDataManager(12561): metadata rpUID [42] replaced by com.wssyncmldm
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [4] replaced by com.android.systemui
+11-03 19:11:43.610: V SWT_MetaDataManager(12561): metadata rpUID [213] replaced by com.android.systemui
+11-03 19:11:43.611: V SWT_MetaDataManager(12561): metadata rpUID [205] replaced by com.samsung.android.smartsuggestions
+11-03 19:11:43.612: V SWT_MetaData(12561): Abnormal metadata replacement attempts detected, RpUid : 49, existed package : com.samsung.android.app.galaxyraw, requested package : com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [49] replaced by com.sec.android.app.camera
+11-03 19:11:43.612: V SWT_MetaDataManager(12561): metadata rpUID [44_5] replaced by com.samsung.android.app.clipboardedge
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [null] replaced by com.samsung.android.mcfds
+11-03 19:11:43.613: V SWT_MetaDataManager(12561): metadata rpUID [23] replaced by com.samsung.android.video
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): [Enable] commit OverlayManagerTransaction, dur1:53, dur2:578
+11-03 19:11:44.245: V SWT_WTM_Wrapper(12561): AppIconBgColor (Light) - ffb076e9, AppIconBgColor (Dark) - ff9a51e3
+
+
+ThemeFramework Information:
+current_sec_active_themepackage : null
+current_sec_active_theme_policy : null
+current_sec_appicon_theme_package : null
+current_sec_aod_theme_package : null
+current_sec_wallpaper_theme_package : null
+wallpapertheme_state : 1
+themepark theme is applied : false
+wallpapertheme_color_isgray : 0
+wallpapertheme_color_style : null
+wallpapertheme_color(toHex) : [ffffffff, fffdfbfe, fff5eefc, ffebddfa, ffd8bbf4, ffc498ef, ffb076e9, ff9a51e3, ff8126dc, ff611ba8, ff441375, ff280b45, ff000000, ffffffff, fffcfbfe, fff3eef8, ffe8def2, ffd2bfe5, ffbc9fd8, ffa680cc, ff9061bf, ff7845ac, ff5a3481, ff3e2358, ff231433, ff000000, ffffffff, fffbfcfe, ffeff0fa, ffdee1f5, ffbec4eb, ff9fa7e1, ff808bd7, ff616fce, ff4152c4, ff2f3d98, ff202a68, ff13183c, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000, ffffffff, fffcfcfd, fff2eff5, ffe6e0eb, ffcdc2d7, ffb4a5c3, ff9c89b0, ff856d9e, ff6b5580, ff504060, ff362b41, ff1f1925, ff000000]
+colortheme_app_icon : 0
+available theme content at /data/overlays/main_packages : No files in directory
