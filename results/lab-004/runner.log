@@ -16,3 +16,5 @@
 [19:30:46] capture light power
 [19:31:06] capture light myfiles
 [19:31:21] collect (job ref claude/project-thread-rje8bm, script from claude/project-thread-rje8bm)
+[19:32:33] job lab-004: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-004
+[19:33:08] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
