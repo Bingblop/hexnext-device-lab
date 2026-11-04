@@ -1,0 +1,2 @@
+system        1000  3062 shizuku_server
+u0_a441      10441 31989 moe.shizuku.privileged.api

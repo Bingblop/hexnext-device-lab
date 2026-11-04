@@ -21,3 +21,12 @@
 [18:26:54] overlay state 5
 [18:26:59] boot log 1
 [18:27:00] soft reboot; remaining steps: overlaystate bootlog shizuku1000 waitrestore overlaystate shizuku (unlock the phone when it comes back)
+[18:30:18] job lab-031
+[18:30:18] overlay state 6
+[18:30:37] boot log 2
+[18:30:49] shizuku1000: server running as UID 1000 (starter)
+[18:30:49] waiting for Hex Next to restore the theme
+[18:35:10] restore: overlay count steady at 59
+[18:35:10] restore: 59 Hex Next overlays after 240s
+[18:35:12] overlay state 7
+[18:35:29] restarting Shizuku as root

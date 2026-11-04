@@ -1,0 +1,3 @@
+3062 31989
+system        3062     1   14263796 170552 do_epoll_wait       0 S shizuku_server
+u0_a441      31989 14315   15638236 201848 get_signal          0 S moe.shizuku.privileged.api

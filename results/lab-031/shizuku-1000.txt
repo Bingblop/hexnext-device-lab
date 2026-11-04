@@ -29,3 +29,34 @@ info: shizuku_server pid is 23599
 info: the server is still running 3000 ms after it was started
 info: shizuku_starter exit with 0
 server uid: 1000
+== starter
+info: ---- start ----
+info: starter log is /storage/emulated/0/Android/media/moe.shizuku.privileged.api/starter.log
+info: cgroup before switch: 5:freezer:/
+info: cgroup before switch: 4:cpuset:/background
+info: cgroup before switch: 3:cpuacct:/
+info: cgroup before switch: 2:cpu:/background
+info: cgroup before switch: 1:blkio:/low
+info: cgroup before switch: 0::/
+info: switch cgroup, could not move this process into /acct
+info: switch cgroup, moved this process into /sys/fs/cgroup
+info: switch cgroup, could not move this process into /dev/cg2_bpf
+info: switch cgroup, could not move this process into /acct/uid_0
+info: switch cgroup, could not move this process into /sys/fs/cgroup/uid_0
+info: switch cgroup, moved this process in 1 hierarchies
+info: cgroup after switch: 5:freezer:/
+info: cgroup after switch: 4:cpuset:/background
+info: cgroup after switch: 3:cpuacct:/
+info: cgroup after switch: 2:cpu:/background
+info: cgroup after switch: 1:blkio:/low
+info: cgroup after switch: 0::/
+info: switching mount namespace to init...
+info: starter begin
+info: checking for existing server processes...
+info: no existing server process running
+info: apk path is /data/app/~~ECsEB3pyuk7HnmJeaC_lCw==/moe.shizuku.privileged.api-jXPEWRV2_sT5N7mw7RRQ5g==/base.apk
+info: starting server...
+info: shizuku_server pid is 3062
+info: the server is still running 3000 ms after it was started
+info: shizuku_starter exit with 0
+server uid: 1000
