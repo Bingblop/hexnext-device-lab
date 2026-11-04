@@ -1,0 +1,31 @@
+{
+  "id": "lab-010",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41753781322,
+  "artifact_sha256": "c0b753adacb02d9a34e50e969bc06e36349bf9c8812d0971c28914556a8d4c51",
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "overlaystate",
+    "capture",
+    "dumps",
+    "softreboot",
+    "overlaystate",
+    "capture",
+    "wait",
+    "overlaystate",
+    "capture"
+  ],
+  "captures": [
+    "settings",
+    "qs",
+    "power",
+    "dialogs",
+    "keyboard"
+  ],
+  "modes": [
+    "dark"
+  ],
+  "confirm": true
+}
