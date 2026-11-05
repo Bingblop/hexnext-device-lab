@@ -23,3 +23,5 @@
 [20:09:54] capture dark gboard
 [20:10:15] job lab-034 pushed
 [20:10:46] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[20:10:48] lab repaired
+[20:11:19] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
