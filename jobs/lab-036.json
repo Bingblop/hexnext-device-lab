@@ -1,0 +1,92 @@
+{
+  "steps": [
+    "install",
+    "scan",
+    "apply",
+    "lookup",
+    "capture",
+    "arsc",
+    "appstate",
+    "pkginfo",
+    "overlaystate"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "captures": [
+    "power",
+    "keyboard",
+    "dialogs",
+    "settings",
+    "dialer",
+    "app:com.sec.android.app.sbrowser",
+    "app:com.sec.android.app.popupcalculator",
+    "app:com.samsung.android.calendar",
+    "app:com.sec.android.app.clockpackage",
+    "app:com.samsung.android.app.contacts",
+    "app:com.samsung.android.email.provider",
+    "app:com.samsung.android.app.notes",
+    "app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity",
+    "app:com.sec.android.app.voicenote",
+    "app:com.sec.android.app.music",
+    "app:com.sec.android.gallery3d",
+    "app:com.sec.android.app.shealth",
+    "app:com.samsung.android.scloud",
+    "app:com.sec.android.app.camera",
+    "app:com.samsung.android.bixby.agent",
+    "app:com.sec.android.daemonapp"
+  ],
+  "arsc": [
+    "com.samsung.android.app.contacts",
+    "com.samsung.android.dialer",
+    "com.samsung.android.calendar",
+    "com.samsung.android.email.provider",
+    "com.sec.android.app.music",
+    "com.sec.android.app.popupcalculator",
+    "com.sec.android.app.sbrowser",
+    "com.sec.android.app.voicenote",
+    "com.sec.android.app.shealth",
+    "com.samsung.android.scloud",
+    "com.sec.android.app.camera",
+    "com.sec.android.gallery3d",
+    "com.samsung.android.bixby.agent",
+    "com.sec.android.daemonapp"
+  ],
+  "lookups": [
+    "android:color/system_accent1_600",
+    "com.android.systemui:drawable/tw_ic_do_emergencysos",
+    "com.android.settings:drawable/sec_ic_settings_galaxy_ai",
+    "com.sec.android.app.voicenote:drawable/switch_track_on",
+    "com.samsung.android.bixby.agent:drawable/switch_track_on",
+    "com.sec.android.daemonapp:drawable/switch_track_on"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true,
+    "overridden": [
+      "com.android.systemui:drawable/tw_ic_do_emergencysos",
+      "com.android.systemui:drawable/tw_ic_do_medicalinfo"
+    ]
+  },
+  "id": "lab-036",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41957832927,
+  "artifact_sha256": "a3ee647393cd81aa70a0204c4edb50dad8c2fda398a9b6dad05a85f3db35d8c1",
+  "about": "Everything for the remaining One UI fixes: every Samsung app light and dark after an apply on the full-scan build; resource tables and compiled XML of the apps still to fix; Calendar night-mode state; package dumps; overlay snapshot.",
+  "prefs": [
+    "com.samsung.android.calendar"
+  ],
+  "pkginfo": [
+    "com.samsung.android.calendar",
+    "com.sec.android.app.sbrowser",
+    "com.sec.android.app.voicenote",
+    "com.samsung.android.bixby.agent",
+    "com.sec.android.app.shealth",
+    "com.samsung.android.scloud",
+    "com.sec.android.daemonapp"
+  ]
+}
