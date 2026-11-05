@@ -1,0 +1,22 @@
+[23:34:26] job lab-037
+[23:34:29] install: downloaded artifact 13388013563 through the API
+[23:34:29] install: run 41967106142 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[23:34:29] restarting Shizuku as root
+[23:34:38] pack willemite
+[23:34:42] scan
+[23:35:02] apply (confirm=true)
+[23:40:12] lookup 1
+[23:40:18] capture light app:com.sec.android.app.popupcalculator
+[23:40:27] capture light app:com.sec.android.gallery3d
+[23:40:38] capture light app:com.samsung.android.app.contacts
+[23:40:47] capture light app:com.sec.android.app.voicenote
+[23:40:56] capture light settings
+[23:41:19] capture dark app:com.sec.android.app.popupcalculator
+[23:41:28] capture dark app:com.sec.android.gallery3d
+[23:41:39] capture dark app:com.samsung.android.app.contacts
+[23:41:48] capture dark app:com.sec.android.app.voicenote
+[23:41:57] capture dark settings
+[23:42:20] arsc: android 1588 KB
+[23:42:20] arsc: com.samsung.android.framework.res not installed
+[23:42:24] arsc: com.samsung.android.app.contacts 3360 KB
+[23:42:26] arsc: com.samsung.android.dialer 2692 KB

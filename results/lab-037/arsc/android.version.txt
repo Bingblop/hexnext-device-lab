@@ -1,0 +1,2 @@
+    versionCode=37 minSdk=37 targetSdk=37
+    versionName=17

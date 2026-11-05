@@ -1,0 +1,5 @@
+{"cmd":"pack","ok":true,"detail":"selected=willemite","at":1793853280998}
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=1000 system","at":1793853301373}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793853580590}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793853671780}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793853732943}
