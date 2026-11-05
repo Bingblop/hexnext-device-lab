@@ -19,3 +19,5 @@
 [01:10:45] capture dark app:com.samsung.android.app.notes
 [01:11:00] capture dark app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
 [01:11:24] arsc: com.samsung.android.app.contacts 3360 KB
+[01:11:29] job lab-039 pushed
+[01:12:20] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
