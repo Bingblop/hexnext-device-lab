@@ -41,3 +41,5 @@
 [00:29:08] capture dark app:com.samsung.android.app.contacts
 [00:29:25] unprobe: done
 [00:29:32] arsc: com.android.systemui 2156 KB
+[00:29:36] job lab-038 pushed
+[00:30:06] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
