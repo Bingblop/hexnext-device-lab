@@ -1,0 +1,50 @@
+{
+  "steps": [
+    "install",
+    "overlaystate",
+    "scan",
+    "apply",
+    "overlaystate",
+    "lookup",
+    "capture",
+    "remove",
+    "overlaystate",
+    "apply",
+    "overlaystate",
+    "bootlog",
+    "softreboot",
+    "overlaystate",
+    "bootlog"
+  ],
+  "confirm": true,
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "captures": [
+    "settings",
+    "power"
+  ],
+  "lookups": [
+    "com.android.settings:color/sesl_round_and_bgcolor_light",
+    "com.android.systemui:drawable/tw_ic_do_poweroff",
+    "com.samsung.android.honeyboard:color/keyboard_background_dark",
+    "android:color/system_accent1_600"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true,
+    "service_uid": 1000,
+    "remove_clean": true,
+    "overridden": [
+      "com.android.systemui:drawable/tw_ic_do_poweroff",
+      "com.samsung.android.honeyboard:color/keyboard_background_dark"
+    ],
+    "survives_softreboot": true
+  },
+  "id": "lab-035",
+  "suite": "system-mode",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41946833047,
+  "artifact_sha256": "a18c60eb2a04140b77a495626d92816c82d1fc68331da0629fc6dffb9598711a"
+}
