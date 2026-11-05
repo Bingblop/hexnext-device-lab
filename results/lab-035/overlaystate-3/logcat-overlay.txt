@@ -1,0 +1,400 @@
+11-04 20:35:17.815  3337  4480 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.815  3337  6513 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.815  3337  6513 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.815  6759  7149 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.818  6759  7149 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.818  6759  7149 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.818  6759  7149 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.821  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.822  3337  6239 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.822  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:17.824  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=17724 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.825  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.825  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.825  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.829  3337  4679 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.830  3337  6239 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.870  3337  6497 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:17.880  3337  6497 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_smartsuggestions, userId=-1, constraints=None}] }
+11-04 20:35:17.880  3337  6497 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_smartsuggestions, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:17.891  3337  6497 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_sec_android_app_camera, userId=-2, constraints=None}] }
+11-04 20:35:17.891  3337  6497 D OverlayManager: setEnabled overlay=android:HexNext_com_sec_android_app_camera enable=false userId=0 constraints=None
+11-04 20:35:17.891  3337  6497 D OverlayManager: create idmap for com.sec.android.app.camera and android
+11-04 20:35:17.892  3337  6497 D OverlayManager: android:HexNext_com_sec_android_app_camera:0: STATE_ENABLED -> STATE_DISABLED
+11-04 20:35:17.892  3337  6497 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_sec_android_app_camera, userId=-2, constraints=None} affected packages from request=[<0>com.sec.android.app.camera]
+11-04 20:35:17.892  3337  6497 D OverlayManager: Writing overlay settings
+11-04 20:35:17.895  3337  6497 D OverlayManager: Update package manager about changed overlays
+11-04 20:35:17.896  3337  6497 D OverlayManager: -> Updating overlay: target=com.sec.android.app.camera overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk] }] userId=0
+11-04 20:35:17.905  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.906  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.908  3337  6926 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:17.909  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.909  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.910  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.910  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:17.910  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.911  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.914  3337  5047 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.914  3337  6513 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.915  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.919  3337  4680 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.925  3337  6521 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.925  3337  3731 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.930  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.930  6759  7149 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:17.982  3337  6926 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_sec_android_app_camera, userId=-1, constraints=None}] }
+11-04 20:35:17.982  3337  6926 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_sec_android_app_camera, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:17.999  3337  6926 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_android_bluetooth, userId=-2, constraints=None}] }
+11-04 20:35:17.999  3337  6926 D OverlayManager: setEnabled overlay=android:HexNext_com_android_bluetooth enable=false userId=0 constraints=None
+11-04 20:35:17.999  3337  6926 D OverlayManager: create idmap for com.android.bluetooth and android
+11-04 20:35:17.999  3337  6926 D OverlayManager: android:HexNext_com_android_bluetooth:0: STATE_ENABLED -> STATE_DISABLED
+11-04 20:35:17.999  3337  6926 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_android_bluetooth, userId=-2, constraints=None} affected packages from request=[<0>com.android.bluetooth]
+11-04 20:35:17.999  3337  6926 D OverlayManager: Writing overlay settings
+11-04 20:35:18.001  3337  6926 D OverlayManager: Update package manager about changed overlays
+11-04 20:35:18.002  3337  6926 D OverlayManager: -> Updating overlay: target=com.android.bluetooth overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk] }] userId=0
+11-04 20:35:18.004  4644  4644 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_com_android_bluetooth-4EZl.frro]
+11-04 20:35:18.007  3337  6513 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:18.009  3337  3731 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:18.015  3337  3731 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.015  3337  3731 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.015  3337  3731 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.084  3337  6513 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_android_bluetooth, userId=-1, constraints=None}] }
+11-04 20:35:18.084  3337  6513 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_android_bluetooth, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:18.094  3337  6513 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_app_dressroom, userId=-2, constraints=None}] }
+11-04 20:35:18.094  3337  6513 D OverlayManager: setEnabled overlay=android:HexNext_com_samsung_android_app_dressroom enable=false userId=0 constraints=None
+11-04 20:35:18.094  3337  6513 D OverlayManager: create idmap for com.samsung.android.app.dressroom and android
+11-04 20:35:18.095  3337  6513 D OverlayManager: android:HexNext_com_samsung_android_app_dressroom:0: STATE_ENABLED -> STATE_DISABLED
+11-04 20:35:18.095  3337  6513 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_app_dressroom, userId=-2, constraints=None} affected packages from request=[<0>com.samsung.android.app.dressroom]
+11-04 20:35:18.095  3337  6513 D OverlayManager: Writing overlay settings
+11-04 20:35:18.097  3337  6513 D OverlayManager: Update package manager about changed overlays
+11-04 20:35:18.098  3337  6513 D OverlayManager: -> Updating overlay: target=com.samsung.android.app.dressroom overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk] }] userId=0
+11-04 20:35:18.100  8031  8031 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_com_samsung_android_app_dressroom-1xCv.frro]
+11-04 20:35:18.103  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:18.105  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:18.109  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.109  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.109  3337  6938 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.185  3337  6568 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_app_dressroom, userId=-1, constraints=None}] }
+11-04 20:35:18.185  3337  6568 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_app_dressroom, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:18.203  3337  6568 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_mcfds, userId=-2, constraints=None}] }
+11-04 20:35:18.203  3337  6568 D OverlayManager: setEnabled overlay=android:HexNext_com_samsung_android_mcfds enable=false userId=0 constraints=None
+11-04 20:35:18.203  3337  6568 D OverlayManager: create idmap for com.samsung.android.mcfds and android
+11-04 20:35:18.204  3337  6568 D OverlayManager: android:HexNext_com_samsung_android_mcfds:0: STATE_ENABLED -> STATE_DISABLED
+11-04 20:35:18.204  3337  6568 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_mcfds, userId=-2, constraints=None} affected packages from request=[<0>com.samsung.android.mcfds]
+11-04 20:35:18.204  3337  6568 D OverlayManager: Writing overlay settings
+11-04 20:35:18.210  3337  6568 D OverlayManager: Update package manager about changed overlays
+11-04 20:35:18.211  3337  6568 D OverlayManager: -> Updating overlay: target=com.samsung.android.mcfds overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk] }] userId=0
+11-04 20:35:18.215  6800  6800 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_com_samsung_android_mcfds-NLsj.frro]
+11-04 20:35:18.215  7978  7978 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_com_samsung_android_mcfds-NLsj.frro]
+11-04 20:35:18.220  3337  6568 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:18.222  3337  6521 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:18.223  3337  4478 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.223  3337  4478 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.223  3337  4478 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.288  3337  6521 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_mcfds, userId=-1, constraints=None}] }
+11-04 20:35:18.288  3337  6521 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_mcfds, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:18.300  3337  6521 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:18.300  3337  6510 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_video, userId=-2, constraints=None}] }
+11-04 20:35:18.300  3337  6510 D OverlayManager: setEnabled overlay=android:HexNext_com_samsung_android_video enable=false userId=0 constraints=None
+11-04 20:35:18.300  3337  6510 D OverlayManager: create idmap for com.samsung.android.video and android
+11-04 20:35:18.301  3337  6509 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:18.301  3337  6510 D OverlayManager: android:HexNext_com_samsung_android_video:0: STATE_ENABLED -> STATE_DISABLED
+11-04 20:35:18.301  3337  6510 D OverlayManager: Executed request=Request{type=0x01 (TYPE_SET_DISABLED), overlay=android:HexNext_com_samsung_android_video, userId=-2, constraints=None} affected packages from request=[<0>com.samsung.android.video]
+11-04 20:35:18.301  3337  6510 D OverlayManager: Writing overlay settings
+11-04 20:35:18.303  3337  6510 D OverlayManager: Update package manager about changed overlays
+11-04 20:35:18.303  3337  6510 D OverlayManager: -> Updating overlay: target=com.samsung.android.video overlays=[OverlayPaths { resourceDirs = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk], overlayPaths = [/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk, /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk] }] userId=0
+11-04 20:35:18.334  3337  6513 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:18.335  3337  3405 W ApplicationInfo: Large ApplicationInfo parcel: size=17644 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 20:35:18.335  3337  3405 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.335  3337  3405 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.335  3337  3405 W ApplicationInfo: Large ApplicationInfo parcel: size=22548 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 20:35:18.389  3337  6513 D OverlayManager: commit OverlayManagerTransaction { mRequests = [Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_video, userId=-1, constraints=None}] }
+11-04 20:35:18.390  3337  6513 D OverlayManager: Executed request=Request{type=0x03 (TYPE_UNREGISTER_FABRICATED), overlay=android:HexNext_com_samsung_android_video, userId=-1, constraints=None} affected packages from request={}
+11-04 20:35:20.146 21029 21029 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_android-JG6i.frro]
+11-04 20:35:20.156  2175  2175 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5284#2277 voted ExplicitCategory with category: NoPreference
+11-04 20:35:20.465  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized, frames=ClientWindowFrames{frame=[0,3020][1440,3120] display=[0,139][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 20:35:20.465  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized seqId=19 mSeqId=19 mSyncSeqId=0 syncWithBuffers=false
+11-04 20:35:20.483  2175  2175 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5284#2277 voted ExplicitCategory with category: NoPreference
+11-04 20:35:20.485  2175  2175 D SurfaceFlinger:        DEVICE |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:20.566  2175  2175 D SurfaceFlinger:        CLIENT |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:20.656  3337  6509 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:21.378  6662  6825 I FASModelGlobal: verify : ignore com.google.android.networkstack.tethering.overlay
+11-04 20:35:21.381  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.permissioncontroller
+11-04 20:35:21.393  6662  6825 I FASModelGlobal: verify : ignore com.google.android.verifier.overlay
+11-04 20:35:21.394  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.gmsconfig.common
+11-04 20:35:21.398  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.ext.services
+11-04 20:35:21.400  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.gmsconfig.geotz
+11-04 20:35:21.400  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.aicoreconfig
+11-04 20:35:21.405  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.documentsui
+11-04 20:35:21.408  6662  6825 I FASModelGlobal: verify : ignore com.google.android.overlay.modules.healthfitness.forframework
+11-04 20:35:24.280  2175  2175 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5284#2277 voted ExplicitCategory with category: NoPreference
+11-04 20:35:25.018  4779  4963 V WindowManagerShell: Transition requested (#149): android.os.BinderProxy@7b42b4a TransitionRequestInfo { type = CLOSE, triggerTask = TaskInfo{userId=0 taskId=6843 effectiveUid=10687 displayId=0 isRunning=false baseIntent=Intent { flg=0x10800000 cmp=com.hexnext.themer.owner/com.hexnext.themer.autotest.AutotestActivity } baseActivity=null topActivity=null origActivity=null realActivity=ComponentInfo{com.hexnext.themer.owner/com.hexnext.themer.autotest.AutotestActivity} realActivityIsAppLockEnabled=false numActivities=0 lastActiveTime=3189906 supportsMultiWindow=true supportsMultiWindowWithoutConstraints=true resizeMode=1 isResizeable=true minWidth=-1 minHeight=-1 maxWidth=-1 maxHeight=-1 defaultMinSize=220 desktopDefaultMinSize=304 token=WCT{android.os.BinderProxy@a06eee7} topActivityType=1 pictureInPictureParams=null shouldDockBigOverlays=false launchIntoPipHostTaskId=-1 lastParentTaskIdBeforePip=-1 displayCutoutSafeInsets=Rect(0, 0 - 0, 0) topActivityInfo=null launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=true isInteractive=true isVisible=true isVisibleRequested=true isTopActivityNoDisplay=false isSleeping=false locusId=null displayAreaFeatureId=1 isTopActivityTransparent=false isActivityStackTransparent=true lastNonFullscreenBounds=Rect(108, 830 - 1332, 2390) leafTaskBoundsFromOptions= false capturedLink=null capturedLinkTimestamp=0 requestedVisibleTypes=503 topActivityRequestOpenInBrowserEducationTimestamp=0 appCompatTaskInfo=AppCompatTaskInfo { topActivityInSizeCompat=false isLeafTask= true eligibleForLetterboxEducation= false isLetterboxEducationEnabled= false isLetterboxDoubleTapEnabled= false eligibleForUserAspectRatioButton= false topActivityBoundsLetterboxed= false isFromLetterboxDoubleTap= false topActivityLetterboxVerticalPosition= -1 topActivityLetterboxHorizontalPosition= -1 topActivityLetterboxWidth=-1 topActivityLetterboxHeight=-1 topActivityAppBounds=Rect(0, 0 - 0, 0) isUserFullscreenOverrideEnabled=false isSystemFullscreenOverrideEnabled=false hasMinAspectRatioOverride=false topActivityLetterboxBounds=null topActivityBounds=nullshowMultiTaskingAppCompatUI=false topActivityInDisplayCompat=false showForceRotationButton=false forceRotationButtonState=0 orientationPolicyToRestore=0showAspectRatioButton=falseaspectRatioToRestore=0letterboxStateBeforeAspectRatioRestore=0 singleTapFromLetterbox=false topNonResizableActivityAspectRatio=-1.0} topActivityMainWindowFrame=null originallySupportedMultiWindow=true hasWallpaper=false rootAffinity=10687:com.hexnext.themer.owner isTopTaskInStage=false LaunchedFromMultistarCoverLauncherTask=false isAllowedSeamlessRotation=false isTopTransparentActivity=false isAliasManaged=false hasConfigChanged=false isAiKeyRemoveAppTask=false isActivityEmbeddingSplitsEnabled=falseisPackageNightModeActive=true isKeepScreenOn=true safeCutoutInsets=null isAppBubble=false lastAttachedDisplayId=-1 isPartialPrivacyDisplayApplied=false}, pipChange = null, remoteTransitionInfo = null, displayChanges = null, requestedLocation = null, userChange = null, windowingLayerChange = null, fullscreenRequestChange = null, flags = 0, debugId = 149 }
+11-04 20:35:25.023  3337  6509 V AppCompatResourceOverlayPolicy: doResourceOverlayChangesAffectActivity: result: true componentName: ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher} overlayPathsAdded: {} overlayPathsRemoved: {/data/resource-cache/android-HexNext_android-3uEA.frro} displayId: 0 deviceId: 0
+11-04 20:35:25.030  2175  2175 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5284#2277 voted ExplicitCategory with category: High
+11-04 20:35:25.044  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap': No such file or directory
+11-04 20:35:25.044  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.045  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-mhUx.frro'
+11-04 20:35:25.045  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.045  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.045  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap': No such file or directory
+11-04 20:35:25.045  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.045  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-mhUx.frro'
+11-04 20:35:25.045  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.045  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.046  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap': No such file or directory
+11-04 20:35:25.046  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.046  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-mhUx.frro'
+11-04 20:35:25.046  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.046  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.046  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap': No such file or directory
+11-04 20:35:25.046  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.046  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-mhUx.frro'
+11-04 20:35:25.046  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-mhUx.frro@idmap
+11-04 20:35:25.046  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.053  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.053  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.053  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.053  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.053  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.053  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.053  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.054  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.054  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.054  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.054  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.055  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.055  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.055  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.055  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.055  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.055  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.055  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.055  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.055  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.056  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.056  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.056  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.056  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.056  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.056  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.056  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.056  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.056  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.056  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.057  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.057  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.057  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.057  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.057  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.058  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.058  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.058  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.058  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.058  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.058  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.058  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.059  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.059  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.059  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.059  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.059  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.059  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.059  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.059  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.060  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.060  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.060  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.060  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.060  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.061  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.061  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap': No such file or directory
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-JG6i.frro'
+11-04 20:35:25.061  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-JG6i.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.061  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.061  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.061  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_sec_android_daemonapp-bcrE.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_samsung_android_lool-acWH.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.062  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.062  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap': No such file or directory
+11-04 20:35:25.062  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_samsung_android_lool-acWH.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_sec_android_daemonapp-bcrE.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap': No such file or directory
+11-04 20:35:25.063  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_sec_android_daemonapp-bcrE.frro'
+11-04 20:35:25.063  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.063  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_samsung_android_lool-acWH.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_sec_android_daemonapp-bcrE.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-bcrE.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap': No such file or directory
+11-04 20:35:25.064  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_com_samsung_android_lool-acWH.frro'
+11-04 20:35:25.064  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_lool-acWH.frro@idmap
+11-04 20:35:25.064  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.065  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.065  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.065  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.065  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.065  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.065  6759  6759 E coilsw.launcher: Failed to open file '/data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap': No such file or directory
+11-04 20:35:25.065  6759  6759 E coilsw.launcher: failed to read IDMAP /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.065  6759  6759 W ResourcesManager: failed to add overlay path '/data/resource-cache/android-HexNext_android-3uEA.frro'
+11-04 20:35:25.065  6759  6759 W ResourcesManager: java.io.IOException: Failed to load asset path /data/resource-cache/data@resource-cache@android-HexNext_android-3uEA.frro@idmap
+11-04 20:35:25.065  6759  6759 W ResourcesManager: 	at android.content.res.ApkAssets.loadOverlayFromPath(ApkAssets.java:241)
+11-04 20:35:25.101  3337  5047 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:25.101  7779  7779 I cqzr    : (REDACTED) windowAttached start logFlowId=%s, configuration=%s, acetoneState=%s, overlayWindow=%s, fragmentHost=%s, binderManagedWindow=%s, params=%s
+11-04 20:35:25.119  6759  7149 I AppIconSolution: load= live icon for com.sec.android.app.clockpackage, from overlay = false
+11-04 20:35:25.125  1688  1688 I ActivityThread: assets removed: [/data/resource-cache/android-HexNext_android-3uEA.frro]
+11-04 20:35:25.129  3337  3425 V WindowManager: Sent Transition (#149) createdAt=11-04 20:35:25.017 via request=TransitionRequestInfo { type = CLOSE, triggerTask = TaskInfo{userId=0 taskId=6843 effectiveUid=10687 displayId=0 isRunning=false baseIntent=Intent { flg=0x10800000 cmp=com.hexnext.themer.owner/com.hexnext.themer.autotest.AutotestActivity } baseActivity=null topActivity=null origActivity=null realActivity=ComponentInfo{com.hexnext.themer.owner/com.hexnext.themer.autotest.AutotestActivity} realActivityIsAppLockEnabled=false numActivities=0 lastActiveTime=3189906 supportsMultiWindow=true supportsMultiWindowWithoutConstraints=true resizeMode=1 isResizeable=true minWidth=-1 minHeight=-1 maxWidth=-1 maxHeight=-1 defaultMinSize=220 desktopDefaultMinSize=304 token=WCT{RemoteToken{1425689 Task{7189521 #6843 type=standard A=10687:com.hexnext.themer.owner}}} topActivityType=1 pictureInPictureParams=null shouldDockBigOverlays=false launchIntoPipHostTaskId=-1 lastParentTaskIdBeforePip=-1 displayCutoutSafeInsets=Rect(0, 0 - 0, 0) topActivityInfo=null launchCookies=[] positionInParent=Point(0, 0) parentTaskId=-1 isFocused=true isInteractive=true isVisible=true isVisibleRequested=true isTopActivityNoDisplay=false isSleeping=false locusId=null displayAreaFeatureId=1 isTopActivityTransparent=false isActivityStackTransparent=true lastNonFullscreenBounds=Rect(108, 830 - 1332, 2390) leafTaskBoundsFromOptions= false capturedLink=null capturedLinkTimestamp=0 requestedVisibleTypes=503 topActivityRequestOpenInBrowserEducationTimestamp=0 appCompatTaskInfo=AppCompatTaskInfo { topActivityInSizeCompat=false isLeafTask= true eligibleForLetterboxEducation= false isLetterboxEducationEnabled= false isLetterboxDoubleTapEnabled= false eligibleForUserAspectRatioButton= false topActivityBoundsLetterboxed= false isFromLetterboxDoubleTap= false topActivityLetterboxVerticalPosition= -1 topActivityLetterboxHorizontalPosition= -1 topActivityLetterboxWidth=-1 topActivityLetterboxHeight=-1 topActivityAppBounds=Rect(0, 0 - 0, 0) isUserFullscreenOverrideEnabled=false isSystemFullscreenOverrideEnabled=false hasMinAspectRatioOverride=false topActivityLetterboxBounds=null topActivityBounds=nullshowMultiTaskingAppCompatUI=false topActivityInDisplayCompat=false showForceRotationButton=false forceRotationButtonState=0 orientationPolicyToRestore=0showAspectRatioButton=falseaspectRatioToRestore=0letterboxStateBeforeAspectRatioRestore=0 singleTapFromLetterbox=false topNonResizableActivityAspectRatio=-1.0} topActivityMainWindowFrame=null originallySupportedMultiWindow=true hasWallpaper=false rootAffinity=10687:com.hexnext.themer.owner isTopTaskInStage=false LaunchedFromMultistarCoverLauncherTask=false isAllowedSeamlessRotation=false isTopTransparentActivity=false isAliasManaged=false hasConfigChanged=false isAiKeyRemoveAppTask=false isActivityEmbeddingSplitsEnabled=falseisPackageNightModeActive=true isKeepScreenOn=true safeCutoutInsets=null isAppBubble=false lastAttachedDisplayId=-1 isPartialPrivacyDisplayApplied=false}, pipChange = null, remoteTransitionInfo = null, displayChanges = null, requestedLocation = null, userChange = null, windowingLayerChange = null, fullscreenRequestChange = null, flags = 0, debugId = 149 }
+11-04 20:35:25.141  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized, frames=ClientWindowFrames{frame=[0,3020][1440,3120] display=[0,139][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 20:35:25.141  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized seqId=19 mSeqId=19 mSyncSeqId=0 syncWithBuffers=false
+11-04 20:35:25.157  3337  4480 W ApplicationInfo: Large ApplicationInfo parcel: size=21460 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 20:35:25.157  7779  7779 I cqzr    : (REDACTED) windowAttached start logFlowId=%s, configuration=%s, acetoneState=%s, overlayWindow=%s, fragmentHost=%s, binderManagedWindow=%s, params=%s
+11-04 20:35:25.159  2175  2175 D SurfaceFlinger:        CLIENT |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:25.175  2175  2175 D SurfaceFlinger:        CLIENT |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:25.181  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized, frames=ClientWindowFrames{frame=[0,3020][1440,3120] display=[0,139][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 20:35:25.181  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized seqId=19 mSeqId=19 mSyncSeqId=0 syncWithBuffers=false
+11-04 20:35:25.223  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized, frames=ClientWindowFrames{frame=[0,3020][1440,3120] display=[0,139][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 20:35:25.223  5284  5284 I VRI[SGestureOverlayWindow]@98ed29b: handleResized seqId=19 mSeqId=19 mSyncSeqId=0 syncWithBuffers=false
+11-04 20:35:25.575  3337  6521 W ApplicationInfo: Large ApplicationInfo parcel: size=45856 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 20:35:26.321  2175  2175 D SurfaceFlinger:        DEVICE |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:26.336  2175  3361 I SurfaceFlinger: Capture layer list: 	 VRI-SGestureOverlayWindow$_5284#2277(preserveDisplayColors:0)
+11-04 20:35:26.336  2175  2363 D RenderEngine: Rendering layer VRI-SGestureOverlayWindow$_5284#2277 at index 4
+11-04 20:35:26.546  2175  2175 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5284#2277 voted ExplicitCategory with category: NoPreference
+11-04 20:35:26.548  2175  2175 D SurfaceFlinger:        DEVICE |           22694607192250 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5284#2277 (3)
+11-04 20:35:28.309  3337  4480 W OverlayManager: service 'idmap' died

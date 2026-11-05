@@ -1,0 +1,8 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=1000 system","at":1793842268707}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793842389035}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793842444807}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793842464224}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793842486532}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=false","at":1793842506230}
+{"cmd":"remove","ok":true,"detail":"removed","at":1793842525010}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793842675731}

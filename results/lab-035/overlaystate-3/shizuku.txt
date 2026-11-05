@@ -1,0 +1,3 @@
+28966 30616
+root         28966     1   14270672 168128 do_epoll_wait       0 S shizuku_server
+u0_a441      30616  1933   15231884 113444 get_signal          0 S moe.shizuku.privileged.api

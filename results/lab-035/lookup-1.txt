@@ -1,0 +1,4 @@
+com.android.settings:color/sesl_round_and_bgcolor_light = #ff000000
+com.android.systemui:drawable/tw_ic_do_poweroff = frro://data/resource-cache/android-HexNext_com_android_systemui-23H9.frro?offset=60688&size=3147
+com.samsung.android.honeyboard:color/keyboard_background_dark = #ff101e20
+android:color/system_accent1_600 = #ff006875
