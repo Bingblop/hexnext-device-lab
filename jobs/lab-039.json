@@ -1,0 +1,51 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "lookup",
+    "capture",
+    "arsc"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "settings",
+    "app:com.samsung.android.app.contacts",
+    "app:com.sec.android.app.popupcalculator",
+    "app:com.sec.android.app.voicenote",
+    "app:com.samsung.android.app.notes",
+    "app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity"
+  ],
+  "arsc": [
+    "com.samsung.android.app.contacts"
+  ],
+  "lookups": [
+    "com.android.systemui:color/sesl_primary_color_light",
+    "com.android.systemui:color/sesl_blue_color_light",
+    "com.android.systemui:color/basic_token_sys_primary",
+    "com.android.systemui:color/basic_token_primary_50",
+    "com.android.systemui:color/m3_sys_color_dynamic_light_primary",
+    "com.android.systemui:color/m3_sys_color_light_primary",
+    "android:color/system_accent1_600",
+    "com.android.settings:color/sesl_round_and_bgcolor_light",
+    "com.sec.android.app.popupcalculator:color/sesl_round_and_bgcolor_light"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true
+  },
+  "id": "lab-039",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41975049582,
+  "artifact_sha256": "8a0154f40c603a42bf11a35ad26721507b9a65774cb065092566c04bec943072",
+  "dex": [
+    "com.samsung.android.app.contacts"
+  ]
+}
