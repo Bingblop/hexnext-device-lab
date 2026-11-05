@@ -1,0 +1,78 @@
+--------- beginning of crash
+11-04 19:42:23.564 13226 13226 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+11-04 19:42:23.564 13226 13226 F DEBUG   : Build fingerprint: 'samsung/m3quew/m3q:17/CP2A.260605.016/S948U1UEU4BZID_OYM4BZID:user/release-keys'
+11-04 19:42:23.564 13226 13226 F DEBUG   : Kernel Release: '6.12.69-android16-6-pee899be-abogkiS948USQU4BZID-4k'
+11-04 19:42:23.564 13226 13226 F DEBUG   : Revision: '16'
+11-04 19:42:23.564 13226 13226 F DEBUG   : ABI: 'arm64'
+11-04 19:42:23.564 13226 13226 F DEBUG   : Processor: '-1'
+11-04 19:42:23.564 13226 13226 F DEBUG   : Timestamp: 2026-11-04 19:42:23.003128483-0500
+11-04 19:42:23.564 13226 13226 F DEBUG   : Process uptime: 1s
+11-04 19:42:23.564 13226 13226 F DEBUG   : Executable: /system/bin/app_process64
+11-04 19:42:23.564 13226 13226 F DEBUG   : Cmdline: me.weishu.kernelsu_zygote
+11-04 19:42:23.564 13226 13226 F DEBUG   : pid: 13226, ppid: 12933, tid: 13226, name: kernelsu_zygote  >>> me.weishu.kernelsu_zygote <<<
+11-04 19:42:23.564 13226 13226 F DEBUG   : uid: 10367
+11-04 19:42:23.565 13226 13226 F DEBUG   : tagged_addr_ctrl: 0000000000000001 (PR_TAGGED_ADDR_ENABLE)
+11-04 19:42:23.565 13226 13226 F DEBUG   : pac_enabled_keys: 000000000000000f (PR_PAC_APIAKEY, PR_PAC_APIBKEY, PR_PAC_APDAKEY, PR_PAC_APDBKEY)
+11-04 19:42:23.567 13226 13226 F DEBUG   : esr: 0000000092000006 (Data Abort Exception 0x24)
+11-04 19:42:23.567 13226 13226 F DEBUG   : signal 31 (SIGSYS), code 1 (SYS_SECCOMP), fault addr --------
+11-04 19:42:23.585 13226 13226 F DEBUG   : Cause: seccomp prevented call to disallowed arm64 system call 146
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x0  0000000000000000  x1  0000007cd9985080  x2  0000007cd9985080  x3  0000000000004000
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x4  0000007cd98a3b65  x5  0000007cefc69070  x6  0000007cefc69070  x7  000000000000000f
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x8  0000000000000092  x9  00000000000033aa  x10 00000000000033aa  x11 0000000000000075
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x12 0000000000000018  x13 0000000000000001  x14 0000000000000000  x15 5f64616f6c657250
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x16 00000079e8ee1f20  x17 0000007cd9963980  x18 0000007cef1dc000  x19 0000007b5ca33100
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x20 0000007bfca28cc0  x21 0000007ff173221c  x22 b400007c1ca0c7d0  x23 0000007ff1732218
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x24 0000000000000000  x25 0000007ff1732238  x26 b400007a8ca01a70  x27 0000007b6ca628d0
+11-04 19:42:23.585 13226 13226 F DEBUG   :     x28 0000007ff1732130  x29 0000007ff173224c
+11-04 19:42:23.585 13226 13226 F DEBUG   :     lr  00000079e8edd5c0  sp  0000007ff17320d0  pc  0000007cd996398c  pst 0000000080001000
+11-04 19:42:23.585 13226 13226 F DEBUG   :     esr 0000000092000006  vg  0000000000000002
+11-04 19:42:23.585 13226 13226 F DEBUG   : 2 total frames
+11-04 19:42:23.585 13226 13226 F DEBUG   : backtrace:
+11-04 19:42:23.585 13226 13226 F DEBUG   :       #00 pc 00000000000de98c  /apex/com.android.runtime/lib64/bionic/libc.so (setuid+12) (BuildId: 8dd29b5be3344cf1545af1db8c58e42c)
+11-04 19:42:23.585 13226 13226 F DEBUG   :       #01 pc 00000000000065bc  /data/app/~~6ep_YkzwFs5Bc9hdWaG_-A==/me.weishu.kernelsu-FW5gDcmoY1b0j4nEslgKGQ==/lib/arm64/libkernelsu.so (Java_me_weishu_kernelsu_magica_AppZygotePreload_forkDontCareAndExecKsud+336) (BuildId: 1d3c61ecc7e4e3e043ec31be13272411b9c20986)
+11-04 19:42:23.585 13226 13226 F DEBUG   : Note: To display stack pointer information, use the pbtombstone tool:
+11-04 19:42:23.585 13226 13226 F DEBUG   :         pbtombstone --display-sp tombstone_XX.pb
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: FATAL EXCEPTION: main
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: Process: com.samsung.android.themecenter, PID: 17958
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: java.lang.RuntimeException: Unable to start receiver com.samsung.android.thememanager.ThemeManagerReceiver
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:6129)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ActivityThread.-$$Nest$mhandleReceiver(ActivityThread.java:0)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:3120)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.os.Handler.dispatchMessageImpl(Handler.java:142)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:125)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:321)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:422)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:10616)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:635)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:982)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: Caused by: java.lang.SecurityException: Not allowed to start service Intent { act=com.samsung.intent.action.LAZY_BOOT_COMPLETE xflg=0x4 cmp=com.samsung.android.themecenter/com.samsung.android.thememanager.ThemeManagerService } without permission blocked by firewall
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:2199)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ContextImpl.startService(ContextImpl.java:2150)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.content.ContextWrapper.startService(ContextWrapper.java:898)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.content.ContextWrapper.startService(ContextWrapper.java:898)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at com.samsung.android.thememanager.ThemeManagerReceiver.onReceive(ThemeManagerReceiver.java:75)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:6122)
+11-04 19:42:34.618 17958 17958 E AndroidRuntime: 	... 10 more
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: FATAL EXCEPTION: main
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: Process: com.samsung.android.themecenter, PID: 31384
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: java.lang.RuntimeException: Unable to start receiver com.samsung.android.thememanager.ThemeManagerReceiver
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:6129)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ActivityThread.-$$Nest$mhandleReceiver(ActivityThread.java:0)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:3120)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.os.Handler.dispatchMessageImpl(Handler.java:142)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:125)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:321)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:422)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:10616)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:635)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:982)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: Caused by: java.lang.SecurityException: Not allowed to start service Intent { act=com.samsung.intent.action.LAZY_BOOT_COMPLETE xflg=0x4 cmp=com.samsung.android.themecenter/com.samsung.android.thememanager.ThemeManagerService } without permission blocked by firewall
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:2199)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ContextImpl.startService(ContextImpl.java:2150)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.content.ContextWrapper.startService(ContextWrapper.java:898)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.content.ContextWrapper.startService(ContextWrapper.java:898)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at com.samsung.android.thememanager.ThemeManagerReceiver.onReceive(ThemeManagerReceiver.java:75)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:6122)
+11-04 20:39:17.255 31384 31384 E AndroidRuntime: 	... 10 more
