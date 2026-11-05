@@ -1,0 +1,6 @@
+android:color/system_accent1_600 = #ff006875
+com.android.systemui:drawable/tw_ic_do_emergencysos = frro://data/resource-cache/android-HexNext_com_android_systemui-JxXo.frro?offset=48256&size=5060
+com.android.settings:drawable/sec_ic_settings_galaxy_ai = frro://data/resource-cache/android-HexNext_com_android_settings-vEkz.frro?offset=240953&size=6375
+com.sec.android.app.voicenote:drawable/switch_track_on = Error: failed to get the resource com.sec.android.app.voicenote:drawable/switch_track_on
+com.samsung.android.bixby.agent:drawable/switch_track_on = Error: failed to get the resource com.samsung.android.bixby.agent:drawable/switch_track_on
+com.sec.android.daemonapp:drawable/switch_track_on = Error: failed to get the resource com.sec.android.daemonapp:drawable/switch_track_on

@@ -1,0 +1,2 @@
+    versionCode=621300001 minSdk=29 targetSdk=36
+    versionName=6.2.13.1

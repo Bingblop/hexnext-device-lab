@@ -1,0 +1,3 @@
+    versionCode=412502000 minSdk=34 targetSdk=37
+    versionName=4.1.25.2
+    versionCode=411504000 minSdk=34 targetSdk=37

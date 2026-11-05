@@ -1,0 +1,2774 @@
+== dumpsys package
+Activity Resolver Table:
+  Schemes:
+      activity:
+        4fbacea com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.SamsungServiceAgreementActivity filter 52ec678
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "activity"
+          Authority: "linkingagreement": -1
+          Authority: "samsungcloud_privacypolicy_agreement": -1
+      applink:
+        ef620c1 com.samsung.android.scloud/.bixby2.control.Bixby2AppLinkActivity filter 30cf066
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "applink"
+          Authority: "viv.samsungcloudapp": -1
+          Path: "PatternMatcher{LITERAL: /punchOut}"
+      samsungcloud:
+        d1a1011 com.samsung.android.scloud/.app.ui.DeeplinkProxyActivity filter 3243576
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /contactus}"
+        d1a1011 com.samsung.android.scloud/.app.ui.DeeplinkProxyActivity filter df8e777
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /privacy/notice}"
+        68affe4 com.samsung.android.scloud/.app.ui.splash.SplashActivity filter 7163302
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "samsungcloud"
+          Authority: "launch": -1
+        68affe4 com.samsung.android.scloud/.app.ui.splash.SplashActivity filter d8a8413
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /main}"
+        1bc9c67 com.samsung.android.scloud/.backup.SamsungBackup filter 77c32bd
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /bnr/backup}"
+        174b04f com.samsung.android.scloud/.app.ui.permission.view.PermissionsInfoActivity filter ec5ece5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /permission/info}"
+        ebdd1c8 com.samsung.android.scloud/.app.ui.e2ee.ConfirmRecoveryCodeActivity filter 56d7261
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /e2ee/recovery/off}"
+        6c24274 com.samsung.android.scloud/.app.ui.e2ee.E2EEStartActivity filter aadd39d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /e2ee/visible}"
+        aeb2012 com.samsung.android.scloud/.app.ui.e2ee.EdpSksMainActivity filter efb11e0
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /e2ee/sks/main}"
+        81e6337 com.samsung.android.scloud/.app.ui.digitallegacy.view.DlSnapshotActivity filter 6cfde0d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /digitallegacy}"
+        8d3280e com.samsung.android.scloud/.app.ui.digitallegacy.view.DlDeeplinkProxyActivity filter f0822f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{PREFIX: /dl/}"
+        d6bf03c com.samsung.android.scloud/.app.ui.digitallegacy.view.DlOobeDownloadAppsActivity filter 48fc1c5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /digitallegacy/oobe}"
+        6502ae6 com.samsung.android.scloud/.app.ui.settings.view.settings.information.AboutActivity filter 6180ad4
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /about}"
+        f81647d com.samsung.android.scloud/.app.ui.settings.view.settings.SettingActivity filter 77b7fc3
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /settings}"
+        55fb0be com.samsung.android.scloud/.app.ui.settings.view.settings.privacy.ErasePersonalDataActivity filter 28c551f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /privacy/erase}"
+        ca9e06c com.samsung.android.scloud/.app.ui.settings.view.settings.privacy.DownloadPersonalDataActivity filter 63da635
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /privacy/download}"
+        b9eca7a com.samsung.android.scloud/.app.ui.sync.DetailAppSyncSettingActivity filter 2fe8688
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /sync/details}"
+        41aceff com.samsung.android.scloud/.app.ui.sync.SyncSetting filter 2b604cc
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /sync}"
+        e6b3393 com.samsung.android.scloud/.app.ui.gallery.view.OneDriveEOFActivity filter 40defd0
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /gallery/entry}"
+        e6b3393 com.samsung.android.scloud/.app.ui.gallery.view.OneDriveEOFActivity filter 3e0abc9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /premium/entry}"
+        6ed0dda com.samsung.android.scloud/.bnr.ui.view.screen.restore.BackupDeviceListActivity filter d5fe8e8
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /bnr/restore}"
+        59db671 com.samsung.android.scloud/.ctb.ui.view.activity.CtbSecureFolderEncryptionActivity filter 6cde4d7
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /ctb/settings/securefolder}"
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter d4d9630
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /ctb/qs/restore}"
+        b5da819 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.MigrationAgreementActivity filter 63712bf
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "com.samsung.android.scloud": -1
+          Path: "PatternMatcher{LITERAL: /onedrive/tnc}"
+        36e9ab7 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.AccountLinkingCustomTabActivity filter 9c5d224
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "samsungcloud"
+          Authority: "accountlinking": -1
+
+  Non-Data Actions:
+      com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_WEB:
+        e334151 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.AccountLinkingWebViewActivity filter f5fadb6
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_WEB"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_PERMISSION_INFO:
+        174b04f com.samsung.android.scloud/.app.ui.permission.view.PermissionsInfoActivity filter 88153dc
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_PERMISSION_INFO"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_NOTES_SETTING:
+        b9eca7a com.samsung.android.scloud/.app.ui.sync.DetailAppSyncSettingActivity filter 8a9922b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_NOTES_SETTING"
+          Action: "com.samsung.android.scloud.SAMSUNG_NOTES_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_OTHER_PHONE_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SCLOUD_MAIN:
+        68affe4 com.samsung.android.scloud/.app.ui.splash.SplashActivity filter 17e9c4d
+          Action: "com.samsung.android.scloud.SCLOUD_MAIN"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_SETTINGS:
+        8f97a59 com.samsung.android.scloud/.app.ui.sync.dashboard.view.activity.NewSyncSettingActivity filter f56661e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_SETTINGS"
+          Action: "com.samsung.android.scloud.SYNC_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_SETTING_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_APP_SYNC_SETTING:
+        51c3c9c com.samsung.android.scloud/.app.ui.sync.view.DetailAppSyncSettingActivity filter 42586a5
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_APP_SYNC_SETTING"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_MAIN:
+        ebe6315 com.samsung.android.scloud/.app.ui.gallery.view.dashboard.GalleryDashboardActivity filter 7ec62a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_MAIN"
+          Action: "com.samsung.android.scloud.GALLERY_CLOUD_SETTING"
+          Action: "com.samsung.android.scloud.GALLERY_SETTING"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SCLOUD_BACKUP:
+        1bc9c67 com.samsung.android.scloud/.backup.SamsungBackup filter 3a02a14
+          Action: "com.samsung.android.scloud.SCLOUD_BACKUP"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SYNC_SETTINGS:
+        8f97a59 com.samsung.android.scloud/.app.ui.sync.dashboard.view.activity.NewSyncSettingActivity filter f56661e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_SETTINGS"
+          Action: "com.samsung.android.scloud.SYNC_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_SETTING_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DIALOG:
+        734540a com.samsung.android.scloud/.app.ui.privacypolicy.view.TncPpDialogActivity filter c9f047b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_PARTNERS_UPDATE:
+        2029af com.samsung.android.scloud/.app.ui.datamigrator.view.update.PartnersUpdateActivity filter 6bf41bc
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_PARTNERS_UPDATE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CHINA_CHILD_PN_DIALOG:
+        2b35a62 com.samsung.android.scloud/.app.ui.privacypolicy.view.ChildTncPpDialogActivity filter 5b387f3
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CHINA_CHILD_PN_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_APP_INSTALL_RESULT:
+        6ae21c4 com.samsung.android.scloud/.ctb.ui.view.activity.CtbAppInstallationActivity filter 80648ad
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_APP_INSTALL_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_RESULT:
+        6ebc2a9 com.samsung.android.scloud/.ctb.ui.view.activity.CtbSuccessActivity filter f67902e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_RESULT"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_SERVICE_AGREEMENT:
+        4fbacea com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.SamsungServiceAgreementActivity filter 4d41bdb
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_SERVICE_AGREEMENT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_SECURE_FOLDER:
+        dbd03fb com.samsung.android.scloud/.ctb.ui.view.activity.CtbSecureFolderBackupActivity filter fd35c18
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_SECURE_FOLDER"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_CHOOSE_DATA:
+        737b1c2 com.samsung.android.scloud/.app.ui.digitallegacy.view.DlSelectDataActivity filter 8ebfbd3
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_CHOOSE_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SAMSUNG_NOTES_SETTINGS:
+        b9eca7a com.samsung.android.scloud/.app.ui.sync.DetailAppSyncSettingActivity filter 8a9922b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_NOTES_SETTING"
+          Action: "com.samsung.android.scloud.SAMSUNG_NOTES_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_OTHER_PHONE_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_DELETE:
+        69f0ff5 com.samsung.android.scloud/.ctb.ui.view.activity.CtbDeleteActivity filter 514a18a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_DELETE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.START_WATCH_RESTORE:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_P_SETUPWIZARD_RESTORE:
+        a182783 com.samsung.android.scloud/.bnr.ui.view.screen.setupwizard.SetupWizardProxyActivity filter aa4ed00
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_P_SETUPWIZARD_RESTORE"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_HELP_TEMPLATE:
+        94fb1cb com.samsung.android.scloud/.odm.view.help.HelpTemplateActivity filter d1cbda8
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_HELP_TEMPLATE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT_DETAIL:
+        25d428 com.samsung.android.scloud/.app.announcement.view.AnnounceDetailActivity filter 5afb541
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT_DETAIL"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        68affe4 com.samsung.android.scloud/.app.ui.splash.SplashActivity filter 17e9c4d
+          Action: "com.samsung.android.scloud.SCLOUD_MAIN"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+        1ea3650 com.samsung.android.scloud/.app.ui.splash.launcher.finder.vzw filter f25b049
+          Action: "android.intent.action.MAIN"
+        387d4e com.samsung.android.scloud/.app.ui.splash.launcher.finder filter 68f4e6f
+          Action: "android.intent.action.MAIN"
+          Category: "com.samsung.android.scs.ai.search.category.SEARCHABLE_ACTIVITY"
+        387d4e com.samsung.android.scloud/.app.ui.splash.launcher.finder filter dc4677c
+          Action: "android.intent.action.MAIN"
+          Category: "com.samsung.android.smartsuggestions.search.category.SEARCHABLE_ACTIVITY"
+        a100805 com.samsung.android.scloud/.app.ui.splash.launcher.vzw filter 423205a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        66c628b com.samsung.android.scloud/.app.ui.splash.launcher filter 4ae7f68
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+        6ed0dda com.samsung.android.scloud/.bnr.ui.view.screen.restore.BackupDeviceListActivity filter dc3820b
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+        42633e7 com.samsung.android.scloud/.bnr.ui.view.screen.backup.BackupE2EEActivity filter 3beab94
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_BACKUP_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+        8ee563d com.samsung.android.scloud/.bnr.ui.view.screen.restore.RestoreE2EEActivity filter bef7e32
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DEVICE"
+          Category: "android.intent.category.DEFAULT"
+        a182783 com.samsung.android.scloud/.bnr.ui.view.screen.setupwizard.SetupWizardProxyActivity filter aa4ed00
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_P_SETUPWIZARD_RESTORE"
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.NEW_ENRYPT_SYNC_DETAILS:
+        daee55d com.samsung.android.scloud/.app.ui.sync.e2ee.view.EncryptSyncActivity filter 482ed2
+          Action: "com.samsung.android.scloud.app.activity.NEW_ENRYPT_SYNC_DETAILS"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_OPEN_SOURCE_LICENSES:
+        4550040 com.samsung.android.scloud/.app.ui.settings.view.settings.information.OpenSourceLicenseActivity filter fc4cb79
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_OPEN_SOURCE_LICENSES"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESULT:
+        6ebc2a9 com.samsung.android.scloud/.ctb.ui.view.activity.CtbSuccessActivity filter f67902e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_RESULT"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_BACKUP_MORE:
+        42a38fc com.samsung.android.scloud/.bnr.ui.view.screen.backup.BackupMoreInfoActivity filter 23f3b85
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_BACKUP_MORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.NEW_LAUNCH_ENCRYPT_SYNCED_DATA:
+        2d2607 com.samsung.android.scloud/.app.ui.sync.e2ee.view.NewEncryptSyncDataActivity filter 5398334
+          Action: "com.samsung.android.scloud.app.activity.NEW_LAUNCH_ENCRYPT_SYNCED_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD:
+        3c05c5b com.samsung.android.scloud/.app.ui.digitallegacy.view.DlDashboardActivity filter e6d3cf8
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.LAUNCH_APP_UPDATE:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SCLOUD_RESTORE:
+        28560b2 com.samsung.android.scloud/.backup.ManualRestoreActivity filter 1ec9803
+          Action: "com.samsung.android.scloud.SCLOUD_RESTORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SYNC_YOUR_DATA:
+        88ce821 com.samsung.android.scloud/.app.ui.sync.e2ee.view.SyncYourDataActivity filter d3f1446
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_YOUR_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_TRANSPARENT_VIEW:
+        d5fd380 com.samsung.android.scloud/.odm.view.error.ForbiddenErrorDialogActivity filter 93e3db9
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TRANSPARENT_VIEW"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.REMOTE_BACKUP:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SCLOUD_MONITOR:
+        b8e1f81 com.samsung.android.scloud/.app.ui.SCloudActivity filter 7e2e826
+          Action: "com.samsung.android.scloud.SCLOUD_MONITOR"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DATA_GEN_TEST:
+        17692ce com.samsung.android.scloud/.app.ui.gallery.view.developer.GalleryDataGenTestActivity filter 98b75ef
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DATA_GEN_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_SNAPSHOT:
+        81e6337 com.samsung.android.scloud/.app.ui.digitallegacy.view.DlSnapshotActivity filter ab530a4
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_SNAPSHOT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_CUSTOM_TAB:
+        b19a18d com.samsung.android.scloud/.app.ui.datamigrator.AccountLinkingCustomTab filter 930ef42
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_CUSTOM_TAB"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.intent.action.SEC_APPLICATION_SETTINGS:
+        f81647d com.samsung.android.scloud/.app.ui.settings.view.settings.SettingActivity filter c640f72
+          Action: "com.sec.android.intent.action.SEC_APPLICATION_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+          Category: "com.sec.android.intent.category.SEC_APPLICATION_SETTINGS"
+      com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_BACKUP_DASHBOARD:
+        42633e7 com.samsung.android.scloud/.bnr.ui.view.screen.backup.BackupE2EEActivity filter 3beab94
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_BACKUP_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_OOBE_DASHBOARD:
+        ce6b5d1 com.samsung.android.scloud/.app.ui.digitallegacy.view.DlOobeDashboardActivity filter a474836
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_OOBE_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.START_WATCH_BACKUP:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_NOT_AVAILABLE_MIGRATION:
+        8de7545 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.NotAvailableMigrationActivity filter 6d1249a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_NOT_AVAILABLE_MIGRATION"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SUGGEST_ACTION:
+        691d3ba com.samsung.android.scloud/.app.ui.suggestion.SuggestionActionHandlerActivity filter 676026b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SUGGEST_ACTION"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_QS_UPDATE:
+        f7b71d com.samsung.android.scloud/.ctb.ui.view.activity.CtbQSUpdateActivity filter b1fd92
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_QS_UPDATE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DEVICE:
+        8ee563d com.samsung.android.scloud/.bnr.ui.view.screen.restore.RestoreE2EEActivity filter bef7e32
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DEVICE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DASHBOARD:
+        6ed0dda com.samsung.android.scloud/.bnr.ui.view.screen.restore.BackupDeviceListActivity filter dc3820b
+          Action: "android.intent.action.MAIN"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_RESTORE_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_AUTH_REQUEST_TRANSPARENT_VIEW:
+        c64d5fe com.samsung.android.scloud/.verification.push.AuthRequestTransparentActivity filter 96b15f
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_AUTH_REQUEST_TRANSPARENT_VIEW"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD50:
+        a64d955 com.samsung.android.scloud/.app.ui.dashboard2.view.activity.SamsungCloudDashboardActivity filter 3e69f6a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD50"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD2"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_FAILED_ACTIVITY_VIEW:
+        e9a97cf com.samsung.android.scloud/.ctb.ui.view.activity.CtbFailedActivity filter b2de55c
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_FAILED_ACTIVITY_VIEW"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_EXCEPTIONAL_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.ui.sync.e2ee.view.LAUNCH_SYNC_E2EE_DIALOG:
+        56c1ba3 com.samsung.android.scloud/.app.ui.sync.e2ee.view.SyncE2eeDialogActivity filter 2859ea0
+          Action: "com.samsung.android.scloud.app.ui.sync.e2ee.view.LAUNCH_SYNC_E2EE_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DEFAULT:
+        8aea7ac com.samsung.android.scloud/.app.ui.privacypolicy.view.TncPpDefaultActivity filter 47bfc75
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CHINA_PN_DEFAULT"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.sCloudBackupApp.REQUEST_RESTORE:
+        63d0b01 com.samsung.android.scloud/.bnr.ui.view.screen.setupwizard.SetupWizardRestoreActivity filter 51e2da6
+          Action: "com.sec.android.sCloudBackupApp.REQUEST_RESTORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.BACKUP_TEST:
+        e8a9758 com.samsung.android.scloud/.app.ui.settings.view.developer.BackupTestActivity filter 12f70b1
+          Action: "com.samsung.android.scloud.BACKUP_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ABOUT_PAGE:
+        6502ae6 com.samsung.android.scloud/.app.ui.settings.view.settings.information.AboutActivity filter 1188827
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ABOUT_PAGE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.GALLERY_CLOUD_SETTING:
+        ebe6315 com.samsung.android.scloud/.app.ui.gallery.view.dashboard.GalleryDashboardActivity filter 7ec62a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_MAIN"
+          Action: "com.samsung.android.scloud.GALLERY_CLOUD_SETTING"
+          Action: "com.samsung.android.scloud.GALLERY_SETTING"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT:
+        b5da819 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.MigrationAgreementActivity filter c6e60de
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.DEVELOPER_MODE:
+        2e21aca com.samsung.android.scloud/.app.ui.settings.view.developer.DeveloperModeActivity filter ab243b
+          Action: "com.samsung.android.scloud.DEVELOPER_MODE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SECURE_FOLDER_SETTINGS:
+        59db671 com.samsung.android.scloud/.ctb.ui.view.activity.CtbSecureFolderEncryptionActivity filter e234c56
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SECURE_FOLDER_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.SYNC_TEST:
+        f6f1996 com.samsung.android.scloud/.app.ui.settings.view.developer.SyncTestActivity filter c1dc917
+          Action: "com.samsung.android.scloud.SYNC_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.ONEDRIVE_TEST:
+        7fb3922 com.samsung.android.scloud/.app.ui.settings.view.developer.OneDriveTestActivity filter 3abdfb3
+          Action: "com.samsung.android.scloud.ONEDRIVE_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CHILD_ONBOARDING_PERMISSION_AGREEMENT:
+        acba6d6 com.samsung.android.scloud/.app.ui.permission.view.ChildPermissionAgreementActivity filter 50f6d57
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CHILD_ONBOARDING_PERMISSION_AGREEMENT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_OTHER_PHONE_DATA:
+        b9eca7a com.samsung.android.scloud/.app.ui.sync.DetailAppSyncSettingActivity filter 8a9922b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SAMSUNG_NOTES_SETTING"
+          Action: "com.samsung.android.scloud.SAMSUNG_NOTES_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_OTHER_PHONE_DATA"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA:
+        9cf1cb0 com.samsung.android.scloud/.app.ui.permission.view.SetupWizardPermissionActivity filter 870baae
+          Action: "com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD2:
+        a64d955 com.samsung.android.scloud/.app.ui.dashboard2.view.activity.SamsungCloudDashboardActivity filter 3e69f6a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD50"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD2"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT:
+        19db71a com.samsung.android.scloud/.app.announcement.view.AnnouncementActivity filter 60d124b
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ANNOUNCEMENT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_SETTING:
+        4d75c1b com.samsung.android.scloud/.app.ui.gallery.GalleryDashboardActivity filter 5a4a1b8
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_SETTING"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ONBOARDING_PERMISSION_AGREEMENT:
+        5349298 com.samsung.android.scloud/.app.ui.permission.view.PermissionAgreementActivity filter 59ceaf1
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ONBOARDING_PERMISSION_AGREEMENT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD:
+        a64d955 com.samsung.android.scloud/.app.ui.dashboard2.view.activity.SamsungCloudDashboardActivity filter 3e69f6a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD50"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD2"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_EXCEPTIONAL_RESULT:
+        e9a97cf com.samsung.android.scloud/.ctb.ui.view.activity.CtbFailedActivity filter b2de55c
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_RESTORE_FAILED_ACTIVITY_VIEW"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_EXCEPTIONAL_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DOWNLOAD:
+        caf1b91 com.samsung.android.scloud/.app.ui.gallery.view.albumdownload.AlbumDownloadActivity filter 41b1af6
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_ALBUM_DOWNLOAD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_SETUP_WIZARD_NATIVE_APP_UPDATE:
+        d2e1eb com.samsung.android.scloud/.ctb.ui.view.activity.CtbSetupWizardNativeAppUpdateActivity filter 161fb48
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_SETUP_WIZARD_NATIVE_APP_UPDATE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.EDP_NETWORK_ERROR:
+        797186 com.samsung.android.scloud/.app.ui.e2ee.EdpNetworkErrorActivity filter 7f05a47
+          Action: "com.samsung.android.scloud.app.activity.EDP_NETWORK_ERROR"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.PAM_TEST:
+        abdd104 com.samsung.android.scloud/.app.ui.settings.view.developer.PamTestActivity filter 59966ed
+          Action: "com.samsung.android.scloud.PAM_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_EDP_SKS_MAIN:
+        aeb2012 com.samsung.android.scloud/.app.ui.e2ee.EdpSksMainActivity filter 9ce53e3
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_EDP_SKS_MAIN"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SYNC_SETTING_DASHBOARD:
+        8f97a59 com.samsung.android.scloud/.app.ui.sync.dashboard.view.activity.NewSyncSettingActivity filter f56661e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_AND_BACKUP_SETTINGS"
+          Action: "com.samsung.android.scloud.SYNC_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SYNC_SETTING_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_FREE_UP_PHONE_SPACE:
+        18dfcd com.samsung.android.scloud/.app.ui.gallery.view.delete.FreeUpPhoneSpaceActivity filter 455f082
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_FREE_UP_PHONE_SPACE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_NATIVE_APP_UPDATE:
+        f94e065 com.samsung.android.scloud/.ctb.ui.view.activity.CtbNativeAppUpdateActivity filter 1e0813a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_NATIVE_APP_UPDATE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ALBUM_SELECT:
+        2059ef7 com.samsung.android.scloud/.app.ui.gallery.view.album.activity.AlbumSelectionActivity filter cde2164
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ALBUM_SELECT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_RESUME:
+        98bc989 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.MigrationResumeActivity filter e2bd8e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_RESUME"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.MEDIA_RECOVERY_TEST:
+        5c8f970 com.samsung.android.scloud/.app.ui.settings.view.developer.MediaRecoveryTestActivity filter f3284e9
+          Action: "com.samsung.android.scloud.MEDIA_RECOVERY_TEST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_CONTENTLIST:
+        66f1939 com.samsung.android.scloud/.ctb.ui.view.activity.CtbBackupActivity filter 2134b7e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_CONTENTLIST"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_WATCH_RESTORE:
+        2f81de1 com.samsung.android.scloud/.ctb.ui.view.activity.CtbWatchRestoreActivity filter 9c57706
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_WATCH_RESTORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_OOBE_SNAPSHOT:
+        b66b310 com.samsung.android.scloud/.app.ui.digitallegacy.view.DlOobeSnapshotActivity filter 3a94e09
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DIGITAL_LEGACY_DASHBOARD_OOBE_SNAPSHOT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CHINA_CHILD_PN_DEFAULT:
+        32c4044 com.samsung.android.scloud/.app.ui.privacypolicy.view.ChildTncPpDefaultActivity filter e04452d
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CHINA_CHILD_PN_DEFAULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESTORE:
+        4abb8df com.samsung.android.scloud/.ctb.ui.view.activity.CtbRestoreActivity filter aebd92c
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_CTB_BACKUP_RESTORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_SYNC_MORE:
+        237c56e com.samsung.android.scloud/.app.ui.sync.view.SyncMoreInfoActivity filter fac40f
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_DETAIL_SYNC_MORE"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.GALLERY_SETTING:
+        ebe6315 com.samsung.android.scloud/.app.ui.gallery.view.dashboard.GalleryDashboardActivity filter 7ec62a
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_GALLERY_MAIN"
+          Action: "com.samsung.android.scloud.GALLERY_CLOUD_SETTING"
+          Action: "com.samsung.android.scloud.GALLERY_SETTING"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_SETTINGS:
+        f81647d com.samsung.android.scloud/.app.ui.settings.view.settings.SettingActivity filter c640f72
+          Action: "com.sec.android.intent.action.SEC_APPLICATION_SETTINGS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+          Category: "com.sec.android.intent.category.SEC_APPLICATION_SETTINGS"
+      com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT_INTERNAL:
+        be35d8c com.samsung.android.scloud/.app.ui.datamigrator.MigrationAgreement filter c97acd5
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_MIGRATION_AGREEMENT_INTERNAL"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ENTRY_PROXY:
+        a084b3f com.samsung.android.scloud/.app.ui.main.view.EntryProxyActivity filter e2f6c0c
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ENTRY_PROXY"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT:
+        79fd7e2 com.samsung.android.scloud/.ctb.ui.view.activity.CtbProxyActivity filter da1f773
+          Action: "com.samsung.android.scloud.action.REMOTE_BACKUP"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_EXCEPTIONAL_RESULT"
+          Action: "com.samsung.android.scloud.action.CHECKING_REMOTE_BACKUP_EXIST"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP"
+          Action: "com.samsung.android.scloud.action.SELF_CHECK_CTB_STATUS"
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_TEMPORARY_BACKUP_RESULT"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.spv.ACTION_VIEW_DETAIL:
+        9cf1cb0 com.samsung.android.scloud/.app.ui.permission.view.SetupWizardPermissionActivity filter 80d0729
+          Action: "com.samsung.android.spv.ACTION_VIEW_DETAIL"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.bnr.ui.e2ee.view.LAUNCH_E2EE_DIALOG:
+        7fbb1c7 com.samsung.android.scloud/.bnr.ui.e2ee.view.E2eeDialogActivity filter d3f83f4
+          Action: "com.samsung.android.scloud.bnr.ui.e2ee.view.LAUNCH_E2EE_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG:
+        7f7a363 com.samsung.android.scloud/.temp.service.WatchReceiverActivity filter 9caeb60
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_CHILD_RESTORE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_RESTORE_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_RESTORE"
+          Action: "com.samsung.android.scloud.action.LAUNCH_APP_UPDATE"
+          Action: "com.samsung.android.scloud.action.OPEN_WATCH_SETTINGS_BACKUP_SCREEN"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_INTERNAL:
+        1c82b53 com.samsung.android.scloud/.app.ui.datamigrator.view.agreement.AccountLinkingInternalActivity filter 49fec90
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_ACCOUNT_LINKING_INTERNAL"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.scloud.app.activity.LAUNCH_NEW_DASHBOARD:
+        3990c99 com.samsung.android.scloud/.app.ui.main.view.NewDashboardActivity filter 1572b5e
+          Action: "com.samsung.android.scloud.app.activity.LAUNCH_NEW_DASHBOARD"
+          Category: "android.intent.category.DEFAULT"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.samsung.android.scloud.app.broadcast.ACTION_START_APP_UPDATE:
+        ab1f1ab com.samsung.android.scloud/.update.controller.AppUpdateNotificationActionReceiver filter aa83008
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_START_APP_UPDATE"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_STOP_APP_UPDATE"
+      com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL:
+        8f8c069 com.samsung.android.scloud/.temp.service.CtbSmartSwitchReceiver filter 6c01aee
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+      com.samsung.android.scloud.app.broadcast.ACTION_STOP_APP_UPDATE:
+        ab1f1ab com.samsung.android.scloud/.update.controller.AppUpdateNotificationActionReceiver filter aa83008
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_START_APP_UPDATE"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_STOP_APP_UPDATE"
+      com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE:
+        2a59fa7 com.samsung.android.scloud/.app.manifest.SCloudSetupWizardIntentReceiver filter 9540c54
+          Action: "com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE"
+          Action: "com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE"
+      com.samsung.android.scloud.app.broadcast.ACTION_SYNC_GALLERY_BY_FORCE:
+        30aea6d com.samsung.android.scloud/.app.ui.gallery.receivers.GallerySyncActionIntentReceiver filter c6136a2
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_SYNC_GALLERY_BY_FORCE"
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        6c2e313 com.samsung.android.scloud/androidx.profileinstaller.ProfileInstallReceiver filter dd7a84e
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      com.samsung.android.intent.action.REQUEST_BACKUP_SCLOUD_SETTING:
+        4a7bc31 com.samsung.android.scloud/.smartswitch.SmartSwitchReceiver filter 5a83f16
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_SCLOUD_SETTING"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_SCLOUD_SETTING"
+      com.samsung.android.sdk.smp.pushTokenChanged:
+        48595d9 com.samsung.android.scloud/.auth.SmpFcmTokenChangedReceiver filter f5f1b9e
+          Action: "com.samsung.android.sdk.smp.pushTokenChanged"
+      android.accounts.LOGIN_ACCOUNTS_CHANGED:
+        6b4dc9f com.samsung.android.scloud/.app.manifest.SCloudLoginStatusIntentReceiver filter 83491ec
+          Action: "android.accounts.LOGIN_ACCOUNTS_CHANGED"
+      com.sec.spp.RegistrationChangedAction:
+        9b0b695 com.samsung.android.scloud/.auth.SmpSppServiceReceiver filter 41d53aa
+          Action: "com.sec.spp.RegistrationChangedAction"
+          Action: "aa3840081919800c"
+      com.samsung.android.scloud.app.broadcast.ACTION_ABNORMAL_TERMINATION:
+        755cf33 com.samsung.android.scloud/.bnr.ui.notification.BNRNotiEventReceiver filter 91cf2f0
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_ABNORMAL_TERMINATION"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_BNR_NOTI_CANCEL"
+      com.samsung.android.scloud.action.START_WATCH_BACKUP:
+        8f8c069 com.samsung.android.scloud/.temp.service.CtbSmartSwitchReceiver filter 6c01aee
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP_MANUAL"
+          Action: "com.samsung.android.scloud.action.START_WATCH_BACKUP"
+      com.samsung.android.intent.action.REQUEST_RESTORE_SCLOUD_SETTING:
+        4a7bc31 com.samsung.android.scloud/.smartswitch.SmartSwitchReceiver filter 5a83f16
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_SCLOUD_SETTING"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_SCLOUD_SETTING"
+      com.google.android.gms.smartdevice.quickstart.SOURCE_FLOW_START:
+        a142b8f com.samsung.android.scloud/.temp.service.BlockStoreReceiver filter f764e1c
+          Action: "com.google.android.gms.smartdevice.quickstart.SOURCE_FLOW_START"
+          Action: "com.google.android.gms.smartdevice.quickstart.BLOCK_STORE_READY"
+      com.samsung.android.sdk.smp.smpInitializeResult:
+        1d167f com.samsung.android.scloud/.auth.SmpRegResultReceiver filter e77764c
+          Action: "com.samsung.android.sdk.smp.smpInitializeResult"
+          Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
+      com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED:
+        d828f43 com.samsung.android.scloud/.app.manifest.SCloudAccountIntentReceiver filter 90f99c0
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+        f94a3bb com.samsung.android.scloud/.app.manifest.SamsungAccountReceiver filter 9cee0d8
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_RESIGNIN_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+          mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      com.samsung.android.scloud.app.broadcast.ACTION_ALBUM_SYNC:
+        cdfc097 com.samsung.android.scloud/.app.ui.gallery.receivers.AlbumSyncControlIntentReceiver filter 3bd3284
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_ALBUM_SYNC"
+      android.intent.action.LOCALE_CHANGED:
+        18307fd com.samsung.android.scloud/.app.manifest.SCloudSystemIntentReceiver filter be7acf2
+          Action: "android.intent.action.LOCALE_CHANGED"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      com.samsung.android.scloud.update.CHECK_UPDATE_POLICY:
+        6d3fa25 com.samsung.android.scloud/.update.controller.AppUpdateReceiver filter c16f7fa
+          Action: "com.samsung.android.scloud.update.CHECK_UPDATE_POLICY"
+      com.samsung.account.SAMSUNGACCOUNT_RESIGNIN_COMPLETED:
+        f94a3bb com.samsung.android.scloud/.app.manifest.SamsungAccountReceiver filter 9cee0d8
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_RESIGNIN_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+          mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        6c2e313 com.samsung.android.scloud/androidx.profileinstaller.ProfileInstallReceiver filter 5dca950
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      com.samsung.android.scloud.auth.privacypolicy.action.PARENTAL_CONSENT_RESULT:
+        530eb23 com.samsung.android.scloud/.auth.privacypolicy.service.parentalCare.ParentalCareResultReceiver filter d8af820
+          Action: "com.samsung.android.scloud.auth.privacypolicy.action.PARENTAL_CONSENT_RESULT"
+      com.google.android.c2dm.intent.RECEIVE:
+        f769b9b com.samsung.android.scloud/com.google.firebase.iid.FirebaseInstanceIdReceiver filter dcbab38
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE:
+        2a59fa7 com.samsung.android.scloud/.app.manifest.SCloudSetupWizardIntentReceiver filter 9540c54
+          Action: "com.sec.android.app.secsetupwizard.SETUPWIZARD_COMPLETE"
+          Action: "com.sec.android.app.setupwizard.SETUPWIZARD_COMPLETE"
+      com.samsung.android.scloud.app.broadcast.ACTION_START_RESTORE:
+        6fd26f9 com.samsung.android.scloud/.app.manifest.SCloudRestoreStartIntentReceiver filter 93fa63e
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_START_RESTORE"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_RESTART_RESTORE"
+      com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED:
+        d828f43 com.samsung.android.scloud/.app.manifest.SCloudAccountIntentReceiver filter 90f99c0
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+        f94a3bb com.samsung.android.scloud/.app.manifest.SamsungAccountReceiver filter 9cee0d8
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_RESIGNIN_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+          mPriority=1000, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      android.intent.action.TIMEZONE_CHANGED:
+        18307fd com.samsung.android.scloud/.app.manifest.SCloudSystemIntentReceiver filter be7acf2
+          Action: "android.intent.action.LOCALE_CHANGED"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      android.intent.action.TIME_SET:
+        18307fd com.samsung.android.scloud/.app.manifest.SCloudSystemIntentReceiver filter be7acf2
+          Action: "android.intent.action.LOCALE_CHANGED"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      androidx.profileinstaller.action.SKIP_FILE:
+        6c2e313 com.samsung.android.scloud/androidx.profileinstaller.ProfileInstallReceiver filter e6aa749
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        6c2e313 com.samsung.android.scloud/androidx.profileinstaller.ProfileInstallReceiver filter 46e9d6f
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+      android.intent.action.BOOT_COMPLETED:
+        18307fd com.samsung.android.scloud/.app.manifest.SCloudSystemIntentReceiver filter be7acf2
+          Action: "android.intent.action.LOCALE_CHANGED"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+        3332711 com.samsung.android.scloud/androidx.work.impl.background.systemalarm.RescheduleReceiver filter ad50076
+          Action: "android.intent.action.BOOT_COMPLETED"
+      com.samsung.android.scloud.app.broadcast.ACTION_RESTART_RESTORE:
+        6fd26f9 com.samsung.android.scloud/.app.manifest.SCloudRestoreStartIntentReceiver filter 93fa63e
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_START_RESTORE"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_RESTART_RESTORE"
+      com.sec.android.app.samsungapps.UPDATE_EXISTS:
+        b6039b5 com.samsung.android.scloud/.app.manifest.GalaxyAppsUpdateReceiver filter 8be84a
+          Action: "com.sec.android.app.samsungapps.UPDATE_EXISTS"
+      com.samsung.android.scpm.kps.LEAVE_COMPLETED:
+        66f13a1 com.samsung.android.scloud/.backup.e2ee.BackupE2eeStateReceiver filter 4cc99c6
+          Action: "com.samsung.android.scpm.kps.LEAVE_COMPLETED"
+          Action: "com.samsung.android.scpm.kps.JOIN_COMPLETED"
+        24848dd com.samsung.android.scloud/.sync.receiver.SyncReceiver filter 6e88c52
+          Action: "com.samsung.android.scpm.kps.LEAVE_COMPLETED"
+          Action: "com.samsung.android.scpm.kps.JOIN_COMPLETED"
+      com.samsung.android.scloud.app.broadcast.ACTION_BNR_NOTI_CANCEL:
+        755cf33 com.samsung.android.scloud/.bnr.ui.notification.BNRNotiEventReceiver filter 91cf2f0
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_ABNORMAL_TERMINATION"
+          Action: "com.samsung.android.scloud.app.broadcast.ACTION_BNR_NOTI_CANCEL"
+      com.samsung.android.sdk.smp.pushRegistrationResult:
+        1d167f com.samsung.android.scloud/.auth.SmpRegResultReceiver filter e77764c
+          Action: "com.samsung.android.sdk.smp.smpInitializeResult"
+          Action: "com.samsung.android.sdk.smp.pushRegistrationResult"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        4195677 com.samsung.android.scloud/androidx.work.impl.diagnostics.DiagnosticsReceiver filter e2c42e4
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        18307fd com.samsung.android.scloud/.app.manifest.SCloudSystemIntentReceiver filter be7acf2
+          Action: "android.intent.action.LOCALE_CHANGED"
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+          Action: "android.intent.action.BOOT_COMPLETED"
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      aa3840081919800c:
+        9b0b695 com.samsung.android.scloud/.auth.SmpSppServiceReceiver filter 41d53aa
+          Action: "com.sec.spp.RegistrationChangedAction"
+          Action: "aa3840081919800c"
+      com.google.android.gms.smartdevice.quickstart.BLOCK_STORE_READY:
+        a142b8f com.samsung.android.scloud/.temp.service.BlockStoreReceiver filter f764e1c
+          Action: "com.google.android.gms.smartdevice.quickstart.SOURCE_FLOW_START"
+          Action: "com.google.android.gms.smartdevice.quickstart.BLOCK_STORE_READY"
+      com.samsung.android.scpm.kps.JOIN_COMPLETED:
+        66f13a1 com.samsung.android.scloud/.backup.e2ee.BackupE2eeStateReceiver filter 4cc99c6
+          Action: "com.samsung.android.scpm.kps.LEAVE_COMPLETED"
+          Action: "com.samsung.android.scpm.kps.JOIN_COMPLETED"
+        24848dd com.samsung.android.scloud/.sync.receiver.SyncReceiver filter 6e88c52
+          Action: "com.samsung.android.scpm.kps.LEAVE_COMPLETED"
+          Action: "com.samsung.android.scpm.kps.JOIN_COMPLETED"
+      com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST:
+        71bfd87 com.samsung.android.scloud/.syncadapter.media.service.MediaServiceReceiver filter b9444b4
+          Action: "com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST"
+      com.samsung.android.scpm.resource.CLEAR_DATA:
+        592234d com.samsung.android.scloud/com.samsung.android.sca.odm.resource.sdk.core.receiver.ResourceBroadcastReceiver filter 88ae02
+          Action: "com.samsung.android.scpm.resource.CLEAR_DATA"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.content.SyncAdapter:
+        9440aac com.samsung.android.scloud/.syncadapter.media.MediaSyncService filter a412375
+          Action: "android.content.SyncAdapter"
+        d3d2598 com.samsung.android.scloud/.syncadapter.base.item.wifi.WifiSyncService filter d81f1
+          Action: "android.content.SyncAdapter"
+        4bdf1d6 com.samsung.android.scloud/.syncadapter.base.item.bt.BtSyncService filter 6135c57
+          Action: "android.content.SyncAdapter"
+        eab0344 com.samsung.android.scloud/.syncadapter.base.item.aremoji.ArEmojiSyncService filter 4674c2d
+          Action: "android.content.SyncAdapter"
+        ff5562 com.samsung.android.scloud/.syncadapter.calendar.CalendarSyncService filter 48766f3
+          Action: "android.content.SyncAdapter"
+        1f70fb0 com.samsung.android.scloud/.syncadapter.contacts.ContactsSyncService filter f197e29
+          Action: "android.content.SyncAdapter"
+        f0165ae com.samsung.android.scloud/.syncadapter.internet.SBrowserSyncService filter 3277f4f
+          Action: "android.content.SyncAdapter"
+        6b576dc com.samsung.android.scloud/.syncadapter.internet.SBrowserBetaSyncService filter fa2d3e5
+          Action: "android.content.SyncAdapter"
+        d022eba com.samsung.android.scloud/.syncadapter.memo.MemoSyncService filter 206c16b
+          Action: "android.content.SyncAdapter"
+        f9124c8 com.samsung.android.scloud/.syncadapter.note.SNote4SyncService filter 4b1c961
+          Action: "android.content.SyncAdapter"
+        d147c86 com.samsung.android.scloud/.syncadapter.pass.PassSyncService filter 54e0947
+          Action: "android.content.SyncAdapter"
+        cf7c574 com.samsung.android.scloud/.syncadapter.property.DevicePropertySyncService filter f609a9d
+          Action: "android.content.SyncAdapter"
+      com.samsung.android.scloud.RPC_SYNC_SETTING:
+        dabdb12 com.samsung.android.scloud/.app.service.RPCSyncService filter d7f2e3 permission com.samsung.android.scloud.permission.RPC_SYNC_SETTING
+          Action: "com.samsung.android.scloud.RPC_SYNC_SETTING"
+      com.samsung.android.scloud.BackupInfoService:
+        edc7326 com.samsung.android.scloud/.temp.service.CtbBackupInfoService filter 456cb67 permission com.samsung.android.scloud.permission.TEMPORARY_BACKUP
+          Action: "com.samsung.android.scloud.BackupInfoService"
+      com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION:
+        70c9bb2 com.samsung.android.scloud/.common.ui.core.operators.notification.SCloudNotificationService filter 57ab703 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY"
+          Action: "com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY"
+      com.samsung.android.scloud.sync.service.SyncServiceForeground:
+        685c4e0 com.samsung.android.scloud/.sync.service.SyncServiceForeground filter e314399 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.sync.service.SyncServiceForeground"
+      com.samsung.android.scloud.backup.autobackup.START_AUTO_BACKUP:
+        1c5268 com.samsung.android.scloud/.bnr.ui.service.AutoBackupService filter 19af681
+          Action: "com.samsung.android.scloud.backup.autobackup.START_AUTO_BACKUP"
+          Action: "com.samsung.android.scloud.backup.autobackup.STOP_AUTO_BACKUP"
+      com.samsung.android.scloud.app.service.ACTION_STOP_NOTIFICATION_PROGRESS:
+        ee8965e com.samsung.android.scloud/.notification.CommonNotiService filter 18cda3f
+          Action: "com.samsung.android.scloud.app.service.ACTION_STOP_NOTIFICATION_PROGRESS"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_PROGRESS"
+      com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY:
+        8550680 com.samsung.android.scloud/.galleryproxy.mediarecovery.MediaRecoveryService filter b2ef4b9 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY"
+      com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY_SCHEDULE:
+        1a4c0fe com.samsung.android.scloud/.galleryproxy.mediarecovery.MediaRecoverySchedulerService filter 867c05f permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.galleryproxy.mediarecovery.MEDIA_RECOVERY_SCHEDULE"
+      com.google.firebase.MESSAGING_EVENT:
+        f324f0c com.samsung.android.scloud/.auth.SmpFcmReceiverService filter bc98055
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          Action: "com.google.firebase.iid.TOKEN_REFRESH"
+        a3ba6a com.samsung.android.scloud/com.google.firebase.messaging.FirebaseMessagingService filter 7edb5b
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      com.samsung.android.scloud.backup.autobackup.STOP_AUTO_BACKUP:
+        1c5268 com.samsung.android.scloud/.bnr.ui.service.AutoBackupService filter 19af681
+          Action: "com.samsung.android.scloud.backup.autobackup.START_AUTO_BACKUP"
+          Action: "com.samsung.android.scloud.backup.autobackup.STOP_AUTO_BACKUP"
+      com.google.firebase.iid.TOKEN_REFRESH:
+        f324f0c com.samsung.android.scloud/.auth.SmpFcmReceiverService filter bc98055
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          Action: "com.google.firebase.iid.TOKEN_REFRESH"
+      com.samsung.android.scloud.sdk.storage.core.ACTION_STOP_WORK_CHAIN:
+        3982d14 com.samsung.android.scloud/.sdk.storage.servicecore.service.BackupWorkerService filter 6ff79bd
+          Action: "com.samsung.android.scloud.sdk.storage.core.ACTION_STOP_WORK_CHAIN"
+          Action: "com.samsung.android.scloud.sdk.storage.core.ACTION_START_WORK_CHAIN"
+      com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_PROGRESS:
+        ee8965e com.samsung.android.scloud/.notification.CommonNotiService filter 18cda3f
+          Action: "com.samsung.android.scloud.app.service.ACTION_STOP_NOTIFICATION_PROGRESS"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_PROGRESS"
+      com.samsung.android.scloud.sdk.storage.core.ACTION_START_WORK_CHAIN:
+        3982d14 com.samsung.android.scloud/.sdk.storage.servicecore.service.BackupWorkerService filter 6ff79bd
+          Action: "com.samsung.android.scloud.sdk.storage.core.ACTION_STOP_WORK_CHAIN"
+          Action: "com.samsung.android.scloud.sdk.storage.core.ACTION_START_WORK_CHAIN"
+      com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY:
+        70c9bb2 com.samsung.android.scloud/.common.ui.core.operators.notification.SCloudNotificationService filter 57ab703 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY"
+          Action: "com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY"
+      com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION:
+        70c9bb2 com.samsung.android.scloud/.common.ui.core.operators.notification.SCloudNotificationService filter 57ab703 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY"
+          Action: "com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY"
+      com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST:
+        807ef0a com.samsung.android.scloud/.syncadapter.media.service.MediaService filter 1f2037b
+          Action: "com.samsung.android.scloud.media.sync.ACTION_CLOUD_MEDIA_REQUEST"
+      com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY:
+        70c9bb2 com.samsung.android.scloud/.common.ui.core.operators.notification.SCloudNotificationService filter 57ab703 permission android.permission.BIND_JOB_SERVICE
+          Action: "com.samsung.android.scloud.app.service.ACTION_REMOVE_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_STICKY"
+          Action: "com.samsung.android.scloud.app.service.ACTION_SHOW_NOTIFICATION"
+          Action: "com.samsung.android.scloud.app.service.ACTION_START_NOTIFICATION_SERVICE_NOT_STICKY"
+
+Provider Resolver Table:
+  Non-Data Actions:
+      com.samsung.android.intent.action.SCENE:
+        9eb0a7c com.samsung.android.scloud/.app.ui.settings.controller.episode.SettingBackupProvider filter e2d6f05
+          Action: "com.samsung.android.intent.action.SCENE"
+      android.content.action.SEARCH_INDEXABLES_PROVIDER:
+        409fb5a com.samsung.android.scloud/.app.ui.settings.indexablesearch.CustomIndexablesSearchProvider filter 471a18b
+          Action: "android.content.action.SEARCH_INDEXABLES_PROVIDER"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.samsung.android.scloud.gallery.permission.WRITE] (eacbb7b):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{77c882c com.samsung.android.scloud.gallery.permission.WRITE}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.lib.storage.read] (ccd7d98):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{3b2688a com.samsung.android.scloud.lib.storage.read}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.cloudagent.permission.READ] (b52f9f1):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{63ffb18 com.samsung.android.scloud.cloudagent.permission.READ}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.app.permission.BROADCAST] (be209d6):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{6568356 com.samsung.android.scloud.app.permission.BROADCAST}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.gallery.permission.READ] (fc19457):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{c5b0c4 com.samsung.android.scloud.gallery.permission.READ}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.backup.lib.write] (2e8db44):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{54f7ee2 com.samsung.android.scloud.backup.lib.write}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.sync.permission.WRITE] (a8c442d):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{2cf1530 com.samsung.android.scloud.sync.permission.WRITE}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC] (24ced62):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{5eaa72e com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.permission.TEMPORARY_BACKUP] (6e11ef3):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{c8545c com.samsung.android.scloud.permission.TEMPORARY_BACKUP}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.sync.permission.READ] (83a67b0):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{2fe083a com.samsung.android.scloud.sync.permission.READ}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.permission.RPC_SYNC_SETTING] (e95f629):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{7b45a48 com.samsung.android.scloud.permission.RPC_SYNC_SETTING}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.backup.lib.read] (3907dae):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{cb46e06 com.samsung.android.scloud.backup.lib.read}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.sync.vendor.permission.READ] (d64b74f):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{fd8d2f4 com.samsung.android.scloud.sync.vendor.permission.READ}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.app.ui] (9d64edc):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{9196492 com.samsung.android.scloud.app.ui}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.lib.storage.write] (66ecbe5):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{e2a2a60 com.samsung.android.scloud.lib.storage.write}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (76ac6ba):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature
+    perm=PermissionInfo{16537de com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    flags=0x0
+
+Permissions:
+  Permission [com.samsung.android.scloud.permission.STATUS] (edf796b):
+    sourcePackage=com.samsung.android.scloud
+    uid=5009 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{778c8c com.samsung.android.scloud.permission.STATUS}
+    flags=0x0
+
+Registered ContentProviders:
+  com.samsung.android.scloud/.sync.rpc.RPCSyncProvider:
+    Provider{1afd5 com.samsung.android.scloud/.sync.rpc.RPCSyncProvider}
+  com.samsung.android.scloud/.syncadapter.media.multilingual.MultiLingualProvider:
+    Provider{808f3ea com.samsung.android.scloud/.syncadapter.media.multilingual.MultiLingualProvider}
+  com.samsung.android.scloud/.sync.rpc.RPCSyncProviderPublic:
+    Provider{71d56db com.samsung.android.scloud/.sync.rpc.RPCSyncProviderPublic}
+  com.samsung.android.scloud/com.squareup.picasso.PicassoProvider:
+    Provider{56e578 com.samsung.android.scloud/com.squareup.picasso.PicassoProvider}
+  com.samsung.android.scloud/.sync.tester.SyncTestProvider:
+    Provider{1ba7451 com.samsung.android.scloud/.sync.tester.SyncTestProvider}
+  com.samsung.android.scloud/.galleryproxy.external.provider.GalleryExternalProvider:
+    Provider{37a64b6 com.samsung.android.scloud/.galleryproxy.external.provider.GalleryExternalProvider}
+  com.samsung.android.scloud/.app.manifest.SCloudStatusProvider:
+    Provider{9085b7 com.samsung.android.scloud/.app.manifest.SCloudStatusProvider}
+  com.samsung.android.scloud/com.sec.android.diagmonagent.log.provider.DiagMonProvider:
+    Provider{8d0e124 com.samsung.android.scloud/com.sec.android.diagmonagent.log.provider.DiagMonProvider}
+  com.samsung.android.scloud/.galleryproxy.external.proxy.GalleryProxyProvider:
+    Provider{b61048d com.samsung.android.scloud/.galleryproxy.external.proxy.GalleryProxyProvider}
+  com.samsung.android.scloud/.syncadapter.media.service.MediaServiceProvider:
+    Provider{9c01642 com.samsung.android.scloud/.syncadapter.media.service.MediaServiceProvider}
+  com.samsung.android.scloud/com.samsung.android.sdk.bixby2.provider.CapsuleProvider:
+    Provider{69dc653 com.samsung.android.scloud/com.samsung.android.sdk.bixby2.provider.CapsuleProvider}
+  com.samsung.android.scloud/.sync.data.SyncSettingProvider:
+    Provider{acceb90 com.samsung.android.scloud/.sync.data.SyncSettingProvider}
+  com.samsung.android.scloud/.keystore.KeyStoreProvider:
+    Provider{a665c89 com.samsung.android.scloud/.keystore.KeyStoreProvider}
+  com.samsung.android.scloud/.app.ui.settings.indexablesearch.CustomIndexablesSearchProvider:
+    Provider{409fb5a com.samsung.android.scloud/.app.ui.settings.indexablesearch.CustomIndexablesSearchProvider}
+  com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProviderLegacy:
+    Provider{8bd548e com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProviderLegacy}
+  com.samsung.android.scloud/.app.datamigrator.provider.LinkContextProvider:
+    Provider{c3474af com.samsung.android.scloud/.app.datamigrator.provider.LinkContextProvider}
+  com.samsung.android.scloud/.common.faillog.FailLogsProvider:
+    Provider{c3d30bc com.samsung.android.scloud/.common.faillog.FailLogsProvider}
+  com.samsung.android.scloud/.galleryproxy.contentcard.DataStoreProvider:
+    Provider{84f3845 com.samsung.android.scloud/.galleryproxy.contentcard.DataStoreProvider}
+  com.samsung.android.scloud/.app.ui.settings.controller.episode.SettingBackupProvider:
+    Provider{9eb0a7c com.samsung.android.scloud/.app.ui.settings.controller.episode.SettingBackupProvider}
+  com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProvider:
+    Provider{73e2b9a com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProvider}
+  com.samsung.android.scloud/.syncadapter.property.datastore.DevicePropertyProvider:
+    Provider{9ddaccb com.samsung.android.scloud/.syncadapter.property.datastore.DevicePropertyProvider}
+  com.samsung.android.scloud/.sync.dumper.DumperProvider:
+    Provider{e0a9ca8 com.samsung.android.scloud/.sync.dumper.DumperProvider}
+  com.samsung.android.scloud/.backup.protocol.CloudProtocolProvider:
+    Provider{83013c1 com.samsung.android.scloud/.backup.protocol.CloudProtocolProvider}
+  com.samsung.android.scloud/.smartswitch.SettingContentProvider:
+    Provider{ac36766 com.samsung.android.scloud/.smartswitch.SettingContentProvider}
+
+ContentProvider Authorities:
+  [com.samsung.android.scloud.app.ui.datamigrator.linkcontext]:
+    Provider{c3474af com.samsung.android.scloud/.app.datamigrator.provider.LinkContextProvider}
+      applicationInfo=ApplicationInfo{fe77cc8 com.samsung.android.scloud}
+  [com.samsung.android.scloud.gallery.story]:
+    Provider{37a64b6 com.samsung.android.scloud/.galleryproxy.external.provider.GalleryExternalProvider}
+      applicationInfo=ApplicationInfo{8454161 com.samsung.android.scloud}
+  [com.samsung.android.scloud.protocol]:
+    Provider{83013c1 com.samsung.android.scloud/.backup.protocol.CloudProtocolProvider}
+      applicationInfo=ApplicationInfo{16e9486 com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.dumper]:
+    Provider{e0a9ca8 com.samsung.android.scloud/.sync.dumper.DumperProvider}
+      applicationInfo=ApplicationInfo{2fa4147 com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.tester]:
+    Provider{1ba7451 com.samsung.android.scloud/.sync.tester.SyncTestProvider}
+      applicationInfo=ApplicationInfo{85b9d74 com.samsung.android.scloud}
+  [com.samsung.android.scloud.com.squareup.picasso]:
+    Provider{56e578 com.samsung.android.scloud/com.squareup.picasso.PicassoProvider}
+      applicationInfo=ApplicationInfo{4b3929d com.samsung.android.scloud}
+  [com.samsung.android.scloud.app.ui.settings]:
+    Provider{409fb5a com.samsung.android.scloud/.app.ui.settings.indexablesearch.CustomIndexablesSearchProvider}
+      applicationInfo=ApplicationInfo{98f7312 com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.vendor]:
+    Provider{73e2b9a com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProvider}
+      applicationInfo=ApplicationInfo{90faae3 com.samsung.android.scloud}
+  [com.samsung.android.scloud.media.app]:
+    Provider{b61048d com.samsung.android.scloud/.galleryproxy.external.proxy.GalleryProxyProvider}
+      applicationInfo=ApplicationInfo{4f1ce0 com.samsung.android.scloud}
+  [com.samsung.android.scloud.mediaservice]:
+    Provider{9c01642 com.samsung.android.scloud/.syncadapter.media.service.MediaServiceProvider}
+      applicationInfo=ApplicationInfo{1bbbb99 com.samsung.android.scloud}
+  [com.samsung.android.scloud.app.ui.settings.episode.provider]:
+    Provider{9eb0a7c com.samsung.android.scloud/.app.ui.settings.controller.episode.SettingBackupProvider}
+      applicationInfo=ApplicationInfo{16dae5e com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync]:
+    Provider{8bd548e com.samsung.android.scloud/.syncadapter.core.data.ExternalOEMControlProviderLegacy}
+      applicationInfo=ApplicationInfo{188123f com.samsung.android.scloud}
+  [com.sec.android.log.026-399-529756]:
+    Provider{8d0e124 com.samsung.android.scloud/com.sec.android.diagmonagent.log.provider.DiagMonProvider}
+      applicationInfo=ApplicationInfo{839270c com.samsung.android.scloud}
+  [com.samsung.android.scloud.media.multilingual]:
+    Provider{808f3ea com.samsung.android.scloud/.syncadapter.media.multilingual.MultiLingualProvider}
+      applicationInfo=ApplicationInfo{9837855 com.samsung.android.scloud}
+  [com.samsung.android.scloud.keystore]:
+    Provider{a665c89 com.samsung.android.scloud/.keystore.KeyStoreProvider}
+      applicationInfo=ApplicationInfo{262526a com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.setting]:
+    Provider{acceb90 com.samsung.android.scloud/.sync.data.SyncSettingProvider}
+      applicationInfo=ApplicationInfo{f5935b com.samsung.android.scloud}
+  [com.samsung.android.scloud.faillogs]:
+    Provider{c3d30bc com.samsung.android.scloud/.common.faillog.FailLogsProvider}
+      applicationInfo=ApplicationInfo{ed7a7f8 com.samsung.android.scloud}
+  [com.samsung.android.scloud.deviceproperty]:
+    Provider{9ddaccb com.samsung.android.scloud/.syncadapter.property.datastore.DevicePropertyProvider}
+      applicationInfo=ApplicationInfo{8d044d1 com.samsung.android.scloud}
+  [com.samsung.android.scloud.settings]:
+    Provider{ac36766 com.samsung.android.scloud/.smartswitch.SettingContentProvider}
+      applicationInfo=ApplicationInfo{4b2b36 com.samsung.android.scloud}
+  [com.samsung.android.scloud.CapsuleProvider]:
+    Provider{69dc653 com.samsung.android.scloud/com.samsung.android.sdk.bixby2.provider.CapsuleProvider}
+      applicationInfo=ApplicationInfo{8f00a37 com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.rpc]:
+    Provider{1afd5 com.samsung.android.scloud/.sync.rpc.RPCSyncProvider}
+      applicationInfo=ApplicationInfo{edb4ba4 com.samsung.android.scloud}
+  [com.samsung.android.scloud.gallery]:
+    Provider{37a64b6 com.samsung.android.scloud/.galleryproxy.external.provider.GalleryExternalProvider}
+      applicationInfo=ApplicationInfo{9435d0d com.samsung.android.scloud}
+  [com.samsung.android.scloud.galleryproxy.contentcard.datastore]:
+    Provider{84f3845 com.samsung.android.scloud/.galleryproxy.contentcard.DataStoreProvider}
+      applicationInfo=ApplicationInfo{d16c4c2 com.samsung.android.scloud}
+  [com.samsung.android.scloud.sync.rpc.public]:
+    Provider{71d56db com.samsung.android.scloud/.sync.rpc.RPCSyncProviderPublic}
+      applicationInfo=ApplicationInfo{2b112d3 com.samsung.android.scloud}
+  [com.samsung.android.scloud.statusprovider]:
+    Provider{9085b7 com.samsung.android.scloud/.app.manifest.SCloudStatusProvider}
+      applicationInfo=ApplicationInfo{b537e10 com.samsung.android.scloud}
+
+Key Set Manager:
+  [com.samsung.android.scloud]
+      Signing KeySets: 1
+
+Packages:
+  Package [com.samsung.android.scloud] (dd508dd):
+    appId=5009
+    pccId=-1
+    sharedUser=SharedUserSetting{c97bd1c android.uid.samsungcloud/5009}
+    pkg=Package{7e23d25 com.samsung.android.scloud}
+    codePath=/data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==
+    resourcePath=/data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==
+    legacyNativeLibraryDir=/data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==/lib
+    extractNativeLibs=false
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=570905000 minSdk=29 targetSdk=36
+    minExtensionVersions=[]
+    versionName=5.7.09.5
+    hiddenApiEnforcementPolicy=0
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=3
+    flags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA UPDATED_SYSTEM_APP LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    pageSizeCompat=0
+    queriesPackages=[com.samsung.android.kmxservice, com.samsung.android.scsp.configurator, com.sec.android.app.samsungapps, com.samsung.android.smp.register, com.sec.spp.push]
+    queriesIntents=[Intent { act=com.microsoft.skydrive.samsung.ACTION_ENABLE_CRB }]
+    scannedAsStoppedSystemApp=false
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      samsungkeystoreutils
+      androidx.window.extensions
+      androidx.window.sidecar
+    usesLibraryFiles:
+      /system/framework/samsungkeystoreutils.jar
+      /system_ext/framework/androidx.window.extensions.jar
+      /system_ext/framework/androidx.window.sidecar.jar
+    timeStamp=2026-10-22 18:05:11
+    lastUpdateTime=2026-10-30 13:43:10
+    installerPackageName=com.sec.android.app.samsungapps
+    installerPackageUid=10082
+    initiatingPackageName=com.sec.android.app.samsungapps
+    originatingPackageName=null
+    category=manifest: -1, override: -1, by user: -1
+    packageSource=0
+    appMetadataFilePath=null
+    appMetadataSource=0
+    signatures=PackageSignatures{9937efa version:3, signatures:[b378e95c], past signatures:[]}
+    installPermissionsFixed=false
+    pkgFlags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA UPDATED_SYSTEM_APP LARGE_HEAP ]
+    privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    apexModuleName=null
+    componentsDeclared=199
+    declared permissions:
+      com.samsung.android.scloud.app.ui: prot=signature|privileged
+      com.samsung.android.scloud.app.permission.BROADCAST: prot=signature|privileged
+      com.samsung.android.scloud.sync.vendor.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.cloudagent.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC: prot=signature|privileged
+      com.samsung.android.scloud.permission.STATUS: prot=signature|privileged
+      com.samsung.android.scloud.backup.lib.write: prot=signature|privileged
+      com.samsung.android.scloud.backup.lib.read: prot=signature|privileged
+      com.samsung.android.scloud.sync.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.sync.permission.WRITE: prot=signature|privileged
+      com.samsung.android.scloud.lib.storage.read: prot=signature|privileged
+      com.samsung.android.scloud.lib.storage.write: prot=signature|privileged
+      com.samsung.android.scloud.permission.TEMPORARY_BACKUP: prot=signature|privileged
+      com.samsung.android.scloud.gallery.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.gallery.permission.WRITE: prot=signature|privileged
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING: prot=signature|privileged
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature
+    requested permissions:
+      com.google.android.permission.RESTORE_APPS
+      android.permission.WRITE_SETTINGS
+      android.permission.READ_SMS
+      com.samsung.android.permission.SEM_VOLD_DATA_MOVE
+      com.sec.android.app.clockpackage.permission.READ_CELEB_VOICE
+      com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION
+      android.permission.READ_CALENDAR
+      android.permission.POST_NOTIFICATIONS
+      com.samsung.android.scloud.lib.storage.read
+      com.google.android.c2dm.permission.RECEIVE
+      com.samsung.android.memo.READ
+      com.samsung.android.scs.ai.search.permission.WRITE
+      com.samsung.android.samsungpass.permission.setting.WRITE
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      com.samsung.android.permission.READ_SCPM
+      com.sec.android.easyMover.permission.SCLOUD_RESTORE
+      com.samsung.android.provider.smartclip.permission.WRITE
+      com.samsung.android.app.parentalcare.permission.READ_CARE
+      android.permission.ACCESS_LOCAL_NETWORK
+      android.permission.SYSTEM_ALERT_WINDOW
+      samsung.android.snoteprovider.permission.WRITE
+      com.samsung.android.providers.media.CMH
+      com.samsung.android.scloud.cloudagent.permission.READ
+      android.permission.INSTALL_PACKAGES
+      android.permission.INTERNAL_SYSTEM_WINDOW
+      com.samsung.android.scloud.app.permission.BROADCAST
+      com.sec.permission.preconfig
+      com.samsung.android.providers.media.SCLOUD
+      com.samsung.android.scloud.gallery.permission.READ
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+      android.permission.WRITE_SYNC_SETTINGS
+      com.samsung.android.scloud.backup.lib.write
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.wssnps.permission.COM_WSSNPS
+      com.samsung.android.bixby.service.bixbysearch.permission.BIXBY_SEARCH
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+      com.sec.android.gallery3d.provider2.WRITE
+      com.samsung.cmh.data.READ
+      com.samsung.permission.READ_SEC_COMMON_POLICY
+      com.sec.android.diagmonagent.permission.DIAGMON
+      com.samsung.android.permission.SEM_MEDIA_CONTENTS
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      android.permission.BLUETOOTH_CONNECT
+      com.samsung.android.email.permission.ACCESS_PROVIDER
+      android.permission.WRITE_MEDIA_STORAGE
+      com.samsung.android.app.notes.sync.STATE_READ
+      android.permission.INTERNET
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS
+      com.samsung.android.app.parentalcare.permission.RECEIVE_BROADCAST
+      com.samsung.android.permission.WRITE_CAPTURED_URL
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER
+      android.permission.UPDATE_DEVICE_STATS
+      com.samsung.android.scloud.sync.permission.WRITE
+      android.permission.READ_EXTERNAL_STORAGE
+      com.sec.android.phone.permission.WRITE_CALL_SETTINGS
+      android.permission.GET_PACKAGE_SIZE
+      com.samsung.android.providers.media.WRITE
+      android.permission.PACKAGE_USAGE_STATS
+      android.permission.GET_ACCOUNTS_PRIVILEGED
+      android.permission.WRITE_SECURE_SETTINGS
+      com.sec.android.inputmethod.scloudsync.permission.READ
+      com.sec.permission.BACKUP_RESTORE_HOMESCREEN
+      com.sec.android.settings.permission.NETWORK_RESET
+      com.samsung.android.permission.SEC_MEDIA_CONTENTS
+      android.permission.READ_SEARCH_INDEXABLES
+      android.permission.READ_PRIVILEGED_PHONE_STATE
+      com.samsung.cmh.SKIPHEAVY
+      android.permission.MEDIA_CLOUD_CONTENTS
+      com.samsung.android.settings.intelligence.mde.MDE_SERVICE
+      com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS
+      com.samsung.android.agent.storage.permission.READ_MEDIA_FILE
+      android.permission.WRITE_SMS
+      android.permission.READ_MEDIA_IMAGES
+      com.samsung.android.scloud.backup.OLD_DATA_ACCESS
+      android.permission.WRITE_CONTACTS
+      com.samsung.android.provider.smartclip.permission.READ
+      com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+      com.samsung.android.scloud.sync.permission.READ
+      com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC
+      android.permission.MANAGE_USERS
+      samsung.android.snoteprovider.permission.READ
+      com.samsung.knox.securefolder.backuprestore.SS_ACCESS
+      android.permission.ACCESS_NETWORK_STATE
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS
+      android.permission.BACKUP
+      com.samsung.cmh.data.WRITE
+      android.permission.LOCAL_MAC_ADDRESS
+      com.sec.android.inputmethod.scloudsync.permission.WRITE
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING
+      com.samsung.android.scloud.backup.lib.read
+      com.samsung.cmh.START
+      com.sec.android.phone.permission.READ_CALL_SETTINGS
+      android.permission.INTERACT_ACROSS_USERS
+      android.permission.SET_WALLPAPER
+      android.permission.WRITE_CALENDAR
+      com.samsung.android.permission.WRITE_SCPM
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+      android.permission.READ_MEDIA_AUDIO
+      android.permission.READ_MEDIA_VIDEO
+      com.sec.android.app.sbrowser.permission.QUICKACCESS
+      com.samsung.android.settings.permission.ACCESS_EPISODE
+      android.permission.READ_SYNC_STATS
+      com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS
+      com.samsung.android.permission.SCPM_CLEAR_DATA
+      android.permission.SCHEDULE_EXACT_ALARM
+      android.permission.SUSPEND_APPS
+      com.sec.spp.permission.SEND
+      com.samsung.android.scloud.lib.storage.write
+      com.sec.android.app.clockpackage.permission.ACCESS_CELEB_VOICE
+      android.permission.BLUETOOTH_ADVERTISE
+      com.samsung.android.scs.ai.search.permission.READ
+      com.msc.openprovider.OpenContentProvider.READ_CONTENT
+      android.permission.READ_SYNC_SETTINGS
+      com.sec.android.gallery3d.provider2.READ
+      com.samsung.permission.ACCESS_GALLERY_SHARED_KEEP_STORAGE
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+      com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION
+      com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER
+      com.samsung.android.app.notes.sync.STATE_WRITE
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+      com.sec.android.app.clockpackage.permission.READ_ALARM
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.VIBRATE
+      com.samsung.systemui.POPUP_UI_PERMISSION
+      android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND
+      com.sec.android.diagmonagent.permission.PROVIDER
+      android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+      com.samsung.android.iap.permission.BILLING
+      com.samsung.android.providers.media.READ
+      android.permission.ACCESS_WIFI_STATE
+      com.samsung.android.memo.WRITE
+      com.sec.spp.permission.TOKEN_8c20523afaf74603068169cad38abcf728b44f6c5a5d7e6db99cbeb42ca78a660193c16511289a9f09fcccfc4762e30636c50902fdc446a8186e8280146e42cb7c725263480279b5159f9f369b8d877808f0e029fadebf04bf128f44ef5a64ae119d4e2ea88707d79c6e6a85e208260799244f219c9d4ec92b07ccb924d898e6
+      android.permission.MANAGE_APP_OPS_MODES
+      com.samsung.android.kmxservice.permission.EDP
+      android.permission.REQUEST_INSTALL_PACKAGES
+      com.samsung.android.permission.ACCESS_MAINTENANCE_MODE
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.samsung.android.smartsuggestions.mde.MDE_SERVICE
+      android.permission.WAKE_LOCK
+      android.permission.READ_CONTACTS
+      com.android.email.permission.ACCESS_PROVIDER
+      android.permission.UPDATE_APP_OPS_STATS
+      com.sec.android.app.sbrowser.permission.READ_WRITE_BOOKMARK_FOLDERS
+      android.permission.BLUETOOTH_SCAN
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.REAL_GET_TASKS: granted=true
+      android.permission.WRITE_SETTINGS: granted=true
+      com.samsung.android.permission.SEM_VOLD_DATA_MOVE: granted=true
+      com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION: granted=true
+      com.samsung.android.scloud.lib.storage.read: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      com.samsung.android.samsungpass.permission.setting.WRITE: granted=true
+      android.permission.MANAGE_EXTERNAL_STORAGE: granted=true
+      com.samsung.android.permission.READ_SCPM: granted=true
+      com.sec.android.easyMover.permission.SCLOUD_RESTORE: granted=true
+      com.samsung.android.app.parentalcare.permission.READ_CARE: granted=true
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      com.samsung.android.providers.media.CMH: granted=true
+      android.permission.DETECT_SCREEN_CAPTURE: granted=true
+      com.samsung.android.kmxservice.permission.ESCROW_VAULT_SERVICE: granted=true
+      com.samsung.android.scloud.cloudagent.permission.READ: granted=true
+      android.permission.INSTALL_PACKAGES: granted=true
+      android.permission.INTERNAL_SYSTEM_WINDOW: granted=true
+      com.samsung.android.scloud.app.permission.BROADCAST: granted=true
+      com.sec.permission.preconfig: granted=true
+      com.samsung.android.providers.media.SCLOUD: granted=true
+      com.samsung.android.scloud.gallery.permission.READ: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.WRITE_SYNC_SETTINGS: granted=true
+      com.samsung.android.permission.SCPM_RESOURCE_RESPONSE: granted=true
+      com.samsung.android.scloud.backup.lib.write: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.wssnps.permission.COM_WSSNPS: granted=true
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE: granted=true
+      com.sec.android.gallery3d.provider2.WRITE: granted=true
+      com.samsung.cmh.data.READ: granted=true
+      com.sec.android.diagmonagent.permission.DIAGMON: granted=true
+      com.samsung.android.permission.SEM_MEDIA_CONTENTS: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      com.samsung.android.email.permission.ACCESS_PROVIDER: granted=true
+      android.permission.WRITE_MEDIA_STORAGE: granted=true
+      com.samsung.android.app.notes.sync.STATE_READ: granted=true
+      android.permission.INTERNET: granted=true
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.app.parentalcare.permission.RECEIVE_BROADCAST: granted=true
+      com.samsung.android.permission.WRITE_CAPTURED_URL: granted=true
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER: granted=true
+      android.permission.UPDATE_DEVICE_STATS: granted=true
+      com.samsung.android.scloud.sync.permission.WRITE: granted=true
+      com.sec.android.phone.permission.WRITE_CALL_SETTINGS: granted=true
+      android.permission.GET_PACKAGE_SIZE: granted=true
+      com.samsung.android.permission.E2EE_SUPPORT: granted=true
+      com.samsung.android.providers.media.WRITE: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.GET_ACCOUNTS_PRIVILEGED: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      com.sec.permission.BACKUP_RESTORE_HOMESCREEN: granted=true
+      com.samsung.android.scpm.mde.permission.BROADCAST: granted=true
+      com.sec.android.settings.permission.NETWORK_RESET: granted=true
+      android.permission.READ_SEARCH_INDEXABLES: granted=true
+      android.permission.READ_PRIVILEGED_PHONE_STATE: granted=true
+      com.samsung.cmh.SKIPHEAVY: granted=true
+      com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS: granted=true
+      com.samsung.android.agent.storage.permission.READ_MEDIA_FILE: granted=true
+      android.permission.WRITE_SMS: granted=true
+      com.samsung.android.scloud.sync.permission.READ: granted=true
+      com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE: granted=true
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC: granted=true
+      android.permission.MANAGE_USERS: granted=true
+      com.samsung.knox.securefolder.backuprestore.SS_ACCESS: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS: granted=true
+      android.permission.BACKUP: granted=true
+      com.samsung.cmh.data.WRITE: granted=true
+      com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER: granted=true
+      android.permission.LOCAL_MAC_ADDRESS: granted=true
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING: granted=true
+      com.samsung.android.scloud.backup.lib.read: granted=true
+      com.samsung.cmh.START: granted=true
+      com.sec.android.phone.permission.READ_CALL_SETTINGS: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+      android.permission.SET_WALLPAPER: granted=true
+      com.samsung.android.permission.WRITE_SCPM: granted=true
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS: granted=true
+      com.sec.android.app.sbrowser.permission.QUICKACCESS: granted=true
+      com.samsung.android.scpm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.samsung.android.settings.permission.ACCESS_EPISODE: granted=true
+      android.permission.READ_SYNC_STATS: granted=true
+      com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS: granted=true
+      com.samsung.android.permission.SCPM_CLEAR_DATA: granted=true
+      android.permission.SCHEDULE_EXACT_ALARM: granted=true
+      android.permission.SUSPEND_APPS: granted=true
+      com.sec.spp.permission.SEND: granted=true
+      com.samsung.android.scloud.lib.storage.write: granted=true
+      com.samsung.android.scs.ai.search.permission.READ: granted=true
+      com.msc.openprovider.OpenContentProvider.READ_CONTENT: granted=true
+      android.permission.READ_SYNC_SETTINGS: granted=true
+      android.permission.START_ACTIVITIES_FROM_BACKGROUND: granted=true
+      com.sec.android.gallery3d.provider2.READ: granted=true
+      com.samsung.permission.ACCESS_GALLERY_SHARED_KEEP_STORAGE: granted=true
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION: granted=true
+      com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER: granted=true
+      com.samsung.android.app.notes.sync.STATE_WRITE: granted=true
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.sec.android.app.clockpackage.permission.READ_ALARM: granted=true
+      android.permission.VIBRATE: granted=true
+      com.samsung.systemui.POPUP_UI_PERMISSION: granted=true
+      android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND: granted=true
+      com.sec.android.diagmonagent.permission.PROVIDER: granted=true
+      android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE: granted=true
+      com.samsung.android.iap.permission.BILLING: granted=true
+      com.samsung.android.providers.media.READ: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.MANAGE_APP_OPS_MODES: granted=true
+      android.permission.REQUEST_INSTALL_PACKAGES: granted=true
+      com.samsung.android.permission.ACCESS_MAINTENANCE_MODE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      com.osp.app.signin.BROADCAST_PERMISSION: granted=true
+      com.samsung.android.smartsuggestions.mde.MDE_SERVICE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      android.permission.UPDATE_APP_OPS_STATS: granted=true
+    User 0: ceDataInode=574189 deDataInode=573942 pccCeDataInode=-1 pccDeDataInode=-1 installed=true hidden=false suspended=false appLockEnabled=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false quarantined=false
+      installReason=0
+      dataDir=/data/user/0/com.samsung.android.scloud
+      firstInstallTime=2026-11-03 10:47:30
+      uninstallReason=0
+      overlay paths:
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+        /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+        /data/resource-cache/android-HexNext_android-kklR.frro
+        /data/resource-cache/android-HexNext_com_samsung_android_scloud-bobb.frro
+      legacy overlay paths:
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+        /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+      disabledComponents:
+        com.samsung.android.scloud.syncadapter.property.DevicePropertySyncService
+        com.samsung.android.scloud.keystore.KeyStoreProvider
+        com.samsung.android.scloud.app.ui.splash.launcher.finder
+        com.samsung.android.scloud.syncadapter.property.datastore.DevicePropertyProvider
+      enabledComponents:
+        com.samsung.android.scloud.syncadapter.base.item.bt.BtSyncService
+        com.samsung.android.scloud.app.ui.settings.controller.episode.SettingBackupProvider
+        com.samsung.android.scloud.syncadapter.media.MediaSyncService
+        com.samsung.android.scloud.app.ui.splash.launcher
+        androidx.work.impl.background.systemalarm.RescheduleReceiver
+        com.samsung.android.scloud.app.ui.settings.view.settings.SettingActivity
+        androidx.work.impl.background.systemjob.SystemJobService
+
+Hidden system packages:
+  Package [com.samsung.android.scloud] (6379e9e):
+    appId=5009
+    pccId=-1
+    sharedUser=SharedUserSetting{c97bd1c android.uid.samsungcloud/5009}
+    pkg=Package{3d96cab com.samsung.android.scloud}
+    codePath=/system/priv-app/SamsungCloudClient
+    resourcePath=/system/priv-app/SamsungCloudClient
+    legacyNativeLibraryDir=/system/priv-app/SamsungCloudClient/lib
+    extractNativeLibs=false
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=570708000 minSdk=29 targetSdk=36
+    minExtensionVersions=[]
+    versionName=5.7.07.8
+    hiddenApiEnforcementPolicy=2
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=0
+    flags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    pageSizeCompat=0
+    queriesPackages=[com.samsung.android.kmxservice, com.samsung.android.scsp.configurator, com.sec.android.app.samsungapps, com.samsung.android.smp.register, com.sec.spp.push]
+    queriesIntents=[Intent { act=com.microsoft.skydrive.samsung.ACTION_ENABLE_CRB }]
+    scannedAsStoppedSystemApp=false
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      samsungkeystoreutils
+      androidx.window.extensions
+      androidx.window.sidecar
+    usesOptionalNativeLibraries:
+      libapex_motionphoto_utils_jni.media.samsung.so
+      libmotionphoto_utils_jni.media.samsung.so
+      libsume_jni.media.samsung.so
+      libsum_jni.media.samsung.so
+      libsume_mediabuffer_jni.media.samsung.so
+    timeStamp=2021-12-31 19:00:00
+    lastUpdateTime=1969-12-31 18:59:59
+    installerPackageName=null
+    installerPackageUid=-1
+    initiatingPackageName=null
+    originatingPackageName=null
+    category=manifest: -1, override: -1, by user: -1
+    packageSource=0
+    appMetadataFilePath=null
+    appMetadataSource=0
+    signatures=PackageSignatures{9f18f08 version:0, signatures:[], past signatures:[]}
+    installPermissionsFixed=false
+    pkgFlags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PARTIALLY_DIRECT_BOOT_AWARE PRIVILEGED PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    apexModuleName=null
+    componentsDeclared=223
+    declared permissions:
+      com.samsung.android.scloud.app.ui: prot=signature|privileged
+      com.samsung.android.scloud.app.permission.BROADCAST: prot=signature|privileged
+      com.samsung.android.scloud.sync.vendor.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.cloudagent.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.permission.TRIGGER_BACKUP_SYNC: prot=signature|privileged
+      com.samsung.android.scloud.permission.STATUS: prot=signature|privileged
+      com.samsung.android.scloud.backup.lib.write: prot=signature|privileged
+      com.samsung.android.scloud.backup.lib.read: prot=signature|privileged
+      com.samsung.android.scloud.sync.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.sync.permission.WRITE: prot=signature|privileged
+      com.samsung.android.scloud.lib.storage.read: prot=signature|privileged
+      com.samsung.android.scloud.lib.storage.write: prot=signature|privileged
+      com.samsung.android.scloud.permission.TEMPORARY_BACKUP: prot=signature|privileged
+      com.samsung.android.scloud.gallery.permission.READ: prot=signature|privileged
+      com.samsung.android.scloud.gallery.permission.WRITE: prot=signature|privileged
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING: prot=signature|privileged
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature
+    requested permissions:
+      android.permission.WRITE_SETTINGS
+      android.permission.READ_SMS
+      com.samsung.android.permission.SEM_VOLD_DATA_MOVE
+      com.sec.android.app.clockpackage.permission.READ_CELEB_VOICE
+      com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION
+      android.permission.READ_CALENDAR
+      android.permission.POST_NOTIFICATIONS
+      com.samsung.android.scloud.lib.storage.read
+      com.google.android.c2dm.permission.RECEIVE
+      com.samsung.android.memo.READ
+      com.samsung.android.scs.ai.search.permission.WRITE
+      com.samsung.android.samsungpass.permission.setting.WRITE
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      com.samsung.android.permission.READ_SCPM
+      com.sec.android.easyMover.permission.SCLOUD_RESTORE
+      com.samsung.android.provider.smartclip.permission.WRITE
+      com.samsung.android.app.parentalcare.permission.READ_CARE
+      android.permission.ACCESS_LOCAL_NETWORK
+      android.permission.SYSTEM_ALERT_WINDOW
+      samsung.android.snoteprovider.permission.WRITE
+      com.samsung.android.providers.media.CMH
+      com.samsung.android.scloud.cloudagent.permission.READ
+      android.permission.INSTALL_PACKAGES
+      android.permission.INTERNAL_SYSTEM_WINDOW
+      com.samsung.android.scloud.app.permission.BROADCAST
+      com.sec.permission.preconfig
+      com.samsung.android.providers.media.SCLOUD
+      com.samsung.android.scloud.gallery.permission.READ
+      android.permission.CHANGE_NETWORK_STATE
+      android.permission.FOREGROUND_SERVICE
+      android.permission.READ_MEDIA_VISUAL_USER_SELECTED
+      android.permission.WRITE_SYNC_SETTINGS
+      com.samsung.android.scloud.backup.lib.write
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.wssnps.permission.COM_WSSNPS
+      com.samsung.android.bixby.service.bixbysearch.permission.BIXBY_SEARCH
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+      com.sec.android.gallery3d.provider2.WRITE
+      com.samsung.cmh.data.READ
+      com.samsung.permission.READ_SEC_COMMON_POLICY
+      com.sec.android.diagmonagent.permission.DIAGMON
+      com.samsung.android.permission.SEM_MEDIA_CONTENTS
+      com.android.launcher.permission.UNINSTALL_SHORTCUT
+      android.permission.BLUETOOTH_CONNECT
+      com.samsung.android.email.permission.ACCESS_PROVIDER
+      android.permission.WRITE_MEDIA_STORAGE
+      com.samsung.android.app.notes.sync.STATE_READ
+      android.permission.INTERNET
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS
+      com.samsung.android.app.parentalcare.permission.RECEIVE_BROADCAST
+      com.samsung.android.permission.WRITE_CAPTURED_URL
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER
+      android.permission.UPDATE_DEVICE_STATS
+      com.samsung.android.scloud.sync.permission.WRITE
+      android.permission.READ_EXTERNAL_STORAGE
+      com.sec.android.phone.permission.WRITE_CALL_SETTINGS
+      android.permission.GET_PACKAGE_SIZE
+      com.samsung.android.providers.media.WRITE
+      android.permission.PACKAGE_USAGE_STATS
+      android.permission.GET_ACCOUNTS_PRIVILEGED
+      android.permission.WRITE_SECURE_SETTINGS
+      com.sec.android.inputmethod.scloudsync.permission.READ
+      com.sec.permission.BACKUP_RESTORE_HOMESCREEN
+      com.sec.android.settings.permission.NETWORK_RESET
+      com.samsung.android.permission.SEC_MEDIA_CONTENTS
+      android.permission.READ_SEARCH_INDEXABLES
+      android.permission.READ_PRIVILEGED_PHONE_STATE
+      com.samsung.cmh.SKIPHEAVY
+      android.permission.MEDIA_CLOUD_CONTENTS
+      com.samsung.android.settings.intelligence.mde.MDE_SERVICE
+      com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS
+      com.samsung.android.agent.storage.permission.READ_MEDIA_FILE
+      android.permission.WRITE_SMS
+      android.permission.READ_MEDIA_IMAGES
+      com.samsung.android.scloud.backup.OLD_DATA_ACCESS
+      android.permission.WRITE_CONTACTS
+      com.samsung.android.provider.smartclip.permission.READ
+      com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+      com.samsung.android.scloud.sync.permission.READ
+      com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC
+      android.permission.MANAGE_USERS
+      samsung.android.snoteprovider.permission.READ
+      com.samsung.knox.securefolder.backuprestore.SS_ACCESS
+      android.permission.ACCESS_NETWORK_STATE
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS
+      android.permission.BACKUP
+      com.samsung.cmh.data.WRITE
+      android.permission.LOCAL_MAC_ADDRESS
+      com.sec.android.inputmethod.scloudsync.permission.WRITE
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING
+      com.samsung.android.scloud.backup.lib.read
+      com.samsung.cmh.START
+      com.sec.android.phone.permission.READ_CALL_SETTINGS
+      android.permission.INTERACT_ACROSS_USERS
+      android.permission.SET_WALLPAPER
+      android.permission.WRITE_CALENDAR
+      com.samsung.android.permission.WRITE_SCPM
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+      android.permission.READ_MEDIA_AUDIO
+      android.permission.READ_MEDIA_VIDEO
+      com.sec.android.app.sbrowser.permission.QUICKACCESS
+      com.samsung.android.settings.permission.ACCESS_EPISODE
+      android.permission.READ_SYNC_STATS
+      com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS
+      com.samsung.android.permission.SCPM_CLEAR_DATA
+      android.permission.SCHEDULE_EXACT_ALARM
+      android.permission.SUSPEND_APPS
+      com.sec.spp.permission.SEND
+      com.samsung.android.scloud.lib.storage.write
+      com.sec.android.app.clockpackage.permission.ACCESS_CELEB_VOICE
+      android.permission.BLUETOOTH_ADVERTISE
+      com.samsung.android.scs.ai.search.permission.READ
+      com.msc.openprovider.OpenContentProvider.READ_CONTENT
+      android.permission.READ_SYNC_SETTINGS
+      com.sec.android.gallery3d.provider2.READ
+      com.samsung.permission.ACCESS_GALLERY_SHARED_KEEP_STORAGE
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+      com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION
+      com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER
+      com.samsung.android.app.notes.sync.STATE_WRITE
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+      com.sec.android.app.clockpackage.permission.READ_ALARM
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.VIBRATE
+      com.samsung.systemui.POPUP_UI_PERMISSION
+      android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND
+      com.sec.android.diagmonagent.permission.PROVIDER
+      android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+      com.samsung.android.iap.permission.BILLING
+      com.samsung.android.providers.media.READ
+      android.permission.ACCESS_WIFI_STATE
+      com.samsung.android.memo.WRITE
+      com.sec.spp.permission.TOKEN_8c20523afaf74603068169cad38abcf728b44f6c5a5d7e6db99cbeb42ca78a660193c16511289a9f09fcccfc4762e30636c50902fdc446a8186e8280146e42cb7c725263480279b5159f9f369b8d877808f0e029fadebf04bf128f44ef5a64ae119d4e2ea88707d79c6e6a85e208260799244f219c9d4ec92b07ccb924d898e6
+      android.permission.MANAGE_APP_OPS_MODES
+      com.samsung.android.kmxservice.permission.EDP
+      android.permission.REQUEST_INSTALL_PACKAGES
+      com.samsung.android.permission.ACCESS_MAINTENANCE_MODE
+      com.android.launcher.permission.INSTALL_SHORTCUT
+      com.samsung.android.sume.nn.service.permission.ACCESS_SUME_NN_SERVICE
+      com.samsung.android.smartsuggestions.mde.MDE_SERVICE
+      android.permission.WAKE_LOCK
+      android.permission.READ_CONTACTS
+      com.android.email.permission.ACCESS_PROVIDER
+      android.permission.UPDATE_APP_OPS_STATS
+      com.sec.android.app.sbrowser.permission.READ_WRITE_BOOKMARK_FOLDERS
+      android.permission.BLUETOOTH_SCAN
+      android.permission.ACCESS_MEDIA_LOCATION
+    install permissions:
+      android.permission.REAL_GET_TASKS: granted=true
+      android.permission.WRITE_SETTINGS: granted=true
+      com.samsung.android.permission.SEM_VOLD_DATA_MOVE: granted=true
+      com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION: granted=true
+      com.samsung.android.scloud.lib.storage.read: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      com.samsung.android.samsungpass.permission.setting.WRITE: granted=true
+      android.permission.MANAGE_EXTERNAL_STORAGE: granted=true
+      com.samsung.android.permission.READ_SCPM: granted=true
+      com.sec.android.easyMover.permission.SCLOUD_RESTORE: granted=true
+      com.samsung.android.app.parentalcare.permission.READ_CARE: granted=true
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      com.samsung.android.providers.media.CMH: granted=true
+      android.permission.DETECT_SCREEN_CAPTURE: granted=true
+      com.samsung.android.kmxservice.permission.ESCROW_VAULT_SERVICE: granted=true
+      com.samsung.android.scloud.cloudagent.permission.READ: granted=true
+      android.permission.INSTALL_PACKAGES: granted=true
+      android.permission.INTERNAL_SYSTEM_WINDOW: granted=true
+      com.samsung.android.scloud.app.permission.BROADCAST: granted=true
+      com.sec.permission.preconfig: granted=true
+      com.samsung.android.providers.media.SCLOUD: granted=true
+      com.samsung.android.scloud.gallery.permission.READ: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.WRITE_SYNC_SETTINGS: granted=true
+      com.samsung.android.permission.SCPM_RESOURCE_RESPONSE: granted=true
+      com.samsung.android.scloud.backup.lib.write: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.wssnps.permission.COM_WSSNPS: granted=true
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE: granted=true
+      com.sec.android.gallery3d.provider2.WRITE: granted=true
+      com.samsung.cmh.data.READ: granted=true
+      com.sec.android.diagmonagent.permission.DIAGMON: granted=true
+      com.samsung.android.permission.SEM_MEDIA_CONTENTS: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      com.samsung.android.email.permission.ACCESS_PROVIDER: granted=true
+      android.permission.WRITE_MEDIA_STORAGE: granted=true
+      com.samsung.android.app.notes.sync.STATE_READ: granted=true
+      android.permission.INTERNET: granted=true
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.app.parentalcare.permission.RECEIVE_BROADCAST: granted=true
+      com.samsung.android.permission.WRITE_CAPTURED_URL: granted=true
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER: granted=true
+      android.permission.UPDATE_DEVICE_STATS: granted=true
+      com.samsung.android.scloud.sync.permission.WRITE: granted=true
+      com.sec.android.phone.permission.WRITE_CALL_SETTINGS: granted=true
+      android.permission.GET_PACKAGE_SIZE: granted=true
+      com.samsung.android.permission.E2EE_SUPPORT: granted=true
+      com.samsung.android.providers.media.WRITE: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.GET_ACCOUNTS_PRIVILEGED: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      com.sec.permission.BACKUP_RESTORE_HOMESCREEN: granted=true
+      com.samsung.android.scpm.mde.permission.BROADCAST: granted=true
+      com.sec.android.settings.permission.NETWORK_RESET: granted=true
+      android.permission.READ_SEARCH_INDEXABLES: granted=true
+      android.permission.READ_PRIVILEGED_PHONE_STATE: granted=true
+      com.samsung.cmh.SKIPHEAVY: granted=true
+      com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS: granted=true
+      com.samsung.android.agent.storage.permission.READ_MEDIA_FILE: granted=true
+      android.permission.WRITE_SMS: granted=true
+      com.samsung.android.scloud.sync.permission.READ: granted=true
+      com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE: granted=true
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC: granted=true
+      android.permission.MANAGE_USERS: granted=true
+      com.samsung.knox.securefolder.backuprestore.SS_ACCESS: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS: granted=true
+      android.permission.BACKUP: granted=true
+      com.samsung.cmh.data.WRITE: granted=true
+      com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER: granted=true
+      android.permission.LOCAL_MAC_ADDRESS: granted=true
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING: granted=true
+      com.samsung.android.scloud.backup.lib.read: granted=true
+      com.samsung.cmh.START: granted=true
+      com.sec.android.phone.permission.READ_CALL_SETTINGS: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+      android.permission.SET_WALLPAPER: granted=true
+      com.samsung.android.permission.WRITE_SCPM: granted=true
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS: granted=true
+      com.sec.android.app.sbrowser.permission.QUICKACCESS: granted=true
+      com.samsung.android.scpm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.samsung.android.settings.permission.ACCESS_EPISODE: granted=true
+      android.permission.READ_SYNC_STATS: granted=true
+      com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS: granted=true
+      com.samsung.android.permission.SCPM_CLEAR_DATA: granted=true
+      android.permission.SCHEDULE_EXACT_ALARM: granted=true
+      android.permission.SUSPEND_APPS: granted=true
+      com.sec.spp.permission.SEND: granted=true
+      com.samsung.android.scloud.lib.storage.write: granted=true
+      com.samsung.android.scs.ai.search.permission.READ: granted=true
+      com.msc.openprovider.OpenContentProvider.READ_CONTENT: granted=true
+      android.permission.READ_SYNC_SETTINGS: granted=true
+      android.permission.START_ACTIVITIES_FROM_BACKGROUND: granted=true
+      com.sec.android.gallery3d.provider2.READ: granted=true
+      com.samsung.permission.ACCESS_GALLERY_SHARED_KEEP_STORAGE: granted=true
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION: granted=true
+      com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER: granted=true
+      com.samsung.android.app.notes.sync.STATE_WRITE: granted=true
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.sec.android.app.clockpackage.permission.READ_ALARM: granted=true
+      android.permission.VIBRATE: granted=true
+      com.samsung.systemui.POPUP_UI_PERMISSION: granted=true
+      android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND: granted=true
+      com.sec.android.diagmonagent.permission.PROVIDER: granted=true
+      android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE: granted=true
+      com.samsung.android.iap.permission.BILLING: granted=true
+      com.samsung.android.providers.media.READ: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.MANAGE_APP_OPS_MODES: granted=true
+      android.permission.REQUEST_INSTALL_PACKAGES: granted=true
+      com.samsung.android.permission.ACCESS_MAINTENANCE_MODE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      com.osp.app.signin.BROADCAST_PERMISSION: granted=true
+      com.samsung.android.smartsuggestions.mde.MDE_SERVICE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      android.permission.UPDATE_APP_OPS_STATS: granted=true
+    User 0: ceDataInode=0 deDataInode=0 pccCeDataInode=0 pccDeDataInode=0 installed=true hidden=false suspended=false appLockEnabled=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false quarantined=false
+      installReason=0
+      dataDir=/data/user/0/com.samsung.android.scloud
+      firstInstallTime=1969-12-31 18:59:59
+      uninstallReason=0
+
+Queries:
+  system apps queryable: false
+  queries via forceQueryable:
+  forceQueryable:
+    [com.samsung.android.scpm,com.samsung.android.scloud]
+  queries via package name:
+    [com.samsung.android.scpm,com.samsung.android.scloud]:
+      com.sec.android.app.samsungapps
+      [app id 10118 not installed]
+  queries via component:
+  queryable via interaction:
+    User 0:
+      [com.android.settings,com.samsung.ts43authservice,com.sec.app.RilErrorNotifier,com.android.keychain,com.sec.facatfunction,com.samsung.android.wifi.intelligence,com.sec.android.diagmonagent,com.sec.automation,com.samsung.android.globalpostprocmgr,com.sec.android.app.wlantest,com.qti.snapdragon.qdcm_ff,com.samsung.sait.sohservice,com.samsung.unifiedtp,com.sec.sve,com.sec.android.app.personalization,com.samsung.accessibility,com.samsung.android.emergency,com.samsung.android.smartface,com.samsung.android.brightnessbackupservice,com.samsung.drm,com.samsung.android.sead,com.samsung.android.mdecservice,com.samsung.android.moaiapc,com.samsung.gpuwatchapp,com.samsung.android.motionphoto.app,com.android.server.telecom,com.samsung.android.app.esimkeystring,com.samsung.android.dck.timesync,com.android.dynsystem,com.samsung.android.vexfwk.service,com.sec.android.sdhms,com.samsung.android.providers.factory,com.sec.epdg,com.sec.imsservice,com.android.localtransport,com.samsung.euicc,com.sec.android.app.hwmoduletest,com.samsung.android.lool,com.samsung.android.dqagent,com.samsung.android.camerasdkservice,com.samsung.oda.service,com.samsung.android.knox.attestation,com.samsung.SMT,com.samsung.sdm,com.sec.android.iaft,android,com.android.inputdevices,com.sec.android.app.RilPhoneNumberService,com.qualcomm.qti.services.systemhelper,com.samsung.android.themecenter,com.sec.android.app.servicemodeapp,com.samsung.oda.agent,com.android.location.fused,com.samsung.InputEventApp,com.sec.android.app.SecSetupWizard,com.samsung.android.photoremasterservice,com.android.providers.settings,com.sec.android.CcInfo,com.sec.android.app.factorykeystring,com.samsung.android.bixby.wakeup,com.sec.usbsettings,com.sec.android.app.parser,com.samsung.android.svcagent,com.samsung.android.app.dressroom,com.samsung.android.provider.filterprovider,com.samsung.android.biometrics.app.setting]:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      [com.android.bluetooth,com.samsung.android.knox.app.networkfilter]:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      [com.samsung.ipservice,com.samsung.cmh,com.samsung.storyservice,com.samsung.faceservice]:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      [com.samsung.android.scpm,com.samsung.android.scloud]:
+        [com.android.settings,com.samsung.ts43authservice,com.sec.app.RilErrorNotifier,com.android.keychain,com.sec.facatfunction,com.samsung.android.wifi.intelligence,com.sec.android.diagmonagent,com.sec.automation,com.samsung.android.globalpostprocmgr,com.sec.android.app.wlantest,com.qti.snapdragon.qdcm_ff,com.samsung.sait.sohservice,com.samsung.unifiedtp,com.sec.sve,com.sec.android.app.personalization,com.samsung.accessibility,com.samsung.android.emergency,com.samsung.android.smartface,com.samsung.android.brightnessbackupservice,com.samsung.drm,com.samsung.android.sead,com.samsung.android.mdecservice,com.samsung.android.moaiapc,com.samsung.gpuwatchapp,com.samsung.android.motionphoto.app,com.android.server.telecom,com.samsung.android.app.esimkeystring,com.samsung.android.dck.timesync,com.android.dynsystem,com.samsung.android.vexfwk.service,com.sec.android.sdhms,com.samsung.android.providers.factory,com.sec.epdg,com.sec.imsservice,com.android.localtransport,com.samsung.euicc,com.sec.android.app.hwmoduletest,com.samsung.android.lool,com.samsung.android.dqagent,com.samsung.android.camerasdkservice,com.samsung.oda.service,com.samsung.android.knox.attestation,com.samsung.SMT,com.samsung.sdm,com.sec.android.iaft,android,com.android.inputdevices,com.sec.android.app.RilPhoneNumberService,com.qualcomm.qti.services.systemhelper,com.samsung.android.themecenter,com.sec.android.app.servicemodeapp,com.samsung.oda.agent,com.android.location.fused,com.samsung.InputEventApp,com.sec.android.app.SecSetupWizard,com.samsung.android.photoremasterservice,com.android.providers.settings,com.sec.android.CcInfo,com.sec.android.app.factorykeystring,com.samsung.android.bixby.wakeup,com.sec.usbsettings,com.sec.android.app.parser,com.samsung.android.svcagent,com.samsung.android.app.dressroom,com.samsung.android.provider.filterprovider,com.samsung.android.biometrics.app.setting]
+        [com.android.stk2,com.android.phone,com.samsung.android.incallui,com.samsung.android.cidmanager,vendor.qti.data.ntnsatapp,com.android.mms.service,com.samsung.android.callbgprovider,com.samsung.sec.android.application.csc,com.test.LTEfunctionality,com.sec.phone,com.sec.android.RilServiceModeApp,com.samsung.android.app.telephonyui,com.sec.hiddenmenu,com.android.providers.telephony,com.android.stk,com.android.ons,com.sec.providers.assisteddialing]
+        [com.android.bluetooth,com.samsung.android.knox.app.networkfilter]
+        [com.samsung.android.app.routines,com.android.systemui,com.samsung.android.app.aodservice]
+        com.samsung.android.mcfds
+        com.samsung.mediasearch
+        com.samsung.android.app.contacts
+        com.samsung.android.dialer
+        com.sec.android.gallery3d
+        com.samsung.android.smartsuggestions
+        com.sec.android.app.myfiles
+        com.sec.android.app.soundalive
+        com.samsung.android.gru
+        com.samsung.android.honeyboard
+        com.sec.android.app.sbrowser
+        com.samsung.android.app.smartcapture
+        com.samsung.android.visual.cloudcore
+        com.samsung.android.agent.storage
+        com.sec.android.app.shealth
+        com.samsung.android.app.notes
+      [com.android.providers.userdictionary,com.android.providers.contactkeys,com.samsung.android.providers.contacts,com.android.providers.blockednumber,com.android.calllogbackup]:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      [com.android.providers.downloads.ui,com.samsung.android.providers.media,com.samsung.android.mtp,com.android.mtp,com.android.providers.downloads,com.samsung.android.providers.trash]:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.osp.app.signin:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.android.providers.calendar:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.samsung.android.app.contacts:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.samsung.android.samsungpass:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.sec.android.app.sbrowser:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.samsung.android.app.reminder:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.sec.android.app.shealth:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.samsung.android.app.notes:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.google.android.inputmethod.latin:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+      com.samsung.android.calendar:
+        [com.samsung.android.scpm,com.samsung.android.scloud]
+  queryable via uses-library:
+
+Shared users:
+  SharedUser [android.uid.samsungcloud] (c97bd1c):
+    appId=5009
+    Packages
+      PackageSetting{4118eba com.samsung.android.scpm/5009}
+      PackageSetting{dd508dd com.samsung.android.scloud/5009}
+    install permissions:
+      android.permission.REAL_GET_TASKS: granted=true
+      android.permission.WRITE_SETTINGS: granted=true
+      com.samsung.android.permission.SEM_VOLD_DATA_MOVE: granted=true
+      com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION: granted=true
+      com.samsung.android.scloud.lib.storage.read: granted=true
+      com.google.android.c2dm.permission.RECEIVE: granted=true
+      com.samsung.android.samsungpass.permission.setting.WRITE: granted=true
+      android.permission.MANAGE_EXTERNAL_STORAGE: granted=true
+      com.samsung.android.permission.READ_SCPM: granted=true
+      com.sec.android.easyMover.permission.SCLOUD_RESTORE: granted=true
+      com.samsung.android.app.parentalcare.permission.READ_CARE: granted=true
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      com.samsung.android.providers.media.CMH: granted=true
+      android.permission.DETECT_SCREEN_CAPTURE: granted=true
+      com.samsung.android.kmxservice.permission.ESCROW_VAULT_SERVICE: granted=true
+      com.samsung.android.scloud.cloudagent.permission.READ: granted=true
+      android.permission.INSTALL_PACKAGES: granted=true
+      android.permission.INTERNAL_SYSTEM_WINDOW: granted=true
+      com.samsung.android.scloud.app.permission.BROADCAST: granted=true
+      com.sec.permission.preconfig: granted=true
+      com.samsung.android.providers.media.SCLOUD: granted=true
+      com.samsung.android.scloud.gallery.permission.READ: granted=true
+      android.permission.CHANGE_NETWORK_STATE: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.WRITE_SYNC_SETTINGS: granted=true
+      com.samsung.android.permission.SCPM_RESOURCE_RESPONSE: granted=true
+      com.samsung.android.scloud.backup.lib.write: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.wssnps.permission.COM_WSSNPS: granted=true
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE: granted=true
+      com.sec.android.gallery3d.provider2.WRITE: granted=true
+      com.samsung.cmh.data.READ: granted=true
+      com.sec.android.diagmonagent.permission.DIAGMON: granted=true
+      com.samsung.android.permission.SEM_MEDIA_CONTENTS: granted=true
+      com.android.launcher.permission.UNINSTALL_SHORTCUT: granted=true
+      com.samsung.android.email.permission.ACCESS_PROVIDER: granted=true
+      android.permission.WRITE_MEDIA_STORAGE: granted=true
+      com.samsung.android.app.notes.sync.STATE_READ: granted=true
+      android.permission.INTERNET: granted=true
+      com.android.browser.permission.READ_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.app.parentalcare.permission.RECEIVE_BROADCAST: granted=true
+      com.samsung.android.permission.WRITE_CAPTURED_URL: granted=true
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER: granted=true
+      android.permission.UPDATE_DEVICE_STATS: granted=true
+      com.samsung.android.scloud.sync.permission.WRITE: granted=true
+      com.sec.android.phone.permission.WRITE_CALL_SETTINGS: granted=true
+      android.permission.GET_PACKAGE_SIZE: granted=true
+      com.samsung.android.permission.E2EE_SUPPORT: granted=true
+      com.samsung.android.providers.media.WRITE: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.GET_ACCOUNTS_PRIVILEGED: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      com.sec.permission.BACKUP_RESTORE_HOMESCREEN: granted=true
+      com.samsung.android.scpm.mde.permission.BROADCAST: granted=true
+      com.sec.android.settings.permission.NETWORK_RESET: granted=true
+      android.permission.READ_SEARCH_INDEXABLES: granted=true
+      android.permission.READ_PRIVILEGED_PHONE_STATE: granted=true
+      com.samsung.cmh.SKIPHEAVY: granted=true
+      com.google.android.gms.smartdevice.permission.NOTIFY_QUICK_START_STATUS: granted=true
+      com.samsung.android.agent.storage.permission.READ_MEDIA_FILE: granted=true
+      android.permission.WRITE_SMS: granted=true
+      com.samsung.android.scloud.sync.permission.READ: granted=true
+      com.samsung.android.knox.permission.KNOX_CCM_KEYSTORE: granted=true
+      android.permission.FOREGROUND_SERVICE_DATA_SYNC: granted=true
+      android.permission.MANAGE_USERS: granted=true
+      com.samsung.knox.securefolder.backuprestore.SS_ACCESS: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS: granted=true
+      android.permission.BACKUP: granted=true
+      com.samsung.cmh.data.WRITE: granted=true
+      com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER: granted=true
+      android.permission.LOCAL_MAC_ADDRESS: granted=true
+      com.samsung.android.scloud.permission.RPC_SYNC_SETTING: granted=true
+      com.samsung.android.scloud.backup.lib.read: granted=true
+      com.samsung.cmh.START: granted=true
+      com.sec.android.phone.permission.READ_CALL_SETTINGS: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+      android.permission.SET_WALLPAPER: granted=true
+      com.samsung.android.permission.WRITE_SCPM: granted=true
+      android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS: granted=true
+      com.sec.android.app.sbrowser.permission.QUICKACCESS: granted=true
+      com.samsung.android.scpm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.samsung.android.settings.permission.ACCESS_EPISODE: granted=true
+      android.permission.READ_SYNC_STATS: granted=true
+      com.sec.android.app.sbrowser.permission.WRITE_QUICKACCESS: granted=true
+      com.samsung.android.permission.SCPM_CLEAR_DATA: granted=true
+      android.permission.SCHEDULE_EXACT_ALARM: granted=true
+      android.permission.SUSPEND_APPS: granted=true
+      com.sec.spp.permission.SEND: granted=true
+      com.samsung.android.scloud.lib.storage.write: granted=true
+      com.samsung.android.scs.ai.search.permission.READ: granted=true
+      com.msc.openprovider.OpenContentProvider.READ_CONTENT: granted=true
+      android.permission.READ_SYNC_SETTINGS: granted=true
+      android.permission.START_ACTIVITIES_FROM_BACKGROUND: granted=true
+      com.sec.android.gallery3d.provider2.READ: granted=true
+      com.samsung.permission.ACCESS_GALLERY_SHARED_KEEP_STORAGE: granted=true
+      com.android.browser.permission.WRITE_HISTORY_BOOKMARKS: granted=true
+      com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION: granted=true
+      com.sec.android.easyMover.permission.ACCESS_WEAR_PROVIDER: granted=true
+      com.samsung.android.app.notes.sync.STATE_WRITE: granted=true
+      com.samsung.android.scloud.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.sec.android.app.clockpackage.permission.READ_ALARM: granted=true
+      android.permission.VIBRATE: granted=true
+      com.samsung.systemui.POPUP_UI_PERMISSION: granted=true
+      android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND: granted=true
+      com.sec.android.diagmonagent.permission.PROVIDER: granted=true
+      android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE: granted=true
+      com.samsung.android.iap.permission.BILLING: granted=true
+      com.samsung.android.providers.media.READ: granted=true
+      android.permission.ACCESS_WIFI_STATE: granted=true
+      android.permission.MANAGE_APP_OPS_MODES: granted=true
+      android.permission.REQUEST_INSTALL_PACKAGES: granted=true
+      com.samsung.android.permission.ACCESS_MAINTENANCE_MODE: granted=true
+      com.android.launcher.permission.INSTALL_SHORTCUT: granted=true
+      com.osp.app.signin.BROADCAST_PERMISSION: granted=true
+      com.samsung.android.smartsuggestions.mde.MDE_SERVICE: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      android.permission.UPDATE_APP_OPS_STATS: granted=true
+    User 0: 
+      gids=[5050, 3003, 3007, 6069]
+      runtime permissions:
+        android.permission.READ_SMS: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_CALENDAR: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.POST_NOTIFICATIONS: granted=true, flags=[ SYSTEM_FIXED|GRANTED_BY_DEFAULT|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.ACCESS_LOCAL_NETWORK: granted=true, flags=[ SYSTEM_FIXED|GRANTED_BY_DEFAULT|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_MEDIA_VISUAL_USER_SELECTED: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.BLUETOOTH_CONNECT: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_MEDIA_IMAGES: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.WRITE_CONTACTS: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.WRITE_CALENDAR: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_MEDIA_AUDIO: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_MEDIA_VIDEO: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.BLUETOOTH_ADVERTISE: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT|RESTRICTION_SYSTEM_EXEMPT|RESTRICTION_UPGRADE_EXEMPT]
+        android.permission.READ_CONTACTS: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.BLUETOOTH_SCAN: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.ACCESS_MEDIA_LOCATION: granted=true, flags=[ GRANTED_BY_DEFAULT|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Dexopt state:
+  [com.samsung.android.scloud]
+    path: /data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==/base.apk
+      arm64: [status=speed-profile] [reason=bg-dexopt] [primary-abi]
+        [location is /data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==/oat/arm64/base.odex]
+        [image location is /data/app/~~WDjJCbvqO0G5td7aT4fudw==/com.samsung.android.scloud-5I1DC8KtL-lLF61mY194Xg==/oat/arm64/base.art (required)]
+
+SPEG state:
+  Event #107: 04-11-2026 17:23:14.573 Success moe.shizuku.privileged.api took 2131 ms
+  Event #106: 04-11-2026 17:04:12.166 Success moe.shizuku.privileged.api took 2133 ms
+  Event #105: 04-11-2026 16:50:43.473 Success af.shizuku.plus.api took 2137 ms
+  Event #104: 03-11-2026 18:09:39.884 Success kqvdie.zeykvw.hpbcyd took 2132 ms
+  Event #103: 03-11-2026 09:36:23.741 Failure org.chromium.webapk.a78566d8900e6e679_v2 took 2011 ms
+  Event #102: 03-11-2026 00:39:46.767 Success com.hexnext.themer.owner took 2140 ms
+  Event #101: 02-11-2026 23:14:37.694 Success voidscalling_androidmo.im took 2155 ms
+  Event #100: 02-11-2026 17:37:00.288 Success com.hexnext.themer.owner took 2126 ms
+  Event #99: 02-11-2026 03:16:57.771 Success com.koga3.grandmashouse took 2111 ms
+  Event #98: 02-11-2026 03:11:55.780 Success sun.set.rose.c18 took 2168 ms
+  Event #97: 02-11-2026 00:23:01.622 Success org.matrix.vector.manager took 2126 ms
+  Event #96: 02-11-2026 00:03:43.786 Success io.github.chsbuffer.revancedxposed took 2126 ms
+  Event #95: 02-11-2026 00:01:44.012 Success balti.xposed.pixelifygooglephotos took 2130 ms
+  Event #94: 01-11-2026 23:56:18.843 Failure top.hookvip.pro took 2013 ms
+  Event #93: 01-11-2026 23:21:52.620 Success df.root took 2129 ms
+  Event #92: 01-11-2026 23:04:11.111 Success qyz.onedesign took 2126 ms
+  Event #91: 01-11-2026 22:51:14.450 Success df.root took 2125 ms
+  Event #90: 31-10-2026 22:54:11.793 Success com.hexnext.themer took 2138 ms
+  Event #89: 31-10-2026 18:26:53.529 Success de.dertyp7214.rboardthememanager took 2133 ms
+  Event #88: 30-10-2026 19:50:22.890 Success neon.ghost.studio took 2119 ms
+  Event #87: 30-10-2026 15:08:36.399 Success bozzu.eternum took 2118 ms
+  Event #86: 30-10-2026 15:05:00.907 Success da.football.temptations took 2124 ms
+  Event #85: 29-10-2026 15:51:11.368 Success balti.xposed.pixelifygooglephotos took 2127 ms
+  Event #84: 29-10-2026 13:50:11.110 Success com.bloatware.bingblop took 2182 ms
+  Event #83: 29-10-2026 13:04:58.416 Success akhil.alltrans took 2150 ms
+  Event #82: 29-10-2026 13:03:18.767 Success com.chenyue404.gboardhook took 2133 ms
+  Event #81: 29-10-2026 13:03:06.199 Success io.github.ziyuw_plank.gboardgloss took 2129 ms
+  Event #80: 29-10-2026 13:02:02.996 Success io.github.kvmy666.gboardplus took 2129 ms
+  Event #79: 29-10-2026 11:17:39.601 Success io.github.soclear.oneuix took 2129 ms
+  Event #78: 29-10-2026 11:17:15.996 Success io.github.tophtab.lspstore took 2191 ms
+  Event #77: 29-10-2026 09:21:03.678 Success org.lsposed.lspatch took 2148 ms
+  Event #76: 29-10-2026 09:01:03.673 Failure org.cromite.cromite took 2012 ms
+  Event #75: 29-10-2026 08:58:28.257 Failure org.bromite.bromite took 2006 ms
+  Event #74: 29-10-2026 08:52:56.447 Success dev.bikram.obtainx took 2153 ms
+  Event #73: 28-10-2026 22:44:42.128 Failure com.samsung.android.shealthmonitor took 2017 ms
+  Event #72: 28-10-2026 19:54:42.489 Success com.sec.penup took 2135 ms
+  Event #71: 28-10-2026 14:20:20.289 Success com.drdisagree.colorblendr took 2151 ms
+  Event #70: 28-10-2026 14:02:19.876 Success app.lawnchair.lawnicons took 2149 ms
+  Event #69: 28-10-2026 12:37:59.837 Success dev.bikram.obtainx took 2152 ms
+  Event #68: 28-10-2026 11:04:02.103 Success eu.darken.butler took 2133 ms
+  Event #67: 28-10-2026 10:55:41.335 Success com.legendsayantan.adbtools took 2131 ms
+  Event #66: 28-10-2026 10:24:26.135 Success com.dhangofa.networktoggle took 2132 ms
+  Event #65: 27-10-2026 10:30:32.701 Success neon.ghost.studio took 2119 ms
+  Event #64: 25-10-2026 21:35:54.760 Success deviant_anomalies_rus.pornoisland.site took 2137 ms
+  Event #63: 25-10-2026 21:32:17.993 Success com.koga3.awayfromhome took 2120 ms
+  Event #62: 25-10-2026 21:29:47.883 Success eter.num took 2127 ms
+  Event #61: 25-10-2026 21:28:23.201 Success cane.and.able.c18 took 2128 ms
+  Event #60: 23-10-2026 22:36:52.548 Success com.dhangofa.networktoggle took 2099 ms
+  Event #59: 23-10-2026 22:15:30.225 Success ex.po.sed.c18 took 2166 ms
+  Event #58: 23-10-2026 22:15:22.593 Success dead.moon.survival.c18 took 2163 ms
+
+Profile utilization state:
+  Current state:
+    Version: 2.1.3
+    Start reason: boot-no-update
+    Start time: not started
+    Finish time: not finished
+    PU_StatusWatcher:
+      Initial thermal status: 0
+      Thermal status: 0
+      Screen off: false
+      Low battery: true
+    PU_DexoptTrigger:
+      Dexopt concurrency: 4
+      Dexopting: false
+    PU_Storage:
+      Stored apps:
+        me.weishu.kernelsu 151
+        com.google.android.googlequicksearchbox 227
+        com.wbd.stream 231
+        org.telegram.messenger.web 237
+        com.teslacoilsw.launcher 248
+        moe.shizuku.privileged.api 262
+        com.termux 264
+        supreme.icon.pack.ddt 264
+        my.bimbo.dreamkingpin.c18 268
+        com.tmobile.tuesdays 276
+        com.sec.android.app.myfiles 278
+        ghost.bobby.saga 280
+        com.android.chrome 283
+        eu.darken.sdmse 290
+        com.samsung.android.themedesigner 301
+        good.lu.ke.c18 306
+        com.android.vending 307
+        com.sec.android.app.shealth 307
+        com.netflix.mediaclient 309
+        com.anthropic.claude 311
+        hard.to.find.c18 311
+        perfect.icon.pack.ddt 311
+        com.sec.android.app.camera 318
+        com.samsung.android.goodlock 334
+        com.sec.android.gallery3d 340
+        com.samsung.android.dialer 341
+        com.google.android.gm 342
+        com.google.android.keep 342
+        me.lyft.android 345
+        flar2.devcheck 346
+        com.samsung.android.sidegesturepad 347
+        com.venmo 347
+        com.google.android.inputmethod.latin 348
+        com.podfan 351
+        com.sec.android.daemonapp 353
+        com.theatlantic.newsstand 357
+        com.tmobile.vvm.application 366
+        com.yum.pizzahut 366
+        com.paypal.android.p2pmobile 372
+        com.samsung.android.app.watchmanager 376
+        com.patreon.android 379
+        com.sec.android.app.voicenote 379
+        com.samsung.android.app.cameraassistant 381
+        com.ubercab 381
+        gov.va.mobileapp 381
+        com.mcdonalds.app 386
+        com.google.android.apps.messaging 387
+        com.google.android.apps.docs 390
+        com.ustwo.lwp 391
+        com.amazon.avod.thirdpartyclient 392
+        com.joaomgcd.autoinput 397
+        bin.mt.plus 398
+        com.cbs.app 398
+        com.walmart.android 399
+        com.truedevelopersstudio.automatictap.autoclicker 404
+        com.disney.disneyplus 405
+        com.krisdb.wearcasts 406
+        com.moviesanywhere.goo 406
+        com.dd.doordash 407
+        com.samsung.android.app.galaxyraw 407
+        com.usps.app 407
+        com.samsung.android.app.contacts 409
+        com.samsung.android.gallery.assistant.app 409
+        com.dfamaya.briefcomplication 410
+        com.facebook.orca 411
+        com.samsung.android.app.reminder 416
+        com.samsung.vvm 417
+        com.discord 419
+        com.google.android.calendar 419
+        com.google.android.apps.photos 420
+        com.fitbit.FitbitMobile 423
+        com.navyfederal.android 427
+        com.github.android 430
+        com.nytimes.android 431
+        com.linkedin.android 435
+        com.google.android.apps.chromecast.app 438
+        com.amazon.mShop.android.shopping 443
+        com.google.android.apps.labs.language.tailwind 453
+        com.roku.remote 460
+        ai.replika.app 462
+        com.google.android.apps.docs.editors.docs 472
+        com.google.ar.lens 472
+        com.apple.atve.androidtv.appletv 476
+        com.google.android.calculator 479
+        com.google.android.apps.docs.editors.sheets 486
+        com.indeed.android.jobsearch 486
+        com.google.android.apps.authenticator2 488
+        com.backdrops.wallpapers 503
+        com.google.android.apps.walletnfcrel 505
+        com.google.android.apps.bard 508
+        com.google.android.apps.googlevoice 515
+        com.google.android.apps.credentialmanager 517
+        ai.oc.experience.gulfpay 520
+        com.emn8.mobilem8.nativeapp.bk 540
+        com.dunkinbrands.otgo 544
+        com.cvs.launchers.cvs 556
+    Stored PU state:
+      Service:
+        Version: 2.1.3
+        Start reason: boot-after-mainline-update
+        Start time: Thu Oct 22 19:13:54 EDT 2026 ts=1792710834094
+        Finish time: Thu Oct 22 19:22:07 EDT 2026 ts=1792711327447
+        Took time 493sec
+      Watcher:
+        Initial thermal status: 0
+        Thermal status: 0
+        Screen off: true
+        Low battery: false
+      Trigger:
+        Dexopt concurrency: 4
+        Dexopting: false
+        Hot apps list:
+          com.google.android.googlequicksearchbox, w=105, s=OPTIMIZED, optTimeMs=1792711327001, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=5523, filter=speed-profile]
+          com.android.settings, w=108, s=OPTIMIZED, optTimeMs=1792711321989, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=554, filter=speed-profile]
+          com.android.vending, w=110, s=OPTIMIZED, optTimeMs=1792711326219, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=3851, filter=speed-profile], [primaryDex=false, reason=profile-utilization, dex2oatTimeMs=218, filter=verify], [primaryDex=false, reason=profile-utilization, dex2oatTimeMs=486, filter=verify]
+          com.sec.android.app.myfiles, w=124, s=OPTIMIZED, optTimeMs=1792711321349, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+          com.teslacoilsw.launcher, w=125, s=OPTIMIZED, optTimeMs=1792711321405, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+          com.android.chrome, w=139, s=OPTIMIZED, optTimeMs=1792711322094, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=227, filter=speed-profile], [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=188, filter=speed-profile], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify]
+          com.google.android.keep, w=140, s=OPTIMIZED, optTimeMs=1792711324066, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=1978, filter=speed-profile]
+          com.google.android.gm, w=142, s=OPTIMIZED, optTimeMs=1792711327221, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=5013, filter=speed-profile]
+          com.sec.android.app.shealth, w=143, s=OPTIMIZED, optTimeMs=1792711327446, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=3258, filter=speed-profile]
+          eu.darken.sdmse, w=150, s=OPTIMIZED, optTimeMs=1792711327064, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=743, filter=speed-profile]
+          com.sec.android.app.camera, w=154, s=OPTIMIZED, optTimeMs=1792711327041, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+    Stored SCPM state:
+      packages-9a07:
+        [                                            ]
+      disable-2bb4:
+        [                                            ]
+== jobs
+    <0>com.samsung.android.scloud::.schedulePersisted():
+      21007, 21060, 21062
+    <0>com.samsung.android.agent.storage::.schedulePersisted():
+      26237, 166130, 2623543
+    <0>com.google.android.apps.magazines::.schedulePersisted():
+      26455, 26696
+  
+--
+    <0>com.samsung.android.scloud::timeout-reg:
+      expirationTime=86419492, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
+    <0>com.samsung.android.scloud::.schedulePersisted():
+      expirationTime=9223372036854775807, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
+    <0>com.samsung.android.scloud::anr:
+      expirationTime=86420893, windowSizeMs=21600000, countLimit=3, countInWindow=0, inQuotaTime=0
+    <0>com.samsung.android.scloud::timeout-total:
+      expirationTime=86413638, windowSizeMs=86400000, countLimit=10, countInWindow=0, inQuotaTime=0
+    <0>com.android.settings::timeout-reg:
+      expirationTime=86414462, windowSizeMs=86400000, countLimit=3, countInWindow=0, inQuotaTime=0
+    <0>com.android.settings::.schedulePersisted():
+      expirationTime=86414461, windowSizeMs=60000, countLimit=250, countInWindow=0, inQuotaTime=0
+    <0>com.android.settings::anr:
+--
+  JOB SyncManager:1000/32: b10b6eb @SyncManager@com.samsung.android.scloud.deviceproperty/com.osp.app.signin:android
+    1000 tag=*job*r/@SyncManager@com.samsung.android.scloud.deviceproperty/com.osp.app.signin:android
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.samsung.android.scloud.deviceproperty, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=32, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.samsung.android.samsungpass.scloud, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=33, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.sec.android.app.sbrowser.beta.scloudsync, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=34, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.samsung.android.snoteprovider4, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=35, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.samsung.android.memo, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=36, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.samsung.android.aremoji.cloud, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=37, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: android/com.android.server.content.SyncJobService
+      PERIODIC: interval=+1d0h0m0s0ms flex=+1h12m0s0ms
+      PERSISTED
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+--
+      Extras: {provider=com.sec.android.app.sbrowser, ejDowngradedToRegular=false, reason=-4, source=4, userId=0, expectedRuntime=0, syncExemptionFlag=0, owningPackage=com.samsung.android.scloud, SyncManagerJob=true, isPeriodic=true, allowParallelSyncs=false, periodMillis=86400000, sourcePeriodicId=-1, jobId=44, owningUid=5009, flexMillis=3456000, accountName=kyle.tameirao@gmail.com, accountType=com.osp.app.signin, retries=0, syncExtras=PersistableBundle[{}]}
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Backoff: policy=1 initial=+30s0ms
+      Has early constraint
+      Has late constraint
+    Required constraints: STORAGE_NOT_LOW TIMING_DELAY DEADLINE CONNECTIVITY FLEXIBILITY UID_NOT_RESTRICTED [0xd0300008]
+    Dynamic constraints:
+--
+  JOB #5009/50001: 2d2464 com.samsung.android.scloud/.bnr.ui.service.AutoBackupTriggerJobService
+    5009 tag=*job*r/com.samsung.android.scloud/.bnr.ui.service.AutoBackupTriggerJobService
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: com.samsung.android.scloud/.bnr.ui.service.AutoBackupTriggerJobService
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+      Has media backup exemption=false 
+      Minimum latency: +14h26m32s925ms
+      Max execution delay: +14h26m32s925ms
+      Backoff: policy=1 initial=+30s0ms
+--
+  JOB androidx.work.systemjobscheduler:5009/100001: c8a201 #PeriodicWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    5009 tag=*job*r/#PeriodicWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Minimum latency: +12h39m47s310ms
+      Backoff: policy=1 initial=+30s0ms
+--
+  JOB androidx.work.systemjobscheduler:5009/100007: 34fa8da #NetworkUsageWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    5009 tag=*job*r/#NetworkUsageWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Network type: NetworkRequest [ NONE id=0, [ Capabilities: NOT_METERED&INTERNET&TRUSTED&VALIDATED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED Uid: 5009 UnderlyingNetworks: Null] ]
+      Minimum latency: +10h25m34s335ms
+--
+  JOB androidx.work.systemjobscheduler:5009/100184: 2f0683 #DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    5009 tag=*job*r/#DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Minimum latency: +23m2s689ms
+      Backoff: policy=1 initial=+30s0ms
+--
+  JOB androidx.work.systemjobscheduler:5009/100185: c16fc2c #DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    5009 tag=*job*r/#DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+    Source: uid=5009 user=0 pkg=com.samsung.android.scloud
+    JobInfo:
+      Service: com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService
+      Priority: 300 [DEFAULT]
+      Requires: charging=false batteryNotLow=false deviceIdle=false
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Minimum latency: +23m5s468ms
+      Backoff: policy=1 initial=+30s0ms
+--
+    5009/com.samsung.android.scloud: {-1h32m13s206ms=18, -19m2s728ms=9}
+    5004/com.samsung.cmh: {-1h32m5s268ms=6}
+    5004/com.samsung.faceservice: {-1h28m16s506ms=6}
+    1001/com.android.phone: {-1h32m13s111ms=6}
+    1000/com.samsung.oda.service: {-1h34m12s666ms=8}
+    1000/com.samsung.android.lool: {-1h34m38s641ms=31, -33m50s16ms=21}
+    1000/com.android.settings: {-1h34m43s488ms=6, -9m16s828ms=3}
+--
+    JobStatus{2f0683 androidx.work.systemjobscheduler:5009/100184 #DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService u=0 s=5009 TIME=+22m17s648ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 30075600
+    JobStatus{1e3f6a #u0a264/441325365 com.google.android.as/com.google.android.apps.miphone.aiai.echo.scheduler.EchoJobService u=0 s=10264 TIME=-1h34m39s693ms:+3h25m20s307ms IDLE PERIODIC satisfied:0x83700000 unsatisfied:0x4}: 21798259
+    JobStatus{918817 #5004/654321 com.samsung.cmh/.core.cmhjobservice.CMHJobService u=0 s=5004 TIME=-57m58s407ms:-42m58s407ms CHARGING BATNOTLOW PERIODIC satisfied:0xc3700002 unsatisfied:0x1}: 24179545
+    JobStatus{6892c99 #u0a264/405939170 com.google.android.as/com.google.android.apps.miphone.aiai.echo.scheduler.EchoJobService u=0 s=10264 TIME=-1h34m39s698ms:+10h25m20s302ms IDLE PERIODIC satisfied:0x83700000 unsatisfied:0x4}: 21798254
+    JobStatus{4ab3089 #u0a159/700306 com.samsung.videoscan/.VideoScanObserverJobService u=0 s=10159 URIS=[android.app.job.JobInfo$TriggerContentUri@691cff99] satisfied:0x3700000 unsatisfied:0x4000000}: 21947954
+    JobStatus{b48dc0e #u0a285/1 com.google.android.calendar/.jobservices.CalendarProviderObserverJobService u=0 s=10285 URIS=[android.app.job.JobInfo$TriggerContentUri@ddadaaa] satisfied:0x3700000 unsatisfied:0x4000000}: 23642692
+    JobStatus{1d540dc #u0a194/1 com.samsung.android.honeyboard/.base.keyinputstatistics.KeyInputStatisticsUpdaterJobService u=0 s=10194 TIME=-4m42s453ms:+23h55m17s547ms BATNOTLOW IDLE PERIODIC satisfied:0x83700002 unsatisfied:0x4}: 48615499
+--
+    JobStatus{b10b6eb SyncManager:1000/32 @SyncManager@com.samsung.android.scloud.deviceproperty/com.osp.app.signin:android u=0 s=5009 TIME=+11h12m46s422ms:+12h24m46s422ms NET STORENOTLOW PERIODIC PERSISTED satisfied:0x13700008 unsatisfied:0x80000000}: 67664374
+    JobStatus{42c9c99 androidx.work.systemjobscheduler:u0a550/979 #mdd_periodical_task_MDD.MAINTENANCE.PERIODIC.GCM.TASK#@androidx.work.systemjobscheduler@com.google.android.inputmethod.latin/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10550 TIME=+4h52m37s323ms:none CHARGING IDLE satisfied:0x3700002 unsatisfied:0x80000005}: 44855275
+    JobStatus{83c8567 androidx.work.systemjobscheduler:u0a279/8388 #TikTokWorker#com.google.android.libraries.mdi.download.workmanager.tiktok.TikTokPeriodicWorker#@androidx.work.systemjobscheduler@com.google.android.googlequicksearchbox/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10279 TIME=+4h24m46s870ms:none NET CHARGING satisfied:0x13700002 unsatisfied:0x80000001}: 44984822
+    JobStatus{bf6cfee androidx.work.systemjobscheduler:u0a358/1136 #AppInfoWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+19h51m14s764ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 101652716
+    JobStatus{8e490a4 androidx.work.systemjobscheduler:u0a358/1188 #SocialStepSyncWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+10m21s51ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 30799003
+    JobStatus{b47a089 androidx.work.systemjobscheduler:u0a358/1190 #SnoreRecordingSettingWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+1h37m17s261ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 36195213
+    JobStatus{cb52969 androidx.work.systemjobscheduler:u0a358/888 #DataDisposerWorker#@androidx.work.systemjobscheduler@com.sec.android.app.shealth/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10358 TIME=+18h54m17s822ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 98235774
+--
+    JobStatus{2d2464 #5009/50001 com.samsung.android.scloud/.bnr.ui.service.AutoBackupTriggerJobService u=0 s=5009 TIME=+14h25m47s879ms:+14h25m47s879ms satisfied:0x3700000 unsatisfied:0x80000000}: 80685831
+    JobStatus{34fa8da androidx.work.systemjobscheduler:5009/100007 #NetworkUsageWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService u=0 s=5009 TIME=+10h24m49s293ms:none NET satisfied:0x13700000 unsatisfied:0x80000000}: 66227245
+    JobStatus{c8a201 androidx.work.systemjobscheduler:5009/100001 #PeriodicWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService u=0 s=5009 TIME=+12h39m2s269ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 74280221
+    JobStatus{53c5703 androidx.work.systemjobscheduler:u0a259/4206 #Mobserve.MaintenanceWorker.Periodic#@androidx.work.systemjobscheduler@com.google.android.aicore/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10259 TIME=+5h9m52s870ms:none CHARGING IDLE satisfied:0x3700002 unsatisfied:0x80000005}: 45890822
+    JobStatus{c16fc2c androidx.work.systemjobscheduler:5009/100185 #DelaySyncWorker#@androidx.work.systemjobscheduler@com.samsung.android.scloud/androidx.work.impl.background.systemjob.SystemJobService u=0 s=5009 TIME=+22m20s428ms:none satisfied:0x3700000 unsatisfied:0x80000000}: 30078380
+    JobStatus{ddc219d androidx.work.systemjobscheduler:u0a134/31000 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@d82039c3] satisfied:0x3700000 unsatisfied:0x4000000}: 52213282
+    JobStatus{12dac0d androidx.work.systemjobscheduler:u0a134/31002 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@7b0f0965] satisfied:0x3700000 unsatisfied:0x4000000}: 52213350
+    JobStatus{eb4acff androidx.work.systemjobscheduler:u0a134/31004 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@15d1a0fc] satisfied:0x3700000 unsatisfied:0x4000000}: 52213489
+    JobStatus{6b06764 androidx.work.systemjobscheduler:u0a134/31006 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@30a85f4e] satisfied:0x3700000 unsatisfied:0x4000000}: 52213557
+    JobStatus{c08c00b androidx.work.systemjobscheduler:u0a134/31008 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@7ce1be01] satisfied:0x3700000 unsatisfied:0x4000000}: 52213626
+    JobStatus{58c96df androidx.work.systemjobscheduler:u0a134/31010 #ObserverWorker#@androidx.work.systemjobscheduler@com.samsung.android.smartsuggestions/androidx.work.impl.background.systemjob.SystemJobService u=0 s=10134 URIS=[android.app.job.JobInfo$TriggerContentUri@e25fb835, android.app.job.JobInfo$TriggerContentUri@caeade1d] satisfied:0x3700000 unsatisfied:0x4000000}: 52213693
+--
+    5009:com.samsung.android.scloud=false
+    5004:com.samsung.cmh=false
+    5004:com.samsung.faceservice=false
+    1073:com.google.android.networkstack=false
+    1001:com.android.phone=false
+    1001:com.samsung.android.app.telephonyui=false
+    1000:com.samsung.sait.sohservice=false
+--
+    #androidx.work.systemjobscheduler:5009/100185 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##5009/201295 from 5009 active: com.samsung.android.scpm [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##5009/201293 from 5009 active: com.samsung.android.scpm [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##5009/201292 from 5009 active: com.samsung.android.scpm [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100007 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100001 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100184 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##5009/50001 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:5004/62 from 5004 active: com.samsung.faceservice [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##5004/654321 from 5004 active: com.samsung.cmh [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1073/3345678 from 1073 active: com.google.android.networkstack [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1001/80001 from 1001 active, exempted: com.samsung.android.app.telephonyui [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/37 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/3923512 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/18 from u0a269 active, exempted: com.google.android.gms [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/904642 from 1000 active, exempted: com.sec.android.diagmonagent [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #androidx.work.systemjobscheduler:1000/3521 from 1000 active, exempted: com.samsung.euicc [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/52417896 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/808 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+--
+    #SyncManager:1000/35 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #HEALTH_CONNECT_ONBOARDING_NOTIFICATION_JOB:1000/79554621 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/44 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/813 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/882313 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/1145656139 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/27 from u0a269 active, exempted: com.google.android.gms [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/32 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/41 from u0a285 idle, exempted: com.google.android.calendar [RUN_ANY_IN_BACKGROUND disallowed] RUNNABLE
+    #SyncManager:1000/51 from u0a428 idle: com.google.android.apps.docs.editors.sheets [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    ##1000/27873780 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/814 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/7259101 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/15 from u0a473 idle: com.google.android.apps.magazines [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+--
+    #SyncManager:1000/34 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/33 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/30 from u0a284 idle: com.google.android.gm [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/191934935 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SettingsProviderJobsNamespace:1000/1 from 1000 active, exempted: com.android.providers.settings [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/49 from u0a285 idle, exempted: com.google.android.calendar [RUN_ANY_IN_BACKGROUND disallowed] RUNNABLE
+    #VirtualizationSystemService:1000/1 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/52418896 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+--
+    #SyncManager:1000/36 from 5009 active: com.samsung.android.scloud [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/16964307 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/8452948 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    ##1000/116478 from 1000 active, exempted: com.sec.android.diagmonagent [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #NotificationBitmapJob:1000/290381858 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+    #SyncManager:1000/53 from u0a427 idle: com.google.android.apps.docs.editors.docs [RUN_ANY_IN_BACKGROUND disallowed] WAITING
+    #HEALTH_CONNECT_DAILY_JOB:1000/190715335 from 1000 active, exempted: android [RUN_ANY_IN_BACKGROUND allowed] RUNNABLE
+--
+    #androidx.work.systemjobscheduler:5009/100185 from 5009: com.samsung.android.scloud RUNNABLE
+    ##5009/201295 from 5009: com.samsung.android.scpm RUNNABLE
+    ##5009/201293 from 5009: com.samsung.android.scpm RUNNABLE
+    ##5009/201292 from 5009: com.samsung.android.scpm RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100007 from 5009: com.samsung.android.scloud RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100001 from 5009: com.samsung.android.scloud RUNNABLE
+    #androidx.work.systemjobscheduler:5009/100184 from 5009: com.samsung.android.scloud RUNNABLE
+    ##5009/50001 from 5009: com.samsung.android.scloud RUNNABLE
+Failed to write while dumping service jobscheduler: Broken pipe
+== alarms
+      operation=PendingIntent{fd8cada: PendingIntentRecord{14f9855 com.sec.imsservice broadcastIntent}}
+      idle-options=Bundle[{android.pendingIntent.backgroundActivityAllowed=2, android:broadcast.temporaryAppAllowlistReasonCode=302, android:broadcast.temporaryAppAllowlistDuration=10000, android:broadcast.temporaryAppAllowlistReason=, android:broadcast.temporaryAppAllowlistType=0, android:broadcast.flags=8}]
+    RTC #23: Alarm{bb8fb0b type 1 origWhen 1793852219624 whenElapsed 8954833 com.samsung.android.scloud}
+      tag=*alarm*:com.samsung.android.sdk.smp.TASK_ALARM
+      type=RTC origWhen=2026-11-04 23:16:59.624 window=0 exactAllowReason=permission repeatInterval=0 count=0 flags=0x9
+      policyWhenElapsed: requester=+54m16s842ms app_standby=-34s322ms device_idle=-- battery_saver=-- gms_manager=--
+      whenElapsed=+54m16s842ms maxWhenElapsed=+54m16s842ms
+      operation=PendingIntent{fc26de8: PendingIntentRecord{59648e5 com.samsung.android.scloud broadcastIntent}}
+      idle-options=Bundle[{android.pendingIntent.backgroundActivityAllowed=2, android:broadcast.temporaryAppAllowlistReasonCode=302, android:broadcast.temporaryAppAllowlistDuration=10000, android:broadcast.temporaryAppAllowlistReason=, android:broadcast.temporaryAppAllowlistType=0, android:broadcast.flags=8}]
+    RTC_WAKEUP #24: Alarm{cb5ac01 type 0 origWhen 1793853000000 whenElapsed 9735210 com.samsung.android.mcfds}
+      tag=*walarm*:com.samsung.android.ce.action.SCHEDULER_ALARM_24H_STATS_TRIGGER
+      type=RTC_WAKEUP origWhen=2026-11-04 23:30:00.000 window=+1h0m0s0ms repeatInterval=0 count=0 flags=0x20
+== disabled components

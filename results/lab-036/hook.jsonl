@@ -1,0 +1,10 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=1000 system","at":1793848089404}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793848367690}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793848419525}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=true","at":1793848442131}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793848481177}
+{"cmd":"preview","ok":true,"detail":"tab=DIALER dark=true","at":1793848495375}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=false","at":1793848675859}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=false","at":1793848699469}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793848739001}
+{"cmd":"preview","ok":true,"detail":"tab=DIALER dark=false","at":1793848753102}

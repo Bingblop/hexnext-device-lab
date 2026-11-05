@@ -1,0 +1,1762 @@
+== dumpsys package
+Activity Resolver Table:
+  Full MIME Types:
+      voice/path:
+        e5355d9 com.sec.android.app.voicenote/.activity.NFCPlaySoundActivity filter c79db9e
+          Action: "android.nfc.action.NDEF_DISCOVERED"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "voice/path"
+      audio/amr:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+      audio/mp4:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+      audio/3gpp:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+      audio/mpeg:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+
+  Base MIME Types:
+      audio:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+      voice:
+        e5355d9 com.sec.android.app.voicenote/.activity.NFCPlaySoundActivity filter c79db9e
+          Action: "android.nfc.action.NDEF_DISCOVERED"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "voice/path"
+
+  Schemes:
+      applink:
+        c50b681 com.sec.android.app.voicenote/.activity.BixbyAppLinkActivity filter ebf3326
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "applink"
+          Authority: "com.sec.android.app.voicenote": -1
+          AutoVerify=true
+      voice:
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter 558ab23
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "voice"
+          Authority: "recording.id": -1
+      content:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+
+  Non-Data Actions:
+      voicenote.intent.action.accessibility:
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter 47bd87
+          Action: "voicenote.intent.action.accessibility"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.APP_DATA:
+        4827703 com.sec.android.app.voicenote/.activity.managestorage.ManageStorageActivity filter b21c680
+          Action: "com.sec.android.app.voicenote.APP_DATA"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.play_continuously:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.keyguard_dismiss:
+        75139bd com.sec.android.app.voicenote/.activity.DismissKeyguardActivity filter 25b5bb2
+          Action: "voicenote.intent.action.keyguard_dismiss"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.OPEN_LIST:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 5aa313
+          Action: "voicenote.intent.action.OPEN_LIST"
+          Action: "voicenote.intent.action.START_RECORDING"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.side_button_start_record:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 7286749
+          Action: "voicenote.intent.action.side_button_start_record"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.support.REMOTE_ACTION:
+        dcdba25 com.sec.android.app.voicenote/.main.VNMainActivity filter 23cf008
+          Action: "com.samsung.android.support.REMOTE_ACTION"
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter 6ba08dd
+          Action: "com.samsung.android.support.REMOTE_ACTION"
+      voicenote.intent.action.language_packs_for_transcription_and_translation:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.block_call:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.SEARCH_IN_APP:
+        5072f05 com.sec.android.app.voicenote/.activity.ExternalActionActivity filter 740bb5a
+          Action: "com.sec.android.app.voicenote.SEARCH_IN_APP"
+          Action: "com.sec.android.app.voicenote.action.VIEW_CATEGORY_FILTER"
+          Action: "com.sec.android.app.voicenote.action.VIEW_TRASH"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        dcdba25 com.sec.android.app.voicenote/.main.VNMainActivity filter cedb7fa
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          Category: "com.samsung.android.intent.category.COVER_LAUNCHER_FOR_FLIP"
+      voicenote.intent.action.edge_start_record:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 7f96950
+          Action: "voicenote.intent.action.edge_start_record"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.action.VIEW_CATEGORY_FILTER:
+        5072f05 com.sec.android.app.voicenote/.activity.ExternalActionActivity filter 740bb5a
+          Action: "com.sec.android.app.voicenote.SEARCH_IN_APP"
+          Action: "com.sec.android.app.voicenote.action.VIEW_CATEGORY_FILTER"
+          Action: "com.sec.android.app.voicenote.action.VIEW_TRASH"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.intent.action.SEC_APPLICATION_SETTINGS:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 5f0364c
+          Action: "com.sec.android.intent.action.SEC_APPLICATION_SETTINGS"
+          Category: "com.sec.android.intent.category.SEC_APPLICATION_SETTINGS"
+      com.android.settings.MANUFACTURER_APPLICATION_SETTING:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.action.CALL_SUMMARY_SETTING_REQUEST:
+        141618b com.sec.android.app.voicenote/.activity.CallSummarySettingRequestActivity filter 1111268
+          Action: "com.sec.android.app.voicenote.action.CALL_SUMMARY_SETTING_REQUEST"
+          Action: "com.sec.android.app.voicenote.action.CALL_TRANSCRIPTION_ASSIST_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.intent.MAIN_ACTION:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.recording_mode:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.level_activekey:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 113ca7c
+          Action: "voicenote.intent.action.level_activekey"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.auto_detect_language:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.audio_playback:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.summarize_transcripts:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.SPEECH_TO_TEXT:
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter 3d74c52
+          Action: "voicenote.intent.action.SPEECH_TO_TEXT"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.privatebox:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 722684e
+          Action: "voicenote.intent.action.privatebox"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.transcript_assist:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.START_RECORDING:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter 5aa313
+          Action: "voicenote.intent.action.OPEN_LIST"
+          Action: "voicenote.intent.action.START_RECORDING"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.permissions:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.suggest:
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter af7b820
+          Action: "voicenote.intent.action.suggest"
+          Category: "android.intent.category.DEFAULT"
+      android.provider.MediaStore.RECORD_SOUND:
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter c4f59c6
+          Action: "android.provider.MediaStore.RECORD_SOUND"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA:
+        3fd02e4 com.sec.android.app.voicenote/.activity.AboutPermissionForChinaModelsActivity filter 9f3e34d
+          Action: "com.sec.android.app.secsetupwizard.APP_PERMISSIONS_FOR_CHINA"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.about:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.privacy_policy:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.action.CALL_TRANSCRIPTION_ASSIST_SETTINGS:
+        141618b com.sec.android.app.voicenote/.activity.CallSummarySettingRequestActivity filter 1111268
+          Action: "com.sec.android.app.voicenote.action.CALL_SUMMARY_SETTING_REQUEST"
+          Action: "com.sec.android.app.voicenote.action.CALL_TRANSCRIPTION_ASSIST_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.more_intelligent_features:
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.recording_quality:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.more_galaxy_ai_features:
+        82413aa com.sec.android.app.voicenote/.activity.TranscriptionAssistActivity filter 4d65b9b
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.samsung.android.settings.action.INTELLIGENCE_SERVICE_SETTINGS"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.summarize_transcripts"
+          Action: "voicenote.intent.action.more_galaxy_ai_features"
+          Category: "android.intent.category.DEFAULT"
+      com.sec.android.app.voicenote.action.VIEW_TRASH:
+        5072f05 com.sec.android.app.voicenote/.activity.ExternalActionActivity filter 740bb5a
+          Action: "com.sec.android.app.voicenote.SEARCH_IN_APP"
+          Action: "com.sec.android.app.voicenote.action.VIEW_CATEGORY_FILTER"
+          Action: "com.sec.android.app.voicenote.action.VIEW_TRASH"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.record_in_stereo:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS:
+        4106b38 com.sec.android.app.voicenote/.activity.AliasVoiceTranscriptionActivity filter f8e711
+          Action: "voicenote.intent.action.language_packs_for_transcription_and_translation"
+          Action: "com.android.settings.MANUFACTURER_APPLICATION_SETTING"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.auto_detect_language"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.more_intelligent_features"
+          Action: "com.samsung.android.settings.action.INTELLIGENT_FEATURES_SETTINGS"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.use_bluetooth_mic:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.contact_us:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.spv.ACTION_VIEW_DETAIL:
+        887c076 com.sec.android.app.voicenote/.activity.AboutPermissionActivity filter fb51677
+          Action: "com.samsung.android.spv.ACTION_VIEW_DETAIL"
+          Category: "android.intent.category.DEFAULT"
+      voicenote.intent.action.storage_location:
+        b00d67f com.sec.android.app.voicenote/.activity.SettingsActivity filter 29a7695
+          Action: "voicenote.intent.action.play_continuously"
+          Action: "voicenote.intent.action.block_call"
+          Action: "com.samsung.intent.MAIN_ACTION"
+          Action: "voicenote.intent.action.recording_mode"
+          Action: "voicenote.intent.action.audio_playback"
+          Action: "voicenote.intent.action.transcript_assist"
+          Action: "voicenote.intent.action.permissions"
+          Action: "voicenote.intent.action.about"
+          Action: "voicenote.intent.action.privacy_policy"
+          Action: "voicenote.intent.action.recording_quality"
+          Action: "voicenote.intent.action.record_in_stereo"
+          Action: "voicenote.intent.action.use_bluetooth_mic"
+          Action: "voicenote.intent.action.contact_us"
+          Action: "voicenote.intent.action.storage_location"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.SEARCH:
+        dcdba25 com.sec.android.app.voicenote/.main.VNMainActivity filter 4a1b1ab
+          Action: "android.intent.action.SEARCH"
+        344d3a1 com.sec.android.app.voicenote/.activity.SimpleActivity filter 7b504b4
+          Action: "android.intent.action.SEARCH"
+          Category: "android.intent.category.DEFAULT"
+      com.samsung.android.support.executable:
+        6a76e02 com.sec.android.app.voicenote/.activity.ShortcutActivity filter fc25d6f
+          Action: "com.samsung.android.support.executable"
+
+  MIME Typed Actions:
+      android.intent.action.VIEW:
+        e628b67 com.sec.android.app.voicenote/.activity.QuickPlayerActivity filter f18ed14
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "audio/mp4"
+          StaticType: "audio/mpeg"
+          StaticType: "audio/amr"
+          StaticType: "audio/3gpp"
+      android.nfc.action.NDEF_DISCOVERED:
+        e5355d9 com.sec.android.app.voicenote/.activity.NFCPlaySoundActivity filter c79db9e
+          Action: "android.nfc.action.NDEF_DISCOVERED"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "voice/path"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        6309a3f com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter d6b0f0c
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        bbf0399 com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 4c3565e
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+      com.samsung.wearable.glasses.action.CONNECTION_STATUS:
+        2b805f com.sec.android.app.voicenote/.receiver.GlassesConnectionStatusReceiver filter c1ccaac
+          Action: "com.samsung.wearable.glasses.action.CONNECTION_STATUS"
+      com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS:
+        3b341f1 com.sec.android.app.voicenote/.backup.SmartSwitchReceiver filter 2d0b1d6
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS"
+      com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER:
+        3b341f1 com.sec.android.app.voicenote/.backup.SmartSwitchReceiver filter 2d0b1d6
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS"
+      com.samsung.android.intent.action.REQUEST_SERVICEBOX_REMOTEVIEWS:
+        1b6816b com.sec.android.app.voicenote/.ui.remote.FaceWidgetRemoteViewReceiver filter 9e5e4c8
+          Action: "com.samsung.android.intent.action.REQUEST_SERVICEBOX_REMOTEVIEWS"
+      com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS:
+        3b341f1 com.sec.android.app.voicenote/.backup.SmartSwitchReceiver filter 2d0b1d6
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS"
+      com.sec.android.app.voicenote.rec_start_face_widget_clear_cover:
+        d478961 com.sec.android.app.voicenote/.ui.remote.FaceWidgetControlButtonReceiver filter 5573c86
+          Action: "com.sec.android.app.voicenote.rec_start_face_widget_clear_cover"
+          Action: "com.sec.android.app.voicenote.rec_start_widget"
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        964250d com.sec.android.app.voicenote/androidx.profileinstaller.ProfileInstallReceiver filter d60e610
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        4734055 com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 96a7a6a
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER:
+        3b341f1 com.sec.android.app.voicenote/.backup.SmartSwitchReceiver filter 2d0b1d6
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS"
+      com.samsung.intent.action.SETTINGS_SOFT_RESET:
+        b0ae375 com.sec.android.app.voicenote/.receiver.SettingResetReceiver filter 66eaf0a
+          Action: "com.samsung.intent.action.SETTINGS_SOFT_RESET"
+      android.intent.action.DEVICE_STORAGE_OK:
+        4734055 com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 96a7a6a
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED:
+        39c947 com.sec.android.app.voicenote/.receiver.SamsungAccountReceiver filter 7d88574
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+      com.samsung.sea.rm.DEMO_RESET_STARTED:
+        a8f1c57 com.sec.android.app.voicenote/.receiver.DemoResetReceiver filter bdbc344
+          Action: "com.samsung.sea.rm.DEMO_RESET_STARTED"
+      com.samsung.intent.action.LAZY_BOOT_COMPLETE:
+        edcb4b9 com.sec.android.app.voicenote/.receiver.LazyBootCompleteReceiver filter 31f80fe
+          Action: "com.samsung.intent.action.LAZY_BOOT_COMPLETE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        964250d com.sec.android.app.voicenote/androidx.profileinstaller.ProfileInstallReceiver filter 7fbecc2
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      android.intent.action.BATTERY_LOW:
+        6309a3f com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter d6b0f0c
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED:
+        39c947 com.sec.android.app.voicenote/.receiver.SamsungAccountReceiver filter 7d88574
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNOUT_COMPLETED"
+          Action: "com.samsung.account.SAMSUNGACCOUNT_SIGNIN_COMPLETED"
+      android.intent.action.TIMEZONE_CHANGED:
+        b9e9b5b com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 9400ff8
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+      android.intent.action.TIME_SET:
+        b9e9b5b com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.RescheduleReceiver filter 9400ff8
+          Action: "android.intent.action.TIMEZONE_CHANGED"
+          Action: "android.intent.action.TIME_SET"
+      androidx.profileinstaller.action.SKIP_FILE:
+        964250d com.sec.android.app.voicenote/androidx.profileinstaller.ProfileInstallReceiver filter 8731ad3
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        964250d com.sec.android.app.voicenote/androidx.profileinstaller.ProfileInstallReceiver filter 8bb0509
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+      com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS:
+        3b341f1 com.sec.android.app.voicenote/.backup.SmartSwitchReceiver filter 2d0b1d6
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_BACKUP_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_PREPARE_OSMOSIS_RECORDINGS"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_VOICERECORDER"
+          Action: "com.samsung.android.intent.action.REQUEST_RESTORE_OSMOSIS_RECORDINGS"
+      android.intent.action.ACTION_POWER_CONNECTED:
+        bbf0399 com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter 4c3565e
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+      com.sec.android.app.voicenote.rec_start_widget:
+        d478961 com.sec.android.app.voicenote/.ui.remote.FaceWidgetControlButtonReceiver filter 5573c86
+          Action: "com.sec.android.app.voicenote.rec_start_face_widget_clear_cover"
+          Action: "com.sec.android.app.voicenote.rec_start_widget"
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+      com.samsung.android.knox.intent.action.KNOX_RESTRICTIONS_CHANGED_INTERNAL:
+        b925a9d com.sec.android.app.voicenote/.receiver.KnoxReceiver filter 75a9b12
+          Action: "com.samsung.android.knox.intent.action.KNOX_RESTRICTIONS_CHANGED_INTERNAL"
+      com.sec.android.app.voicenote.widget_record_fail:
+        ca90c2d com.sec.android.app.voicenote/.ui.remote.VoiceRecorderGlanceWidgetReceiver filter d7e1562
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        4ff26f3 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderBriefWidgetReceiver filter 173cfb0
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        9b73e29 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderWidgetProvider filter 4ac25ae
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        35b3f4f com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleSmallWidgetProvider filter 13e36dc
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        65c93e5 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleLargeWidgetProvider filter 298eeba
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        d478961 com.sec.android.app.voicenote/.ui.remote.FaceWidgetControlButtonReceiver filter 5573c86
+          Action: "com.sec.android.app.voicenote.rec_start_face_widget_clear_cover"
+          Action: "com.sec.android.app.voicenote.rec_start_widget"
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+      com.sec.android.app.voicenote.widget_record_save:
+        ca90c2d com.sec.android.app.voicenote/.ui.remote.VoiceRecorderGlanceWidgetReceiver filter d7e1562
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        4ff26f3 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderBriefWidgetReceiver filter 173cfb0
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        9b73e29 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderWidgetProvider filter 4ac25ae
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        35b3f4f com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleSmallWidgetProvider filter 13e36dc
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        65c93e5 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleLargeWidgetProvider filter 298eeba
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        d478961 com.sec.android.app.voicenote/.ui.remote.FaceWidgetControlButtonReceiver filter 5573c86
+          Action: "com.sec.android.app.voicenote.rec_start_face_widget_clear_cover"
+          Action: "com.sec.android.app.voicenote.rec_start_widget"
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+      android.appwidget.action.APPWIDGET_UPDATE:
+        ca90c2d com.sec.android.app.voicenote/.ui.remote.VoiceRecorderGlanceWidgetReceiver filter d7e1562
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        4ff26f3 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderBriefWidgetReceiver filter 173cfb0
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        9b73e29 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderWidgetProvider filter 4ac25ae
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        35b3f4f com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleSmallWidgetProvider filter 13e36dc
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+        65c93e5 com.sec.android.app.voicenote/.ui.remote.VoiceRecorderMultipleLargeWidgetProvider filter 298eeba
+          Action: "com.sec.android.app.voicenote.widget_record_fail"
+          Action: "com.sec.android.app.voicenote.widget_record_save"
+          Action: "android.appwidget.action.APPWIDGET_UPDATE"
+      androidx.work.diagnostics.REQUEST_DIAGNOSTICS:
+        9219237 com.sec.android.app.voicenote/androidx.work.impl.diagnostics.DiagnosticsReceiver filter b6233a4
+          Action: "androidx.work.diagnostics.REQUEST_DIAGNOSTICS"
+      android.intent.action.MY_PACKAGE_REPLACED:
+        231c37b com.sec.android.app.voicenote/.receiver.PackageReplacedReceiver filter 4e1e598
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+        ebfb2e3 com.sec.android.app.voicenote/androidx.glance.appwidget.MyPackageReplacedReceiver filter eb284e0
+          Action: "android.intent.action.MY_PACKAGE_REPLACED"
+      androidx.work.impl.background.systemalarm.UpdateProxies:
+        6f48cd1 com.sec.android.app.voicenote/androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver filter 3add336
+          Action: "androidx.work.impl.background.systemalarm.UpdateProxies"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.sec.android.app.voicenote.action.BLUETOOTH_RECORD_START:
+        98bcdd4 com.sec.android.app.voicenote/.service.VoiceNoteService filter f356b7d permission com.sec.android.app.voicenote.Controller
+          Action: "com.sec.android.app.voicenote.action.BLUETOOTH_RECORD_START"
+      com.samsung.server.telecom.SamsungCallScreeningService:
+        2d0a72 com.sec.android.app.voicenote/.service.TelephonyCallScreeningService filter 2885ec3 permission com.samsung.server.telecom.permission.BIND_SCREENING_SERVICE
+          Action: "com.samsung.server.telecom.SamsungCallScreeningService"
+
+Provider Resolver Table:
+  Non-Data Actions:
+      com.sec.android.app.myfiles.MANAGE_TRASH:
+        120130e com.sec.android.app.voicenote/.data.ManageTrashProvider filter b4a912f
+          Action: "com.sec.android.app.myfiles.MANAGE_TRASH"
+      com.sec.android.app.myfiles.MANAGE_APP_DATA:
+        56533c com.sec.android.app.voicenote/.data.provider.VoiceRecorderManageAppDataProvider filter e85e8c5
+          Action: "com.sec.android.app.myfiles.MANAGE_APP_DATA"
+      com.samsung.android.intent.action.SIDE_BUTTON_SETTINGS:
+        ad36728 com.sec.android.app.voicenote/.data.SideButtonProvider filter 6614c41
+          Action: "com.samsung.android.intent.action.SIDE_BUTTON_SETTINGS"
+      com.samsung.android.settings.DYNAMIC_MENU_PROVIDER:
+        7ef75e6 com.sec.android.app.voicenote/.data.SettingsIntelligenceDynamicProvider filter cc57727
+          Action: "com.samsung.android.settings.DYNAMIC_MENU_PROVIDER"
+      android.content.action.SEARCH_INDEXABLES_PROVIDER:
+        94e521a com.sec.android.app.voicenote/.data.SettingsIndexablesProvider filter d79114b
+          Action: "android.content.action.SEARCH_INDEXABLES_PROVIDER"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.data.VNAIProvider.WRITE_PERMISSION] (2dcadef):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{a84d145 com.sec.android.app.voicenote.data.VNAIProvider.WRITE_PERMISSION}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.data.VNAIProvider.READ_PERMISSION] (acf10fc):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{1e36dcb com.sec.android.app.voicenote.data.VNAIProvider.READ_PERMISSION}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (3f3385):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature
+    perm=PermissionInfo{aa63cc1 com.sec.android.app.voicenote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.data.VNProvider.permission.read] (a79a5da):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{6b91ba7 com.sec.android.app.voicenote.data.VNProvider.permission.read}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.data.CategoryDBProvider] (6f03a0b):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{e18e3fd com.sec.android.app.voicenote.data.CategoryDBProvider}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.data.VNProvider.permission.write] (57a40e8):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{551cb43 com.sec.android.app.voicenote.data.VNProvider.permission.write}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.Controller] (448301):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{d14c2f9 com.sec.android.app.voicenote.Controller}
+    flags=0x0
+
+Permissions:
+  Permission [com.sec.android.app.voicenote.settings.REQUEST_SUMMARY_SETTING_PERMISSION] (dc45a6):
+    sourcePackage=com.sec.android.app.voicenote
+    uid=10349 gids=[] type=0 prot=signature|privileged
+    perm=PermissionInfo{23bd89f com.sec.android.app.voicenote.settings.REQUEST_SUMMARY_SETTING_PERMISSION}
+    flags=0x0
+
+Registered ContentProviders:
+  com.sec.android.app.voicenote/com.samsung.android.scloud.oem.lib.ClientProvider:
+    Provider{975ddec com.sec.android.app.voicenote/com.samsung.android.scloud.oem.lib.ClientProvider}
+  com.sec.android.app.voicenote/.data.SettingsIndexablesProvider:
+    Provider{94e521a com.sec.android.app.voicenote/.data.SettingsIndexablesProvider}
+  com.sec.android.app.voicenote/.data.VNAIProvider:
+    Provider{15595b5 com.sec.android.app.voicenote/.data.VNAIProvider}
+  com.sec.android.app.voicenote/.data.provider.VoiceRecorderManageAppDataProvider:
+    Provider{56533c com.sec.android.app.voicenote/.data.provider.VoiceRecorderManageAppDataProvider}
+  com.sec.android.app.voicenote/.data.CategoryDBProvider:
+    Provider{40c144a com.sec.android.app.voicenote/.data.CategoryDBProvider}
+  com.sec.android.app.voicenote/androidx.core.content.FileProvider:
+    Provider{28f5fbb com.sec.android.app.voicenote/androidx.core.content.FileProvider}
+  com.sec.android.app.voicenote/.data.FinderProvider:
+    Provider{bd8ecd8 com.sec.android.app.voicenote/.data.FinderProvider}
+  com.sec.android.app.voicenote/.data.VNProvider:
+    Provider{a96d831 com.sec.android.app.voicenote/.data.VNProvider}
+  com.sec.android.app.voicenote/.data.SideButtonProvider:
+    Provider{ad36728 com.sec.android.app.voicenote/.data.SideButtonProvider}
+  com.sec.android.app.voicenote/.data.VRProvider:
+    Provider{eff2b16 com.sec.android.app.voicenote/.data.VRProvider}
+  com.sec.android.app.voicenote/com.sec.android.diagmonagent.log.provider.DiagMonProvider:
+    Provider{aca3c97 com.sec.android.app.voicenote/com.sec.android.diagmonagent.log.provider.DiagMonProvider}
+  com.sec.android.app.voicenote/.data.SettingsIntelligenceDynamicProvider:
+    Provider{7ef75e6 com.sec.android.app.voicenote/.data.SettingsIntelligenceDynamicProvider}
+  com.sec.android.app.voicenote/androidx.startup.InitializationProvider:
+    Provider{a5bfe84 com.sec.android.app.voicenote/androidx.startup.InitializationProvider}
+  com.sec.android.app.voicenote/com.samsung.android.sdk.bixby2.provider.CapsuleProvider:
+    Provider{ecfc66d com.sec.android.app.voicenote/com.samsung.android.sdk.bixby2.provider.CapsuleProvider}
+  com.sec.android.app.voicenote/.data.ManageTrashProvider:
+    Provider{120130e com.sec.android.app.voicenote/.data.ManageTrashProvider}
+
+ContentProvider Authorities:
+  [com.sec.android.app.voicenote.data.SettingsIntelligenceDynamicProvider]:
+    Provider{7ef75e6 com.sec.android.app.voicenote/.data.SettingsIntelligenceDynamicProvider}
+      applicationInfo=ApplicationInfo{f666be7 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.fileprovider]:
+    Provider{28f5fbb com.sec.android.app.voicenote/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{f268394 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.backup]:
+    Provider{975ddec com.sec.android.app.voicenote/com.samsung.android.scloud.oem.lib.ClientProvider}
+      applicationInfo=ApplicationInfo{7f54e3d com.sec.android.app.voicenote}
+  [com.sec.android.log.vruy5va1ta]:
+    Provider{aca3c97 com.sec.android.app.voicenote/com.sec.android.diagmonagent.log.provider.DiagMonProvider}
+      applicationInfo=ApplicationInfo{1771632 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.provider]:
+    Provider{eff2b16 com.sec.android.app.voicenote/.data.VRProvider}
+      applicationInfo=ApplicationInfo{523df83 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.SettingsIndexablesProvider]:
+    Provider{94e521a com.sec.android.app.voicenote/.data.SettingsIndexablesProvider}
+      applicationInfo=ApplicationInfo{b24500 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.VNAIProvider]:
+    Provider{15595b5 com.sec.android.app.voicenote/.data.VNAIProvider}
+      applicationInfo=ApplicationInfo{aed9139 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.CapsuleProvider]:
+    Provider{ecfc66d com.sec.android.app.voicenote/com.samsung.android.sdk.bixby2.provider.CapsuleProvider}
+      applicationInfo=ApplicationInfo{47c637e com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.CategoryDBProvider]:
+    Provider{40c144a com.sec.android.app.voicenote/.data.CategoryDBProvider}
+      applicationInfo=ApplicationInfo{baf0df com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.FinderProvider]:
+    Provider{bd8ecd8 com.sec.android.app.voicenote/.data.FinderProvider}
+      applicationInfo=ApplicationInfo{76b12c com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.VNProvider]:
+    Provider{a96d831 com.sec.android.app.voicenote/.data.VNProvider}
+      applicationInfo=ApplicationInfo{8d07f5 com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.androidx-startup]:
+    Provider{a5bfe84 com.sec.android.app.voicenote/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{f7398a com.sec.android.app.voicenote}
+  [.ManageTrashProvider]:
+    Provider{120130e com.sec.android.app.voicenote/.data.ManageTrashProvider}
+      applicationInfo=ApplicationInfo{787bbfb com.sec.android.app.voicenote}
+  [com.sec.android.app.voicenote.data.SideButtonProvider]:
+    Provider{ad36728 com.sec.android.app.voicenote/.data.SideButtonProvider}
+      applicationInfo=ApplicationInfo{f33b418 com.sec.android.app.voicenote}
+  [.VoiceRecorderManageAppDataProvider]:
+    Provider{56533c com.sec.android.app.voicenote/.data.provider.VoiceRecorderManageAppDataProvider}
+      applicationInfo=ApplicationInfo{c732e71 com.sec.android.app.voicenote}
+
+Key Set Manager:
+  [com.sec.android.app.voicenote]
+      Signing KeySets: 1
+
+Packages:
+  Package [com.sec.android.app.voicenote] (8b9fe2d):
+    appId=10349
+    pccId=-1
+    pkg=Package{6fc24dd com.sec.android.app.voicenote}
+    codePath=/data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==
+    resourcePath=/data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==
+    legacyNativeLibraryDir=/data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==/lib
+    extractNativeLibs=false
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=2021591330 minSdk=35 targetSdk=37
+    minExtensionVersions=[]
+    versionName=21.5.91.33
+    hiddenApiEnforcementPolicy=0
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=3
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    pageSizeCompat=0
+    queriesPackages=[com.sec.android.app.samsungapps, com.samsung.android.qconnect, com.samsung.android.voc, com.samsung.android.providers.context, com.google.android.mediaprovider, com.osp.app.signin, com.samsung.account.business, com.samsung.android.app.contacts, com.samsung.android.intellivoiceservice, com.samsung.android.app.sharelive, com.samsung.android.app.notes, com.samsung.wearable.armanager]
+    queriesIntents=[Intent { act=android.intent.action.SEND_MULTIPLE dat=content://*/... typ=audio/* }, Intent { act=android.intent.action.SEND_MULTIPLE dat=content://*/... typ=text/plain }, Intent { act=android.intent.action.SEND_MULTIPLE dat=content://*/... typ=application/txt }, Intent { act=android.intent.action.SEND dat=content://*/... typ=audio/* }, Intent { act=android.intent.action.SEND dat=content://*/... typ=text/plain }, Intent { act=com.samsung.android.scs.asr.action.SEARCH_LANGPACK }, Intent { act=com.samsung.android.utils.asset.action.REMOTE_ASSETS_INFO }]
+    scannedAsStoppedSystemApp=false
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      secmediarecorder
+      com.samsung.android.nfc.adapter
+      androidx.window.extensions
+      androidx.window.sidecar
+    usesLibraryFiles:
+      /system/framework/com.samsung.android.nfc.adapter.jar
+      /system_ext/framework/androidx.window.extensions.jar
+      /system_ext/framework/androidx.window.sidecar.jar
+    timeStamp=2026-11-03 10:41:53
+    lastUpdateTime=2026-11-03 10:41:56
+    installerPackageName=com.sec.android.app.samsungapps
+    installerPackageUid=10082
+    initiatingPackageName=com.sec.android.app.samsungapps
+    originatingPackageName=null
+    category=manifest: -1, override: -1, by user: -1
+    packageSource=0
+    appMetadataFilePath=null
+    appMetadataSource=0
+    signatures=PackageSignatures{c853852 version:3, signatures:[b378e95c], past signatures:[]}
+    installPermissionsFixed=false
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA LARGE_HEAP ]
+    privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PARTIALLY_DIRECT_BOOT_AWARE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    apexModuleName=null
+    componentsDeclared=64
+    declared permissions:
+      com.sec.android.app.voicenote.Controller: prot=signature|privileged
+      com.sec.android.app.voicenote.data.VNProvider.permission.read: prot=signature|privileged
+      com.sec.android.app.voicenote.data.VNProvider.permission.write: prot=signature|privileged
+      com.sec.android.app.voicenote.data.CategoryDBProvider: prot=signature|privileged
+      com.sec.android.app.voicenote.data.VNAIProvider.READ_PERMISSION: prot=signature|privileged
+      com.sec.android.app.voicenote.data.VNAIProvider.WRITE_PERMISSION: prot=signature|privileged
+      com.sec.android.app.voicenote.settings.REQUEST_SUMMARY_SETTING_PERMISSION: prot=signature|privileged
+      com.sec.android.app.voicenote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature
+    requested permissions:
+      android.permission.WRITE_SETTINGS
+      com.samsung.android.intellivoiceservice.aitranslator.permission.BIND_TRANSLATION
+      com.samsung.android.mobileservice.social.common.provider.opensession.permission.READ
+      com.samsung.android.aicore.permission.BIND_DOWNLOAD_SERVICE
+      com.samsung.android.intellivoiceservice.permission.SUPPORTED_FEATURE_PROVIDER
+      com.samsung.android.app.sharelive.linkshare.sdk.permission
+      android.permission.POST_NOTIFICATIONS
+      android.permission.READ_CALL_LOG
+      com.samsung.android.intellivoiceservice.permission.BIND_WRITING_COMPOSER_SERVICE_FOR_EXTERNAL
+      com.samsung.android.scs.ai.search.permission.WRITE
+      com.samsung.android.intellivoiceservice.permission.BIND_NOTES_ORGANIZATION_SERVICE
+      com.samsung.android.scs.ai.asr.permission.BIND_SPEECH_RECOGNITION_SERVICE
+      android.permission.MODIFY_AUDIO_SETTINGS
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      com.samsung.systemui.permission.FACE_WIDGET
+      com.samsung.android.scs.ai.search.permission.UPDATE_INDEX
+      com.samsung.android.app.sharelive.sdk.WRITE_PROVIDER
+      android.permission.SYSTEM_ALERT_WINDOW
+      com.sec.android.app.voicenote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+      com.samsung.android.sharelive.permission.SHARE_LIVE_UPDATE
+      com.samsung.android.intellivoiceservice.common.permission.CONFIG_PROVIDER
+      com.samsung.android.settings.permission.MANAGE_LANGUAGE_PACK
+      android.permission.NFC
+      com.sec.spp.permission.TOKEN_11c1c12edb9f791535314e9409d0c7780aed745ab6046c4fceb3b3c52c730256eecae2018392a95a70b3e28db1d6969f5ad6f1aec54e150f7212a5ba55a6427e3dd3d10d0ea277dfc5b18a8f2f6b042fb25e521d72fb817a4c55d166878dd432f7a0ad9214b515ebb5238efdf0e614c69e1f9dd0f5c14452b6de4f9a35e88083
+      android.permission.MODIFY_AUDIO_SETTINGS_PRIVILEGED
+      android.permission.INTERNAL_SYSTEM_WINDOW
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_REPLY_SERVICE_FOR_EXTERNAL
+      com.samsung.android.visual.cloudcore.permission.SUPPORTED_FEATURE_PROVIDER
+      com.samsung.android.smartsuggestions.search.permission.WRITE
+      com.sec.android.provider.badge.permission.READ
+      com.samsung.android.bixby.agent.permission.READ_SETTINGS
+      com.samsung.android.app.simplesharing.sdk.permission
+      android.permission.CALL_PRIVILEGED
+      android.permission.FOREGROUND_SERVICE
+      com.samsung.android.ssco.models.permission.READ
+      com.samsung.android.scloud.backup.lib.write
+      com.samsung.android.intellivoiceservice.permission.BIND_GENERIC_SERVICE
+      android.permission.RECEIVE_BOOT_COMPLETED
+      com.samsung.android.scs.ai.asr.permission.SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER
+      com.wssnps.permission.COM_WSSNPS
+      com.sec.android.settings.permission.SOFT_RESET
+      com.samsung.android.intellivoiceservice.permission.BIND_CLASSIFICATION_SERVICE
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+      com.samsung.android.intellivoiceservice.common.permission.SYSTEM_CONFIG_PROVIDER
+      com.samsung.android.intellivoiceservice.permission.BIND_TONECONVERT_SERVICE_FOR_EXTERNAL
+      android.permission.DEVICE_POWER
+      com.sec.android.diagmonagent.permission.DIAGMON
+      com.samsung.android.intellivoiceservice.permission.BIND_EMOJI_AUGMENTATION_SERVICE
+      com.samsung.android.intellivoiceservice.ai.asr.permission.BIND_SPEECH_RECOGNITION_SERVICE
+      android.permission.EXPAND_STATUS_BAR
+      android.permission.BLUETOOTH_CONNECT
+      com.samsung.android.intellivoiceservice.ai.tts.permission.BIND_TEXT_TO_SPEECH_FOR_EXTERNAL
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+      com.samsung.wearable.glasses.permission.CONNECTION_STATUS
+      com.samsung.android.intellivoiceservice.permission.BIND_SUGGESTION_SERVICE
+      android.permission.INTERNET
+      com.samsung.android.aicore.permission.BIND_WALLPAPER_SERVICE
+      com.samsung.android.visual.cloudcore.permission.BIND_PORTRAIT_SERVICE
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_CAPTURE_SERVICE
+      com.samsung.android.callassistant.permission.WRITE_CALL_RECORDING_PROVIDER
+      com.samsung.android.app.sharelive.sdk.READ_PROVIDER
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER
+      com.samsung.android.scs.permission.SUPPORTED_FEATURE_PROVIDER
+      com.samsung.android.app.notes.permission.DOCUMENT_GENERATOR_SERVICE
+      com.sec.android.app.myfiles.permission.READ
+      android.permission.READ_EXTERNAL_STORAGE
+      com.samsung.android.intellivoiceservice.permission.BIND_EXTRACTION_SERVICE
+      com.samsung.android.intellivoiceservice.permission.BIND_WRITING_COMPOSER_SERVICE
+      com.samsung.android.intellivoiceservice.permission.BIND_SUMMARIZATION_SERVICE_FOR_EXTERNAL
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SYSTEM_SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER
+      android.permission.INTERACT_ACROSS_USERS_FULL
+      com.samsung.android.providers.media.FILES
+      com.samsung.android.providers.media.WRITE
+      com.dkitec.mdm.android.permission.AUDIT_EVENT
+      android.permission.WRITE_SECURE_SETTINGS
+      com.samsung.android.smartsuggestions.search.permission.UPDATE_INDEX
+      com.samsung.android.intellivoiceservice.permission.BIND_CORRECTION_SERVICE_FOR_EXTERNAL
+      com.samsung.android.intellivoiceservice.permission.BIND_FORMAT_CONVERSION_SERVICE
+      com.samsung.android.intellivoiceservice.permission.BIND_USAGE_SERVICE
+      com.samsung.android.intellivoiceservice.ai.tts.permission.BIND_TEXT_TO_SPEECH
+      android.permission.STATUS_BAR_SERVICE
+      android.permission.READ_SEARCH_INDEXABLES
+      com.samsung.android.scs.ai.asr.permission.SYSTEM_BIND_SPEECH_RECOGNITION_SERVICE
+      com.samsung.android.intellivoiceservice.permission.BIND_SUMMARIZATION_SERVICE
+      android.permission.CALL_PHONE
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER
+      android.permission.OBSERVE_SENSOR_PRIVACY
+      com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SYSTEM_BIND_SPEECH_RECOGNITION_SERVICE
+      android.permission.MANAGE_USERS
+      android.permission.ACCESS_NETWORK_STATE
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS
+      com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER
+      com.samsung.android.scs.ai.image.permission.IMAGE_PROVIDER
+      com.samsung.android.scloud.backup.lib.read
+      com.samsung.android.ssco.models.permission.WRITE
+      android.permission.INTERACT_ACROSS_USERS
+      com.sec.android.permission.LAUNCH_PERSONAL_PAGE_SERVICE
+      com.samsung.android.aicore.permission.SUPPORTED_FEATURE_PROVIDER
+      android.permission.READ_MEDIA_AUDIO
+      com.samsung.android.visual.cloudcore.permission.BIND_DOWNLOAD_SERVICE
+      com.samsung.android.callassistant.permission.READ_CALL_RECORDING_PROVIDER
+      com.samsung.android.intellivoiceservice.permission.BIND_CONFIGURATION_SERVICE
+      com.samsung.keyguard.SHORTCUT_PERMISSION
+      com.samsung.android.scs.ai.suggestion.permission.SUGGESTION_PROVIDER
+      com.samsung.android.sharelive.permission.CONTENT_PICKER
+      android.permission.FOREGROUND_SERVICE_MICROPHONE
+      com.samsung.sea.retailagent.permission.RETAILMODE
+      com.sec.android.permission.VOIP_INTERFACE
+      com.samsung.android.scs.ai.image.permission.BIND_IMAGE_SERVICE
+      com.samsung.android.app.reminder.permission.action.REGISTER
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_REPLY_SERVICE
+      android.permission.MANAGE_NOTIFICATIONS
+      com.samsung.android.scs.ai.asr.permission.SYSTEM_SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER
+      android.permission.USE_COLORIZED_NOTIFICATIONS
+      android.permission.BLUETOOTH_ADVERTISE
+      com.samsung.android.voicewakeup.permission.EXECUTE_SPOTTER_RECORD_SERVICE
+      com.samsung.android.scs.ai.search.permission.READ
+      com.samsung.android.intellivoiceservice.permission.BIND_TRANSLATION_SERVICE
+      com.samsung.android.aicore.permission.BIND_ON_DEVICE_SERVICE
+      com.samsung.android.app.aodservice.permission.SERVICEBOX_REMOTEVIEWS
+      com.samsung.android.intellivoiceservice.permission.BIND_SUGGESTION_SERVICE_FOR_EXTERNAL
+      android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+      com.samsung.android.intellivoiceservice.aitranslator.permission.BIND_TRANSLATION_FOR_EXTERNAL
+      com.samsung.android.intellivoiceservice.permission.BIND_CORRECTION_SERVICE
+      com.samsung.android.providers.context.permission.WRITE_RECORD_AUDIO
+      com.samsung.android.smartsuggestions.search.permission.READ
+      android.permission.WRITE_EXTERNAL_STORAGE
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_COVER_SERVICE
+      android.permission.VIBRATE
+      android.permission.MANAGE_ACTIVITY_STACKS
+      sec.android.permission.READ_MSG_PREF
+      com.sec.android.app.voicenote.Controller
+      com.samsung.android.intellivoiceservice.permission.BIND_TONECONVERT_SERVICE
+      com.samsung.android.permission.GENAI_RECLAIM
+      com.samsung.android.providers.media.READ
+      android.permission.STATUS_BAR
+      android.permission.RECORD_AUDIO
+      com.samsung.permission.ACCESS_AUDIO_ERASER_PROVIDER
+      android.permission.UNLIMITED_TOASTS
+      com.samsung.android.visual.cloudcore.permission.BIND_IMAGE_EDITOR_SERVICE
+      com.sec.android.app.voicenote.settings.REQUEST_SUMMARY_SETTING_PERMISSION
+      com.samsung.permission.READ_GLOBAL_AUDIO_ERASER
+      android.permission.WAKE_LOCK
+      android.permission.READ_CONTACTS
+      com.samsung.android.scs.ai.text.permission.TEXT_PROVIDER
+      android.permission.BLUETOOTH_SCAN
+      android.permission.MEDIA_CONTENT_CONTROL
+      com.samsung.android.bixby.agent.permission.LAUNCH_BIXBY_VOICE
+    install permissions:
+      android.permission.WRITE_SETTINGS: granted=true
+      com.samsung.android.intellivoiceservice.aitranslator.permission.BIND_TRANSLATION: granted=true
+      com.samsung.android.mobileservice.social.common.provider.opensession.permission.READ: granted=true
+      com.samsung.android.aicore.permission.BIND_DOWNLOAD_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.permission.SUPPORTED_FEATURE_PROVIDER: granted=true
+      com.samsung.android.app.sharelive.linkshare.sdk.permission: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_WRITING_COMPOSER_SERVICE_FOR_EXTERNAL: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_NOTES_ORGANIZATION_SERVICE: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS: granted=true
+      android.permission.MANAGE_EXTERNAL_STORAGE: granted=true
+      com.samsung.systemui.permission.FACE_WIDGET: granted=true
+      com.samsung.android.app.sharelive.sdk.WRITE_PROVIDER: granted=true
+      android.permission.SYSTEM_ALERT_WINDOW: granted=true
+      com.sec.android.app.voicenote.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+      com.samsung.android.sharelive.permission.SHARE_LIVE_UPDATE: granted=true
+      com.samsung.android.intellivoiceservice.common.permission.CONFIG_PROVIDER: granted=true
+      android.permission.NFC: granted=true
+      android.permission.MODIFY_AUDIO_SETTINGS_PRIVILEGED: granted=true
+      android.permission.INTERNAL_SYSTEM_WINDOW: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_REPLY_SERVICE_FOR_EXTERNAL: granted=true
+      com.samsung.android.visual.cloudcore.permission.SUPPORTED_FEATURE_PROVIDER: granted=true
+      com.samsung.android.smartsuggestions.search.permission.WRITE: granted=true
+      com.sec.android.provider.badge.permission.READ: granted=true
+      com.samsung.android.bixby.agent.permission.READ_SETTINGS: granted=true
+      android.permission.FOREGROUND_SERVICE: granted=true
+      com.samsung.android.ssco.models.permission.READ: granted=true
+      com.samsung.android.scloud.backup.lib.write: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_GENERIC_SERVICE: granted=true
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      com.wssnps.permission.COM_WSSNPS: granted=true
+      com.sec.android.settings.permission.SOFT_RESET: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_CLASSIFICATION_SERVICE: granted=true
+      android.permission.FOREGROUND_SERVICE_SPECIAL_USE: granted=true
+      com.samsung.android.intellivoiceservice.common.permission.SYSTEM_CONFIG_PROVIDER: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_TONECONVERT_SERVICE_FOR_EXTERNAL: granted=true
+      android.permission.DEVICE_POWER: granted=true
+      com.sec.android.diagmonagent.permission.DIAGMON: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_EMOJI_AUGMENTATION_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.ai.asr.permission.BIND_SPEECH_RECOGNITION_SERVICE: granted=true
+      android.permission.EXPAND_STATUS_BAR: granted=true
+      com.samsung.android.intellivoiceservice.ai.tts.permission.BIND_TEXT_TO_SPEECH_FOR_EXTERNAL: granted=true
+      android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SUGGESTION_SERVICE: granted=true
+      android.permission.INTERNET: granted=true
+      com.samsung.android.aicore.permission.BIND_WALLPAPER_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_CAPTURE_SERVICE: granted=true
+      com.samsung.android.callassistant.permission.WRITE_CALL_RECORDING_PROVIDER: granted=true
+      com.samsung.android.app.sharelive.sdk.READ_PROVIDER: granted=true
+      com.samsung.android.samsungaccount.permission.PROFILE_PROVIDER: granted=true
+      com.samsung.android.scs.permission.SUPPORTED_FEATURE_PROVIDER: granted=true
+      com.samsung.android.app.notes.permission.DOCUMENT_GENERATOR_SERVICE: granted=true
+      com.sec.android.app.myfiles.permission.READ: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_EXTRACTION_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_WRITING_COMPOSER_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SUMMARIZATION_SERVICE_FOR_EXTERNAL: granted=true
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SYSTEM_SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER: granted=true
+      android.permission.INTERACT_ACROSS_USERS_FULL: granted=true
+      com.samsung.android.providers.media.FILES: granted=true
+      com.samsung.android.providers.media.WRITE: granted=true
+      android.permission.WRITE_SECURE_SETTINGS: granted=true
+      com.samsung.android.smartsuggestions.search.permission.UPDATE_INDEX: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_CORRECTION_SERVICE_FOR_EXTERNAL: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_FORMAT_CONVERSION_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_USAGE_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.ai.tts.permission.BIND_TEXT_TO_SPEECH: granted=true
+      android.permission.STATUS_BAR_SERVICE: granted=true
+      android.permission.READ_SEARCH_INDEXABLES: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SUMMARIZATION_SERVICE: granted=true
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SPEECH_RECOGNITION_SERVICE_CONFIG_PROVIDER: granted=true
+      com.samsung.android.intellivoiceservice.ai.asr.permission.SYSTEM_BIND_SPEECH_RECOGNITION_SERVICE: granted=true
+      android.permission.MANAGE_USERS: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+      com.sec.android.app.samsungapps.accesspermission.UPDATE_EXISTS: granted=true
+      com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER: granted=true
+      com.samsung.android.scs.ai.image.permission.IMAGE_PROVIDER: granted=true
+      com.samsung.android.scloud.backup.lib.read: granted=true
+      com.samsung.android.ssco.models.permission.WRITE: granted=true
+      android.permission.INTERACT_ACROSS_USERS: granted=true
+      com.samsung.android.aicore.permission.SUPPORTED_FEATURE_PROVIDER: granted=true
+      com.samsung.android.visual.cloudcore.permission.BIND_DOWNLOAD_SERVICE: granted=true
+      com.samsung.android.callassistant.permission.READ_CALL_RECORDING_PROVIDER: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_CONFIGURATION_SERVICE: granted=true
+      com.samsung.keyguard.SHORTCUT_PERMISSION: granted=true
+      com.samsung.android.scs.ai.suggestion.permission.SUGGESTION_PROVIDER: granted=true
+      com.samsung.android.sharelive.permission.CONTENT_PICKER: granted=true
+      android.permission.FOREGROUND_SERVICE_MICROPHONE: granted=true
+      com.samsung.android.scs.ai.image.permission.BIND_IMAGE_SERVICE: granted=true
+      com.samsung.android.app.reminder.permission.action.REGISTER: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_REPLY_SERVICE: granted=true
+      android.permission.MANAGE_NOTIFICATIONS: granted=true
+      android.permission.USE_COLORIZED_NOTIFICATIONS: granted=true
+      com.samsung.android.voicewakeup.permission.EXECUTE_SPOTTER_RECORD_SERVICE: granted=true
+      com.samsung.android.scs.ai.search.permission.READ: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_TRANSLATION_SERVICE: granted=true
+      com.samsung.android.aicore.permission.BIND_ON_DEVICE_SERVICE: granted=true
+      com.samsung.android.app.aodservice.permission.SERVICEBOX_REMOTEVIEWS: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SUGGESTION_SERVICE_FOR_EXTERNAL: granted=true
+      android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK: granted=true
+      com.samsung.android.intellivoiceservice.aitranslator.permission.BIND_TRANSLATION_FOR_EXTERNAL: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_CORRECTION_SERVICE: granted=true
+      com.samsung.android.smartsuggestions.search.permission.READ: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_SMART_COVER_SERVICE: granted=true
+      android.permission.VIBRATE: granted=true
+      android.permission.MANAGE_ACTIVITY_STACKS: granted=true
+      com.sec.android.app.voicenote.Controller: granted=true
+      com.samsung.android.intellivoiceservice.permission.BIND_TONECONVERT_SERVICE: granted=true
+      com.samsung.android.permission.GENAI_RECLAIM: granted=true
+      com.samsung.android.providers.media.READ: granted=true
+      android.permission.STATUS_BAR: granted=true
+      com.samsung.permission.ACCESS_AUDIO_ERASER_PROVIDER: granted=true
+      android.permission.UNLIMITED_TOASTS: granted=true
+      com.samsung.android.visual.cloudcore.permission.BIND_IMAGE_EDITOR_SERVICE: granted=true
+      com.sec.android.app.voicenote.settings.REQUEST_SUMMARY_SETTING_PERMISSION: granted=true
+      com.samsung.permission.READ_GLOBAL_AUDIO_ERASER: granted=true
+      android.permission.WAKE_LOCK: granted=true
+      com.samsung.android.scs.ai.text.permission.TEXT_PROVIDER: granted=true
+      android.permission.MEDIA_CONTENT_CONTROL: granted=true
+      com.samsung.android.bixby.agent.permission.LAUNCH_BIXBY_VOICE: granted=true
+    User 0: ceDataInode=9872 deDataInode=6589 pccCeDataInode=0 pccDeDataInode=0 installed=true hidden=false suspended=false appLockEnabled=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false quarantined=false
+      installReason=0
+      dataDir=/data/user/0/com.sec.android.app.voicenote
+      firstInstallTime=1969-12-31 19:35:08
+      uninstallReason=0
+      overlay paths:
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+        /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+        /data/resource-cache/android-HexNext_android-kklR.frro
+        /data/resource-cache/android-HexNext_com_sec_android_app_voicenote-ZgoO.frro
+      legacy overlay paths:
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+        /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk
+      lastDisabledCaller: com.sec.android.app.samsungapps
+      gids=[3003]
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_CALL_LOG: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.BLUETOOTH_CONNECT: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.CALL_PHONE: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_MEDIA_AUDIO: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.BLUETOOTH_ADVERTISE: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.RECORD_AUDIO: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.READ_CONTACTS: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+        android.permission.BLUETOOTH_SCAN: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+      disabledComponents:
+        androidx.work.impl.background.systemalarm.RescheduleReceiver
+      enabledComponents:
+        androidx.work.impl.background.systemjob.SystemJobService
+
+Queries:
+  system apps queryable: false
+  queries via forceQueryable:
+  queries via package name:
+    [app id 5026 not installed]:
+      com.sec.android.app.voicenote
+    com.sec.android.app.voicenote:
+      [app id -1 not installed]
+      com.sec.android.app.samsungapps
+      com.samsung.android.app.contacts
+      com.samsung.android.app.notes
+  queries via component:
+    [app id 5026 not installed]:
+      com.sec.android.app.voicenote
+    [app id 10128 not installed]:
+      com.sec.android.app.voicenote
+    [app id 10201 not installed]:
+      com.sec.android.app.voicenote
+    com.google.android.apps.messaging:
+      com.sec.android.app.voicenote
+    com.google.android.as.oss:
+      com.sec.android.app.voicenote
+    com.google.android.gm:
+      com.sec.android.app.voicenote
+    com.sec.android.app.voicenote:
+      org.telegram.messenger.web
+      [app id 10109 not installed]
+      [app id 10162 not installed]
+      com.google.android.apps.messaging
+      com.google.android.googlequicksearchbox
+      com.google.android.apps.bard
+      com.android.chrome
+      com.google.android.gm
+      eu.darken.butler
+      ai.perplexity.app.android
+      com.linkedin.android
+      com.samsung.android.app.reminder
+      com.samsung.android.bixby.ondevice.enus
+      com.google.android.apps.docs
+      com.facebook.katana
+      com.instagram.android
+      com.samsung.android.app.notes
+      com.google.android.keep
+      net.dinglisch.android.taskerm
+      io.github.muntashirakon.AppManager
+      com.facebook.orca
+      com.openai.chatgpt
+      com.krisdb.wearcasts
+      com.github.android
+      com.discord
+      com.google.android.apps.googlevoice
+      com.google.android.apps.labs.language.tailwind
+      com.ubercab
+      com.walmart.android
+      me.lyft.android
+      com.amazon.mShop.android.shopping
+      bin.mt.plus
+      com.reddit.frontpage
+      com.mxtech.videoplayer.pro
+      com.termux
+      com.samsung.wearable.watchuniteplugin
+      com.anthropic.claude
+      com.Slack
+      com.samsung.android.calendar
+      com.samsung.android.email.provider
+      com.samsung.android.bixby.ondevice.zhcn
+      com.samsung.android.bixby.ondevice.zhhk
+      com.samsung.android.bixby.ondevice.zhtw
+      com.samsung.android.bixby.ondevice.frfr
+      com.samsung.android.bixby.ondevice.dede
+      com.samsung.android.bixby.ondevice.guin
+      com.samsung.android.bixby.ondevice.kokr
+      com.samsung.android.bixby.ondevice.plpl
+      com.samsung.android.bixby.ondevice.ptbr
+      com.samsung.android.bixby.ondevice.ptpt
+      com.samsung.android.bixby.ondevice.ruxx
+      com.samsung.android.bixby.ondevice.esmx
+      com.samsung.android.bixby.ondevice.esus
+      com.samsung.android.bixby.ondevice.svse
+      com.samsung.android.bixby.ondevice.thth
+      com.samsung.android.bixby.ondevice.eses
+      com.samsung.android.bixby.ondevice.huhu
+      com.samsung.android.bixby.ondevice.idid
+      com.samsung.android.bixby.ondevice.itit
+      com.samsung.android.bixby.ondevice.filph
+      com.samsung.android.bixby.ondevice.roro
+      com.samsung.android.bixby.ondevice.trtr
+      com.samsung.android.bixby.ondevice.jajp
+      com.samsung.android.bixby.ondevice.msmy
+      com.samsung.android.bixby.ondevice.vivn
+      com.samsung.android.bixby.ondevice.hiin
+      com.samsung.android.bixby.ondevice.frca
+      com.samsung.android.bixby.ondevice.engb
+      com.samsung.android.bixby.ondevice.enin
+      com.samsung.android.bixby.ondevice.enau
+      com.samsung.android.bixby.ondevice.nlnl
+      com.samsung.android.bixby.ondevice.arae
+    com.google.android.apps.docs:
+      com.sec.android.app.voicenote
+    com.facebook.katana:
+      com.sec.android.app.voicenote
+    com.instagram.android:
+      com.sec.android.app.voicenote
+    com.sec.android.app.music:
+      com.sec.android.app.voicenote
+    com.facebook.orca:
+      com.sec.android.app.voicenote
+    com.fitbit.FitbitMobile:
+      com.sec.android.app.voicenote
+    com.openai.chatgpt:
+      com.sec.android.app.voicenote
+    com.dd.doordash:
+      com.sec.android.app.voicenote
+    supreme.icon.pack.ddt:
+      com.sec.android.app.voicenote
+    dynalogix.bubblecloud.themepack11:
+      com.sec.android.app.voicenote
+    com.emn8.mobilem8.nativeapp.bk:
+      com.sec.android.app.voicenote
+    com.mcdonalds.app:
+      com.sec.android.app.voicenote
+    moe.shizuku.privileged.api:
+      com.sec.android.app.voicenote
+    com.walmart.android:
+      com.sec.android.app.voicenote
+    com.amazon.mShop.android.shopping:
+      com.sec.android.app.voicenote
+    perfect.icon.pack.ddt:
+      com.sec.android.app.voicenote
+    com.Slack:
+      com.sec.android.app.voicenote
+    com.samsung.android.email.provider:
+      com.sec.android.app.voicenote
+  queryable via interaction:
+    User 0:
+      [com.android.settings,com.samsung.ts43authservice,com.sec.app.RilErrorNotifier,com.android.keychain,com.sec.facatfunction,com.samsung.android.wifi.intelligence,com.sec.android.diagmonagent,com.sec.automation,com.samsung.android.globalpostprocmgr,com.sec.android.app.wlantest,com.qti.snapdragon.qdcm_ff,com.samsung.sait.sohservice,com.samsung.unifiedtp,com.sec.sve,com.sec.android.app.personalization,com.samsung.accessibility,com.samsung.android.emergency,com.samsung.android.smartface,com.samsung.android.brightnessbackupservice,com.samsung.drm,com.samsung.android.sead,com.samsung.android.mdecservice,com.samsung.android.moaiapc,com.samsung.gpuwatchapp,com.samsung.android.motionphoto.app,com.android.server.telecom,com.samsung.android.app.esimkeystring,com.samsung.android.dck.timesync,com.android.dynsystem,com.samsung.android.vexfwk.service,com.sec.android.sdhms,com.samsung.android.providers.factory,com.sec.epdg,com.sec.imsservice,com.android.localtransport,com.samsung.euicc,com.sec.android.app.hwmoduletest,com.samsung.android.lool,com.samsung.android.dqagent,com.samsung.android.camerasdkservice,com.samsung.oda.service,com.samsung.android.knox.attestation,com.samsung.SMT,com.samsung.sdm,com.sec.android.iaft,android,com.android.inputdevices,com.sec.android.app.RilPhoneNumberService,com.qualcomm.qti.services.systemhelper,com.samsung.android.themecenter,com.sec.android.app.servicemodeapp,com.samsung.oda.agent,com.android.location.fused,com.samsung.InputEventApp,com.sec.android.app.SecSetupWizard,com.samsung.android.photoremasterservice,com.android.providers.settings,com.sec.android.CcInfo,com.sec.android.app.factorykeystring,com.samsung.android.bixby.wakeup,com.sec.usbsettings,com.sec.android.app.parser,com.samsung.android.svcagent,com.samsung.android.app.dressroom,com.samsung.android.provider.filterprovider,com.samsung.android.biometrics.app.setting]:
+        com.sec.android.app.voicenote
+      [com.android.providers.downloads.ui,com.samsung.android.providers.media,com.samsung.android.mtp,com.android.mtp,com.android.providers.downloads,com.samsung.android.providers.trash]:
+        com.sec.android.app.voicenote
+      com.osp.app.signin:
+        com.sec.android.app.voicenote
+      com.samsung.android.intellivoiceservice:
+        com.sec.android.app.voicenote
+      com.sec.android.app.myfiles:
+        com.sec.android.app.voicenote
+      com.sec.android.app.soundalive:
+        com.sec.android.app.voicenote
+      com.google.android.gms:
+        com.sec.android.app.voicenote
+      com.google.android.providers.media.module:
+        com.sec.android.app.voicenote
+      com.sec.android.app.voicenote:
+        [com.android.settings,com.samsung.ts43authservice,com.sec.app.RilErrorNotifier,com.android.keychain,com.sec.facatfunction,com.samsung.android.wifi.intelligence,com.sec.android.diagmonagent,com.sec.automation,com.samsung.android.globalpostprocmgr,com.sec.android.app.wlantest,com.qti.snapdragon.qdcm_ff,com.samsung.sait.sohservice,com.samsung.unifiedtp,com.sec.sve,com.sec.android.app.personalization,com.samsung.accessibility,com.samsung.android.emergency,com.samsung.android.smartface,com.samsung.android.brightnessbackupservice,com.samsung.drm,com.samsung.android.sead,com.samsung.android.mdecservice,com.samsung.android.moaiapc,com.samsung.gpuwatchapp,com.samsung.android.motionphoto.app,com.android.server.telecom,com.samsung.android.app.esimkeystring,com.samsung.android.dck.timesync,com.android.dynsystem,com.samsung.android.vexfwk.service,com.sec.android.sdhms,com.samsung.android.providers.factory,com.sec.epdg,com.sec.imsservice,com.android.localtransport,com.samsung.euicc,com.sec.android.app.hwmoduletest,com.samsung.android.lool,com.samsung.android.dqagent,com.samsung.android.camerasdkservice,com.samsung.oda.service,com.samsung.android.knox.attestation,com.samsung.SMT,com.samsung.sdm,com.sec.android.iaft,android,com.android.inputdevices,com.sec.android.app.RilPhoneNumberService,com.qualcomm.qti.services.systemhelper,com.samsung.android.themecenter,com.sec.android.app.servicemodeapp,com.samsung.oda.agent,com.android.location.fused,com.samsung.InputEventApp,com.sec.android.app.SecSetupWizard,com.samsung.android.photoremasterservice,com.android.providers.settings,com.sec.android.CcInfo,com.sec.android.app.factorykeystring,com.samsung.android.bixby.wakeup,com.sec.usbsettings,com.sec.android.app.parser,com.samsung.android.svcagent,com.samsung.android.app.dressroom,com.samsung.android.provider.filterprovider,com.samsung.android.biometrics.app.setting]
+        com.samsung.android.smartsuggestions
+      com.google.android.inputmethod.latin:
+        com.sec.android.app.voicenote
+  queryable via uses-library:
+
+Dexopt state:
+  [com.sec.android.app.voicenote]
+    path: /data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==/base.apk
+      arm64: [status=speed-profile] [reason=bg-dexopt] [primary-abi]
+        [location is /data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==/oat/arm64/base.odex]
+        [image location is /data/app/~~yJfCjE56wd2R5D_k2oqLqQ==/com.sec.android.app.voicenote-2xiKECIADeaS_z1U1hHetA==/oat/arm64/base.art (required)]
+
+SPEG state:
+  Event #107: 04-11-2026 17:23:14.573 Success moe.shizuku.privileged.api took 2131 ms
+  Event #106: 04-11-2026 17:04:12.166 Success moe.shizuku.privileged.api took 2133 ms
+  Event #105: 04-11-2026 16:50:43.473 Success af.shizuku.plus.api took 2137 ms
+  Event #104: 03-11-2026 18:09:39.884 Success kqvdie.zeykvw.hpbcyd took 2132 ms
+  Event #103: 03-11-2026 09:36:23.741 Failure org.chromium.webapk.a78566d8900e6e679_v2 took 2011 ms
+  Event #102: 03-11-2026 00:39:46.767 Success com.hexnext.themer.owner took 2140 ms
+  Event #101: 02-11-2026 23:14:37.694 Success voidscalling_androidmo.im took 2155 ms
+  Event #100: 02-11-2026 17:37:00.288 Success com.hexnext.themer.owner took 2126 ms
+  Event #99: 02-11-2026 03:16:57.771 Success com.koga3.grandmashouse took 2111 ms
+  Event #98: 02-11-2026 03:11:55.780 Success sun.set.rose.c18 took 2168 ms
+  Event #97: 02-11-2026 00:23:01.622 Success org.matrix.vector.manager took 2126 ms
+  Event #96: 02-11-2026 00:03:43.786 Success io.github.chsbuffer.revancedxposed took 2126 ms
+  Event #95: 02-11-2026 00:01:44.012 Success balti.xposed.pixelifygooglephotos took 2130 ms
+  Event #94: 01-11-2026 23:56:18.843 Failure top.hookvip.pro took 2013 ms
+  Event #93: 01-11-2026 23:21:52.620 Success df.root took 2129 ms
+  Event #92: 01-11-2026 23:04:11.111 Success qyz.onedesign took 2126 ms
+  Event #91: 01-11-2026 22:51:14.450 Success df.root took 2125 ms
+  Event #90: 31-10-2026 22:54:11.793 Success com.hexnext.themer took 2138 ms
+  Event #89: 31-10-2026 18:26:53.529 Success de.dertyp7214.rboardthememanager took 2133 ms
+  Event #88: 30-10-2026 19:50:22.890 Success neon.ghost.studio took 2119 ms
+  Event #87: 30-10-2026 15:08:36.399 Success bozzu.eternum took 2118 ms
+  Event #86: 30-10-2026 15:05:00.907 Success da.football.temptations took 2124 ms
+  Event #85: 29-10-2026 15:51:11.368 Success balti.xposed.pixelifygooglephotos took 2127 ms
+  Event #84: 29-10-2026 13:50:11.110 Success com.bloatware.bingblop took 2182 ms
+  Event #83: 29-10-2026 13:04:58.416 Success akhil.alltrans took 2150 ms
+  Event #82: 29-10-2026 13:03:18.767 Success com.chenyue404.gboardhook took 2133 ms
+  Event #81: 29-10-2026 13:03:06.199 Success io.github.ziyuw_plank.gboardgloss took 2129 ms
+  Event #80: 29-10-2026 13:02:02.996 Success io.github.kvmy666.gboardplus took 2129 ms
+  Event #79: 29-10-2026 11:17:39.601 Success io.github.soclear.oneuix took 2129 ms
+  Event #78: 29-10-2026 11:17:15.996 Success io.github.tophtab.lspstore took 2191 ms
+  Event #77: 29-10-2026 09:21:03.678 Success org.lsposed.lspatch took 2148 ms
+  Event #76: 29-10-2026 09:01:03.673 Failure org.cromite.cromite took 2012 ms
+  Event #75: 29-10-2026 08:58:28.257 Failure org.bromite.bromite took 2006 ms
+  Event #74: 29-10-2026 08:52:56.447 Success dev.bikram.obtainx took 2153 ms
+  Event #73: 28-10-2026 22:44:42.128 Failure com.samsung.android.shealthmonitor took 2017 ms
+  Event #72: 28-10-2026 19:54:42.489 Success com.sec.penup took 2135 ms
+  Event #71: 28-10-2026 14:20:20.289 Success com.drdisagree.colorblendr took 2151 ms
+  Event #70: 28-10-2026 14:02:19.876 Success app.lawnchair.lawnicons took 2149 ms
+  Event #69: 28-10-2026 12:37:59.837 Success dev.bikram.obtainx took 2152 ms
+  Event #68: 28-10-2026 11:04:02.103 Success eu.darken.butler took 2133 ms
+  Event #67: 28-10-2026 10:55:41.335 Success com.legendsayantan.adbtools took 2131 ms
+  Event #66: 28-10-2026 10:24:26.135 Success com.dhangofa.networktoggle took 2132 ms
+  Event #65: 27-10-2026 10:30:32.701 Success neon.ghost.studio took 2119 ms
+  Event #64: 25-10-2026 21:35:54.760 Success deviant_anomalies_rus.pornoisland.site took 2137 ms
+  Event #63: 25-10-2026 21:32:17.993 Success com.koga3.awayfromhome took 2120 ms
+  Event #62: 25-10-2026 21:29:47.883 Success eter.num took 2127 ms
+  Event #61: 25-10-2026 21:28:23.201 Success cane.and.able.c18 took 2128 ms
+  Event #60: 23-10-2026 22:36:52.548 Success com.dhangofa.networktoggle took 2099 ms
+  Event #59: 23-10-2026 22:15:30.225 Success ex.po.sed.c18 took 2166 ms
+  Event #58: 23-10-2026 22:15:22.593 Success dead.moon.survival.c18 took 2163 ms
+
+Profile utilization state:
+  Current state:
+    Version: 2.1.3
+    Start reason: boot-no-update
+    Start time: not started
+    Finish time: not finished
+    PU_StatusWatcher:
+      Initial thermal status: 0
+      Thermal status: 0
+      Screen off: false
+      Low battery: true
+    PU_DexoptTrigger:
+      Dexopt concurrency: 4
+      Dexopting: false
+    PU_Storage:
+      Stored apps:
+        me.weishu.kernelsu 151
+        com.google.android.googlequicksearchbox 227
+        com.wbd.stream 231
+        org.telegram.messenger.web 237
+        com.teslacoilsw.launcher 248
+        moe.shizuku.privileged.api 262
+        com.termux 264
+        supreme.icon.pack.ddt 264
+        my.bimbo.dreamkingpin.c18 268
+        com.tmobile.tuesdays 276
+        com.sec.android.app.myfiles 278
+        ghost.bobby.saga 280
+        com.android.chrome 283
+        eu.darken.sdmse 290
+        com.samsung.android.themedesigner 301
+        good.lu.ke.c18 306
+        com.android.vending 307
+        com.sec.android.app.shealth 307
+        com.netflix.mediaclient 309
+        com.anthropic.claude 311
+        hard.to.find.c18 311
+        perfect.icon.pack.ddt 311
+        com.sec.android.app.camera 318
+        com.samsung.android.goodlock 334
+        com.sec.android.gallery3d 340
+        com.samsung.android.dialer 341
+        com.google.android.gm 342
+        com.google.android.keep 342
+        me.lyft.android 345
+        flar2.devcheck 346
+        com.samsung.android.sidegesturepad 347
+        com.venmo 347
+        com.google.android.inputmethod.latin 348
+        com.podfan 351
+        com.sec.android.daemonapp 353
+        com.theatlantic.newsstand 357
+        com.tmobile.vvm.application 366
+        com.yum.pizzahut 366
+        com.paypal.android.p2pmobile 372
+        com.samsung.android.app.watchmanager 376
+        com.patreon.android 379
+        com.sec.android.app.voicenote 379
+        com.samsung.android.app.cameraassistant 381
+        com.ubercab 381
+        gov.va.mobileapp 381
+        com.mcdonalds.app 386
+        com.google.android.apps.messaging 387
+        com.google.android.apps.docs 390
+        com.ustwo.lwp 391
+        com.amazon.avod.thirdpartyclient 392
+        com.joaomgcd.autoinput 397
+        bin.mt.plus 398
+        com.cbs.app 398
+        com.walmart.android 399
+        com.truedevelopersstudio.automatictap.autoclicker 404
+        com.disney.disneyplus 405
+        com.krisdb.wearcasts 406
+        com.moviesanywhere.goo 406
+        com.dd.doordash 407
+        com.samsung.android.app.galaxyraw 407
+        com.usps.app 407
+        com.samsung.android.app.contacts 409
+        com.samsung.android.gallery.assistant.app 409
+        com.dfamaya.briefcomplication 410
+        com.facebook.orca 411
+        com.samsung.android.app.reminder 416
+        com.samsung.vvm 417
+        com.discord 419
+        com.google.android.calendar 419
+        com.google.android.apps.photos 420
+        com.fitbit.FitbitMobile 423
+        com.navyfederal.android 427
+        com.github.android 430
+        com.nytimes.android 431
+        com.linkedin.android 435
+        com.google.android.apps.chromecast.app 438
+        com.amazon.mShop.android.shopping 443
+        com.google.android.apps.labs.language.tailwind 453
+        com.roku.remote 460
+        ai.replika.app 462
+        com.google.android.apps.docs.editors.docs 472
+        com.google.ar.lens 472
+        com.apple.atve.androidtv.appletv 476
+        com.google.android.calculator 479
+        com.google.android.apps.docs.editors.sheets 486
+        com.indeed.android.jobsearch 486
+        com.google.android.apps.authenticator2 488
+        com.backdrops.wallpapers 503
+        com.google.android.apps.walletnfcrel 505
+        com.google.android.apps.bard 508
+        com.google.android.apps.googlevoice 515
+        com.google.android.apps.credentialmanager 517
+        ai.oc.experience.gulfpay 520
+        com.emn8.mobilem8.nativeapp.bk 540
+        com.dunkinbrands.otgo 544
+        com.cvs.launchers.cvs 556
+    Stored PU state:
+      Service:
+        Version: 2.1.3
+        Start reason: boot-after-mainline-update
+        Start time: Thu Oct 22 19:13:54 EDT 2026 ts=1792710834094
+        Finish time: Thu Oct 22 19:22:07 EDT 2026 ts=1792711327447
+        Took time 493sec
+      Watcher:
+        Initial thermal status: 0
+        Thermal status: 0
+        Screen off: true
+        Low battery: false
+      Trigger:
+        Dexopt concurrency: 4
+        Dexopting: false
+        Hot apps list:
+          com.google.android.googlequicksearchbox, w=105, s=OPTIMIZED, optTimeMs=1792711327001, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=5523, filter=speed-profile]
+          com.android.settings, w=108, s=OPTIMIZED, optTimeMs=1792711321989, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=554, filter=speed-profile]
+          com.android.vending, w=110, s=OPTIMIZED, optTimeMs=1792711326219, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=3851, filter=speed-profile], [primaryDex=false, reason=profile-utilization, dex2oatTimeMs=218, filter=verify], [primaryDex=false, reason=profile-utilization, dex2oatTimeMs=486, filter=verify]
+          com.sec.android.app.myfiles, w=124, s=OPTIMIZED, optTimeMs=1792711321349, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+          com.teslacoilsw.launcher, w=125, s=OPTIMIZED, optTimeMs=1792711321405, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+          com.android.chrome, w=139, s=OPTIMIZED, optTimeMs=1792711322094, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=227, filter=speed-profile], [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=188, filter=speed-profile], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify], [primaryDex=true, reason=vdex, dex2oatTimeMs=0, filter=verify]
+          com.google.android.keep, w=140, s=OPTIMIZED, optTimeMs=1792711324066, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=1978, filter=speed-profile]
+          com.google.android.gm, w=142, s=OPTIMIZED, optTimeMs=1792711327221, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=5013, filter=speed-profile]
+          com.sec.android.app.shealth, w=143, s=OPTIMIZED, optTimeMs=1792711327446, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=3258, filter=speed-profile]
+          eu.darken.sdmse, w=150, s=OPTIMIZED, optTimeMs=1792711327064, cancelCount=0, dexopt=PERFORMED, [primaryDex=true, reason=profile-utilization, dex2oatTimeMs=743, filter=speed-profile]
+          com.sec.android.app.camera, w=154, s=OPTIMIZED, optTimeMs=1792711327041, cancelCount=0, dexopt=SKIPPED, [primaryDex=true, reason=boot-after-mainline-update, dex2oatTimeMs=0, filter=speed-profile]
+    Stored SCPM state:
+      packages-9a07:
+        [                                            ]
+      disable-2bb4:
+        [                                            ]
+== jobs
+        1 content://com.sec.android.app.voicenote.data.VNAIProvider/files
+      Trigger update delay: +500ms
+      Trigger max delay: +2s0ms
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Backoff: policy=1 initial=+30s0ms
+      Trace tag: ObserverWorker
+--
+        1 content://com.sec.android.app.voicenote.data.VNAIProvider/files
+      Trigger update delay: +500ms
+      Trigger max delay: +2s0ms
+      Has media backup exemption=false 
+      Extras: mParcelledData.dataSize=248
+      Backoff: policy=1 initial=+30s0ms
+      Trace tag: ObserverWorker
+--
+    10349:com.sec.android.app.voicenote=false
+    10346:com.samsung.android.agent.storage=false
+    10344:com.netflix.mediaclient=false
+    10340:com.samsung.android.app.reminder=false
+    10335:ai.perplexity.app.android=false
+    10332:com.google.android.providers.media.module=false
+    10329:com.google.android.rkpdapp=false
+--
+      content://com.sec.android.app.voicenote.data.VNAIProvider/files 0x1 (117732378):
+        Jobs:
+          #androidx.work.systemjobscheduler:u0a134/31010 from u0a134
+          #androidx.work.systemjobscheduler:u0a134/31018 from u0a134
+      content://call_log/calls 0x1 (241273675):
+        Jobs:
+          #androidx.work.systemjobscheduler:u0a134/30762 from u0a134
+--
+    TopAppTimer{<0>com.sec.android.app.voicenote} NOT active
+    TopAppTimer{<0>com.teslacoilsw.launcher} NOT active
+    TopAppTimer{<0>com.samsung.android.calendar} NOT active
+    TopAppTimer{<0>com.google.android.googlequicksearchbox} NOT active
+    TopAppTimer{<0>com.samsung.android.themestore} NOT active
+    
+    Cached execution stats:
+--
+      <0>com.sec.android.app.voicenote: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.samsung.android.simagent: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.samsung.android.email.provider: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.sec.android.app.samsungapps: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.google.android.configupdater: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.google.android.providers.media.module: ShrinkableDebits { debit tally: 0, bucket: 6 }
+      <0>com.github.android: ShrinkableDebits { debit tally: 0, bucket: 6 }
+--
+  10349: {com.sec.android.app.voicenote}
+  10351: {com.samsung.android.app.watchmanager}
+  10358: {com.sec.android.app.shealth}
+  10365: {com.google.android.apps.docs}
+  10367: {me.weishu.kernelsu}
+  10370: {com.samsung.android.app.notes}
+  10372: {com.sec.android.app.music}
+== alarms
+== disabled components

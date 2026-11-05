@@ -1,0 +1,2 @@
+    versionCode=173065100 minSdk=30 targetSdk=37
+    versionName=1.7.30.65

@@ -1,0 +1,64 @@
+[22:07:38] job lab-036
+[22:07:40] install: downloaded artifact 13384976026 through the API
+[22:07:40] install: run 41957832927 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[22:07:41] restarting Shizuku as root
+[22:07:49] scan
+[22:08:10] apply (confirm=true)
+[22:13:20] lookup 1
+[22:13:25] capture dark power
+[22:13:43] capture dark keyboard
+[22:14:05] capture dark dialogs
+[22:14:26] capture dark settings
+[22:14:45] capture dark dialer
+[22:14:59] capture dark app:com.sec.android.app.sbrowser
+[22:15:10] capture dark app:com.sec.android.app.popupcalculator
+[22:15:20] capture dark app:com.samsung.android.calendar
+[22:15:29] capture dark app:com.sec.android.app.clockpackage
+[22:15:42] capture dark app:com.samsung.android.app.contacts
+[22:15:51] capture dark app:com.samsung.android.email.provider
+[22:16:01] capture dark app:com.samsung.android.app.notes
+[22:16:11] capture dark app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[22:16:20] capture dark app:com.sec.android.app.voicenote
+[22:16:30] capture dark app:com.sec.android.app.music
+[22:16:39] capture dark app:com.sec.android.gallery3d
+[22:16:49] capture dark app:com.sec.android.app.shealth
+[22:16:59] capture dark app:com.samsung.android.scloud
+[22:17:08] capture dark app:com.sec.android.app.camera
+[22:17:18] capture dark app:com.samsung.android.bixby.agent
+[22:17:28] capture dark app:com.sec.android.daemonapp
+[22:17:40] capture light power
+[22:18:00] capture light keyboard
+[22:18:23] capture light dialogs
+[22:18:44] capture light settings
+[22:19:03] capture light dialer
+[22:19:17] capture light app:com.sec.android.app.sbrowser
+[22:19:26] capture light app:com.sec.android.app.popupcalculator
+[22:19:36] capture light app:com.samsung.android.calendar
+[22:19:45] capture light app:com.sec.android.app.clockpackage
+[22:19:55] capture light app:com.samsung.android.app.contacts
+[22:20:04] capture light app:com.samsung.android.email.provider
+[22:20:14] capture light app:com.samsung.android.app.notes
+[22:20:24] capture light app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[22:20:33] capture light app:com.sec.android.app.voicenote
+[22:20:42] capture light app:com.sec.android.app.music
+[22:20:52] capture light app:com.sec.android.gallery3d
+[22:21:02] capture light app:com.sec.android.app.shealth
+[22:21:12] capture light app:com.samsung.android.scloud
+[22:21:21] capture light app:com.sec.android.app.camera
+[22:21:30] capture light app:com.samsung.android.bixby.agent
+[22:21:39] capture light app:com.sec.android.daemonapp
+[22:21:56] arsc: com.samsung.android.app.contacts 3360 KB
+[22:21:58] arsc: com.samsung.android.dialer 2692 KB
+[22:22:00] arsc: com.samsung.android.calendar 4392 KB
+[22:22:03] arsc: com.samsung.android.email.provider 3564 KB
+[22:22:04] arsc: com.sec.android.app.music 2264 KB
+[22:22:05] arsc: com.sec.android.app.popupcalculator 580 KB
+[22:22:10] arsc: com.sec.android.app.sbrowser 8548 KB
+[22:22:11] arsc: com.sec.android.app.voicenote 2048 KB
+[22:22:30] arsc: com.sec.android.app.shealth 36336 KB
+[22:22:33] arsc: com.samsung.android.scloud 3932 KB
+[22:22:35] arsc: com.sec.android.app.camera 3240 KB
+[22:22:38] arsc: com.sec.android.gallery3d 4928 KB
+[22:22:40] arsc: com.samsung.android.bixby.agent 3128 KB
+[22:22:41] arsc: com.sec.android.daemonapp 1468 KB
+[22:22:43] overlay state 1

@@ -1,0 +1,83 @@
+== cmd uimode night: Night mode: yes
+== dumpsys uimode
+Current UI Mode Service state:
+  mDockState=0 mLastBroadcastState=0
+ mStartDreamImmediatelyOnDock=true  mNightMode=2 (yes)  mOverrideOn/Off=false/false  mAttentionModeThemeOverlay=1000 mNightModeLocked=true
+  mCarModeEnabled=false (carModeApps=
+ mWaitForDeviceInactive=false mComputedNightMode=true customStart=19:00 customEnd07:00 mCarModeEnableFlags=0 mEnableCarDockLaunch=false
+  mCurUiMode=0x21 mUiModeLocked=false mSetUiMode=0x21
+  mHoldingConfiguration=false mSystemReady=true
+  mTwilightService.getLastTwilightState()=null
+11-04 22:22:41.833  1000  2960  4973 V UiModeManager: SavedLogsStart
+11-04 18:27:06.443: V UiModeManager(14632): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@4a1e40e userID : 0
+11-04 18:41:41.628: V UiModeManager(3264): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@f5459f8 userID : 0
+11-04 19:26:02.982: V UiModeManager(3264): setNightMode : 1, customModeType : -1, by 3264, android.uid.system:1000, android
+11-04 19:26:44.944: V UiModeManager(3264): setNightMode : 2, customModeType : -1, by 3264, android.uid.system:1000, android
+11-04 19:30:16.041: V UiModeManager(13980): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@62e81c7 userID : 0
+11-04 19:42:11.076: V UiModeManager(3337): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@8ab6a81 userID : 0
+11-04 20:07:21.917: V UiModeManager(3337): setNightMode : 1, customModeType : -1, by 3337, android.uid.system:1000, android
+11-04 20:08:45.776: V UiModeManager(3337): setNightMode : 2, customModeType : -1, by 3337, android.uid.system:1000, android
+11-04 20:34:28.633: V UiModeManager(3337): setNightMode : 1, customModeType : -1, by 3337, android.uid.system:1000, android
+11-04 20:35:10.780: V UiModeManager(3337): setNightMode : 2, customModeType : -1, by 3337, android.uid.system:1000, android
+11-04 20:38:54.973: V UiModeManager(19186): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@aed957e userID : 0
+11-04 20:43:02.077: V UiModeManager(3226): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@ad20975 userID : 0
+11-04 20:47:56.469: V UiModeManager(2960): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@f95fd04 userID : 0
+11-04 22:17:37.621: V UiModeManager(2960): setNightMode : 1, customModeType : -1, by 2960, android.uid.system:1000, android
+11-04 22:21:48.952: V UiModeManager(2960): setNightMode : 2, customModeType : -1, by 2960, android.uid.system:1000, android
+
+11-04 00:06:11.721: V UiModeManager(13115): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@850f934 userID : 0
+11-04 00:17:12.735: V UiModeManager(3272): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@7e9bc25 userID : 0
+11-04 00:44:59.345: V UiModeManager(3665): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@a9f5ef2 userID : 0
+11-04 00:55:20.986: V UiModeManager(3187): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@e6db0ec userID : 0
+11-04 01:20:59.554: V UiModeManager(15462): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@371beef userID : 0
+11-04 01:29:59.241: V UiModeManager(3176): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@438d584 userID : 0
+11-04 02:29:08.321: V UiModeManager(3223): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@80c5b70 userID : 0
+11-04 05:37:23.857: V UiModeManager(2274): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@82fbd7b userID : 0
+11-04 05:48:45.820: V UiModeManager(3248): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@a64ced2 userID : 0
+11-04 08:28:02.099: V UiModeManager(8981): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@9ea2896 userID : 0
+11-04 08:38:24.827: V UiModeManager(3249): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@1777b53 userID : 0
+11-04 08:40:13.624: V UiModeManager(22045): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@ad98e62 userID : 0
+11-04 08:43:35.296: V UiModeManager(2930): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@2ac98e7 userID : 0
+11-04 11:35:13.666: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 11:36:19.817: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 12:30:21.159: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 12:31:26.146: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 13:44:01.636: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 13:49:01.707: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 14:40:52.591: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 14:42:52.044: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 14:43:55.809: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 15:30:34.032: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 15:30:55.838: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 15:31:13.690: V UiModeManager(2930): setNightMode : 2, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 15:31:26.207: V UiModeManager(2930): setNightMode : 1, customModeType : -1, by 2930, android.uid.system:1000, android
+11-04 15:32:00.760: V UiModeManager(14127): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@cd11fa6 userID : 0
+11-04 15:47:22.863: V UiModeManager(14127): setNightMode : 2, customModeType : -1, by 14127, android.uid.system:1000, android
+11-04 15:55:47.989: V UiModeManager(17299): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@8b573a5 userID : 0
+11-04 15:56:44.561: V UiModeManager(3227): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@dcf8b52 userID : 0
+11-04 16:20:54.698: V UiModeManager(3227): setNightMode : 1, customModeType : -1, by 3227, android.uid.system:1000, android
+11-04 16:32:34.652: V UiModeManager(919): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@1b807fa userID : 0
+11-04 16:34:15.632: V UiModeManager(3246): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@9165641 userID : 0
+11-04 17:02:32.281: V UiModeManager(3246): setNightMode : 2, customModeType : -1, by 3246, android.uid.system:1000, android
+11-04 18:05:44.850: V UiModeManager(3246): setNightMode : 1, customModeType : -1, by 3246, android.uid.system:1000, android
+11-04 18:06:28.757: V UiModeManager(3246): setNightMode : 2, customModeType : -1, by 3246, android.uid.system:1000, android
+11-04 18:09:55.589: V UiModeManager(18128): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@d519368 userID : 0
+11-04 18:15:57.368: V UiModeManager(3230): updateNightModeFromSettings : com.android.server.UiModeManagerService$1@6f15c14 userID : 0
+11-04 18:22:55.242: V UiModeManager(3230): setNightMode : 1, customModeType : -1, by 3230, android.uid.system:1000, android
+11-04 18:23:36.795: V UiModeManager(3230): setNightMode : 2, customModeType : -1, by 3230, android.uid.system:1000, android
+
+
+  mNightPriorityAllowedPackagesFromScpm=[com.google.android.youtube, com.google.earth, tv.twitch.android.app]
+    Applied packages (u0)
+      [com.google.android.youtube] 2/1000
+    Show dialog packages (u0)
+      [com.google.android.youtube] true
+  mDesktopModeEnabled=false
+== com.samsung.android.calendar shared_prefs (theme lines)
+/data/user/0/com.samsung.android.calendar/shared_prefs/SamsungAnalyticsPrefs.xml:        <string>preferences_dark_mode&#6;0</string>
+/data/user/0/com.samsung.android.calendar/shared_prefs/com.android.calendar_preferences.xml:    <int name="preferences_event_popup_view_mode" value="1" />
+/data/user/0/com.samsung.android.calendar/shared_prefs/com.android.calendar_preferences.xml:    <string name="preferences_dark_mode">1</string>
+== com.samsung.android.calendar configuration
+     Configuration={1.21 310mcc260mnc [en_US] ldltr sw452dp w452dp h979dp 510dpi nrml long compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1440, 3120) mAppBounds=Rect(0, 0 - 1440, 3120) mMaxBounds=Rect(0, 0 - 1440, 3120) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=undefined mOverlappingWithCutout=false} as.4 s.1166 fontWeightAdjustment=300 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 themeSeq=0}
+     OverrideConfiguration={0.0 ?mcc0mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?round ?ldr ?wideColorGamut ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/? winConfig={ mBounds=Rect(0, 0 - 0, 0) mAppBounds=null mMaxBounds=Rect(0, 0 - 0, 0) mDisplayRotation=undefined mWindowingMode=undefined mActivityType=undefined mAlwaysOnTop=undefined mRotation=undefined mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=undefined mOverlappingWithCutout=false} ?fontWeightAdjustment fv=0 bf=-1 bts=-1 cst=0.0 nightDim=-1 themeSeq=0}
+     mLastReportedConfiguration={1.21 310mcc260mnc [en_US] ldltr sw452dp w452dp h979dp 510dpi nrml long compactNeeded hdr widecg port night finger -keyb/v/h -nav/h winConfig={ mBounds=Rect(0, 0 - 1440, 3120) mAppBounds=Rect(0, 0 - 1440, 3120) mMaxBounds=Rect(0, 0 - 1440, 3120) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0 mStageConfig=undefined mEmbedActivityMode=undefined mPopOver=undefined mOverlappingWithCutout=false} as.4 s.1166 fontWeightAdjustment=300 fv=0 bf=-1 bts=0 cst=1.0 nightDim=0 themeSeq=0}

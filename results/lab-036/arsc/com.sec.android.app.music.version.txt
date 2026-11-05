@@ -1,0 +1,2 @@
+    versionCode=1624501200 minSdk=28 targetSdk=35
+    versionName=16.2.45.1

@@ -1,0 +1,2 @@
+    versionCode=2021591330 minSdk=35 targetSdk=37
+    versionName=21.5.91.33

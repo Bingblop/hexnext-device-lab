@@ -1,0 +1,3 @@
+    versionCode=570905000 minSdk=29 targetSdk=36
+    versionName=5.7.09.5
+    versionCode=570708000 minSdk=29 targetSdk=36
