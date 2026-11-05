@@ -1,0 +1,27 @@
+{
+  "steps": [
+    "install",
+    "capture"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "hexnext:STUDIO",
+    "hexnext:SKINS",
+    "hexnext:COLOURS",
+    "hexnext:ICONS",
+    "hexnext:SYSTEM"
+  ],
+  "expect": {
+    "no_crash": true
+  },
+  "id": "lab-042",
+  "suite": "samsung-apps",
+  "ref": "main",
+  "run_id": 41991418694,
+  "artifact_sha256": "6ef33a7653a0e328560e20896b973df67fccec16c3a066c222ba34ca3464fef3"
+}
