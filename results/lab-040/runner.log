@@ -54,3 +54,5 @@
 [01:46:07] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
 [01:46:10] lab repaired
 [01:46:41] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[01:46:43] lab repaired
+[01:47:15] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
