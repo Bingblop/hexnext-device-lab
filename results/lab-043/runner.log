@@ -1,0 +1,15 @@
+[03:37:19] job lab-043
+[03:37:21] install: downloaded artifact 13399479456 through the API
+[03:37:21] install: decrypted the owner APK
+[03:37:21] install: run 41994095236 (ui/compact-chrome) sha ok, installing owner-universal.apk
+[03:37:22] restarting Shizuku as root
+[03:37:36] capture light hexnext:STUDIO
+[03:37:52] capture light hexnext:SKINS
+[03:38:09] capture light hexnext:COLOURS
+[03:38:26] capture light hexnext:ICONS
+[03:38:43] capture light hexnext:SYSTEM
+[03:39:03] capture dark hexnext:STUDIO
+[03:39:20] capture dark hexnext:SKINS
+[03:39:36] capture dark hexnext:COLOURS
+[03:39:53] capture dark hexnext:ICONS
+[03:40:10] capture dark hexnext:SYSTEM
