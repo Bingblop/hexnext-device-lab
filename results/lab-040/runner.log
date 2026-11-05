@@ -14,3 +14,5 @@
 [01:33:09] capture dark app:com.sec.android.app.popupcalculator
 [01:33:24] capture dark app:com.sec.android.app.voicenote
 [01:33:39] capture dark app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[01:35:32] job lab-040: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-040
+[01:36:03] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
