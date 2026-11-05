@@ -1,0 +1,18 @@
+{
+  "steps": [
+    "labkey"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "dark",
+    "light"
+  ],
+  "captures": [],
+  "expect": {},
+  "id": "lab-041",
+  "suite": "samsung-apps",
+  "ref": "main",
+  "run_id": 41987335563,
+  "artifact_sha256": "684818e9077f3a00d95ac751f66e0bd8b62de6455f227af613e344abab5b33b5"
+}
