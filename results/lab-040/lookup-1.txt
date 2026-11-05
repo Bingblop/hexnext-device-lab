@@ -1,0 +1,5 @@
+com.android.systemui:color/sesl_primary_color_light = #ff00c8df
+com.android.systemui:color/sesl_primary_color_dark = #ff00c8df
+com.sec.android.app.voicenote:color/basic_token_sys_red = #ff00c8df
+com.sec.android.app.popupcalculator:color/calc_keypad_operation_button_bg = #ff00c8df
+com.android.systemui:drawable/tw_ic_do_emergencysos = frro://data/resource-cache/android-HexNext_com_android_systemui-xxPe.frro?offset=48256&size=5060

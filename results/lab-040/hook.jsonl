@@ -1,0 +1,11 @@
+{"cmd":"pack","ok":true,"detail":"selected=willemite","at":1793859950069}
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=1000 system","at":1793859978530}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793860269284}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793860323540}
+{"cmd":"preview","ok":true,"detail":"tab=CALCULATOR dark=false","at":1793860338036}
+{"cmd":"preview","ok":true,"detail":"tab=VOICE_RECORDER dark=false","at":1793860352720}
+{"cmd":"preview","ok":true,"detail":"tab=DEVICE_CARE dark=false","at":1793860367189}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793860385867}
+{"cmd":"preview","ok":true,"detail":"tab=CALCULATOR dark=true","at":1793860400604}
+{"cmd":"preview","ok":true,"detail":"tab=VOICE_RECORDER dark=true","at":1793860415346}
+{"cmd":"preview","ok":true,"detail":"tab=DEVICE_CARE dark=true","at":1793860429735}

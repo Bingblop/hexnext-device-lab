@@ -1,0 +1,16 @@
+[01:25:35] job lab-040
+[01:25:38] install: downloaded artifact 13393407387 through the API
+[01:25:38] install: run 41979241509 (claude/project-thread-rje8bm) sha ok, installing app-owner-release.apk
+[01:25:39] restarting Shizuku as root
+[01:25:47] pack willemite
+[01:25:50] scan
+[01:26:19] apply (confirm=true)
+[01:31:42] lookup 1
+[01:31:48] capture light settings
+[01:32:07] capture light app:com.sec.android.app.popupcalculator
+[01:32:21] capture light app:com.sec.android.app.voicenote
+[01:32:36] capture light app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[01:32:50] capture dark settings
+[01:33:09] capture dark app:com.sec.android.app.popupcalculator
+[01:33:24] capture dark app:com.sec.android.app.voicenote
+[01:33:39] capture dark app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
