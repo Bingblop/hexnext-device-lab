@@ -17,3 +17,6 @@
 [19:30:03] overlay state 4
 [19:30:08] boot log 1
 [19:30:09] soft reboot; remaining steps: overlaystate bootlog (unlock the phone when it comes back)
+[19:30:40] job lab-033
+[19:30:40] overlay state 5
+[19:30:47] boot log 2
