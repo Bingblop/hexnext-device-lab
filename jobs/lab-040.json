@@ -1,0 +1,38 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "lookup",
+    "capture"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "settings",
+    "app:com.sec.android.app.popupcalculator",
+    "app:com.sec.android.app.voicenote",
+    "app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity"
+  ],
+  "lookups": [
+    "com.android.systemui:color/sesl_primary_color_light",
+    "com.android.systemui:color/sesl_primary_color_dark",
+    "com.sec.android.app.voicenote:color/basic_token_sys_red",
+    "com.sec.android.app.popupcalculator:color/calc_keypad_operation_button_bg",
+    "com.android.systemui:drawable/tw_ic_do_emergencysos"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true
+  },
+  "id": "lab-040",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41979241509,
+  "artifact_sha256": "cd9204b642e42d1d10ba43c2439e181941f9f500c3c1a3772580c99262e54bb9"
+}
