@@ -1,0 +1,33 @@
+{"cmd":"pack","ok":true,"detail":"selected=willemite","at":1793855714487}
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=1000 system","at":1793855741304}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793856020840}
+{"cmd":"preview","ok":true,"detail":"tab=CONTACTS dark=false","at":1793856068703}
+{"cmd":"preview","ok":true,"detail":"tab=CALCULATOR dark=false","at":1793856084033}
+{"cmd":"preview","ok":true,"detail":"tab=VOICE_RECORDER dark=false","at":1793856098550}
+{"cmd":"preview","ok":true,"detail":"tab=GALLERY dark=false","at":1793856114887}
+{"cmd":"preview","ok":true,"detail":"tab=CLOCK dark=false","at":1793856134023}
+{"cmd":"preview","ok":true,"detail":"tab=CALENDAR dark=false","at":1793856149201}
+{"cmd":"preview","ok":true,"detail":"tab=NOTES dark=false","at":1793856164633}
+{"cmd":"preview","ok":true,"detail":"tab=REMINDER dark=false","at":1793856179761}
+{"cmd":"preview","ok":true,"detail":"tab=INTERNET dark=false","at":1793856196650}
+{"cmd":"preview","ok":true,"detail":"tab=EMAIL dark=false","at":1793856210886}
+{"cmd":"preview","ok":true,"detail":"tab=MUSIC dark=false","at":1793856226032}
+{"cmd":"preview","ok":true,"detail":"tab=HEALTH dark=false","at":1793856243281}
+{"cmd":"preview","ok":true,"detail":"tab=DEVICE_CARE dark=false","at":1793856260959}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=false","at":1793856283070}
+{"cmd":"preview","ok":true,"detail":"tab=CONTACTS dark=true","at":1793856301613}
+{"cmd":"preview","ok":true,"detail":"tab=CALCULATOR dark=true","at":1793856316804}
+{"cmd":"preview","ok":true,"detail":"tab=VOICE_RECORDER dark=true","at":1793856332091}
+{"cmd":"preview","ok":true,"detail":"tab=GALLERY dark=true","at":1793856348369}
+{"cmd":"preview","ok":true,"detail":"tab=CLOCK dark=true","at":1793856367694}
+{"cmd":"preview","ok":true,"detail":"tab=CALENDAR dark=true","at":1793856382984}
+{"cmd":"preview","ok":true,"detail":"tab=NOTES dark=true","at":1793856398346}
+{"cmd":"preview","ok":true,"detail":"tab=REMINDER dark=true","at":1793856413518}
+{"cmd":"preview","ok":true,"detail":"tab=INTERNET dark=true","at":1793856430367}
+{"cmd":"preview","ok":true,"detail":"tab=EMAIL dark=true","at":1793856444750}
+{"cmd":"preview","ok":true,"detail":"tab=MUSIC dark=true","at":1793856459936}
+{"cmd":"preview","ok":true,"detail":"tab=HEALTH dark=true","at":1793856477702}
+{"cmd":"preview","ok":true,"detail":"tab=DEVICE_CARE dark=true","at":1793856495396}
+{"cmd":"preview","ok":true,"detail":"tab=KEYBOARD dark=true","at":1793856517831}
+{"cmd":"preview","ok":true,"detail":"tab=CONTACTS dark=false","at":1793856541321}
+{"cmd":"preview","ok":true,"detail":"tab=CONTACTS dark=true","at":1793856559615}

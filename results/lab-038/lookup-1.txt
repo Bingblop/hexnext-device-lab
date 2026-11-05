@@ -1,0 +1,3 @@
+com.sec.android.app.voicenote:color/basic_token_sys_red = #ff00c8df
+com.sec.android.app.voicenote:color/basic_token_sys_red_light = #ff006875
+com.sec.android.app.popupcalculator:color/calc_keypad_operation_button_bg = #ff00c8df

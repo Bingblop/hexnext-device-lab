@@ -1,0 +1,400 @@
+INFO applyOverlay code=0, 251 resources (53/53 drawables), 0 skipped, 4209 ms
+INFO   [UID 1000] android:HexNext_com_sec_android_app_soundalive -> com.sec.android.app.soundalive: 198 colours, 53 drawables
+INFO   Committed 198 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  10759 2026-11-05 00:19 /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro
+INFO   Built 108688 bytes: 198 kept values (0 non-colour, 0 earlier files) + 53 PNGs (89481 payload bytes), crc 0x56ee95a4
+INFO   Wrote 108688 bytes to /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro (was 10759 bytes, crc 0xdc849db8).
+INFO   Disabled android:HexNext_com_sec_android_app_soundalive to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_app_soundalive-7kUW.frro@idmap: 11016 bytes, overlay crc 0x56ee95a4 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro: 251 entries, 53 file values, crc ok=true
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_default [night-xxhdpi]: offset=18466 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=18466&size=2736
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_default_background [night-xxhdpi]: offset=23938 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=23938&size=2736
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=61678 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=61678&size=598
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_default [xxhdpi]: offset=21202 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=18466&size=2736
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_default_background [xxhdpi]: offset=26674 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=23938&size=2736
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=1729 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=16&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=5155 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=3442&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=8581 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=6868&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=11656 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=10294&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=14380 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=13018&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=17104 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=15742&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=31123 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=29410&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=34549 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=32836&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=37975 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=36262&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=41742 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=39688&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=45850 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=43796&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=49958 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=47904&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=52652 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=52012&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=54281 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=53641&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=55874 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=55234&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=57503 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=56863&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_off [xxhdpi]: offset=59096 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=58456&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_on [xxhdpi]: offset=60725 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=60085&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=64810 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=62276&size=2534
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=69689 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=67230&size=2459
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=77402 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=74996&size=2406
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_on [xxhdpi]: offset=87091 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=84685&size=2406
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=73551 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=72148&size=1403
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_off [xxhdpi]: offset=82189 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=79808&size=2381
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=16 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=16&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=3442 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=3442&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=6868 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=6868&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=10294 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=10294&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=13018 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=13018&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=15742 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=15742&size=1362
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=29410 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=29410&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=32836 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=32836&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=36262 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=36262&size=1713
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=39688 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=39688&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=43796 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=43796&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=47904 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=47904&size=2054
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=52012 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=52012&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=53641 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=53641&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=55234 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=55234&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=56863 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=56863&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=58456 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=58456&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=60085 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=60085&size=640
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=62276 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=62276&size=2534
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=67230 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=67230&size=2459
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=74996 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=74996&size=2406
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_on [night-xxhdpi]: offset=84685 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=84685&size=2406
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=72148 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=72148&size=1403
+INFO     com.sec.android.app.soundalive:drawable/sesl_switch_track_off [night-xxhdpi]: offset=79808 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro?offset=79808&size=2381
+INFO   Root rewrite applied 53/53 drawables.
+INFO   Enabled 198 colours and 53/53 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_android_app_soundalive
+INFO   Order: on top of com.sec.android.app.soundalive.
+INFO   Killed the background process of com.sec.android.app.soundalive so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_android_app_soundalive-7kUW.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_android_app_soundalive .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_android_app_soundalive-rw2E.frro
+INFO Lookup: #ff00c8df
+OK com.sec.android.app.soundalive: 251 resources
+INFO Building HexNext_com_sec_android_daemonapp: 234 colours, 61 drawables
+INFO applyOverlay code=0, 295 resources (61/61 drawables), 0 skipped, 4501 ms
+INFO   [UID 1000] android:HexNext_com_sec_android_daemonapp -> com.sec.android.daemonapp: 234 colours, 61 drawables
+INFO   Committed 234 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  12006 2026-11-05 00:20 /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro
+INFO   Built 128860 bytes: 234 kept values (0 non-colour, 0 earlier files) + 61 PNGs (107478 payload bytes), crc 0x99c6925f
+INFO   Wrote 128860 bytes to /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro (was 12006 bytes, crc 0x0300fc5e).
+INFO   Disabled android:HexNext_com_sec_android_daemonapp to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_daemonapp-7c0u.frro@idmap: 12516 bytes, overlay crc 0x99c6925f (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro: 295 entries, 61 file values, crc ok=true
+INFO     com.sec.android.daemonapp:drawable/ic_info [night-xxhdpi]: offset=16 size=1563, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=16&size=1563
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_default [night-xxhdpi]: offset=21592 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=21592&size=2736
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_default_background [night-xxhdpi]: offset=27064 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=27064&size=2736
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=69775 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=69775&size=598
+INFO     com.sec.android.daemonapp:drawable/sesl_dialog_btn_default_borderless [night-xxhdpi]: offset=55138 size=2495, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=55138&size=2495
+INFO     com.sec.android.daemonapp:drawable/ic_info [xxhdpi]: offset=1579 size=1563, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=16&size=1563
+INFO     com.sec.android.daemonapp:drawable/stat_notify_weather [xxhdpi]: offset=105019 size=2475, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=97594&size=2475
+INFO     com.sec.android.daemonapp:drawable/stat_notify_weather [nodpi]: offset=102544 size=2475, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=97594&size=2475
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_default [xxhdpi]: offset=24328 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=21592&size=2736
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_default_background [xxhdpi]: offset=29800 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=27064&size=2736
+INFO     com.sec.android.daemonapp:drawable/sesl_dialog_btn_default_borderless [xxhdpi]: offset=57633 size=2476, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=55138&size=2495
+INFO     com.sec.android.daemonapp:drawable/stat_notify_weather [night-xxhdpi]: offset=100069 size=2475, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=97594&size=2475
+INFO     com.sec.android.daemonapp:drawable/stat_notify_weather [night-nodpi]: offset=97594 size=2475, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=97594&size=2475
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=4855 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=3142&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=8281 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=6568&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=11707 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=9994&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=14782 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=13420&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=17506 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=16144&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=20230 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=18868&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=34249 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=32536&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=37675 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=35962&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=41101 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=39388&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=44868 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=42814&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=48976 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=46922&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=53084 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=51030&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=60749 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=60109&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=62378 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=61738&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=63971 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=63331&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=65600 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=64960&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_off [xxhdpi]: offset=67193 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=66553&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_on [xxhdpi]: offset=68822 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=68182&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=72907 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=70373&size=2534
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=77786 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=75327&size=2459
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=85499 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=83093&size=2406
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_on [xxhdpi]: offset=95188 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=92782&size=2406
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=81648 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=80245&size=1403
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_off [xxhdpi]: offset=90286 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=87905&size=2381
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=3142 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=3142&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=6568 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=6568&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=9994 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=9994&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=13420 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=13420&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=16144 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=16144&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=18868 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=18868&size=1362
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=32536 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=32536&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=35962 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=35962&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=39388 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=39388&size=1713
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=42814 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=42814&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=46922 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=46922&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=51030 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=51030&size=2054
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=60109 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=60109&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=61738 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=61738&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=63331 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=63331&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=64960 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=64960&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=66553 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=66553&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=68182 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=68182&size=640
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=70373 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=70373&size=2534
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=75327 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=75327&size=2459
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=83093 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=83093&size=2406
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_on [night-xxhdpi]: offset=92782 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=92782&size=2406
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=80245 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=80245&size=1403
+INFO     com.sec.android.daemonapp:drawable/sesl_switch_track_off [night-xxhdpi]: offset=87905 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro?offset=87905&size=2381
+INFO   Root rewrite applied 61/61 drawables.
+INFO   Enabled 234 colours and 61/61 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_android_daemonapp
+INFO   Order: on top of com.sec.android.daemonapp.
+INFO   Killed the background process of com.sec.android.daemonapp so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_android_daemonapp-7c0u.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_android_daemonapp .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_android_daemonapp-Rh5s.frro
+INFO Lookup: #ff00c8df
+OK com.sec.android.daemonapp: 295 resources
+INFO Building HexNext_com_sec_android_mimage_photoretouching: 202 colours, 53 drawables
+INFO applyOverlay code=0, 255 resources (53/53 drawables), 0 skipped, 4218 ms
+INFO   [UID 1000] android:HexNext_com_sec_android_mimage_photoretouching -> com.sec.android.mimage.photoretouching: 202 colours, 53 drawables
+INFO   Committed 202 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  10947 2026-11-05 00:20 /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro
+INFO   Built 109300 bytes: 202 kept values (0 non-colour, 0 earlier files) + 53 PNGs (89481 payload bytes), crc 0x2187eaa5
+INFO   Wrote 109300 bytes to /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro (was 10947 bytes, crc 0x42327cf2).
+INFO   Disabled android:HexNext_com_sec_android_mimage_photoretouching to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro@idmap: 11592 bytes, overlay crc 0x2187eaa5 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro: 255 entries, 53 file values, crc ok=true
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_default [night-xxhdpi]: offset=18466 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=18466&size=2736
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_default_background [night-xxhdpi]: offset=23938 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=23938&size=2736
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=61678 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=61678&size=598
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_default [xxhdpi]: offset=21202 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=18466&size=2736
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_default_background [xxhdpi]: offset=26674 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=23938&size=2736
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=1729 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=16&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=5155 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=3442&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=8581 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=6868&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=11656 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=10294&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=14380 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=13018&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=17104 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=15742&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=31123 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=29410&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=34549 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=32836&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=37975 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=36262&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=41742 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=39688&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=45850 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=43796&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=49958 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=47904&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=52652 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=52012&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=54281 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=53641&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=55874 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=55234&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=57503 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=56863&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_off [xxhdpi]: offset=59096 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=58456&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_on [xxhdpi]: offset=60725 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=60085&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=64810 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=62276&size=2534
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=69689 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=67230&size=2459
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=77402 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=74996&size=2406
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_on [xxhdpi]: offset=87091 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=84685&size=2406
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=73551 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=72148&size=1403
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_off [xxhdpi]: offset=82189 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=79808&size=2381
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=16 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=16&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=3442 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=3442&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=6868 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=6868&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=10294 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=10294&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=13018 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=13018&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=15742 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=15742&size=1362
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=29410 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=29410&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=32836 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=32836&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=36262 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=36262&size=1713
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=39688 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=39688&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=43796 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=43796&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=47904 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=47904&size=2054
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=52012 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=52012&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=53641 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=53641&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=55234 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=55234&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=56863 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=56863&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=58456 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=58456&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=60085 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=60085&size=640
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=62276 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=62276&size=2534
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=67230 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=67230&size=2459
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=74996 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=74996&size=2406
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_on [night-xxhdpi]: offset=84685 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=84685&size=2406
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=72148 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=72148&size=1403
+INFO     com.sec.android.mimage.photoretouching:drawable/sesl_switch_track_off [night-xxhdpi]: offset=79808 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro?offset=79808&size=2381
+INFO   Root rewrite applied 53/53 drawables.
+INFO   Enabled 202 colours and 53/53 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_android_mimage_photoretouching
+INFO   Order: on top of com.sec.android.mimage.photoretouching.
+INFO   Killed the background process of com.sec.android.mimage.photoretouching so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_android_mimage_photoretouching-Ioje.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_android_mimage_photoretouching .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_android_mimage_photoretouching-HGzc.frro
+INFO Lookup: #ff000000
+OK com.sec.android.mimage.photoretouching: 255 resources
+INFO Building HexNext_com_sec_hearingadjust: 182 colours, 53 drawables
+INFO applyOverlay code=0, 235 resources (53/53 drawables), 0 skipped, 4208 ms
+INFO   [UID 1000] android:HexNext_com_sec_hearingadjust -> com.sec.hearingadjust: 182 colours, 53 drawables
+INFO   Committed 182 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  9986 2026-11-05 00:20 /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro
+INFO   Built 107439 bytes: 182 kept values (0 non-colour, 0 earlier files) + 53 PNGs (89481 payload bytes), crc 0x18bd2831
+INFO   Wrote 107439 bytes to /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro (was 9986 bytes, crc 0xfb194d2c).
+INFO   Disabled android:HexNext_com_sec_hearingadjust to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_hearingadjust-oJ7i.frro@idmap: 10232 bytes, overlay crc 0x18bd2831 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro: 235 entries, 53 file values, crc ok=true
+INFO     com.sec.hearingadjust:drawable/sesl_btn_default [night-xxhdpi]: offset=18466 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=18466&size=2736
+INFO     com.sec.hearingadjust:drawable/sesl_btn_default_background [night-xxhdpi]: offset=23938 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=23938&size=2736
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=61678 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=61678&size=598
+INFO     com.sec.hearingadjust:drawable/sesl_btn_default [xxhdpi]: offset=21202 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=18466&size=2736
+INFO     com.sec.hearingadjust:drawable/sesl_btn_default_background [xxhdpi]: offset=26674 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=23938&size=2736
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=1729 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=16&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=5155 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=3442&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=8581 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=6868&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=11656 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=10294&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=14380 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=13018&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=17104 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=15742&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=31123 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=29410&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=34549 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=32836&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=37975 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=36262&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=41742 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=39688&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=45850 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=43796&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=49958 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=47904&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=52652 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=52012&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=54281 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=53641&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=55874 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=55234&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=57503 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=56863&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_off [xxhdpi]: offset=59096 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=58456&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_on [xxhdpi]: offset=60725 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=60085&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=64810 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=62276&size=2534
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=69689 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=67230&size=2459
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=77402 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=74996&size=2406
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_on [xxhdpi]: offset=87091 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=84685&size=2406
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=73551 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=72148&size=1403
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_off [xxhdpi]: offset=82189 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=79808&size=2381
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=16 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=16&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=3442 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=3442&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=6868 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=6868&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=10294 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=10294&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=13018 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=13018&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=15742 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=15742&size=1362
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=29410 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=29410&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=32836 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=32836&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=36262 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=36262&size=1713
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=39688 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=39688&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=43796 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=43796&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=47904 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=47904&size=2054
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=52012 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=52012&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=53641 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=53641&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=55234 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=55234&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=56863 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=56863&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=58456 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=58456&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=60085 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=60085&size=640
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=62276 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=62276&size=2534
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=67230 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=67230&size=2459
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=74996 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=74996&size=2406
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_on [night-xxhdpi]: offset=84685 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=84685&size=2406
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=72148 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=72148&size=1403
+INFO     com.sec.hearingadjust:drawable/sesl_switch_track_off [night-xxhdpi]: offset=79808 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro?offset=79808&size=2381
+INFO   Root rewrite applied 53/53 drawables.
+INFO   Enabled 182 colours and 53/53 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_hearingadjust
+INFO   Order: on top of com.sec.hearingadjust.
+INFO   Killed the background process of com.sec.hearingadjust so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_hearingadjust-oJ7i.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_hearingadjust .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_hearingadjust-tdc2.frro
+INFO Lookup: #ff000000
+OK com.sec.hearingadjust: 235 resources
+INFO Building HexNext_com_sec_unifiedwfc: 186 colours, 53 drawables
+INFO applyOverlay code=0, 239 resources (53/53 drawables), 0 skipped, 4198 ms
+INFO   [UID 1000] android:HexNext_com_sec_unifiedwfc -> com.sec.unifiedwfc: 186 colours, 53 drawables
+INFO   Committed 186 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  9697 2026-11-05 00:20 /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro
+INFO   Built 106990 bytes: 186 kept values (0 non-colour, 0 earlier files) + 53 PNGs (89481 payload bytes), crc 0x4f8d5939
+INFO   Wrote 106990 bytes to /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro (was 9697 bytes, crc 0x6a0bba93).
+INFO   Disabled android:HexNext_com_sec_unifiedwfc to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_unifiedwfc-Q87R.frro@idmap: 10132 bytes, overlay crc 0x4f8d5939 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro: 239 entries, 53 file values, crc ok=true
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_default [night-xxhdpi]: offset=18466 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=18466&size=2736
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_default_background [night-xxhdpi]: offset=23938 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=23938&size=2736
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=61678 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=61678&size=598
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_default [xxhdpi]: offset=21202 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=18466&size=2736
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_default_background [xxhdpi]: offset=26674 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=23938&size=2736
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=1729 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=16&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=5155 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=3442&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=8581 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=6868&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=11656 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=10294&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=14380 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=13018&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=17104 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=15742&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=31123 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=29410&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=34549 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=32836&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=37975 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=36262&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=41742 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=39688&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=45850 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=43796&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=49958 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=47904&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=52652 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=52012&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=54281 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=53641&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=55874 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=55234&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=57503 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=56863&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_off [xxhdpi]: offset=59096 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=58456&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_on [xxhdpi]: offset=60725 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=60085&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=64810 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=62276&size=2534
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=69689 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=67230&size=2459
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=77402 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=74996&size=2406
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_on [xxhdpi]: offset=87091 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=84685&size=2406
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=73551 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=72148&size=1403
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_off [xxhdpi]: offset=82189 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=79808&size=2381
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=16 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=16&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=3442 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=3442&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=6868 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=6868&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=10294 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=10294&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=13018 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=13018&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=15742 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=15742&size=1362
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=29410 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=29410&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=32836 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=32836&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=36262 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=36262&size=1713
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=39688 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=39688&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=43796 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=43796&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=47904 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=47904&size=2054
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=52012 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=52012&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=53641 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=53641&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=55234 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=55234&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=56863 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=56863&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=58456 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=58456&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=60085 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=60085&size=640
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=62276 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=62276&size=2534
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=67230 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=67230&size=2459
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=74996 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=74996&size=2406
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_on [night-xxhdpi]: offset=84685 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=84685&size=2406
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=72148 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=72148&size=1403
+INFO     com.sec.unifiedwfc:drawable/sesl_switch_track_off [night-xxhdpi]: offset=79808 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro?offset=79808&size=2381
+INFO   Root rewrite applied 53/53 drawables.
+INFO   Enabled 186 colours and 53/53 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_unifiedwfc
+INFO   Order: on top of com.sec.unifiedwfc.
+INFO   Killed the background process of com.sec.unifiedwfc so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_unifiedwfc-Q87R.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_unifiedwfc .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_unifiedwfc-3bNA.frro
+INFO Lookup: #ff000000
+OK com.sec.unifiedwfc: 239 resources
+INFO Building HexNext_io_mesalabs_knoxpatch: 122 colours, 0 drawables
+INFO applyOverlay code=0, 122 resources (0/0 drawables), 0 skipped, 726 ms
+INFO   [UID 1000] android:HexNext_io_mesalabs_knoxpatch -> io.mesalabs.knoxpatch: 122 colours, 0 drawables
+INFO   Committed 122 colours through OverlayManager.
+INFO   Enabled 122 colours and 0/0 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_io_mesalabs_knoxpatch
+INFO   Order: enable.
+INFO   Located /data/resource-cache/android-HexNext_io_mesalabs_knoxpatch-2hWd.frro via cmd overlay dump.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_io_mesalabs_knoxpatch-2hWd.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_io_mesalabs_knoxpatch .frro files (and their idmaps) from /data/resource-cache: android-HexNext_io_mesalabs_knoxpatch-b6bO.frro
+INFO Lookup: Error: failed to get resources for package io.mesalabs.knoxpatch for user 0
+OK io.mesalabs.knoxpatch: 122 resources
+INFO Stability monitor (sizes first): ErrnoException: open failed: EACCES (Permission denied)
+WARN Sizes skipped: the staged stability monitor did not start (ErrnoException: open failed: EACCES (Permission denied)).
+WARN Could not save semwt_state.json; removal cannot restore SemWT overlays automatically.
+INFO No SemWT guard running
+OK Theme apply: 61 ok, 0 failed, 0 debloated, 1 skipped, 0 SemWT disabled, 2/2 verified
+INFO Build log: /data/user/0/com.hexnext.themer.owner/files/logs/20261105-001542.jsonl

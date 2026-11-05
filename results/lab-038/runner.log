@@ -1,0 +1,43 @@
+[00:14:59] job lab-038
+[00:15:02] install: downloaded artifact 13390382184 through the API
+[00:15:02] install: run 41971229109 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[00:15:03] restarting Shizuku as root
+[00:15:11] pack willemite
+[00:15:15] scan
+[00:15:42] apply (confirm=true)
+[00:20:52] lookup 1
+[00:20:57] capture light app:com.samsung.android.app.contacts
+[00:21:13] capture light app:com.sec.android.app.popupcalculator
+[00:21:27] capture light app:com.sec.android.app.voicenote
+[00:21:42] capture light app:com.sec.android.gallery3d
+[00:21:59] capture light app:com.sec.android.app.clockpackage
+[00:22:18] capture light app:com.samsung.android.calendar
+[00:22:33] capture light app:com.samsung.android.app.notes
+[00:22:48] capture light app:com.samsung.android.app.reminder
+[00:23:03] capture light app:com.sec.android.app.sbrowser
+[00:23:20] capture light app:com.samsung.android.email.provider
+[00:23:35] capture light app:com.sec.android.app.music
+[00:23:50] capture light app:com.sec.android.app.shealth
+[00:24:07] capture light app:com.samsung.android.lool
+[00:24:07] capture: com.samsung.android.lool did not open; its activities are in activities-com.samsung.android.lool.txt
+[00:24:25] capture light keyboard
+[00:24:50] capture dark app:com.samsung.android.app.contacts
+[00:25:05] capture dark app:com.sec.android.app.popupcalculator
+[00:25:21] capture dark app:com.sec.android.app.voicenote
+[00:25:36] capture dark app:com.sec.android.gallery3d
+[00:25:53] capture dark app:com.sec.android.app.clockpackage
+[00:26:11] capture dark app:com.samsung.android.calendar
+[00:26:27] capture dark app:com.samsung.android.app.notes
+[00:26:42] capture dark app:com.samsung.android.app.reminder
+[00:26:57] capture dark app:com.sec.android.app.sbrowser
+[00:27:14] capture dark app:com.samsung.android.email.provider
+[00:27:28] capture dark app:com.sec.android.app.music
+[00:27:44] capture dark app:com.sec.android.app.shealth
+[00:28:01] capture dark app:com.samsung.android.lool
+[00:28:02] capture: com.samsung.android.lool did not open; its activities are in activities-com.samsung.android.lool.txt
+[00:28:19] capture dark keyboard
+[00:28:44] probe: 20 overlay lines
+[00:28:50] capture light app:com.samsung.android.app.contacts
+[00:29:08] capture dark app:com.samsung.android.app.contacts
+[00:29:25] unprobe: done
+[00:29:32] arsc: com.android.systemui 2156 KB
