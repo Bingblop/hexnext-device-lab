@@ -1,0 +1,156 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "lookup",
+    "capture",
+    "probe",
+    "arsc"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "app:com.samsung.android.app.contacts",
+    "app:com.sec.android.app.popupcalculator",
+    "app:com.sec.android.app.voicenote",
+    "app:com.sec.android.gallery3d",
+    "app:com.sec.android.app.clockpackage",
+    "app:com.samsung.android.calendar",
+    "app:com.samsung.android.app.notes",
+    "app:com.samsung.android.app.reminder",
+    "app:com.sec.android.app.sbrowser",
+    "app:com.samsung.android.email.provider",
+    "app:com.sec.android.app.music",
+    "app:com.sec.android.app.shealth",
+    "app:com.samsung.android.lool",
+    "keyboard"
+  ],
+  "arsc": [
+    "com.android.systemui"
+  ],
+  "lookups": [
+    "com.sec.android.app.voicenote:color/basic_token_sys_red",
+    "com.sec.android.app.voicenote:color/basic_token_sys_red_light",
+    "com.sec.android.app.popupcalculator:color/calc_keypad_operation_button_bg"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true
+  },
+  "id": "lab-038",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41971229109,
+  "artifact_sha256": "8ffaa57f0076cea7f7fd41fccab0c02d51d7ca3ded00a588e12599e9cb68e8bc",
+  "probes": [
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_1",
+      "value": "0xffff0000"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_2",
+      "value": "0xff00288c"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_3",
+      "value": "0xff94ff00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_4",
+      "value": "0xff8c007a"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_5",
+      "value": "0xff00ffd4"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_6_1",
+      "value": "0xff8c4b00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_6_2",
+      "value": "0xff3f00ff"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_6_3",
+      "value": "0xff068c00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_7_1",
+      "value": "0xffff0055"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_7_2",
+      "value": "0xff00588c"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_7_3",
+      "value": "0xffeaff00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_8_1",
+      "value": "0xff6e008c"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_8_2",
+      "value": "0xff00ff7e"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_8_3",
+      "value": "0xff8c1c00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_9_1",
+      "value": "0xff0016ff"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_9_2",
+      "value": "0xff358c00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_9_3",
+      "value": "0xffff00ab"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_10_1",
+      "value": "0xff00878c"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_10_2",
+      "value": "0xffffbd00"
+    },
+    {
+      "target": "com.samsung.android.app.contacts",
+      "res": "color/color_palette_10_3",
+      "value": "0xff3f008c"
+    }
+  ],
+  "probe_captures": [
+    "app:com.samsung.android.app.contacts"
+  ]
+}
