@@ -20,3 +20,5 @@
 [23:42:20] arsc: com.samsung.android.framework.res not installed
 [23:42:24] arsc: com.samsung.android.app.contacts 3360 KB
 [23:42:26] arsc: com.samsung.android.dialer 2692 KB
+[23:42:30] job lab-037 pushed
+[23:43:00] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
