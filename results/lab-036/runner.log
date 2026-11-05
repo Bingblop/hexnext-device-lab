@@ -62,3 +62,5 @@
 [22:22:40] arsc: com.samsung.android.bixby.agent 3128 KB
 [22:22:41] arsc: com.sec.android.daemonapp 1468 KB
 [22:22:43] overlay state 1
+[22:23:03] job lab-036 pushed
+[22:23:34] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
