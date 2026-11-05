@@ -1,0 +1,2 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=0 shizuku","at":1793840798628}
+{"cmd":"apply","ok":false,"detail":"status=aborted error=DeadObjectException: null pack=willemite","at":1793840807750}

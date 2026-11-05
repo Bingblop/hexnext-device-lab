@@ -1,0 +1,23 @@
+[20:05:45] job lab-034
+[20:05:48] install: downloaded artifact 13375884412 through the API
+[20:05:48] install: run 41940987164 (claude/project-thread-rje8bm) sha ok, installing app-owner-universal-release.apk
+[20:05:49] restarting Shizuku as root
+[20:05:57] scan
+[20:06:40] apply (confirm=true)
+[20:07:19] lookup 1
+[20:07:24] capture light app:com.google.android.gm
+[20:07:34] capture light app:com.google.android.apps.messaging
+[20:07:43] capture light app:com.google.android.calendar
+[20:07:53] capture light app:com.google.android.calculator
+[20:08:02] capture light app:com.google.android.keep
+[20:08:11] capture light app:com.google.android.apps.docs
+[20:08:20] capture light app:com.android.chrome
+[20:08:30] capture light gboard
+[20:08:48] capture dark app:com.google.android.gm
+[20:08:58] capture dark app:com.google.android.apps.messaging
+[20:09:07] capture dark app:com.google.android.calendar
+[20:09:17] capture dark app:com.google.android.calculator
+[20:09:26] capture dark app:com.google.android.keep
+[20:09:35] capture dark app:com.google.android.apps.docs
+[20:09:45] capture dark app:com.android.chrome
+[20:09:54] capture dark gboard

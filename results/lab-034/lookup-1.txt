@@ -1,0 +1,7 @@
+android:color/system_accent1_600 = #ff006875
+android:color/system_accent1_100 = #ff26e6ff
+android:color/system_neutral1_900 = #ff000000
+android:color/system_primary_light = #ff006875
+android:color/system_primary_dark = #ff98efff
+android:color/system_surface_container_high_dark = #ff242b2d
+android:color/system_primary_fixed = #ff26e6ff
