@@ -5,3 +5,5 @@
 [02:43:58] labkey: public key in labkey.pem
 [02:44:01] job lab-041 pushed
 [02:44:31] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[02:44:34] lab repaired
+[02:45:05] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
