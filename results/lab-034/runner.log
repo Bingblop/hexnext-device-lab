@@ -21,3 +21,5 @@
 [20:09:35] capture dark app:com.google.android.apps.docs
 [20:09:45] capture dark app:com.android.chrome
 [20:09:54] capture dark gboard
+[20:10:15] job lab-034 pushed
+[20:10:46] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
