@@ -1,0 +1,21 @@
+[00:51:43] job lab-039
+[00:51:45] install: downloaded artifact 13392336667 through the API
+[00:51:45] install: run 41975049582 (claude/project-thread-rje8bm) sha ok, installing app-owner-release.apk
+[00:51:46] restarting Shizuku as root
+[00:51:54] pack willemite
+[00:51:57] scan
+[00:52:26] apply (confirm=true)
+[01:08:04] lookup 1
+[01:08:10] capture light settings
+[01:08:28] capture light app:com.samsung.android.app.contacts
+[01:08:43] capture light app:com.sec.android.app.popupcalculator
+[01:08:58] capture light app:com.sec.android.app.voicenote
+[01:09:12] capture light app:com.samsung.android.app.notes
+[01:09:28] capture light app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[01:09:42] capture dark settings
+[01:10:01] capture dark app:com.samsung.android.app.contacts
+[01:10:16] capture dark app:com.sec.android.app.popupcalculator
+[01:10:30] capture dark app:com.sec.android.app.voicenote
+[01:10:45] capture dark app:com.samsung.android.app.notes
+[01:11:00] capture dark app:com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity
+[01:11:24] arsc: com.samsung.android.app.contacts 3360 KB

@@ -1,0 +1,9 @@
+com.android.systemui:color/sesl_primary_color_light = #ffadb138
+com.android.systemui:color/sesl_blue_color_light = @2114322635 -> #ff387aff
+com.android.systemui:color/basic_token_sys_primary = #ff40484a
+com.android.systemui:color/basic_token_primary_50 = #ff387aff
+com.android.systemui:color/m3_sys_color_dynamic_light_primary = @17170528 -> #ff006875
+com.android.systemui:color/m3_sys_color_light_primary = @2114323622 -> #ff6750a4
+android:color/system_accent1_600 = #ff006875
+com.android.settings:color/sesl_round_and_bgcolor_light = #ff000000
+com.sec.android.app.popupcalculator:color/sesl_round_and_bgcolor_light = #fff1f1f3

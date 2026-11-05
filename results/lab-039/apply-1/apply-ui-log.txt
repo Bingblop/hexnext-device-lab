@@ -1,0 +1,400 @@
+INFO     com.samsung.android.honeyboard:drawable/key_pressed_background_image_open_theme [xxhdpi]: offset=10540 size=1476, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=9055&size=1485
+INFO     com.samsung.android.honeyboard:drawable/preview_bg [xxhdpi]: offset=76372 size=1714, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=74658&size=1714
+INFO     com.samsung.android.honeyboard:drawable/preview_bubble_background_image_open_theme [xxhdpi]: offset=79800 size=1714, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=78086&size=1714
+INFO     com.samsung.android.honeyboard:drawable/key_bg [night-xxhdpi]: offset=6094 size=1485, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=6094&size=1485
+INFO     com.samsung.android.honeyboard:drawable/normal_key_background_image_open_theme [night-xxhdpi]: offset=68736 size=1485, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=68736&size=1485
+INFO     com.samsung.android.honeyboard:drawable/number_key_background_image_open_theme [night-xxhdpi]: offset=71697 size=1485, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=71697&size=1485
+INFO     com.samsung.android.honeyboard:drawable/key_pressed_background_image_open_theme [night-xxhdpi]: offset=9055 size=1485, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=9055&size=1485
+INFO     com.samsung.android.honeyboard:drawable/keyboard_background_image [night-xxhdpi]: offset=12016 size=14180, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=12016&size=14180
+INFO     com.samsung.android.honeyboard:drawable/keyboard_background_image_open_theme [night-xxhdpi]: offset=40376 size=14180, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=40376&size=14180
+INFO     com.samsung.android.honeyboard:drawable/function_key_background_image_open_theme [night-xxhdpi]: offset=16 size=1476, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=16&size=1476
+INFO     com.samsung.android.honeyboard:drawable/preview_bg [night-xxhdpi]: offset=74658 size=1714, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=74658&size=1714
+INFO     com.samsung.android.honeyboard:drawable/preview_bubble_background_image_open_theme [night-xxhdpi]: offset=78086 size=1714, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro?offset=78086&size=1714
+INFO   Root rewrite applied 75/75 drawables.
+INFO   Enabled 506 colours and 75/75 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_samsung_android_honeyboard
+INFO   Order: on top of com.samsung.android.honeyboard.
+INFO   Killed the background process of com.samsung.android.honeyboard so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_samsung_android_honeyboard-XEqk.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_samsung_android_honeyboard .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_samsung_android_honeyboard-XD7S.frro
+INFO Lookup: #66f1fdff
+OK com.samsung.android.honeyboard: 581 resources
+INFO Building HexNext_com_samsung_android_dialer: 406 colours, 63 drawables
+INFO applyOverlay code=0, 469 resources (63/63 drawables), 0 skipped, 4652 ms
+INFO   [UID 1000] android:HexNext_com_samsung_android_dialer -> com.samsung.android.dialer: 406 colours, 63 drawables
+INFO   Committed 406 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  20653 2026-11-05 00:53 /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro
+INFO   Built 207357 bytes: 406 kept values (0 non-colour, 0 earlier files) + 63 PNGs (176924 payload bytes), crc 0x93045783
+INFO   Wrote 207357 bytes to /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro (was 20653 bytes, crc 0x1a78bf1c).
+INFO   Disabled android:HexNext_com_samsung_android_dialer to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_dialer-zzHT.frro@idmap: 15976 bytes, overlay crc 0x93045783 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro: 469 entries, 63 file values, crc ok=true
+INFO     com.samsung.android.dialer:drawable/contacts_create_ic_emergency [night-xxhdpi]: offset=16 size=1651, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=16&size=1651
+INFO     com.samsung.android.dialer:drawable/sesl_btn_default [night-xxhdpi]: offset=97941 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=97941&size=2736
+INFO     com.samsung.android.dialer:drawable/sesl_btn_default_background [night-xxhdpi]: offset=103413 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=103413&size=2736
+INFO     com.samsung.android.dialer:drawable/sesl_index_bar_bg [night-mdpi]: offset=133479 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=135471&size=1992
+INFO     com.samsung.android.dialer:drawable/sesl_index_bar_bg [night-xxhdpi]: offset=135471 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=135471&size=1992
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=149121 size=598, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=149121&size=598
+INFO     com.samsung.android.dialer:drawable/contacts_create_ic_emergency [xxhdpi]: offset=1667 size=1651, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=16&size=1651
+INFO     com.samsung.android.dialer:drawable/sesl_btn_default [xxhdpi]: offset=100677 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=97941&size=2736
+INFO     com.samsung.android.dialer:drawable/sesl_btn_default_background [xxhdpi]: offset=106149 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=103413&size=2736
+INFO     com.samsung.android.dialer:drawable/sesl_index_bar_bg [mdpi]: offset=131487 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=135471&size=1992
+INFO     com.samsung.android.dialer:drawable/sesl_index_bar_bg [xxhdpi]: offset=137463 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=135471&size=1992
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=81204 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=79491&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=84630 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=82917&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=88056 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=86343&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=91131 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=89769&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=93855 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=92493&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=96579 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=95217&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=110598 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=108885&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=114024 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=112311&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=117450 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=115737&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=121217 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=119163&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=125325 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=123271&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=129433 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=127379&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=140095 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=139455&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=141724 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=141084&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=143317 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=142677&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=144946 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=144306&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_off [xxhdpi]: offset=146539 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=145899&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_on [xxhdpi]: offset=148168 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=147528&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=152253 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=149719&size=2534
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=157132 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=154673&size=2459
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=164845 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=162439&size=2406
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_on [xxhdpi]: offset=174534 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=172128&size=2406
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=160994 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=159591&size=1403
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_off [xxhdpi]: offset=169632 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=167251&size=2381
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=79491 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=79491&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=82917 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=82917&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=86343 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=86343&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=89769 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=89769&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=92493 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=92493&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=95217 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=95217&size=1362
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=108885 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=108885&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=112311 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=112311&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=115737 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=115737&size=1713
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=119163 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=119163&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=123271 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=123271&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=127379 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=127379&size=2054
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=139455 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=139455&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=141084 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=141084&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=142677 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=142677&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=144306 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=144306&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=145899 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=145899&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=147528 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=147528&size=640
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=149719 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=149719&size=2534
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=154673 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=154673&size=2459
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=162439 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=162439&size=2406
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_on [night-xxhdpi]: offset=172128 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=172128&size=2406
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=159591 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=159591&size=1403
+INFO     com.samsung.android.dialer:drawable/sesl_switch_track_off [night-xxhdpi]: offset=167251 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=167251&size=2381
+INFO     com.samsung.android.dialer:drawable/dialpad_fab_bg_image [xxhdpi]: offset=9799 size=6448, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=3318&size=6481
+INFO     com.samsung.android.dialer:drawable/keypad_background [xxhdpi]: offset=45134 size=34357, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=16247&size=28887
+INFO     com.samsung.android.dialer:drawable/dialpad_fab_bg_image [night-xxhdpi]: offset=3318 size=6481, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=3318&size=6481
+INFO     com.samsung.android.dialer:drawable/keypad_background [night-xxhdpi]: offset=16247 size=28887, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro?offset=16247&size=28887
+INFO   Root rewrite applied 63/63 drawables.
+INFO   Enabled 406 colours and 63/63 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_samsung_android_dialer
+INFO   Order: on top of com.samsung.android.dialer.
+INFO   Killed the background process of com.samsung.android.dialer so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_samsung_android_dialer-zzHT.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_samsung_android_dialer .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_samsung_android_dialer-GOs1.frro
+INFO Lookup: #ff00c8df
+OK com.samsung.android.dialer: 469 resources
+INFO Building HexNext_com_samsung_android_incallui: 170 colours, 53 drawables
+INFO applyOverlay code=0, 223 resources (53/53 drawables), 0 skipped, 4224 ms
+INFO   [UID 1000] android:HexNext_com_samsung_android_incallui -> com.samsung.android.incallui: 170 colours, 53 drawables
+INFO   Committed 170 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  9209 2026-11-05 00:53 /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro
+INFO   Built 107034 bytes: 170 kept values (0 non-colour, 0 earlier files) + 53 PNGs (89481 payload bytes), crc 0xbf22aa58
+INFO   Wrote 107034 bytes to /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro (was 9209 bytes, crc 0x2ad94cb3).
+INFO   Disabled android:HexNext_com_samsung_android_incallui to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_incallui-AZi4.frro@idmap: 10452 bytes, overlay crc 0xbf22aa58 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro: 223 entries, 53 file values, crc ok=true
+INFO     com.samsung.android.incallui:drawable/sesl_btn_default [night-xxhdpi]: offset=18466 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=18466&size=2736
+INFO     com.samsung.android.incallui:drawable/sesl_btn_default_background [night-xxhdpi]: offset=23938 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=23938&size=2736
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=61678 size=598, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=61678&size=598
+INFO     com.samsung.android.incallui:drawable/sesl_btn_default [xxhdpi]: offset=21202 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=18466&size=2736
+INFO     com.samsung.android.incallui:drawable/sesl_btn_default_background [xxhdpi]: offset=26674 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=23938&size=2736
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=1729 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=16&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=5155 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=3442&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=8581 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=6868&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=11656 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=10294&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=14380 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=13018&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=17104 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=15742&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=31123 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=29410&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=34549 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=32836&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=37975 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=36262&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=41742 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=39688&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=45850 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=43796&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=49958 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=47904&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=52652 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=52012&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=54281 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=53641&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=55874 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=55234&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=57503 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=56863&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_off [xxhdpi]: offset=59096 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=58456&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_on [xxhdpi]: offset=60725 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=60085&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=64810 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=62276&size=2534
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=69689 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=67230&size=2459
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=77402 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=74996&size=2406
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_on [xxhdpi]: offset=87091 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=84685&size=2406
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=73551 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=72148&size=1403
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_off [xxhdpi]: offset=82189 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=79808&size=2381
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=16 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=16&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=3442 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=3442&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=6868 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=6868&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=10294 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=10294&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=13018 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=13018&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=15742 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=15742&size=1362
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=29410 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=29410&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=32836 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=32836&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=36262 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=36262&size=1713
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=39688 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=39688&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=43796 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=43796&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=47904 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=47904&size=2054
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=52012 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=52012&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=53641 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=53641&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=55234 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=55234&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=56863 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=56863&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=58456 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=58456&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=60085 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=60085&size=640
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=62276 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=62276&size=2534
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=67230 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=67230&size=2459
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=74996 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=74996&size=2406
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_on [night-xxhdpi]: offset=84685 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=84685&size=2406
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=72148 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=72148&size=1403
+INFO     com.samsung.android.incallui:drawable/sesl_switch_track_off [night-xxhdpi]: offset=79808 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro?offset=79808&size=2381
+INFO   Root rewrite applied 53/53 drawables.
+INFO   Enabled 170 colours and 53/53 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_samsung_android_incallui
+INFO   Order: on top of com.samsung.android.incallui.
+INFO   Killed the background process of com.samsung.android.incallui so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_samsung_android_incallui-AZi4.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_samsung_android_incallui .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_samsung_android_incallui-VCJI.frro
+INFO Lookup: #ff000000
+OK com.samsung.android.incallui: 223 resources
+INFO Building HexNext_com_samsung_android_app_contacts: 386 colours, 91 drawables
+INFO applyOverlay code=0, 477 resources (91/91 drawables), 0 skipped, 5899 ms
+INFO   [UID 1000] android:HexNext_com_samsung_android_app_contacts -> com.samsung.android.app.contacts: 386 colours, 91 drawables
+INFO   Committed 386 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  19789 2026-11-05 00:53 /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro
+INFO   Built 224641 bytes: 386 kept values (0 non-colour, 0 earlier files) + 91 PNGs (190170 payload bytes), crc 0x550aa525
+INFO   Wrote 224641 bytes to /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro (was 19789 bytes, crc 0x297a9ea5).
+INFO   Disabled android:HexNext_com_samsung_android_app_contacts to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_samsung_android_app_contacts-x1hr.frro@idmap: 19820 bytes, overlay crc 0x550aa525 (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro: 477 entries, 91 file values, crc ok=true
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_address [night-xxhdpi]: offset=16 size=1964, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=16&size=1964
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_email [night-xxhdpi]: offset=3944 size=1908, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=3944&size=1908
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_emergency [night-xxhdpi]: offset=7760 size=1651, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=7760&size=1651
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_event [night-xxhdpi]: offset=11062 size=1245, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=11062&size=1245
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_groups [night-xxhdpi]: offset=13552 size=1968, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=13552&size=1968
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_messenger_account [night-xxhdpi]: offset=17488 size=1899, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=17488&size=1899
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_name [night-xxhdpi]: offset=21286 size=1460, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=21286&size=1460
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_note [night-xxhdpi]: offset=24206 size=1351, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=24206&size=1351
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_phone [night-xxhdpi]: offset=26908 size=1252, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=26908&size=1252
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_relationships [night-xxhdpi]: offset=29412 size=2165, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=29412&size=2165
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_web_adress [night-xxhdpi]: offset=33742 size=2209, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=33742&size=2209
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_work [night-xxhdpi]: offset=38160 size=1987, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=38160&size=1987
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_default [night-xxhdpi]: offset=60584 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=60584&size=2736
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_default_background [night-xxhdpi]: offset=66056 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=66056&size=2736
+INFO     com.samsung.android.app.contacts:drawable/sesl_index_bar_bg [night-mdpi]: offset=101093 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=103085&size=1992
+INFO     com.samsung.android.app.contacts:drawable/sesl_index_bar_bg [night-xxhdpi]: offset=103085 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=103085&size=1992
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=116735 size=598, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=116735&size=598
+INFO     com.samsung.android.app.contacts:drawable/sesl_dialog_btn_default_borderless [night-xxhdpi]: offset=94130 size=2495, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=94130&size=2495
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_address [xxhdpi]: offset=1980 size=1964, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=16&size=1964
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_email [xxhdpi]: offset=5852 size=1908, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=3944&size=1908
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_emergency [xxhdpi]: offset=9411 size=1651, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=7760&size=1651
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_event [xxhdpi]: offset=12307 size=1245, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=11062&size=1245
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_groups [xxhdpi]: offset=15520 size=1968, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=13552&size=1968
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_messenger_account [xxhdpi]: offset=19387 size=1899, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=17488&size=1899
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_name [xxhdpi]: offset=22746 size=1460, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=21286&size=1460
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_note [xxhdpi]: offset=25557 size=1351, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=24206&size=1351
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_phone [xxhdpi]: offset=28160 size=1252, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=26908&size=1252
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_relationships [xxhdpi]: offset=31577 size=2165, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=29412&size=2165
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_web_adress [xxhdpi]: offset=35951 size=2209, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=33742&size=2209
+INFO     com.samsung.android.app.contacts:drawable/contacts_create_ic_work [xxhdpi]: offset=40147 size=1987, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=38160&size=1987
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_default [xxhdpi]: offset=63320 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=60584&size=2736
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_default_background [xxhdpi]: offset=68792 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=66056&size=2736
+INFO     com.samsung.android.app.contacts:drawable/sesl_index_bar_bg [mdpi]: offset=99101 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=103085&size=1992
+INFO     com.samsung.android.app.contacts:drawable/sesl_index_bar_bg [xxhdpi]: offset=105077 size=1992, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=103085&size=1992
+INFO     com.samsung.android.app.contacts:drawable/sesl_dialog_btn_default_borderless [xxhdpi]: offset=96625 size=2476, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=94130&size=2495
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame [xxhdpi]: offset=150502 size=5526, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=144554&size=5948
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [mdpi]: offset=156028 size=5554, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [xhdpi]: offset=179078 size=5554, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [xxhdpi]: offset=184632 size=5554, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame [night-xxhdpi]: offset=144554 size=5948, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=144554&size=5948
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [night-mdpi]: offset=161582 size=5832, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [night-xhdpi]: offset=167414 size=5832, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_toast_frame_alpha [night-xxhdpi]: offset=173246 size=5832, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=173246&size=5832
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=43847 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=42134&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=47273 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=45560&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=50699 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=48986&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=53774 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=52412&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=56498 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=55136&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=59222 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=57860&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=73241 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=71528&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=76667 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=74954&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=80093 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=78380&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=83860 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=81806&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=87968 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=85914&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=92076 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=90022&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=107709 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=107069&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=109338 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=108698&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=110931 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=110291&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=112560 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=111920&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_off [xxhdpi]: offset=114153 size=989, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=113513&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_on [xxhdpi]: offset=115782 size=953, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=115142&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=119867 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=117333&size=2534
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=124746 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=122287&size=2459
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=132459 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=130053&size=2406
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_on [xxhdpi]: offset=142148 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=139742&size=2406
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=128608 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=127205&size=1403
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_off [xxhdpi]: offset=137246 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=134865&size=2381
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=42134 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=42134&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=45560 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=45560&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=48986 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=48986&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=52412 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=52412&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=55136 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=55136&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=57860 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=57860&size=1362
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=71528 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=71528&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=74954 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=74954&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=78380 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=78380&size=1713
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=81806 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=81806&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=85914 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=85914&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=90022 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=90022&size=2054
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=107069 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=107069&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=108698 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=108698&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=110291 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=110291&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=111920 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=111920&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=113513 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=113513&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=115142 size=640, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=115142&size=640
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=117333 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=117333&size=2534
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=122287 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=122287&size=2459
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=130053 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=130053&size=2406
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_on [night-xxhdpi]: offset=139742 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=139742&size=2406
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=127205 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=127205&size=1403
+INFO     com.samsung.android.app.contacts:drawable/sesl_switch_track_off [night-xxhdpi]: offset=134865 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro?offset=134865&size=2381
+INFO   Root rewrite applied 91/91 drawables.
+INFO   Enabled 386 colours and 91/91 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_samsung_android_app_contacts
+INFO   Order: on top of com.samsung.android.app.contacts.
+INFO   Killed the background process of com.samsung.android.app.contacts so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_samsung_android_app_contacts-x1hr.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_samsung_android_app_contacts .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_samsung_android_app_contacts-3Kbi.frro
+INFO Lookup: #ff00c8df
+OK com.samsung.android.app.contacts: 477 resources
+INFO Building HexNext_com_sec_android_app_myfiles: 248 colours, 85 drawables
+INFO applyOverlay code=0, 333 resources (85/85 drawables), 0 skipped, 5881 ms
+INFO   [UID 1000] android:HexNext_com_sec_android_app_myfiles -> com.sec.android.app.myfiles: 248 colours, 85 drawables
+INFO   Committed 248 colours through OverlayManager.
+INFO   Located /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro via cmd overlay dump.
+INFO   Registered file /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro: uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0
+INFO     -rw-r--r-- 1 system system u:object_r:resourcecache_data_file:s0  12631 2026-11-05 00:53 /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro
+INFO   Built 194828 bytes: 248 kept values (0 non-colour, 0 earlier files) + 85 PNGs (169125 payload bytes), crc 0xe319709a
+INFO   Wrote 194828 bytes to /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro as uid=1000 gid=1000 mode=0644 label=u:object_r:resourcecache_data_file:s0.
+INFO   Replaced /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro (was 12631 bytes, crc 0x32d0381c).
+INFO   Disabled android:HexNext_com_sec_android_app_myfiles to regenerate its idmap (exit 0).
+INFO   idmap /data/resource-cache/data@resource-cache@android-HexNext_com_sec_android_app_myfiles-1qLu.frro@idmap: 15932 bytes, overlay crc 0xe319709a (matches the rewritten .frro)
+INFO   Re-read /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro: 333 entries, 85 file values, crc ok=true
+INFO     com.sec.android.app.myfiles:drawable/contained_button_bg [night-xxhdpi]: offset=16 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=16&size=2736
+INFO     com.sec.android.app.myfiles:drawable/file_type_folder [night-xxhdpi]: offset=5488 size=1026, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=5488&size=1026
+INFO     com.sec.android.app.myfiles:drawable/file_type_folder_hide [night-xxhdpi]: offset=7540 size=1026, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=7540&size=1026
+INFO     com.sec.android.app.myfiles:drawable/home_category_apk [night-xxhdpi]: offset=9592 size=5640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=9592&size=5640
+INFO     com.sec.android.app.myfiles:drawable/home_category_audio [night-xxhdpi]: offset=20872 size=3799, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=20872&size=3799
+INFO     com.sec.android.app.myfiles:drawable/home_category_documents [night-xxhdpi]: offset=28470 size=3825, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=28470&size=3825
+INFO     com.sec.android.app.myfiles:drawable/home_category_download [night-xxhdpi]: offset=36120 size=4141, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=36120&size=4141
+INFO     com.sec.android.app.myfiles:drawable/home_category_image [night-xxhdpi]: offset=44402 size=4699, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=44402&size=4699
+INFO     com.sec.android.app.myfiles:drawable/home_category_video [night-xxhdpi]: offset=53800 size=4538, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=53800&size=4538
+INFO     com.sec.android.app.myfiles:drawable/home_google_drive [night-xxhdpi]: offset=62876 size=1740, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=62876&size=1740
+INFO     com.sec.android.app.myfiles:drawable/home_internal_storage [night-xxhdpi]: offset=66356 size=867, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=66356&size=867
+INFO     com.sec.android.app.myfiles:drawable/home_network_storage [night-xxhdpi]: offset=68090 size=1144, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=68090&size=1144
+INFO     com.sec.android.app.myfiles:drawable/home_one_drive [night-xxhdpi]: offset=70378 size=1465, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=70378&size=1465
+INFO     com.sec.android.app.myfiles:drawable/home_recent [night-xxhdpi]: offset=73308 size=1319, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=73308&size=1319
+INFO     com.sec.android.app.myfiles:drawable/home_sd_card [night-xxhdpi]: offset=75514 size=1161, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=75514&size=1161
+INFO     com.sec.android.app.myfiles:drawable/home_usb [night-xxhdpi]: offset=77836 size=912, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=77836&size=912
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_default [night-xxhdpi]: offset=98110 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=98110&size=2736
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_default_background [night-xxhdpi]: offset=103582 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=103582&size=2736
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_selector_dark [night-xxhdpi]: offset=141322 size=598, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=141322&size=598
+INFO     com.sec.android.app.myfiles:drawable/contained_button_bg [xxhdpi]: offset=2752 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=16&size=2736
+INFO     com.sec.android.app.myfiles:drawable/file_type_folder [xxhdpi]: offset=6514 size=1026, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=5488&size=1026
+INFO     com.sec.android.app.myfiles:drawable/file_type_folder_hide [xxhdpi]: offset=8566 size=1026, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=7540&size=1026
+INFO     com.sec.android.app.myfiles:drawable/home_category_apk [xxhdpi]: offset=15232 size=5640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=9592&size=5640
+INFO     com.sec.android.app.myfiles:drawable/home_category_audio [xxhdpi]: offset=24671 size=3799, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=20872&size=3799
+INFO     com.sec.android.app.myfiles:drawable/home_category_documents [xxhdpi]: offset=32295 size=3825, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=28470&size=3825
+INFO     com.sec.android.app.myfiles:drawable/home_category_download [xxhdpi]: offset=40261 size=4141, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=36120&size=4141
+INFO     com.sec.android.app.myfiles:drawable/home_category_image [xxhdpi]: offset=49101 size=4699, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=44402&size=4699
+INFO     com.sec.android.app.myfiles:drawable/home_category_video [xxhdpi]: offset=58338 size=4538, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=53800&size=4538
+INFO     com.sec.android.app.myfiles:drawable/home_google_drive [xxhdpi]: offset=64616 size=1740, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=62876&size=1740
+INFO     com.sec.android.app.myfiles:drawable/home_internal_storage [xxhdpi]: offset=67223 size=867, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=66356&size=867
+INFO     com.sec.android.app.myfiles:drawable/home_network_storage [xxhdpi]: offset=69234 size=1144, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=68090&size=1144
+INFO     com.sec.android.app.myfiles:drawable/home_one_drive [xxhdpi]: offset=71843 size=1465, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=70378&size=1465
+INFO     com.sec.android.app.myfiles:drawable/home_recent [xxhdpi]: offset=74627 size=887, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=73308&size=1319
+INFO     com.sec.android.app.myfiles:drawable/home_sd_card [xxhdpi]: offset=76675 size=1161, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=75514&size=1161
+INFO     com.sec.android.app.myfiles:drawable/home_usb [xxhdpi]: offset=78748 size=912, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=77836&size=912
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_default [xxhdpi]: offset=100846 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=98110&size=2736
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_default_background [xxhdpi]: offset=106318 size=2736, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=103582&size=2736
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_000 [xxhdpi]: offset=81373 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=79660&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_001 [xxhdpi]: offset=84799 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=83086&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_002 [xxhdpi]: offset=88225 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=86512&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_024 [xxhdpi]: offset=91300 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=89938&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_025 [xxhdpi]: offset=94024 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=92662&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_026 [xxhdpi]: offset=96748 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=95386&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_000 [xxhdpi]: offset=110767 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=109054&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_001 [xxhdpi]: offset=114193 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=112480&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_002 [xxhdpi]: offset=117619 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=115906&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_024 [xxhdpi]: offset=121386 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=119332&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_025 [xxhdpi]: offset=125494 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=123440&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_026 [xxhdpi]: offset=129602 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=127548&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_dark_disabled_off [xxhdpi]: offset=132296 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=131656&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_dark_disabled_on [xxhdpi]: offset=133925 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=133285&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_disabled_off [xxhdpi]: offset=135518 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=134878&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_disabled_on [xxhdpi]: offset=137147 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=136507&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_off [xxhdpi]: offset=138740 size=989, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=138100&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_on [xxhdpi]: offset=140369 size=953, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=139729&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_dark_disabled_off [xxhdpi]: offset=144454 size=2420, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=141920&size=2534
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_dark_off [xxhdpi]: offset=149333 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=146874&size=2459
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_disabled_on [xxhdpi]: offset=157046 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=154640&size=2406
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_on [xxhdpi]: offset=166735 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=164329&size=2406
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_disabled_off [xxhdpi]: offset=153195 size=1445, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=151792&size=1403
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_off [xxhdpi]: offset=161833 size=2496, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=159452&size=2381
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_000 [night-xxhdpi]: offset=79660 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=79660&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_001 [night-xxhdpi]: offset=83086 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=83086&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_002 [night-xxhdpi]: offset=86512 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=86512&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_024 [night-xxhdpi]: offset=89938 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=89938&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_025 [night-xxhdpi]: offset=92662 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=92662&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_check_to_on_026 [night-xxhdpi]: offset=95386 size=1362, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=95386&size=1362
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_000 [night-xxhdpi]: offset=109054 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=109054&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_001 [night-xxhdpi]: offset=112480 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=112480&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_002 [night-xxhdpi]: offset=115906 size=1713, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=115906&size=1713
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_024 [night-xxhdpi]: offset=119332 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=119332&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_025 [night-xxhdpi]: offset=123440 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=123440&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_btn_radio_to_on_026 [night-xxhdpi]: offset=127548 size=2054, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=127548&size=2054
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_dark_disabled_off [night-xxhdpi]: offset=131656 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=131656&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_dark_disabled_on [night-xxhdpi]: offset=133285 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=133285&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_disabled_off [night-xxhdpi]: offset=134878 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=134878&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_disabled_on [night-xxhdpi]: offset=136507 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=136507&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_off [night-xxhdpi]: offset=138100 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=138100&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_thumb_on [night-xxhdpi]: offset=139729 size=640, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=139729&size=640
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_dark_disabled_off [night-xxhdpi]: offset=141920 size=2534, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=141920&size=2534
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_dark_off [night-xxhdpi]: offset=146874 size=2459, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=146874&size=2459
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_disabled_on [night-xxhdpi]: offset=154640 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=154640&size=2406
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_on [night-xxhdpi]: offset=164329 size=2406, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=164329&size=2406
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_disabled_off [night-xxhdpi]: offset=151792 size=1403, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=151792&size=1403
+INFO     com.sec.android.app.myfiles:drawable/sesl_switch_track_off [night-xxhdpi]: offset=159452 size=2381, lookup: frro://data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro?offset=159452&size=2381
+INFO   Root rewrite applied 85/85 drawables.
+INFO   Enabled 248 colours and 85/85 drawables.
+INFO   set-priority highest (best-effort): exit 255 Error: Unable to retrieve overlay information for android:HexNext_com_sec_android_app_myfiles
+INFO   Order: on top of com.sec.android.app.myfiles.
+INFO   Killed the background process of com.sec.android.app.myfiles so it reloads its drawables (am kill exit 0); if it is open, close and reopen it.
+INFO   Cleanup: keeping the live /data/resource-cache/android-HexNext_com_sec_android_app_myfiles-1qLu.frro.
+INFO   Cleanup: removed 1/1 stale android:HexNext_com_sec_android_app_myfiles .frro files (and their idmaps) from /data/resource-cache: android-HexNext_com_sec_android_app_myfiles-os02.frro
+INFO Lookup: #ff00c8df
