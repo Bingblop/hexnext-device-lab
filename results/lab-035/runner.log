@@ -20,3 +20,8 @@
 [20:39:19] job lab-035
 [20:39:20] overlay state 5
 [20:39:28] boot log 2
+[20:39:39] no connection; resetting networking (round 1)
+[20:40:54] no connection; resetting networking (round 2)
+[20:42:09] still no connection
+[20:42:29] job lab-035: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-035
+[20:42:30] full reboot to bring networking back; the watcher starts again by itself
