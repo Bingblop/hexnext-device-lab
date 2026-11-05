@@ -1,0 +1,45 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "lookup",
+    "capture",
+    "arsc"
+  ],
+  "confirm": true,
+  "pack": "willemite",
+  "modes": [
+    "light",
+    "dark"
+  ],
+  "captures": [
+    "app:com.sec.android.app.popupcalculator",
+    "app:com.sec.android.gallery3d",
+    "app:com.samsung.android.app.contacts",
+    "app:com.sec.android.app.voicenote",
+    "settings"
+  ],
+  "arsc": [
+    "android",
+    "com.samsung.android.framework.res",
+    "framework-res",
+    "com.samsung.android.app.contacts",
+    "com.samsung.android.dialer"
+  ],
+  "lookups": [
+    "com.sec.android.app.popupcalculator:color/calc_keypad_operation_button_bg",
+    "com.sec.android.app.popupcalculator:color/keypad_operation",
+    "com.sec.android.gallery3d:color/bottom_menu_list_circle_bg_color"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true
+  },
+  "id": "lab-037",
+  "suite": "samsung-apps",
+  "ref": "claude/project-thread-rje8bm",
+  "run_id": 41967106142,
+  "artifact_sha256": "cff5e2b7b12ed4ca5a5fcf25dae2586ed437a2efd6dce430dd46d11d041d92fd"
+}
