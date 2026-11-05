@@ -1,0 +1,15 @@
+[03:16:08] job lab-042
+[03:16:10] install: downloaded artifact 13399435189 through the API
+[03:16:11] install: decrypted the owner APK
+[03:16:11] install: run 41991418694 (hardening/release) sha ok, installing owner-universal.apk
+[03:16:12] restarting Shizuku as root
+[03:16:25] capture light hexnext:STUDIO
+[03:16:42] capture light hexnext:SKINS
+[03:16:58] capture light hexnext:COLOURS
+[03:17:15] capture light hexnext:ICONS
+[03:17:32] capture light hexnext:SYSTEM
+[03:17:52] capture dark hexnext:STUDIO
+[03:18:09] capture dark hexnext:SKINS
+[03:18:26] capture dark hexnext:COLOURS
+[03:18:42] capture dark hexnext:ICONS
+[03:18:59] capture dark hexnext:SYSTEM
