@@ -13,3 +13,5 @@
 [03:39:36] capture dark hexnext:COLOURS
 [03:39:53] capture dark hexnext:ICONS
 [03:40:10] capture dark hexnext:SYSTEM
+[03:42:09] job lab-043: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-043
+[03:42:40] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
