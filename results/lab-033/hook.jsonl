@@ -1,0 +1,8 @@
+{"cmd":"scan","ok":true,"detail":"SM-S948U1 One UI 9.0 mode=uid=0 shizuku","at":1793838272597}
+{"cmd":"apply","ok":false,"detail":"status=aborted error=DeadObjectException: null pack=willemite","at":1793838282011}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=true","at":1793838338792}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=true","at":1793838358414}
+{"cmd":"preview","ok":true,"detail":"tab=SETTINGS dark=false","at":1793838380898}
+{"cmd":"preview","ok":true,"detail":"tab=POWER_MENU dark=false","at":1793838400376}
+{"cmd":"remove","ok":true,"detail":"removed","at":1793838432108}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=willemite","at":1793838571929}

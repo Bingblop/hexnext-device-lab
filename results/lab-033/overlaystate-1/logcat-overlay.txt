@@ -1,0 +1,400 @@
+11-04 19:22:29.552  3264  5809 I WindowManager: Relayout Window{440b70b u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 19:22:29.552  3264  5809 D WindowManager: setClientSurface Surface(name=VRI-ScreenDecorOverlayBottom$_4717#3047)/@0x266fc83 for 440b70b ScreenDecorOverlayBottom
+11-04 19:22:29.553  4717  4717 I VRI[ScreenDecorOverlayBottom]@146b0c9: Resizing android.view.ViewRootImpl@1a305df: frame = [0,2971][1440,3120] reportDraw = false forceLayout = false
+11-04 19:22:29.553  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: relayoutWindow, Changed mSeqId from 1 to 2
+11-04 19:22:29.554  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: applyPrivacyLayerOverlapPolicy: request=false
+11-04 19:22:29.554  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: applyPrivacyDisplayOverlapBounds: bounds=Rect(0, 0 - 0, 0)
+11-04 19:22:29.554  4717  5414 I SurfaceComposerClient: setPrivacyOverlapBounds VRI-ScreenDecorOverlayBottom$_4717#3047 bounds=[0, 0, 0, 0]
+11-04 19:22:29.554  4717  5414 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[ScreenDecorOverlayBottom]@146b0c9 mNativeObject= 0xb4000077c0ce90b0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3909 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 android.view.Choreographer.doFrame:1393 android.view.Choreographer$FrameDisplayEventReceiver.run:1957 
+11-04 19:22:29.554  4717  5414 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@146b0c9 mNativeObject= 0xb4000077c0ce90b0 sc.mNativeObject= 0xb4000078e0c07190 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3914 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 19:22:29.554  4717  5414 I Surface : Creating surface for consumer VRI[ScreenDecorOverlayBottom]@146b0c9#173(BLAST Consumer)173 with slotExpansion=1 for 64 slots
+11-04 19:22:29.554  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: Relayout returned: old=(0,0,1440,3120) new=(0,2971,1440,3120) relayoutAsync=false req=(1440,149)0 dur=2 res=0x3 s={true 0xb4000077e1060730} ch=true seqId=2 syncSeqId=0
+11-04 19:22:29.554  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:22:29.554  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: applyTransactionOnDraw applyImmediately
+11-04 19:22:29.554  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: performConfigurationChange setNightDimText nightDimLevel=0
+11-04 19:22:29.555  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000077e1060730} hwInitialized=true
+11-04 19:22:29.555  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: reportNextDraw android.view.ViewRootImpl.performTraversals:5940 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:22:29.555  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: Setup new sync=wmsSync-VRI[ScreenDecorOverlayBottom]@146b0c9#46
+11-04 19:22:29.555  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: Creating new active sync group VRI[ScreenDecorOverlayBottom]@146b0c9#47
+11-04 19:22:29.555  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: registerCallbacksForSync syncBuffer=false
+11-04 19:22:29.555  4717  5204 D VRI[ScreenDecorOverlayBottom]@146b0c9: Received frameDrawingCallback syncResult=0 frameNum=1.
+11-04 19:22:29.555  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3046] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:22:29.555  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3046] setFrameRateCategory: High
+11-04 19:22:29.555  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3046 parentId=3043} no children}] reparent to LayerHierarchy{RequestedLayerState{50660d0 ScreenDecorOverlay#3043 parentId=3042} 1 children}
+11-04 19:22:29.555  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3047] attach to parent OffscreenRoot
+11-04 19:22:29.555  4717  5204 I VRI[ScreenDecorOverlayBottom]@146b0c9: mWNT: t=0xb4000078d0d9d860 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 19:22:29.556  4717  5204 I VRI[ScreenDecorOverlayBottom]@146b0c9: Setting up sync and frameCommitCallback
+11-04 19:22:29.556  4717  5205 I BLASTBufferQueue: [VRI[ScreenDecorOverlayBottom]@146b0c9#173](f:0,a:0,s:0) onFrameAvailable the first frame is available
+11-04 19:22:29.556  4717  5205 I VRI[ScreenDecorOverlayBottom]@146b0c9: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+11-04 19:22:29.557  2149  2706 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3047] setTransactionState with the first frame. bufferData(ID: 20259360736125, frameNumber: 1)
+11-04 19:22:29.557  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: reportDrawFinished seqId=2
+11-04 19:22:29.557  4717  5414 D VRI[ScreenDecorOverlayBottom]@146b0c9: call clearFrameRate
+11-04 19:22:29.557  3264  7124 D WindowManager: finishDrawingWindow: Window{440b70b u0 ScreenDecorOverlayBottom} mDrawState=DRAW_PENDING seqId=2 mSyncSeqId=2
+11-04 19:22:29.557  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: call setFrameRateCategory category=high, reason=boost, vri=VRI[ScreenDecorOverlayBottom]@146b0c9
+11-04 19:22:29.557  3264  3448 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{440b70b u0 ScreenDecorOverlayBottom}
+11-04 19:22:29.557  4717  5414 I VRI[ScreenDecorOverlay]@6078a64: handleResized, frames=ClientWindowFrames{frame=[0,0][1440,149] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:22:29.557  4717  5414 I VRI[ScreenDecorOverlay]@6078a64: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:22:29.558  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: handleResized, frames=ClientWindowFrames{frame=[0,2971][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:22:29.558  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:22:29.564  2149  2149 I SurfaceFlinger: RequestedLayer [50660d0 ScreenDecorOverlay#3043] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:22:29.564  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3047] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:22:29.564  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3047] setFrameRateCategory: High
+11-04 19:22:29.564  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3047 parentId=3045} no children}] reparent to LayerHierarchy{RequestedLayerState{440b70b ScreenDecorOverlayBottom#3045 parentId=3044} 1 children}
+11-04 19:22:29.566  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:22:29.566  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736124 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_471
+11-04 19:22:29.572  2149  2149 I SurfaceFlinger: RequestedLayer [440b70b ScreenDecorOverlayBottom#3045] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:22:29.574  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:22:29.574  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736123 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_471
+11-04 19:22:29.574  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736128 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_4717#3047 (2)
+11-04 19:22:32.549  4717  5414 I VRI[ScreenDecorOverlay]@6078a64: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlay]@6078a64
+11-04 19:22:32.555  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlayBottom]@146b0c9
+11-04 19:22:32.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3046] setFrameRateCategory: NoPreference
+11-04 19:22:32.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3047] setFrameRateCategory: NoPreference
+11-04 19:22:32.557  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:22:32.557  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3047 voted ExplicitCategory with category: NoPreference
+11-04 19:22:32.557  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3046 voted ExplicitCategory with category: NoPreference
+11-04 19:22:35.493  2149  2697 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:22:35.493  2149  2697 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3047 voted ExplicitCategory with category: NoPreference
+11-04 19:22:35.493  2149  2697 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3046 voted ExplicitCategory with category: NoPreference
+11-04 19:22:40.157  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:22:40.157  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3047 voted ExplicitCategory with category: NoPreference
+11-04 19:22:40.157  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3046 voted ExplicitCategory with category: NoPreference
+11-04 19:22:54.170  4717  5414 I VRI[ScreenDecorOverlay]@6078a64: dispatchDetachedFromWindow
+11-04 19:22:54.171  3264  5809 D InputDispatcher: removed InputChannel: 50660d0 ScreenDecorOverlay
+11-04 19:22:54.171  3264  5809 V WindowManager: Remove Window{50660d0 u0 ScreenDecorOverlay}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlay$_4717#3046)/@0xd908732 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 19:22:54.175  4717  5414 I VRI[ScreenDecorOverlayBottom]@146b0c9: dispatchDetachedFromWindow
+11-04 19:22:54.175  3264  6334 D InputDispatcher: removed InputChannel: 440b70b ScreenDecorOverlayBottom
+11-04 19:22:54.176  3264  6334 V WindowManager: Remove Window{440b70b u0 ScreenDecorOverlayBottom}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlayBottom$_4717#3047)/@0x266fc83 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: RequestedLayer [50660d0 ScreenDecorOverlay#3043] hidden!! flag from(0) --> to(1) // by pid (3264)
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: RequestedLayer [440b70b ScreenDecorOverlayBottom#3045] hidden!! flag from(0) --> to(1) // by pid (3264)
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{50660d0 ScreenDecorOverlay#3043} 1 children}] reparent to OffscreenRoot
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{50660d0 ScreenDecorOverlay#3043} 1 children}] RelativeParent to null
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{440b70b ScreenDecorOverlayBottom#3045} 1 children}] reparent to OffscreenRoot
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{440b70b ScreenDecorOverlayBottom#3045} 1 children}] RelativeParent to null
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3046} no children}] reparent to OffscreenRoot
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3046} no children}] RelativeParent to null
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3047} no children}] reparent to OffscreenRoot
+11-04 19:22:54.196  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3047} no children}] RelativeParent to null
+11-04 19:22:54.197  2149  2149 I SurfaceFlinger: id=3045 Removed 440b70b ScreenDecorOverlayBottom#3045 (193)
+11-04 19:22:54.197  2149  2149 I SurfaceFlinger: id=3047 Removed VRI-ScreenDecorOverlayBottom$_4717#3047 (193)
+11-04 19:22:54.197  2149  2149 I SurfaceFlinger: id=3043 Removed 50660d0 ScreenDecorOverlay#3043 (193)
+11-04 19:22:54.197  2149  2149 I SurfaceFlinger: id=3046 Removed VRI-ScreenDecorOverlay$_4717#3046 (193)
+11-04 19:22:54.200  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlayBottom$_4717#3047 form LifecycleManager
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlay$_4717#3046 form LifecycleManager
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: destroyed 440b70b ScreenDecorOverlayBottom#3045 form LifecycleManager
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: destroyed 50660d0 ScreenDecorOverlay#3043 form LifecycleManager
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: id=3047 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3047 !handle})
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: id=3046 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3046 !handle})
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: id=3045 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{440b70b ScreenDecorOverlayBottom#3045 !handle})
+11-04 19:22:54.212  2149  2149 I SurfaceFlinger: id=3043 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{50660d0 ScreenDecorOverlay#3043 !handle})
+11-04 19:22:54.213  2149  2149 I SurfaceFlinger: id=3047 Destroyed VRI-ScreenDecorOverlayBottom$_4717#3047
+11-04 19:22:54.213  2149  2149 I SurfaceFlinger: id=3046 Destroyed VRI-ScreenDecorOverlay$_4717#3046
+11-04 19:22:54.213  2149  2149 I SurfaceFlinger: id=3045 Destroyed 440b70b ScreenDecorOverlayBottom#3045
+11-04 19:22:54.213  2149  2149 I SurfaceFlinger: id=3043 Destroyed 50660d0 ScreenDecorOverlay#3043
+11-04 19:22:54.709  2149  4334 I SurfaceFlinger: Capture layer list: 	 VRI-SGestureOverlayWindow$_5371#122(preserveDisplayColors:0)
+11-04 19:22:54.710  2149  2356 D RenderEngine: Rendering layer VRI-SGestureOverlayWindow$_5371#122 at index 4
+11-04 19:23:09.281  2149  2697 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:17.049  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:17.912  2149  4334 I SurfaceFlinger: id=3049 createSurf, flag=84004, d4f59fe ScreenDecorOverlay#3049
+11-04 19:23:17.915  4717  5414 I InsetsController: onStateChanged: host=ScreenDecorOverlay, from=android.view.ViewRootImpl.onInsetsStateChanged:3319, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 139 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(680, 0 - 760, 139), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -10.66666666666667 V 37.06666666666667 H 10.66666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=89, center=Point(89, 89)}, RoundedCorner{position=TopRight, radius=89, center=Point(1351, 89)}, RoundedCorner{position=BottomRight, radius=89, center=Point(1351, 3031)}, RoundedCorner{position=BottomLeft, radius=89, center=Point(89, 3031)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1299, 0 - 1440, 149) rotation=0}, mDisplayShape=DisplayShape{type=2, displayWidth=1440, displayHeight=3120, physicalPixelDisplaySizeRatio=1.0, rotation=0, offsetX=0, offsetY=0, scale=1.0}, mSources= { InsetsSource: {88f70004 mType=systemGestures mFrame=[0,0][158,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT}, InsetsSource: {88f70005 mType=mandatorySystemGestures mFrame=[0,3018][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM}, InsetsSource: {88f70024 mType=systemGestures mFrame=[1282,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,139] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP}, InsetsSource: {2d600005 mType=mandatorySystemGestures mFrame=[0,0][1440,177] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP} }
+11-04 19:23:17.916  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: synced displayState. AttachInfo displayState=2
+11-04 19:23:17.916  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: setView = com.android.systemui.RegionInterceptingFrameLayout@540bb54 IsHRR=false mFlingFrameRateChange=1 TM=true
+11-04 19:23:17.919  2149  2149 I SurfaceFlinger: [d4f59fe ScreenDecorOverlay#3049] attach to parent LayerHierarchy{RequestedLayerState{WindowToken{f051b9 type=2024 android.os.BinderProxy@2fdb780}#3048 z=1073741826} 1 children}
+11-04 19:23:17.919  2149  2332 I SurfaceFlinger: id=3051 createSurf, flag=84004, 6fd7ef1 ScreenDecorOverlayBottom#3051
+11-04 19:23:17.920  4717  5414 I InsetsController: onStateChanged: host=ScreenDecorOverlayBottom, from=android.view.ViewRootImpl.onInsetsStateChanged:3319, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 139 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(680, 0 - 760, 139), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -10.66666666666667 V 37.06666666666667 H 10.66666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=89, center=Point(89, 89)}, RoundedCorner{position=TopRight, radius=89, center=Point(1351, 89)}, RoundedCorner{position=BottomRight, radius=89, center=Point(1351, 3031)}, RoundedCorner{position=BottomLeft, radius=89, center=Point(89, 3031)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1299, 0 - 1440, 149) rotation=0}, mDisplayShape=DisplayShape{type=2, displayWidth=1440, displayHeight=3120, physicalPixelDisplaySizeRatio=1.0, rotation=0, offsetX=0, offsetY=0, scale=1.0}, mSources= { InsetsSource: {88f70004 mType=systemGestures mFrame=[0,0][158,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT}, InsetsSource: {88f70005 mType=mandatorySystemGestures mFrame=[0,3018][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM}, InsetsSource: {88f70024 mType=systemGestures mFrame=[1282,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,139] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP}, InsetsSource: {2d600005 mType=mandatorySystemGestures mFrame=[0,0][1440,177] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP} }
+11-04 19:23:17.920  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: synced displayState. AttachInfo displayState=2
+11-04 19:23:17.920  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: setView = com.android.systemui.RegionInterceptingFrameLayout@e9ad9f9 IsHRR=false mFlingFrameRateChange=1 TM=true
+11-04 19:23:17.922  2149  4334 I SurfaceFlinger: id=3052 createSurf, flag=4c040, VRI-ScreenDecorOverlay$_4717#3052
+11-04 19:23:17.922  3264  5809 I WindowManager: Relayout Window{d4f59fe u0 ScreenDecorOverlay}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 19:23:17.922  3264  5809 D WindowManager: setClientSurface Surface(name=VRI-ScreenDecorOverlay$_4717#3052)/@0x4ae00b0 for d4f59fe ScreenDecorOverlay
+11-04 19:23:17.923  4717  4717 I VRI[ScreenDecorOverlay]@c9b8afd: Resizing android.view.ViewRootImpl@4275616: frame = [0,0][1440,149] reportDraw = false forceLayout = false
+11-04 19:23:17.923  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: relayoutWindow, Changed mSeqId from 1 to 2
+11-04 19:23:17.923  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: applyPrivacyLayerOverlapPolicy: request=false
+11-04 19:23:17.923  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: applyPrivacyDisplayOverlapBounds: bounds=Rect(0, 0 - 0, 0)
+11-04 19:23:17.923  4717  5414 I SurfaceComposerClient: setPrivacyOverlapBounds VRI-ScreenDecorOverlay$_4717#3052 bounds=[0, 0, 0, 0]
+11-04 19:23:17.924  4717  5414 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[ScreenDecorOverlay]@c9b8afd mNativeObject= 0xb4000077c0ce90b0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3909 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 android.view.Choreographer.doFrame:1393 android.view.Choreographer$FrameDisplayEventReceiver.run:1957 
+11-04 19:23:17.924  4717  5414 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlay]@c9b8afd mNativeObject= 0xb4000077c0ce90b0 sc.mNativeObject= 0xb4000078e0c30d10 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3914 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 19:23:17.924  4717  5414 I Surface : Creating surface for consumer VRI[ScreenDecorOverlay]@c9b8afd#174(BLAST Consumer)174 with slotExpansion=1 for 64 slots
+11-04 19:23:17.924  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,149) relayoutAsync=false req=(1440,149)0 dur=1 res=0x3 s={true 0xb4000077e102cf30} ch=true seqId=2 syncSeqId=0
+11-04 19:23:17.924  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:17.924  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: applyTransactionOnDraw applyImmediately
+11-04 19:23:17.924  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: performConfigurationChange setNightDimText nightDimLevel=0
+11-04 19:23:17.924  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000077e102cf30} hwInitialized=true
+11-04 19:23:17.925  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: reportNextDraw android.view.ViewRootImpl.performTraversals:5940 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:17.925  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: Setup new sync=wmsSync-VRI[ScreenDecorOverlay]@c9b8afd#48
+11-04 19:23:17.925  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: Creating new active sync group VRI[ScreenDecorOverlay]@c9b8afd#49
+11-04 19:23:17.925  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: registerCallbacksForSync syncBuffer=false
+11-04 19:23:17.925  4717  5203 D VRI[ScreenDecorOverlay]@c9b8afd: Received frameDrawingCallback syncResult=0 frameNum=1.
+11-04 19:23:17.925  4717  5203 I VRI[ScreenDecorOverlay]@c9b8afd: mWNT: t=0xb4000078d0ccd1c0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 19:23:17.925  4717  5203 I VRI[ScreenDecorOverlay]@c9b8afd: Setting up sync and frameCommitCallback
+11-04 19:23:17.926  4717  5205 I BLASTBufferQueue: [VRI[ScreenDecorOverlay]@c9b8afd#174](f:0,a:0,s:0) onFrameAvailable the first frame is available
+11-04 19:23:17.926  4717  5205 I VRI[ScreenDecorOverlay]@c9b8afd: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+11-04 19:23:17.926  2149  4334 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3052] setTransactionState with the first frame. bufferData(ID: 20259360736129, frameNumber: 1)
+11-04 19:23:17.926  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: reportDrawFinished seqId=2
+11-04 19:23:17.926  4717  5414 D VRI[ScreenDecorOverlay]@c9b8afd: call clearFrameRate
+11-04 19:23:17.926  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: call setFrameRateCategory category=high, reason=boost, vri=VRI[ScreenDecorOverlay]@c9b8afd
+11-04 19:23:17.927  2149  4334 I SurfaceFlinger: id=3053 createSurf, flag=4c040, VRI-ScreenDecorOverlayBottom$_4717#3053
+11-04 19:23:17.927  3264  6530 D WindowManager: finishDrawingWindow: Window{d4f59fe u0 ScreenDecorOverlay} mDrawState=DRAW_PENDING seqId=2 mSyncSeqId=2
+11-04 19:23:17.928  3264  5008 I WindowManager: Relayout Window{6fd7ef1 u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 19:23:17.928  3264  5008 D WindowManager: setClientSurface Surface(name=VRI-ScreenDecorOverlayBottom$_4717#3053)/@0xa6c1b29 for 6fd7ef1 ScreenDecorOverlayBottom
+11-04 19:23:17.928  3264  5008 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{d4f59fe u0 ScreenDecorOverlay}
+11-04 19:23:17.928  4717  4717 I VRI[ScreenDecorOverlayBottom]@5eedd3e: Resizing android.view.ViewRootImpl@feb9d1c: frame = [0,2971][1440,3120] reportDraw = false forceLayout = false
+11-04 19:23:17.929  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: relayoutWindow, Changed mSeqId from 1 to 2
+11-04 19:23:17.929  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: applyPrivacyLayerOverlapPolicy: request=false
+11-04 19:23:17.929  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: applyPrivacyDisplayOverlapBounds: bounds=Rect(0, 0 - 0, 0)
+11-04 19:23:17.929  4717  5414 I SurfaceComposerClient: setPrivacyOverlapBounds VRI-ScreenDecorOverlayBottom$_4717#3053 bounds=[0, 0, 0, 0]
+11-04 19:23:17.929  4717  5414 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[ScreenDecorOverlayBottom]@5eedd3e mNativeObject= 0xb4000077c0c9c470 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3909 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 android.view.Choreographer.doFrame:1393 android.view.Choreographer$FrameDisplayEventReceiver.run:1957 
+11-04 19:23:17.929  4717  5414 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@5eedd3e mNativeObject= 0xb4000077c0c9c470 sc.mNativeObject= 0xb4000078e0c38d50 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3914 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 19:23:17.929  4717  5414 I Surface : Creating surface for consumer VRI[ScreenDecorOverlayBottom]@5eedd3e#175(BLAST Consumer)175 with slotExpansion=1 for 64 slots
+11-04 19:23:17.929  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: Relayout returned: old=(0,0,1440,3120) new=(0,2971,1440,3120) relayoutAsync=false req=(1440,149)0 dur=2 res=0x3 s={true 0xb4000077e1091890} ch=true seqId=2 syncSeqId=0
+11-04 19:23:17.929  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:17.929  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: applyTransactionOnDraw applyImmediately
+11-04 19:23:17.929  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: performConfigurationChange setNightDimText nightDimLevel=0
+11-04 19:23:17.929  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000077e1091890} hwInitialized=true
+11-04 19:23:17.930  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: reportNextDraw android.view.ViewRootImpl.performTraversals:5940 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:17.930  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: Setup new sync=wmsSync-VRI[ScreenDecorOverlayBottom]@5eedd3e#50
+11-04 19:23:17.930  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: Creating new active sync group VRI[ScreenDecorOverlayBottom]@5eedd3e#51
+11-04 19:23:17.930  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: registerCallbacksForSync syncBuffer=false
+11-04 19:23:17.930  4717  5204 D VRI[ScreenDecorOverlayBottom]@5eedd3e: Received frameDrawingCallback syncResult=0 frameNum=1.
+11-04 19:23:17.930  4717  5204 I VRI[ScreenDecorOverlayBottom]@5eedd3e: mWNT: t=0xb4000078d0ddd8d0 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 19:23:17.930  4717  5204 I VRI[ScreenDecorOverlayBottom]@5eedd3e: Setting up sync and frameCommitCallback
+11-04 19:23:17.930  4717  5205 I BLASTBufferQueue: [VRI[ScreenDecorOverlayBottom]@5eedd3e#175](f:0,a:0,s:0) onFrameAvailable the first frame is available
+11-04 19:23:17.930  4717  5205 I VRI[ScreenDecorOverlayBottom]@5eedd3e: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+11-04 19:23:17.930  2149  4334 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3053] setTransactionState with the first frame. bufferData(ID: 20259360736133, frameNumber: 1)
+11-04 19:23:17.931  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: reportDrawFinished seqId=2
+11-04 19:23:17.931  4717  5414 D VRI[ScreenDecorOverlayBottom]@5eedd3e: call clearFrameRate
+11-04 19:23:17.931  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: call setFrameRateCategory category=high, reason=boost, vri=VRI[ScreenDecorOverlayBottom]@5eedd3e
+11-04 19:23:17.931  3264  5008 D WindowManager: finishDrawingWindow: Window{6fd7ef1 u0 ScreenDecorOverlayBottom} mDrawState=DRAW_PENDING seqId=2 mSyncSeqId=2
+11-04 19:23:17.931  3264  3448 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{6fd7ef1 u0 ScreenDecorOverlayBottom}
+11-04 19:23:17.931  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: handleResized, frames=ClientWindowFrames{frame=[0,0][1440,149] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:23:17.931  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:23:17.932  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: handleResized, frames=ClientWindowFrames{frame=[0,2971][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:23:17.932  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3052] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3052] setFrameRateCategory: High
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3053] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3053] setFrameRateCategory: High
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [6fd7ef1 ScreenDecorOverlayBottom#3051] attach to parent LayerHierarchy{RequestedLayerState{WindowToken{c2af698 type=2024 android.os.BinderProxy@da0787b}#3050 z=1073741826} 1 children}
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3052] attach to parent LayerHierarchy{RequestedLayerState{d4f59fe ScreenDecorOverlay#3049 parentId=3048} 1 children}
+11-04 19:23:17.935  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3053] attach to parent OffscreenRoot
+11-04 19:23:17.951  2149  2149 I SurfaceFlinger: RequestedLayer [6fd7ef1 ScreenDecorOverlayBottom#3051] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:23:17.951  2149  2149 I SurfaceFlinger: RequestedLayer [d4f59fe ScreenDecorOverlay#3049] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:23:17.951  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3053 parentId=3051} no children}] reparent to LayerHierarchy{RequestedLayerState{6fd7ef1 ScreenDecorOverlayBottom#3051 parentId=3050} 1 children}
+11-04 19:23:17.951  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:17.952  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3052 voted ExplicitCategory with category: High
+11-04 19:23:17.952  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3053 voted ExplicitCategory with category: High
+11-04 19:23:17.954  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:23:17.954  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736131 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_471
+11-04 19:23:17.954  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736136 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_4717#3053 (2)
+11-04 19:23:19.283  3264  3447 W ActivityManager: setHasOverlayUi called on unknown pid: 831
+11-04 19:23:19.361  2149  2149 I SurfaceFlinger: destroyed Surface(name=TransientLaunchOverlayToken{18d7171 token=android.os.BinderProxy@2ce3bce}#102)/@0x23771e9_transition-leash#2567 form LifecycleManager
+11-04 19:23:19.361  2149  2149 I SurfaceFlinger: id=2567 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{Surface(name=TransientLaunchOverlayToken{18d7171 token=android.os.BinderProxy@2ce3bce}#102)/@0x23771e9_transition-leash#2567 !handle z=1})
+11-04 19:23:19.361  2149  2149 I SurfaceFlinger: id=2567 Destroyed Surface(name=TransientLaunchOverlayToken{18d7171 token=android.os.BinderProxy@2ce3bce}#102)/@0x23771e9_transition-leash#2567
+11-04 19:23:19.393  3264  3686 D OverlayManager: reconcileSettingsForPackage pkgName=com.hexnext.themer.owner userId=0
+11-04 19:23:19.393  3264  3686 I OverlayManager: updateOverlaysForTarget() called with: targetPackage = [com.hexnext.themer.owner], userId = [0], flags = [2]
+11-04 19:23:19.401  3264  3686 D OverlayManager: reconcileSettingsForPackage pkgName=com.hexnext.themer.owner userId=0
+11-04 19:23:19.401  3264  3686 I OverlayManager: updateOverlaysForTarget() called with: targetPackage = [com.hexnext.themer.owner], userId = [0], flags = [0]
+11-04 19:23:19.404  3264  6964 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:19.408  3264  6557 W ApplicationInfo: Large ApplicationInfo parcel: size=17784 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 19:23:19.409  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.409  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.409  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.422  3264  3683 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:19.425  3264  6530 W ApplicationInfo: Large ApplicationInfo parcel: size=17784 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 19:23:19.425  3264  5127 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.425  3264  5127 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.425  3264  5127 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.717  3264  4584 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:19.717  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:19.718  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=26572 package=com.samsung.android.offline.languagemodel sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 19:23:19.724  3264  4584 W ApplicationInfo: Large ApplicationInfo parcel: size=26984 package=com.samsung.android.ssco sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 19:23:19.725  3264  4584 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:19.725  3264  4584 W ApplicationInfo: Large ApplicationInfo parcel: size=17784 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 19:23:19.735 29045 29139 I TDesigner: b(SourceFile:190) - meta_033_recents, meta_008_1_homescreen, meta_008_3_homescreen_overlay, search_color_theme_meta, meta_044_4_appsedge, meta_044_edge, meta_004_1_panel_for_dex
+11-04 19:23:19.735 29045 29139 I TDesigner:   "meta_008_3_homescreen_overlay",
+11-04 19:23:19.748 29045 29139 I TDesigner: b(SourceFile:590) - overlayList size: 4
+11-04 19:23:20.104  3264  6534 W ApplicationInfo: Large ApplicationInfo parcel: size=26572 package=com.samsung.android.offline.languagemodel sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 19:23:20.106  3264  3683 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.113  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.209 29098 29098 W OverlayConfig: partition_order.xml does not exist.
+11-04 19:23:20.316  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.319  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.319  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.836  3264  6816 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:20.925  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlay]@c9b8afd
+11-04 19:23:20.929  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlayBottom]@5eedd3e
+11-04 19:23:20.933  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3052] setFrameRateCategory: NoPreference
+11-04 19:23:20.933  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3053] setFrameRateCategory: NoPreference
+11-04 19:23:20.933  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:20.933  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3052 voted ExplicitCategory with category: NoPreference
+11-04 19:23:20.934  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3053 voted ExplicitCategory with category: NoPreference
+11-04 19:23:21.087  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:21.087  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:21.087  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:21.088  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:21.088  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:21.088  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:21.089  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:21.089  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:21.090  3264  6317 W ApplicationInfo: Large ApplicationInfo parcel: size=17784 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 19:23:21.090  3264  6317 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:21.090  3264  6317 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:21.094  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:21.276 29652 29652 W OverlayConfig: partition_order.xml does not exist.
+11-04 19:23:24.798  2149  3309 I SurfaceFlinger: Capture layer list: 	 VRI-SGestureOverlayWindow$_5371#122(preserveDisplayColors:0)
+11-04 19:23:24.799  2149  2356 D RenderEngine: Rendering layer VRI-SGestureOverlayWindow$_5371#122 at index 4
+11-04 19:23:28.243  2149  2697 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:28.243  2149  2697 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3052 voted ExplicitCategory with category: NoPreference
+11-04 19:23:28.243  2149  2697 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3053 voted ExplicitCategory with category: NoPreference
+11-04 19:23:31.249  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:31.249  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3052 voted ExplicitCategory with category: NoPreference
+11-04 19:23:31.249  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3053 voted ExplicitCategory with category: NoPreference
+11-04 19:23:39.477  4717  5414 I VRI[ScreenDecorOverlay]@c9b8afd: dispatchDetachedFromWindow
+11-04 19:23:39.478  3264  4071 D InputDispatcher: removed InputChannel: d4f59fe ScreenDecorOverlay
+11-04 19:23:39.478  3264  4071 V WindowManager: Remove Window{d4f59fe u0 ScreenDecorOverlay}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlay$_4717#3052)/@0x4ae00b0 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 19:23:39.481  4717  5414 I VRI[ScreenDecorOverlayBottom]@5eedd3e: dispatchDetachedFromWindow
+11-04 19:23:39.481  3264  7192 D InputDispatcher: removed InputChannel: 6fd7ef1 ScreenDecorOverlayBottom
+11-04 19:23:39.481  3264  7192 V WindowManager: Remove Window{6fd7ef1 u0 ScreenDecorOverlayBottom}: mSurfaceControl=Surface(name=VRI-ScreenDecorOverlayBottom$_4717#3053)/@0xa6c1b29 mAnimatingExit=false mRemoveOnExit=false mHasSurface=true surfaceShowing=true animating=false app-animation=false callers=com.android.server.wm.Session.remove:20 android.view.IWindowSession$Stub.onTransact:812 com.android.server.wm.Session.onTransact:0 android.os.Binder.execTransactInternal:1405 android.os.Binder.execTransact:1359 <bottom of call stack> 
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: RequestedLayer [d4f59fe ScreenDecorOverlay#3049] hidden!! flag from(0) --> to(1) // by pid (3264)
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: RequestedLayer [6fd7ef1 ScreenDecorOverlayBottom#3051] hidden!! flag from(0) --> to(1) // by pid (3264)
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3053} no children}] reparent to OffscreenRoot
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3053} no children}] RelativeParent to null
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3052} no children}] reparent to OffscreenRoot
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3052} no children}] RelativeParent to null
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{6fd7ef1 ScreenDecorOverlayBottom#3051} no children}] reparent to OffscreenRoot
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{6fd7ef1 ScreenDecorOverlayBottom#3051} no children}] RelativeParent to null
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{d4f59fe ScreenDecorOverlay#3049} no children}] reparent to OffscreenRoot
+11-04 19:23:39.494  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{d4f59fe ScreenDecorOverlay#3049} no children}] RelativeParent to null
+11-04 19:23:39.495  2149  2149 I SurfaceFlinger: id=3051 Removed 6fd7ef1 ScreenDecorOverlayBottom#3051 (183)
+11-04 19:23:39.495  2149  2149 I SurfaceFlinger: id=3053 Removed VRI-ScreenDecorOverlayBottom$_4717#3053 (183)
+11-04 19:23:39.495  2149  2149 I SurfaceFlinger: id=3049 Removed d4f59fe ScreenDecorOverlay#3049 (183)
+11-04 19:23:39.495  2149  2149 I SurfaceFlinger: id=3052 Removed VRI-ScreenDecorOverlay$_4717#3052 (183)
+11-04 19:23:39.497  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlayBottom$_4717#3053 form LifecycleManager
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: destroyed VRI-ScreenDecorOverlay$_4717#3052 form LifecycleManager
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: destroyed 6fd7ef1 ScreenDecorOverlayBottom#3051 form LifecycleManager
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: destroyed d4f59fe ScreenDecorOverlay#3049 form LifecycleManager
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3053 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3053 !handle})
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3052 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3052 !handle})
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3051 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{6fd7ef1 ScreenDecorOverlayBottom#3051 !handle})
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3049 onLayerDestroyed from LayerHierarchyBuilder(RequestedLayerState{d4f59fe ScreenDecorOverlay#3049 !handle})
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3053 Destroyed VRI-ScreenDecorOverlayBottom$_4717#3053
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3052 Destroyed VRI-ScreenDecorOverlay$_4717#3052
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3051 Destroyed 6fd7ef1 ScreenDecorOverlayBottom#3051
+11-04 19:23:39.511  2149  2149 I SurfaceFlinger: id=3049 Destroyed d4f59fe ScreenDecorOverlay#3049
+11-04 19:23:39.920  2149  2697 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:42.540  2149  4334 I SurfaceFlinger: id=3056 createSurf, flag=84004, 55023dc ScreenDecorOverlay#3056
+11-04 19:23:42.541  4717  5414 I InsetsController: onStateChanged: host=ScreenDecorOverlay, from=android.view.ViewRootImpl.onInsetsStateChanged:3319, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 139 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(680, 0 - 760, 139), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -10.66666666666667 V 37.06666666666667 H 10.66666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=89, center=Point(89, 89)}, RoundedCorner{position=TopRight, radius=89, center=Point(1351, 89)}, RoundedCorner{position=BottomRight, radius=89, center=Point(1351, 3031)}, RoundedCorner{position=BottomLeft, radius=89, center=Point(89, 3031)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1299, 0 - 1440, 149) rotation=0}, mDisplayShape=DisplayShape{type=2, displayWidth=1440, displayHeight=3120, physicalPixelDisplaySizeRatio=1.0, rotation=0, offsetX=0, offsetY=0, scale=1.0}, mSources= { InsetsSource: {88f70004 mType=systemGestures mFrame=[0,0][158,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT}, InsetsSource: {88f70005 mType=mandatorySystemGestures mFrame=[0,3018][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM}, InsetsSource: {88f70024 mType=systemGestures mFrame=[1282,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,139] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP}, InsetsSource: {2d600005 mType=mandatorySystemGestures mFrame=[0,0][1440,177] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP} }
+11-04 19:23:42.541  4717  5414 I VRI[ScreenDecorOverlay]@959df29: synced displayState. AttachInfo displayState=2
+11-04 19:23:42.541  4717  5414 I VRI[ScreenDecorOverlay]@959df29: setView = com.android.systemui.RegionInterceptingFrameLayout@f6854b0 IsHRR=false mFlingFrameRateChange=1 TM=true
+11-04 19:23:42.542  2149  4334 I SurfaceFlinger: id=3058 createSurf, flag=84004, 56a6a47 ScreenDecorOverlayBottom#3058
+11-04 19:23:42.543  4717  5414 I InsetsController: onStateChanged: host=ScreenDecorOverlayBottom, from=android.view.ViewRootImpl.onInsetsStateChanged:3319, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1440, 3120), mDisplayCutout=DisplayCutout{insets=Rect(0, 139 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(680, 0 - 760, 139), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1440 displayHeight=3120 physicalDisplayWidth=1440 physicalDisplayHeight=3120 density={3.75} cutoutSpec={M 0,0 H -10.66666666666667 V 37.06666666666667 H 10.66666666666667 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=89, center=Point(89, 89)}, RoundedCorner{position=TopRight, radius=89, center=Point(1351, 89)}, RoundedCorner{position=BottomRight, radius=89, center=Point(1351, 3031)}, RoundedCorner{position=BottomLeft, radius=89, center=Point(89, 3031)}]}  mRoundedCornerFrame=Rect(0, 0 - 0, 0), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(1299, 0 - 1440, 149) rotation=0}, mDisplayShape=DisplayShape{type=2, displayWidth=1440, displayHeight=3120, physicalPixelDisplaySizeRatio=1.0, rotation=0, offsetX=0, offsetY=0, scale=1.0}, mSources= { InsetsSource: {88f70004 mType=systemGestures mFrame=[0,0][158,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=LEFT}, InsetsSource: {88f70005 mType=mandatorySystemGestures mFrame=[0,3018][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=BOTTOM}, InsetsSource: {88f70024 mType=systemGestures mFrame=[1282,0][1440,3120] mAttachedInsets=null mVisible=true mFlags= mSideHint=RIGHT}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1440,139] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP}, InsetsSource: {2d600005 mType=mandatorySystemGestures mFrame=[0,0][1440,177] mAttachedInsets=null mVisible=true mFlags= mSideHint=TOP} }
+11-04 19:23:42.543  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: synced displayState. AttachInfo displayState=2
+11-04 19:23:42.543  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: setView = com.android.systemui.RegionInterceptingFrameLayout@40844e5 IsHRR=false mFlingFrameRateChange=1 TM=true
+11-04 19:23:42.547  2149  2149 I SurfaceFlinger: [55023dc ScreenDecorOverlay#3056] attach to parent LayerHierarchy{RequestedLayerState{WindowToken{7fcc04f type=2024 android.os.BinderProxy@2cf0aae}#3055} 1 children}
+11-04 19:23:42.547  2149  2149 I SurfaceFlinger: [56a6a47 ScreenDecorOverlayBottom#3058] attach to parent LayerHierarchy{RequestedLayerState{WindowToken{e51c186 type=2024 android.os.BinderProxy@d350261}#3057} 1 children}
+11-04 19:23:42.547  2149  2332 I SurfaceFlinger: id=3059 createSurf, flag=4c040, VRI-ScreenDecorOverlay$_4717#3059
+11-04 19:23:42.548  3264  4636 I WindowManager: Relayout Window{55023dc u0 ScreenDecorOverlay}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 19:23:42.548  3264  4636 D WindowManager: setClientSurface Surface(name=VRI-ScreenDecorOverlay$_4717#3059)/@0x7e97b5e for 55023dc ScreenDecorOverlay
+11-04 19:23:42.548  4717  4717 I VRI[ScreenDecorOverlay]@959df29: Resizing android.view.ViewRootImpl@2719812: frame = [0,0][1440,149] reportDraw = false forceLayout = false
+11-04 19:23:42.548  4717  5414 I VRI[ScreenDecorOverlay]@959df29: relayoutWindow, Changed mSeqId from 1 to 2
+11-04 19:23:42.548  4717  5414 D VRI[ScreenDecorOverlay]@959df29: applyPrivacyLayerOverlapPolicy: request=false
+11-04 19:23:42.548  4717  5414 D VRI[ScreenDecorOverlay]@959df29: applyPrivacyDisplayOverlapBounds: bounds=Rect(0, 0 - 0, 0)
+11-04 19:23:42.548  4717  5414 I SurfaceComposerClient: setPrivacyOverlapBounds VRI-ScreenDecorOverlay$_4717#3059 bounds=[0, 0, 0, 0]
+11-04 19:23:42.549  4717  5414 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[ScreenDecorOverlay]@959df29 mNativeObject= 0xb4000077c0c9c470 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3909 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 android.view.Choreographer.doFrame:1393 android.view.Choreographer$FrameDisplayEventReceiver.run:1957 
+11-04 19:23:42.549  4717  5414 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlay]@959df29 mNativeObject= 0xb4000077c0c9c470 sc.mNativeObject= 0xb4000078e0c30d10 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3914 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 19:23:42.549  4717  5414 I Surface : Creating surface for consumer VRI[ScreenDecorOverlay]@959df29#176(BLAST Consumer)176 with slotExpansion=1 for 64 slots
+11-04 19:23:42.549  4717  5414 I VRI[ScreenDecorOverlay]@959df29: Relayout returned: old=(0,0,1440,3120) new=(0,0,1440,149) relayoutAsync=false req=(1440,149)0 dur=1 res=0x3 s={true 0xb4000077e1121fa0} ch=true seqId=2 syncSeqId=0
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: applyTransactionOnDraw applyImmediately
+11-04 19:23:42.549  4717  5414 I VRI[ScreenDecorOverlay]@959df29: performConfigurationChange setNightDimText nightDimLevel=0
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000077e1121fa0} hwInitialized=true
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: reportNextDraw android.view.ViewRootImpl.performTraversals:5940 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: Setup new sync=wmsSync-VRI[ScreenDecorOverlay]@959df29#52
+11-04 19:23:42.549  4717  5414 I VRI[ScreenDecorOverlay]@959df29: Creating new active sync group VRI[ScreenDecorOverlay]@959df29#53
+11-04 19:23:42.549  4717  5414 D VRI[ScreenDecorOverlay]@959df29: registerCallbacksForSync syncBuffer=false
+11-04 19:23:42.549  4717  5203 D VRI[ScreenDecorOverlay]@959df29: Received frameDrawingCallback syncResult=0 frameNum=1.
+11-04 19:23:42.549  4717  5203 I VRI[ScreenDecorOverlay]@959df29: mWNT: t=0xb4000078d0ddf930 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 19:23:42.549  4717  5203 I VRI[ScreenDecorOverlay]@959df29: Setting up sync and frameCommitCallback
+11-04 19:23:42.550  4717  5205 I BLASTBufferQueue: [VRI[ScreenDecorOverlay]@959df29#176](f:0,a:0,s:0) onFrameAvailable the first frame is available
+11-04 19:23:42.550  4717  5205 I VRI[ScreenDecorOverlay]@959df29: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+11-04 19:23:42.550  2149  4334 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3059] setTransactionState with the first frame. bufferData(ID: 20259360736137, frameNumber: 1)
+11-04 19:23:42.550  4717  5414 D VRI[ScreenDecorOverlay]@959df29: reportDrawFinished seqId=2
+11-04 19:23:42.550  4717  5414 D VRI[ScreenDecorOverlay]@959df29: call clearFrameRate
+11-04 19:23:42.550  4717  5414 I VRI[ScreenDecorOverlay]@959df29: call setFrameRateCategory category=high, reason=boost, vri=VRI[ScreenDecorOverlay]@959df29
+11-04 19:23:42.550  3264  4636 D WindowManager: finishDrawingWindow: Window{55023dc u0 ScreenDecorOverlay} mDrawState=DRAW_PENDING seqId=2 mSyncSeqId=2
+11-04 19:23:42.550  2149  2332 I SurfaceFlinger: id=3060 createSurf, flag=4c040, VRI-ScreenDecorOverlayBottom$_4717#3060
+11-04 19:23:42.550  3264  3448 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{55023dc u0 ScreenDecorOverlay}
+11-04 19:23:42.551  3264  4636 I WindowManager: Relayout Window{56a6a47 u0 ScreenDecorOverlayBottom}: viewVisibility=0 req=1440x149 ty=2024 d0
+11-04 19:23:42.551  3264  4636 D WindowManager: setClientSurface Surface(name=VRI-ScreenDecorOverlayBottom$_4717#3060)/@0xab45b3f for 56a6a47 ScreenDecorOverlayBottom
+11-04 19:23:42.551  4717  4717 I VRI[ScreenDecorOverlayBottom]@aa14bba: Resizing android.view.ViewRootImpl@57374f8: frame = [0,2971][1440,3120] reportDraw = false forceLayout = false
+11-04 19:23:42.551  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: relayoutWindow, Changed mSeqId from 1 to 2
+11-04 19:23:42.551  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: applyPrivacyLayerOverlapPolicy: request=false
+11-04 19:23:42.551  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: applyPrivacyDisplayOverlapBounds: bounds=Rect(0, 0 - 0, 0)
+11-04 19:23:42.551  4717  5414 I SurfaceComposerClient: setPrivacyOverlapBounds VRI-ScreenDecorOverlayBottom$_4717#3060 bounds=[0, 0, 0, 0]
+11-04 19:23:42.552  4717  5414 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[ScreenDecorOverlayBottom]@aa14bba mNativeObject= 0xb4000077c0ce90b0 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3909 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 android.view.Choreographer.doFrame:1393 android.view.Choreographer$FrameDisplayEventReceiver.run:1957 
+11-04 19:23:42.552  4717  5414 I BLASTBufferQueue_Java: update, w= 1440 h= 149 mName = VRI[ScreenDecorOverlayBottom]@aa14bba mNativeObject= 0xb4000077c0ce90b0 sc.mNativeObject= 0xb4000078e0c07190 format= -3 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3914 android.view.ViewRootImpl.updateRenderTargetIfNeeded:3890 android.view.ViewRootImpl.relayoutWindow:12632 android.view.ViewRootImpl.performTraversals:5287 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 
+11-04 19:23:42.552  4717  5414 I Surface : Creating surface for consumer VRI[ScreenDecorOverlayBottom]@aa14bba#177(BLAST Consumer)177 with slotExpansion=1 for 64 slots
+11-04 19:23:42.552  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: Relayout returned: old=(0,0,1440,3120) new=(0,2971,1440,3120) relayoutAsync=false req=(1440,149)0 dur=0 res=0x3 s={true 0xb4000077e11374d0} ch=true seqId=2 syncSeqId=0
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: reportNextDraw android.view.ViewRootImpl.performTraversals:5295 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: applyTransactionOnDraw applyImmediately
+11-04 19:23:42.552  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: performConfigurationChange setNightDimText nightDimLevel=0
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000077e11374d0} hwInitialized=true
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: reportNextDraw android.view.ViewRootImpl.performTraversals:5940 android.view.ViewRootImpl.doTraversal:4255 android.view.ViewRootImpl$TraversalCallback.onVsync:13896 android.view.Choreographer$CallbackRecord.run:1995 android.view.Choreographer.doCallbacks:1440 
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: Setup new sync=wmsSync-VRI[ScreenDecorOverlayBottom]@aa14bba#54
+11-04 19:23:42.552  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: Creating new active sync group VRI[ScreenDecorOverlayBottom]@aa14bba#55
+11-04 19:23:42.552  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: registerCallbacksForSync syncBuffer=false
+11-04 19:23:42.552  4717  5204 D VRI[ScreenDecorOverlayBottom]@aa14bba: Received frameDrawingCallback syncResult=0 frameNum=1.
+11-04 19:23:42.553  4717  5204 I VRI[ScreenDecorOverlayBottom]@aa14bba: mWNT: t=0xb4000078d0d3db30 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:16715 android.view.ThreadedRenderer$1.onFrameDraw:750 <bottom of call stack> 
+11-04 19:23:42.553  4717  5204 I VRI[ScreenDecorOverlayBottom]@aa14bba: Setting up sync and frameCommitCallback
+11-04 19:23:42.553  4717  5205 I BLASTBufferQueue: [VRI[ScreenDecorOverlayBottom]@aa14bba#177](f:0,a:0,s:0) onFrameAvailable the first frame is available
+11-04 19:23:42.553  4717  5205 I VRI[ScreenDecorOverlayBottom]@aa14bba: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+11-04 19:23:42.553  2149  4334 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3060] setTransactionState with the first frame. bufferData(ID: 20259360736142, frameNumber: 1)
+11-04 19:23:42.553  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: reportDrawFinished seqId=2
+11-04 19:23:42.553  4717  5414 D VRI[ScreenDecorOverlayBottom]@aa14bba: call clearFrameRate
+11-04 19:23:42.553  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: call setFrameRateCategory category=high, reason=boost, vri=VRI[ScreenDecorOverlayBottom]@aa14bba
+11-04 19:23:42.553  3264  4636 D WindowManager: finishDrawingWindow: Window{56a6a47 u0 ScreenDecorOverlayBottom} mDrawState=DRAW_PENDING seqId=2 mSyncSeqId=2
+11-04 19:23:42.553  3264  3448 V WindowManager: performShowLocked: mDrawState=HAS_DRAWN in Window{56a6a47 u0 ScreenDecorOverlayBottom}
+11-04 19:23:42.554  4717  5414 I VRI[ScreenDecorOverlay]@959df29: handleResized, frames=ClientWindowFrames{frame=[0,0][1440,149] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:23:42.554  4717  5414 I VRI[ScreenDecorOverlay]@959df29: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3059] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3059] setFrameRateCategory: High
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3060] setFrameRate: 0.000000, Default, SeamedAndSeamless
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3060] setFrameRateCategory: High
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3059] attach to parent OffscreenRoot
+11-04 19:23:42.556  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3060] attach to parent OffscreenRoot
+11-04 19:23:42.564  2149  2149 I SurfaceFlinger: RequestedLayer [56a6a47 ScreenDecorOverlayBottom#3058] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:23:42.564  2149  2149 I SurfaceFlinger: RequestedLayer [55023dc ScreenDecorOverlay#3056] hidden!! flag from(1) --> to(0) // by pid (3264)
+11-04 19:23:42.564  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlay$_4717#3059 parentId=3056} no children}] reparent to LayerHierarchy{RequestedLayerState{55023dc ScreenDecorOverlay#3056 parentId=3055} 1 children}
+11-04 19:23:42.564  2149  2149 I SurfaceFlinger: [LayerHierarchy{RequestedLayerState{VRI-ScreenDecorOverlayBottom$_4717#3060 parentId=3058} no children}] reparent to LayerHierarchy{RequestedLayerState{56a6a47 ScreenDecorOverlayBottom#3058 parentId=3057} 1 children}
+11-04 19:23:42.565  2149  2149 D SurfaceFlinger:        DEVICE |           23068269346823 | 00002100 | RGBA_8888    |    0.0    0.0 1440.0  100.0 |    0 3020 1440 3120 | VRI-SGestureOverlayWindow$_5371#122 (1)
+11-04 19:23:42.565  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736137 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0    0 1440  149 | VRI-ScreenDecorOverlay$_471
+11-04 19:23:42.565  2149  2149 D SurfaceFlinger:        DEVICE |           20259360736142 | 00002140 | RGBA_8888    |    0.0    0.0 1440.0  149.0 |    0 2971 1440 3120 | VRI-ScreenDecorOverlayBottom$_4717#3060 (1)
+11-04 19:23:42.566  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: handleResized, frames=ClientWindowFrames{frame=[0,2971][1440,3120] display=[0,0][1440,3120] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+11-04 19:23:42.566  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: handleResized seqId=2 mSeqId=2 mSyncSeqId=0 syncWithBuffers=false
+11-04 19:23:42.929  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:42.929  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:42.930  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:42.930  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:42.930  3264  7124 W ApplicationInfo: Large ApplicationInfo parcel: size=21520 package=com.google.android.googlequicksearchbox splits=3 sharedLibs=7 resDirs=2 overlayPaths=2
+11-04 19:23:42.931  3264  7124 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:42.931  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:42.931  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:42.931  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=17784 package=com.sec.android.app.camera sharedLibs=54 resDirs=2 overlayPaths=2
+11-04 19:23:42.931  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:42.932  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:42.932  3264  4071 W ApplicationInfo: Large ApplicationInfo parcel: size=22608 package=com.amazon.mShop.android.shopping splits=2 sharedLibs=4 resDirs=2 overlayPaths=2
+11-04 19:23:43.147  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=26572 package=com.samsung.android.offline.languagemodel sharedLibs=1 resDirs=2 overlayPaths=2
+11-04 19:23:43.149  3264  7192 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:43.155  3264  4636 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:43.358  3264  4636 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:43.361  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:43.361  3264  6552 W ApplicationInfo: Large ApplicationInfo parcel: size=46004 package=com.samsung.android.smartsuggestions sharedLibs=15 resDirs=2 overlayPaths=2
+11-04 19:23:45.550  4717  5414 I VRI[ScreenDecorOverlay]@959df29: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlay]@959df29
+11-04 19:23:45.552  4717  5414 I VRI[ScreenDecorOverlayBottom]@aa14bba: call setFrameRateCategory category=no preference, reason=boost timeout, vri=VRI[ScreenDecorOverlayBottom]@aa14bba
+11-04 19:23:45.555  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlay$_4717#3059] setFrameRateCategory: NoPreference
+11-04 19:23:45.555  2149  2149 I SurfaceFlinger: [VRI-ScreenDecorOverlayBottom$_4717#3060] setFrameRateCategory: NoPreference
+11-04 19:23:48.696  2149  2149 I SurfaceFlinger: VRI-SGestureOverlayWindow$_5371#122 voted ExplicitCategory with category: NoPreference
+11-04 19:23:48.696  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlayBottom$_4717#3060 voted ExplicitCategory with category: NoPreference
+11-04 19:23:48.696  2149  2149 I SurfaceFlinger: VRI-ScreenDecorOverlay$_4717#3059 voted ExplicitCategory with category: NoPreference

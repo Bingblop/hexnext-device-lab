@@ -1,0 +1,185 @@
+INFO Applying theme "Hex Next" (default)
+INFO Theme pack: Willemite (willemite)
+WARN android: 25 unreadable value lines skipped.
+WARN com.android.systemui: 36 unreadable value lines skipped.
+INFO Device snapshot: One UI 9.0 (SDK 37), 60 targets, 65 system shades
+INFO Compiled 59 targets (14036 colours, 1150 drawables); 1 skipped
+INFO Stability monitor: ErrnoException: open failed: EACCES (Permission denied)
+INFO Building HexNext_android: 164 colours, 58 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR android: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_android_systemui: 398 colours, 24 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.android.systemui: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_android_settings: 392 colours, 145 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.android.settings: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_launcher: 368 colours, 59 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.launcher: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_honeyboard: 506 colours, 75 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.honeyboard: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_dialer: 406 colours, 63 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.dialer: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_incallui: 170 colours, 53 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.incallui: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_contacts: 386 colours, 91 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.contacts: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_myfiles: 248 colours, 85 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.myfiles: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_gallery3d: 456 colours, 67 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.gallery3d: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_clockpackage: 616 colours, 64 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.clockpackage: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_popupcalculator: 162 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.popupcalculator: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_calendar: 408 colours, 63 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.calendar: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_lool: 298 colours, 65 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.lool: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_aodservice: 280 colours, 65 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.aodservice: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_smartcapture: 188 colours, 55 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.smartcapture: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_notes: 82 colours, 63 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.notes: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_reminder: 464 colours, 55 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.reminder: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_android_bluetooth: 2 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.android.bluetooth: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_android_settings_intelligence: 214 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.android.settings.intelligence: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_accessibility: 192 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.accessibility: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_accessory_budsunitemgr: 212 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.accessory.budsunitemgr: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_accessibility_talkback: 90 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.accessibility.talkback: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_cameraassistant: 176 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.cameraassistant: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_dressroom: 180 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.dressroom: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_galaxyraw: 170 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.galaxyraw: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_interpreter: 232 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.interpreter: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_routines: 476 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.routines: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_soundpicker: 172 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.soundpicker: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_app_telephonyui: 250 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.app.telephonyui: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_biometrics_app_setting: 10 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.biometrics.app.setting: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_bixby_agent: 180 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.bixby.agent: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_callassistant: 196 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.callassistant: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_dynamiclock: 186 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.dynamiclock: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_game_gametools: 164 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.game.gametools: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_mcfds: 152 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.mcfds: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_mdecservice: 240 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.mdecservice: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_privacydashboard: 174 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.privacydashboard: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_samsungpassautofill: 212 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.samsungpassautofill: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_scloud: 172 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.scloud: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_scpm: 152 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.scpm: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_secsoundpicker: 180 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.secsoundpicker: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_service_airviewdictionary: 162 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.service.airviewdictionary: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_service_tagservice: 162 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.service.tagservice: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_smartmirroring: 154 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.smartmirroring: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_smartsuggestions: 236 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.smartsuggestions: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_video: 192 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.video: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_android_visionintelligence: 208 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.android.visionintelligence: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_samsung_app_newtrim: 184 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.samsung.app.newtrim: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_camera: 190 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.camera: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_sbrowser: 574 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.sbrowser: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_shealth: 216 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.shealth: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_soundalive: 192 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.soundalive: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_app_voicenote: 292 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.app.voicenote: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_daemonapp: 228 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.daemonapp: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_android_mimage_photoretouching: 190 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.android.mimage.photoretouching: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_hearingadjust: 180 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.hearingadjust: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_com_sec_unifiedwfc: 178 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR com.sec.unifiedwfc: applyOverlay code -1: DeadObjectException: null
+INFO Building HexNext_io_mesalabs_knoxpatch: 122 colours, 0 drawables
+INFO applyOverlay failed: DeadObjectException: null
+ERROR io.mesalabs.knoxpatch: applyOverlay code -1: DeadObjectException: null
+ERROR Theme apply aborted: DeadObjectException: null

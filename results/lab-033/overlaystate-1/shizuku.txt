@@ -1,0 +1,3 @@
+910 29098
+u0_a441        910  1873   15743376 192728 do_epoll_wait       0 S moe.shizuku.privileged.api
+root         29098     1   14677904 165728 do_epoll_wait       0 S shizuku_server
