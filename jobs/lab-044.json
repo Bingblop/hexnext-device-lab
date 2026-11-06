@@ -1,0 +1,30 @@
+{
+  "steps": [
+    "install",
+    "pack",
+    "scan",
+    "apply",
+    "capture",
+    "collect"
+  ],
+  "pack": "carnelian",
+  "confirm": true,
+  "modes": [
+    "light"
+  ],
+  "captures": [
+    "settings",
+    "app:com.android.settings/com.android.settings.Settings$DisplaySettingsActivity",
+    "app:com.android.settings/com.android.settings.Settings$SoundSettingsActivity",
+    "myfiles"
+  ],
+  "expect": {
+    "apply_ok": true,
+    "no_crash": true
+  },
+  "id": "lab-044",
+  "suite": "carnelian-crash",
+  "ref": "main",
+  "run_id": 42135170649,
+  "artifact_sha256": "e09347eff146fd2efe3c02213e8e0fd5b12dfdb6717bf02447322039e9574069"
+}
