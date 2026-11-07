@@ -548,3 +548,15 @@
 [01:21:13] capture dark storage
 [01:21:27] capture dark qs
 [01:21:36] sweep scolecite: picked=yes applied=yes crashes=0
+[01:21:43] sweep 44/50: sodalite
+[01:24:11] capture light settings
+[01:24:24] capture light display
+[01:24:32] capture light sound
+[01:24:40] capture light storage
+[01:24:54] capture light qs
+[01:25:04] capture dark settings
+[01:25:17] capture dark display
+[01:25:25] capture dark sound
+[01:25:34] capture dark storage
+[01:25:48] capture dark qs
+[01:25:56] sweep sodalite: picked=yes applied=yes crashes=0
