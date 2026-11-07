@@ -98,3 +98,15 @@
 [22:12:22] capture dark storage
 [22:12:36] capture dark qs
 [22:12:44] sweep ekanite: picked=yes applied=yes crashes=0
+[22:12:49] sweep 5/50: fayalite
+[22:19:07] capture light settings
+[22:19:20] capture light display
+[22:19:28] capture light sound
+[22:19:36] capture light storage
+[22:19:50] capture light qs
+[22:20:00] capture dark settings
+[22:20:13] capture dark display
+[22:20:21] capture dark sound
+[22:20:30] capture dark storage
+[22:20:43] capture dark qs
+[22:20:52] sweep fayalite: picked=yes applied=yes crashes=0
