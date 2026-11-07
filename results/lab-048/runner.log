@@ -380,3 +380,15 @@
 [00:17:22] capture dark storage
 [00:17:36] capture dark qs
 [00:17:45] sweep euclase: picked=yes applied=yes crashes=0
+[00:17:50] sweep 30/50: fuchsite
+[00:19:39] capture light settings
+[00:19:51] capture light display
+[00:20:00] capture light sound
+[00:20:08] capture light storage
+[00:20:21] capture light qs
+[00:20:32] capture dark settings
+[00:20:45] capture dark display
+[00:20:53] capture dark sound
+[00:21:01] capture dark storage
+[00:21:15] capture dark qs
+[00:21:24] sweep fuchsite: picked=yes applied=yes crashes=0
