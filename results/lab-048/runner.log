@@ -605,3 +605,4 @@
 [01:43:53] storage: no Internal storage entry
 [01:43:55] capture dark qs
 [01:44:03] sweep willemite: picked=yes applied=yes crashes=1
+[01:44:07] sweep: 39/50 packs applied without a crash (results/<id>/sweep.tsv)
