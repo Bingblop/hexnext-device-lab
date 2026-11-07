@@ -1,0 +1,3 @@
+[21:12:24] job lab-044
+[21:12:27] install: downloaded artifact 13465043096 through the API
+[21:12:27] install: encrypted owner APK but no lab key at /data/data/com.termux/files/home/.hexnext-lab/key.pem (run the labkey step)
