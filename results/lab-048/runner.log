@@ -476,3 +476,15 @@
 [00:56:05] capture dark storage
 [00:56:19] capture dark qs
 [00:56:28] sweep larimar: picked=yes applied=yes crashes=0
+[00:56:32] sweep 38/50: lazulite
+[00:59:08] capture light settings
+[00:59:21] capture light display
+[00:59:30] capture light sound
+[00:59:38] capture light storage
+[00:59:52] capture light qs
+[01:00:02] capture dark settings
+[01:00:15] capture dark display
+[01:00:23] capture dark sound
+[01:00:31] capture dark storage
+[01:00:45] capture dark qs
+[01:00:54] sweep lazulite: picked=yes applied=yes crashes=0
