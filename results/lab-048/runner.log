@@ -220,3 +220,15 @@
 [23:11:35] capture dark storage
 [23:11:48] capture dark qs
 [23:11:57] sweep malachite: picked=yes applied=yes crashes=0
+[23:12:04] sweep 15/50: tanzanite
+[23:16:40] capture light settings
+[23:16:53] capture light display
+[23:17:01] capture light sound
+[23:17:09] capture light storage
+[23:17:23] capture light qs
+[23:17:33] capture dark settings
+[23:17:46] capture dark display
+[23:17:54] capture dark sound
+[23:18:02] capture dark storage
+[23:18:16] capture dark qs
+[23:18:25] sweep tanzanite: picked=yes applied=yes crashes=0
