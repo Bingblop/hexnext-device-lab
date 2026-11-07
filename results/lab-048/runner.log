@@ -588,3 +588,5 @@
 [01:37:36] sweep wavellite: picked=no applied=no crashes=0
 [01:37:39] sweep 48/50: xenotime
 [01:37:39] sweep xenotime: picked=no applied=no crashes=0
+[01:37:42] sweep 49/50: zircon
+[01:37:43] sweep zircon: picked=no applied=no crashes=0
