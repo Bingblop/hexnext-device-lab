@@ -344,3 +344,15 @@
 [00:03:57] capture dark storage
 [00:04:10] capture dark qs
 [00:04:19] sweep covellite: picked=yes applied=yes crashes=0
+[00:04:24] sweep 27/50: epidote
+[00:07:00] capture light settings
+[00:07:13] capture light display
+[00:07:21] capture light sound
+[00:07:30] capture light storage
+[00:07:43] capture light qs
+[00:07:54] capture dark settings
+[00:08:07] capture dark display
+[00:08:15] capture dark sound
+[00:08:23] capture dark storage
+[00:08:37] capture dark qs
+[00:08:46] sweep epidote: picked=yes applied=yes crashes=0
