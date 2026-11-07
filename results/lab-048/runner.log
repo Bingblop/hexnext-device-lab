@@ -208,3 +208,15 @@
 [23:04:59] capture dark storage
 [23:05:13] capture dark qs
 [23:05:22] sweep jadeite: picked=yes applied=yes crashes=0
+[23:05:26] sweep 14/50: malachite
+[23:10:12] capture light settings
+[23:10:25] capture light display
+[23:10:33] capture light sound
+[23:10:41] capture light storage
+[23:10:55] capture light qs
+[23:11:05] capture dark settings
+[23:11:18] capture dark display
+[23:11:26] capture dark sound
+[23:11:35] capture dark storage
+[23:11:48] capture dark qs
+[23:11:57] sweep malachite: picked=yes applied=yes crashes=0
