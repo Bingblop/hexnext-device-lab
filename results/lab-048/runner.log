@@ -296,3 +296,15 @@
 [23:43:06] capture dark storage
 [23:43:20] capture dark qs
 [23:43:29] sweep cerussite: picked=yes applied=yes crashes=0
+[23:43:35] sweep 23/50: charoite
+[23:46:45] capture light settings
+[23:46:58] capture light display
+[23:47:06] capture light sound
+[23:47:15] capture light storage
+[23:47:28] capture light qs
+[23:47:39] capture dark settings
+[23:47:52] capture dark display
+[23:48:00] capture dark sound
+[23:48:08] capture dark storage
+[23:48:22] capture dark qs
+[23:48:31] sweep charoite: picked=yes applied=yes crashes=0
