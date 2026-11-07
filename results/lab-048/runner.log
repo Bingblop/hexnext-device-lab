@@ -184,3 +184,15 @@
 [22:53:07] capture dark storage
 [22:53:20] capture dark qs
 [22:53:29] sweep aquamarine: picked=yes applied=yes crashes=0
+[22:53:33] sweep 12/50: benitoite
+[22:58:01] capture light settings
+[22:58:14] capture light display
+[22:58:22] capture light sound
+[22:58:30] capture light storage
+[22:58:44] capture light qs
+[22:58:54] capture dark settings
+[22:59:07] capture dark display
+[22:59:15] capture dark sound
+[22:59:23] capture dark storage
+[22:59:37] capture dark qs
+[22:59:46] sweep benitoite: picked=yes applied=yes crashes=0
