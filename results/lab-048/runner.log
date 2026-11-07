@@ -248,3 +248,15 @@
 [23:23:17] sweep ametrine: picked=no applied=no crashes=0
 [23:23:19] sweep 18/50: apatite
 [23:23:20] sweep apatite: picked=no applied=no crashes=0
+[23:23:22] sweep 19/50: axinite
+[23:26:59] capture light settings
+[23:27:12] capture light display
+[23:27:21] capture light sound
+[23:27:35] capture light storage
+[23:27:49] capture light qs
+[23:28:00] capture dark settings
+[23:28:12] capture dark display
+[23:28:21] capture dark sound
+[23:28:30] capture dark storage
+[23:28:44] capture dark qs
+[23:28:53] sweep axinite: picked=yes applied=yes crashes=6
