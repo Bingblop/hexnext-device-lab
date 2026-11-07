@@ -284,3 +284,15 @@
 [23:39:12] capture dark storage
 [23:39:25] capture dark qs
 [23:39:34] sweep calcite: picked=yes applied=yes crashes=0
+[23:39:40] sweep 22/50: cerussite
+[23:41:43] capture light settings
+[23:41:56] capture light display
+[23:42:04] capture light sound
+[23:42:12] capture light storage
+[23:42:26] capture light qs
+[23:42:36] capture dark settings
+[23:42:50] capture dark display
+[23:42:58] capture dark sound
+[23:43:06] capture dark storage
+[23:43:20] capture dark qs
+[23:43:29] sweep cerussite: picked=yes applied=yes crashes=0
