@@ -392,3 +392,15 @@
 [00:21:01] capture dark storage
 [00:21:15] capture dark qs
 [00:21:24] sweep fuchsite: picked=yes applied=yes crashes=0
+[00:21:31] sweep 31/50: garnet
+[00:24:33] capture light settings
+[00:24:46] capture light display
+[00:24:54] capture light sound
+[00:25:02] capture light storage
+[00:25:16] capture light qs
+[00:25:27] capture dark settings
+[00:25:39] capture dark display
+[00:25:48] capture dark sound
+[00:25:56] capture dark storage
+[00:26:09] capture dark qs
+[00:26:18] sweep garnet: picked=yes applied=yes crashes=0
