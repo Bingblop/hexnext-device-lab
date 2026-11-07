@@ -332,3 +332,15 @@
 [23:58:01] capture dark storage
 [23:58:14] capture dark qs
 [23:58:23] sweep cordierite: picked=yes applied=yes crashes=0
+[23:58:28] sweep 26/50: covellite
+[00:02:34] capture light settings
+[00:02:47] capture light display
+[00:02:55] capture light sound
+[00:03:03] capture light storage
+[00:03:17] capture light qs
+[00:03:28] capture dark settings
+[00:03:40] capture dark display
+[00:03:49] capture dark sound
+[00:03:57] capture dark storage
+[00:04:10] capture dark qs
+[00:04:19] sweep covellite: picked=yes applied=yes crashes=0
