@@ -512,3 +512,15 @@
 [01:09:07] capture dark storage
 [01:09:20] capture dark qs
 [01:09:29] sweep olivine: picked=yes applied=yes crashes=0
+[01:09:34] sweep 41/50: pectolite
+[01:11:07] capture light settings
+[01:11:20] capture light display
+[01:11:28] capture light sound
+[01:11:37] capture light storage
+[01:11:50] capture light qs
+[01:12:00] capture dark settings
+[01:12:13] capture dark display
+[01:12:22] capture dark sound
+[01:12:30] capture dark storage
+[01:12:44] capture dark qs
+[01:12:52] sweep pectolite: picked=yes applied=yes crashes=0
