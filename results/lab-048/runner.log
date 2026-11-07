@@ -110,3 +110,15 @@
 [22:20:30] capture dark storage
 [22:20:43] capture dark qs
 [22:20:52] sweep fayalite: picked=yes applied=yes crashes=0
+[22:21:39] sweep 6/50: idocrase
+[22:27:16] capture light settings
+[22:27:29] capture light display
+[22:27:38] capture light sound
+[22:27:46] capture light storage
+[22:27:59] capture light qs
+[22:28:10] capture dark settings
+[22:28:23] capture dark display
+[22:28:31] capture dark sound
+[22:28:39] capture dark storage
+[22:28:53] capture dark qs
+[22:29:02] sweep idocrase: picked=yes applied=yes crashes=0
