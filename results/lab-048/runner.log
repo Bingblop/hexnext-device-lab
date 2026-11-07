@@ -172,3 +172,15 @@
 [22:48:21] capture dark storage
 [22:48:35] capture dark qs
 [22:48:44] sweep quartz: picked=yes applied=yes crashes=0
+[22:48:48] sweep 11/50: aquamarine
+[22:51:44] capture light settings
+[22:51:57] capture light display
+[22:52:05] capture light sound
+[22:52:13] capture light storage
+[22:52:27] capture light qs
+[22:52:37] capture dark settings
+[22:52:50] capture dark display
+[22:52:58] capture dark sound
+[22:53:07] capture dark storage
+[22:53:20] capture dark qs
+[22:53:29] sweep aquamarine: picked=yes applied=yes crashes=0
