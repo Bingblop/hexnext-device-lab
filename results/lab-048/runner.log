@@ -122,3 +122,15 @@
 [22:28:39] capture dark storage
 [22:28:53] capture dark qs
 [22:29:02] sweep idocrase: picked=yes applied=yes crashes=0
+[22:29:09] sweep 7/50: lepidolite
+[22:32:30] capture light settings
+[22:32:42] capture light display
+[22:32:51] capture light sound
+[22:32:59] capture light storage
+[22:33:12] capture light qs
+[22:33:23] capture dark settings
+[22:33:36] capture dark display
+[22:33:44] capture dark sound
+[22:33:52] capture dark storage
+[22:34:06] capture dark qs
+[22:34:15] sweep lepidolite: picked=yes applied=yes crashes=1

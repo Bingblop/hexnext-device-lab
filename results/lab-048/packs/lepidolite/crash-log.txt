@@ -1,0 +1,24 @@
+--------- beginning of crash
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: FATAL EXCEPTION: RxCachedThreadScheduler-1
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: Process: com.samsung.android.app.contacts, PID: 20373
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: f70.d: The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https://github.com/ReactiveX/RxJava/wiki/Error-Handling | android.app.BackgroundServiceStartNotAllowedException: Not allowed to start service Intent { xflg=0x4 cmp=com.samsung.android.app.contacts/com.samsung.android.contacts.directdialwidget.work.DirectWidgetUpdateJobService }: app is in background uid UidRecord{24f23f5 u0a133 CEM  bg:+27s68ms idle change:cached|procstate|procadj procs:0 seq(199656,199656)} caps=---------
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at ey.d.accept(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:10)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at v70.f.onError(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:14)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at v70.f.d(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:26)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at n70.n1.i(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:40)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at n70.l1.run(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:18)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at u70.u.run(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:22)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at u70.u.call(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:1)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:323)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:1571)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: Caused by: android.app.BackgroundServiceStartNotAllowedException: Not allowed to start service Intent { xflg=0x4 cmp=com.samsung.android.app.contacts/com.samsung.android.contacts.directdialwidget.work.DirectWidgetUpdateJobService }: app is in background uid UidRecord{24f23f5 u0a133 CEM  bg:+27s68ms idle change:cached|procstate|procadj procs:0 seq(199656,199656)} caps=---------
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:2205)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at android.app.ContextImpl.startService(ContextImpl.java:2150)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at android.content.ContextWrapper.startService(ContextWrapper.java:898)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at pr.c.invoke(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:306)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at pm.b.accept(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:42)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	at v70.f.d(r8-map-id-57a8ccf7c79b2bade67e80e643270001f3e7a71d0bfc4fbc85aaf3790015b94c:9)
+11-06 22:33:02.876 20373 20447 E AndroidRuntime: 	... 9 more
