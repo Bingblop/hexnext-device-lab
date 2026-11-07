@@ -428,3 +428,15 @@
 [00:36:02] capture dark storage
 [00:36:15] capture dark qs
 [00:36:24] sweep iolite: picked=yes applied=yes crashes=0
+[00:36:28] sweep 34/50: kornerupine
+[00:38:33] capture light settings
+[00:38:46] capture light display
+[00:38:54] capture light sound
+[00:39:02] capture light storage
+[00:39:16] capture light qs
+[00:39:27] capture dark settings
+[00:39:39] capture dark display
+[00:39:48] capture dark sound
+[00:39:56] capture dark storage
+[00:40:10] capture dark qs
+[00:40:19] sweep kornerupine: picked=yes applied=yes crashes=0
