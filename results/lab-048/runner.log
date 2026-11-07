@@ -356,3 +356,15 @@
 [00:08:23] capture dark storage
 [00:08:37] capture dark qs
 [00:08:46] sweep epidote: picked=yes applied=yes crashes=0
+[00:08:51] sweep 28/50: erythrite
+[00:11:43] capture light settings
+[00:11:56] capture light display
+[00:12:05] capture light sound
+[00:12:13] capture light storage
+[00:12:26] capture light qs
+[00:12:37] capture dark settings
+[00:12:50] capture dark display
+[00:12:58] capture dark sound
+[00:13:06] capture dark storage
+[00:13:20] capture dark qs
+[00:13:29] sweep erythrite: picked=yes applied=yes crashes=0
