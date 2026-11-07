@@ -320,3 +320,15 @@
 [23:53:04] capture dark storage
 [23:53:18] capture dark qs
 [23:53:27] sweep chrysocolla: picked=yes applied=yes crashes=0
+[23:53:33] sweep 25/50: cordierite
+[23:56:38] capture light settings
+[23:56:51] capture light display
+[23:56:59] capture light sound
+[23:57:08] capture light storage
+[23:57:21] capture light qs
+[23:57:32] capture dark settings
+[23:57:44] capture dark display
+[23:57:53] capture dark sound
+[23:58:01] capture dark storage
+[23:58:14] capture dark qs
+[23:58:23] sweep cordierite: picked=yes applied=yes crashes=0
