@@ -1,2 +1,4 @@
 {"cmd":"pack","ok":true,"detail":"selected=carnelian","at":1794018808741}
 {"cmd":"apply","ok":true,"detail":"status=finished error= pack=carnelian","at":1794018935626}
+{"cmd":"pack","ok":true,"detail":"selected=carnelian","at":1794019962385}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=carnelian","at":1794020084322}

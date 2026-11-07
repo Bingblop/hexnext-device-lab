@@ -43,3 +43,22 @@
 [21:48:40] capture dark qs
 [21:48:50] sweep diopside: picked=yes applied=yes crashes=1
 [21:48:56] sweep 4/50: ekanite
+[21:52:10] job lab-048
+[21:52:13] install: downloaded artifact 13556676241 through the API
+[21:52:13] install: decrypted the owner APK
+[21:52:13] install: run 42328910589 (main) sha ok, installing owner-universal.apk
+[21:52:13] Shizuku starter not found; start Shizuku by hand if the hook reports it not ready
+[21:52:13] install: going on without restarting Shizuku
+[21:52:13] scan
+[21:52:40] sweep 1/50: carnelian
+[21:55:20] capture light settings
+[21:55:32] capture light display
+[21:55:41] capture light sound
+[21:55:55] capture light storage
+[21:56:09] capture light qs
+[21:56:20] capture dark settings
+[21:56:33] capture dark display
+[21:56:41] capture dark sound
+[21:56:50] capture dark storage
+[21:57:04] capture dark qs
+[21:57:13] sweep carnelian: picked=yes applied=yes crashes=6
