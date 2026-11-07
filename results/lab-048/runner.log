@@ -368,3 +368,15 @@
 [00:13:06] capture dark storage
 [00:13:20] capture dark qs
 [00:13:29] sweep erythrite: picked=yes applied=yes crashes=0
+[00:13:34] sweep 29/50: euclase
+[00:16:00] capture light settings
+[00:16:12] capture light display
+[00:16:21] capture light sound
+[00:16:29] capture light storage
+[00:16:42] capture light qs
+[00:16:53] capture dark settings
+[00:17:06] capture dark display
+[00:17:14] capture dark sound
+[00:17:22] capture dark storage
+[00:17:36] capture dark qs
+[00:17:45] sweep euclase: picked=yes applied=yes crashes=0
