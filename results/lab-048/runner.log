@@ -464,3 +464,15 @@
 [00:51:45] capture dark storage
 [00:51:59] capture dark qs
 [00:52:07] sweep kyanite: picked=yes applied=yes crashes=0
+[00:52:23] sweep 37/50: larimar
+[00:54:42] capture light settings
+[00:54:55] capture light display
+[00:55:04] capture light sound
+[00:55:12] capture light storage
+[00:55:25] capture light qs
+[00:55:36] capture dark settings
+[00:55:48] capture dark display
+[00:55:57] capture dark sound
+[00:56:05] capture dark storage
+[00:56:19] capture dark qs
+[00:56:28] sweep larimar: picked=yes applied=yes crashes=0
