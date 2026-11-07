@@ -608,3 +608,5 @@
 [01:44:07] sweep: 39/50 packs applied without a crash (results/<id>/sweep.tsv)
 [01:44:11] job lab-048 pushed
 [01:44:42] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
+[01:44:45] lab repaired
+[01:45:17] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
