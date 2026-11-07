@@ -134,3 +134,17 @@
 [22:33:52] capture dark storage
 [22:34:06] capture dark qs
 [22:34:15] sweep lepidolite: picked=yes applied=yes crashes=1
+[22:34:21] sweep 8/50: okenite
+[22:38:00] capture light settings
+[22:38:15] capture light display
+[22:38:24] capture light sound
+[22:38:43] capture light storage
+[22:38:48] storage: no Internal storage entry
+[22:38:50] capture light qs
+[22:39:01] capture dark settings
+[22:39:15] capture dark display
+[22:39:25] capture dark sound
+[22:39:34] capture dark storage
+[22:39:39] storage: no Internal storage entry
+[22:39:41] capture dark qs
+[22:39:51] sweep okenite: picked=yes applied=yes crashes=8
