@@ -1,0 +1,19 @@
+[21:32:56] job lab-048
+[21:32:59] install: downloaded artifact 13556676241 through the API
+[21:32:59] install: decrypted the owner APK
+[21:32:59] install: run 42328910589 (main) sha ok, installing owner-universal.apk
+[21:33:00] Shizuku starter not found; start Shizuku by hand if the hook reports it not ready
+[21:33:00] install: going on without restarting Shizuku
+[21:33:00] scan
+[21:33:26] sweep 1/50: carnelian
+[21:36:12] capture light settings
+[21:36:25] capture light display
+[21:36:34] capture light sound
+[21:36:47] capture light storage
+[21:37:02] capture light qs
+[21:37:18] capture dark settings
+[21:37:31] capture dark display
+[21:37:39] capture dark sound
+[21:37:48] capture dark storage
+[21:38:02] capture dark qs
+[21:38:12] sweep carnelian: picked=yes applied=yes crashes=6
