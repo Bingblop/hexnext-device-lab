@@ -590,3 +590,18 @@
 [01:37:39] sweep xenotime: picked=no applied=no crashes=0
 [01:37:42] sweep 49/50: zircon
 [01:37:43] sweep zircon: picked=no applied=no crashes=0
+[01:37:45] sweep 50/50: willemite
+[01:42:25] capture: the phone is locked; unlock it and keep it awake
+[01:42:28] capture light settings
+[01:42:44] capture light display
+[01:42:52] capture light sound
+[01:43:00] capture light storage
+[01:43:06] storage: no Internal storage entry
+[01:43:08] capture light qs
+[01:43:18] capture dark settings
+[01:43:31] capture dark display
+[01:43:39] capture dark sound
+[01:43:47] capture dark storage
+[01:43:53] storage: no Internal storage entry
+[01:43:55] capture dark qs
+[01:44:03] sweep willemite: picked=yes applied=yes crashes=1
