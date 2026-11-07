@@ -584,3 +584,5 @@
 [01:34:28] capture dark storage
 [01:34:42] capture dark qs
 [01:34:51] sweep variscite: picked=yes applied=yes crashes=0
+[01:37:36] sweep 47/50: wavellite
+[01:37:36] sweep wavellite: picked=no applied=no crashes=0
