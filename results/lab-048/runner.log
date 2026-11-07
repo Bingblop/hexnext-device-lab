@@ -500,3 +500,15 @@
 [01:05:01] capture dark storage
 [01:05:15] capture dark qs
 [01:05:23] sweep morganite: picked=yes applied=yes crashes=0
+[01:05:53] sweep 40/50: olivine
+[01:07:44] capture light settings
+[01:07:57] capture light display
+[01:08:05] capture light sound
+[01:08:14] capture light storage
+[01:08:27] capture light qs
+[01:08:37] capture dark settings
+[01:08:50] capture dark display
+[01:08:58] capture dark sound
+[01:09:07] capture dark storage
+[01:09:20] capture dark qs
+[01:09:29] sweep olivine: picked=yes applied=yes crashes=0
