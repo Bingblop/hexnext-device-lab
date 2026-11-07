@@ -1,2 +1,4 @@
 {"cmd":"pack","ok":true,"detail":"selected=diopside","at":1794019378679}
 {"cmd":"apply","ok":true,"detail":"status=finished error= pack=diopside","at":1794019589387}
+{"cmd":"pack","ok":true,"detail":"selected=diopside","at":1794020511057}
+{"cmd":"apply","ok":true,"detail":"status=finished error= pack=diopside","at":1794020713107}

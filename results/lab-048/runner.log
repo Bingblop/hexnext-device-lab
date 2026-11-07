@@ -74,3 +74,15 @@
 [22:01:21] capture dark storage
 [22:01:35] capture dark qs
 [22:01:44] sweep citrine: picked=yes applied=yes crashes=0
+[22:01:49] sweep 3/50: diopside
+[22:05:50] capture light settings
+[22:06:03] capture light display
+[22:06:11] capture light sound
+[22:06:19] capture light storage
+[22:06:33] capture light qs
+[22:06:43] capture dark settings
+[22:06:56] capture dark display
+[22:07:04] capture dark sound
+[22:07:13] capture dark storage
+[22:07:26] capture dark qs
+[22:07:35] sweep diopside: picked=yes applied=yes crashes=0
