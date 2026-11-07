@@ -404,3 +404,15 @@
 [00:25:56] capture dark storage
 [00:26:09] capture dark qs
 [00:26:18] sweep garnet: picked=yes applied=yes crashes=0
+[00:26:24] sweep 32/50: indicolite
+[00:29:36] capture light settings
+[00:29:49] capture light display
+[00:29:58] capture light sound
+[00:30:06] capture light storage
+[00:30:19] capture light qs
+[00:30:30] capture dark settings
+[00:30:43] capture dark display
+[00:30:51] capture dark sound
+[00:30:59] capture dark storage
+[00:31:13] capture dark qs
+[00:31:22] sweep indicolite: picked=yes applied=yes crashes=0
