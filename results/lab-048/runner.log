@@ -524,3 +524,15 @@
 [01:12:30] capture dark storage
 [01:12:44] capture dark qs
 [01:12:52] sweep pectolite: picked=yes applied=yes crashes=0
+[01:12:55] sweep 42/50: peridot
+[01:14:36] capture light settings
+[01:14:49] capture light display
+[01:14:57] capture light sound
+[01:15:06] capture light storage
+[01:15:19] capture light qs
+[01:15:30] capture dark settings
+[01:15:42] capture dark display
+[01:15:51] capture dark sound
+[01:15:59] capture dark storage
+[01:16:13] capture dark qs
+[01:16:21] sweep peridot: picked=yes applied=yes crashes=0
