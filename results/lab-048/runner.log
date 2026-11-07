@@ -160,3 +160,15 @@
 [22:44:54] capture dark storage
 [22:45:08] capture dark qs
 [22:45:17] sweep zoisite: picked=yes applied=yes crashes=0
+[22:45:24] sweep 10/50: quartz
+[22:46:59] capture light settings
+[22:47:11] capture light display
+[22:47:20] capture light sound
+[22:47:28] capture light storage
+[22:47:41] capture light qs
+[22:47:52] capture dark settings
+[22:48:05] capture dark display
+[22:48:13] capture dark sound
+[22:48:21] capture dark storage
+[22:48:35] capture dark qs
+[22:48:44] sweep quartz: picked=yes applied=yes crashes=0
