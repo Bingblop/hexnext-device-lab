@@ -536,3 +536,15 @@
 [01:15:59] capture dark storage
 [01:16:13] capture dark qs
 [01:16:21] sweep peridot: picked=yes applied=yes crashes=0
+[01:16:24] sweep 43/50: scolecite
+[01:19:51] capture light settings
+[01:20:04] capture light display
+[01:20:12] capture light sound
+[01:20:20] capture light storage
+[01:20:34] capture light qs
+[01:20:44] capture dark settings
+[01:20:57] capture dark display
+[01:21:05] capture dark sound
+[01:21:13] capture dark storage
+[01:21:27] capture dark qs
+[01:21:36] sweep scolecite: picked=yes applied=yes crashes=0
