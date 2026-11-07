@@ -572,3 +572,15 @@
 [01:30:05] capture dark storage
 [01:30:19] capture dark qs
 [01:30:28] sweep topaz: picked=yes applied=yes crashes=0
+[01:30:33] sweep 46/50: variscite
+[01:33:05] capture light settings
+[01:33:18] capture light display
+[01:33:26] capture light sound
+[01:33:34] capture light storage
+[01:33:48] capture light qs
+[01:33:58] capture dark settings
+[01:34:12] capture dark display
+[01:34:20] capture dark sound
+[01:34:28] capture dark storage
+[01:34:42] capture dark qs
+[01:34:51] sweep variscite: picked=yes applied=yes crashes=0
