@@ -62,3 +62,15 @@
 [21:56:50] capture dark storage
 [21:57:04] capture dark qs
 [21:57:13] sweep carnelian: picked=yes applied=yes crashes=6
+[21:57:29] sweep 2/50: citrine
+[21:59:58] capture light settings
+[22:00:11] capture light display
+[22:00:20] capture light sound
+[22:00:28] capture light storage
+[22:00:42] capture light qs
+[22:00:52] capture dark settings
+[22:01:05] capture dark display
+[22:01:13] capture dark sound
+[22:01:21] capture dark storage
+[22:01:35] capture dark qs
+[22:01:44] sweep citrine: picked=yes applied=yes crashes=0
