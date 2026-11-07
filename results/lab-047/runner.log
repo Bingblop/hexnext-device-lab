@@ -3,3 +3,5 @@
 [21:25:23] install: decrypted the owner APK
 [21:25:23] install: run 42328910589 (main) sha ok, installing owner-universal.apk
 [21:25:23] Shizuku starter not found; start Shizuku by hand if the hook reports it not ready
+[21:27:05] job lab-047: push failed; results kept in /data/data/com.termux/files/home/hexnext-device-lab/results/lab-047
+[21:27:36] lab pull failed: error: cannot pull with rebase: You have unstaged changes. error: Please commit or stash them. ; repairing
