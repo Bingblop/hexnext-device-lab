@@ -1,0 +1,5 @@
+[21:25:20] job lab-047
+[21:25:22] install: downloaded artifact 13556676241 through the API
+[21:25:23] install: decrypted the owner APK
+[21:25:23] install: run 42328910589 (main) sha ok, installing owner-universal.apk
+[21:25:23] Shizuku starter not found; start Shizuku by hand if the hook reports it not ready
