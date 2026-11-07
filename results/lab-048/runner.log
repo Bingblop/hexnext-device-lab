@@ -416,3 +416,15 @@
 [00:30:59] capture dark storage
 [00:31:13] capture dark qs
 [00:31:22] sweep indicolite: picked=yes applied=yes crashes=0
+[00:31:28] sweep 33/50: iolite
+[00:34:39] capture light settings
+[00:34:51] capture light display
+[00:35:00] capture light sound
+[00:35:08] capture light storage
+[00:35:22] capture light qs
+[00:35:32] capture dark settings
+[00:35:45] capture dark display
+[00:35:53] capture dark sound
+[00:36:02] capture dark storage
+[00:36:15] capture dark qs
+[00:36:24] sweep iolite: picked=yes applied=yes crashes=0
