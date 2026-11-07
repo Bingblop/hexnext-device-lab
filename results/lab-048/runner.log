@@ -148,3 +148,15 @@
 [22:39:39] storage: no Internal storage entry
 [22:39:41] capture dark qs
 [22:39:51] sweep okenite: picked=yes applied=yes crashes=8
+[22:40:09] sweep 9/50: zoisite
+[22:43:31] capture light settings
+[22:43:44] capture light display
+[22:43:53] capture light sound
+[22:44:01] capture light storage
+[22:44:14] capture light qs
+[22:44:25] capture dark settings
+[22:44:38] capture dark display
+[22:44:46] capture dark sound
+[22:44:54] capture dark storage
+[22:45:08] capture dark qs
+[22:45:17] sweep zoisite: picked=yes applied=yes crashes=0
