@@ -272,3 +272,15 @@
 [23:35:00] capture dark storage
 [23:35:13] capture dark qs
 [23:35:22] sweep bixbite: picked=yes applied=yes crashes=0
+[23:35:29] sweep 21/50: calcite
+[23:37:49] capture light settings
+[23:38:02] capture light display
+[23:38:10] capture light sound
+[23:38:18] capture light storage
+[23:38:32] capture light qs
+[23:38:42] capture dark settings
+[23:38:55] capture dark display
+[23:39:03] capture dark sound
+[23:39:12] capture dark storage
+[23:39:25] capture dark qs
+[23:39:34] sweep calcite: picked=yes applied=yes crashes=0
