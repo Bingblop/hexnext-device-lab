@@ -232,3 +232,15 @@
 [23:18:02] capture dark storage
 [23:18:16] capture dark qs
 [23:18:25] sweep tanzanite: picked=yes applied=yes crashes=0
+[23:18:41] sweep 16/50: agate
+[23:21:07] capture light settings
+[23:21:20] capture light display
+[23:21:28] capture light sound
+[23:21:36] capture light storage
+[23:21:49] capture light qs
+[23:22:00] capture dark settings
+[23:22:13] capture dark display
+[23:22:21] capture dark sound
+[23:22:29] capture dark storage
+[23:22:43] capture dark qs
+[23:22:52] sweep agate: picked=yes applied=yes crashes=0
