@@ -452,3 +452,15 @@
 [00:47:25] capture dark storage
 [00:47:39] capture dark qs
 [00:47:48] sweep kunzite: picked=yes applied=yes crashes=1
+[00:47:53] sweep 36/50: kyanite
+[00:50:23] capture light settings
+[00:50:35] capture light display
+[00:50:44] capture light sound
+[00:50:52] capture light storage
+[00:51:06] capture light qs
+[00:51:16] capture dark settings
+[00:51:29] capture dark display
+[00:51:37] capture dark sound
+[00:51:45] capture dark storage
+[00:51:59] capture dark qs
+[00:52:07] sweep kyanite: picked=yes applied=yes crashes=0
