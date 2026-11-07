@@ -196,3 +196,15 @@
 [22:59:23] capture dark storage
 [22:59:37] capture dark qs
 [22:59:46] sweep benitoite: picked=yes applied=yes crashes=0
+[22:59:51] sweep 13/50: jadeite
+[23:03:36] capture light settings
+[23:03:49] capture light display
+[23:03:57] capture light sound
+[23:04:06] capture light storage
+[23:04:19] capture light qs
+[23:04:30] capture dark settings
+[23:04:43] capture dark display
+[23:04:51] capture dark sound
+[23:04:59] capture dark storage
+[23:05:13] capture dark qs
+[23:05:22] sweep jadeite: picked=yes applied=yes crashes=0
