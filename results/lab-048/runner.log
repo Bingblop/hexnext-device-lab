@@ -560,3 +560,15 @@
 [01:25:34] capture dark storage
 [01:25:48] capture dark qs
 [01:25:56] sweep sodalite: picked=yes applied=yes crashes=0
+[01:26:02] sweep 45/50: topaz
+[01:28:42] capture light settings
+[01:28:55] capture light display
+[01:29:03] capture light sound
+[01:29:12] capture light storage
+[01:29:26] capture light qs
+[01:29:36] capture dark settings
+[01:29:49] capture dark display
+[01:29:57] capture dark sound
+[01:30:05] capture dark storage
+[01:30:19] capture dark qs
+[01:30:28] sweep topaz: picked=yes applied=yes crashes=0
