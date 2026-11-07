@@ -86,3 +86,15 @@
 [22:07:13] capture dark storage
 [22:07:26] capture dark qs
 [22:07:35] sweep diopside: picked=yes applied=yes crashes=0
+[22:07:40] sweep 4/50: ekanite
+[22:11:00] capture light settings
+[22:11:13] capture light display
+[22:11:21] capture light sound
+[22:11:29] capture light storage
+[22:11:43] capture light qs
+[22:11:53] capture dark settings
+[22:12:06] capture dark display
+[22:12:14] capture dark sound
+[22:12:22] capture dark storage
+[22:12:36] capture dark qs
+[22:12:44] sweep ekanite: picked=yes applied=yes crashes=0
