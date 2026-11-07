@@ -440,3 +440,15 @@
 [00:39:56] capture dark storage
 [00:40:10] capture dark qs
 [00:40:19] sweep kornerupine: picked=yes applied=yes crashes=0
+[00:41:33] sweep 35/50: kunzite
+[00:46:03] capture light settings
+[00:46:16] capture light display
+[00:46:24] capture light sound
+[00:46:32] capture light storage
+[00:46:46] capture light qs
+[00:46:56] capture dark settings
+[00:47:09] capture dark display
+[00:47:17] capture dark sound
+[00:47:25] capture dark storage
+[00:47:39] capture dark qs
+[00:47:48] sweep kunzite: picked=yes applied=yes crashes=1
